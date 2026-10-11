@@ -1,0 +1,5 @@
+# LoonRules - Exact Domain
+# 用途：仅匹配完整域名，不匹配其子域名
+# 在需要精确匹配时使用 DOMAIN，而不是 DOMAIN-SUFFIX。
+# 示例（注释状态，不会执行）：
+# DOMAIN,api.example.com
