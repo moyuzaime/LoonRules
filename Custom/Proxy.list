@@ -1,0 +1,5 @@
+# LoonRules - Custom Proxy
+# 用途：将指定域名交由订阅项中选择的代理策略处理
+# 将下面的注释示例替换为你自己的域名；以 # 开头的行不会作为规则执行。
+# DOMAIN,api.example.com
+# DOMAIN-SUFFIX,example.com
