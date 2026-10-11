@@ -20,8 +20,9 @@
 | [Custom/ExactDomain.list](Custom/ExactDomain.list) | 精确域名匹配示例与模板 |
 | [Custom/18comic.list](Custom/18comic.list) | 禁漫天堂：按域名关键字匹配 |
 | [Custom/Picacomic.list](Custom/Picacomic.list) | 哔咔：按域名关键字匹配 |
+| [Custom/Baozimh.list](Custom/Baozimh.list) | 包子漫画：精确域名匹配 |
 
-已添加 `Custom/18comic.list`，使用 `DOMAIN-KEYWORD,18comic` 匹配包含 `18comic` 的域名；以及 `Custom/Picacomic.list`，使用 `DOMAIN-KEYWORD,picacomic` 和 `DOMAIN-KEYWORD,picaapi` 匹配哔咔相关域名关键字。其余模板中的示例仍处于注释状态。
+已添加 `Custom/18comic.list`，使用 `DOMAIN-KEYWORD,18comic` 匹配包含 `18comic` 的域名；`Custom/Picacomic.list` 使用 `DOMAIN-KEYWORD,picacomic` 和 `DOMAIN-KEYWORD,picaapi` 匹配哔咔相关域名关键字；`Custom/Baozimh.list` 使用 `DOMAIN` 精确匹配三个包子漫画域名。其余模板中的示例仍处于注释状态。
 
 ## 规则写法示例
 
