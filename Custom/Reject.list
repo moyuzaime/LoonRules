@@ -1,0 +1,6 @@
+# LoonRules - Custom Reject
+# 用途：拦截你明确指定的域名
+# 请谨慎添加，避免误拦截应用登录、支付、更新或基础服务域名。
+# 将下面的注释示例替换为你自己的域名；以 # 开头的行不会作为规则执行。
+# DOMAIN,ads.example.com
+# DOMAIN-SUFFIX,ads.example.com
