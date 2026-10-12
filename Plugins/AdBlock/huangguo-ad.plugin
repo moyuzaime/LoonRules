@@ -1,0 +1,13 @@
+#!name = 黄果与2048AI去广告
+#!desc = 黄果视频、黄果AI及2048AI网页广告过滤
+#!author = moyuzaime
+#!loon_version = 3.5.1(983)
+#!tag = 去广告,网页优化
+
+[Script]
+response if ${url} ~= /^https:\/\/huangguo\.video/i && ${response.header['content-type']} ~= /html/i then script("https://raw.githubusercontent.com/moyuzaime/LoonRules/main/Plugins/AdBlock/huangguo-response.js") with requires_body=true, tag="黄果视频去广告"
+response if ${url} ~= /^https:\/\/huangguoai\.com/i && ${response.header['content-type']} ~= /html/i then script("https://raw.githubusercontent.com/moyuzaime/LoonRules/main/Plugins/AdBlock/huangguo-response.js") with requires_body=true, tag="黄果AI去广告"
+request if ${url} ~= /^https:\/\/2048ai\.vip\/api\/v1\/(?:ads|ai-selection\/config\?productId=1&device=h5)/i then script("https://raw.githubusercontent.com/moyuzaime/LoonRules/main/Plugins/AdBlock/2048ai-request.js") with tag="2048AI接口去广告"
+
+[MITM]
+hostname = huangguo.video, huangguoai.com, 2048ai.vip
