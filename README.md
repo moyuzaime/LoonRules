@@ -12,15 +12,15 @@
 
 ## 目录
 
-| 文件 | 用途 |
-| --- | --- |
-| [Custom/Direct.list](Custom/Direct.list) | 自定义直连域名 |
-| [Custom/Proxy.list](Custom/Proxy.list) | 自定义代理域名 |
-| [Custom/Reject.list](Custom/Reject.list) | 自定义拦截域名 |
-| [Custom/ExactDomain.list](Custom/ExactDomain.list) | 精确域名匹配示例与模板 |
-| [Custom/18comic.list](Custom/18comic.list) | 禁漫天堂：按域名关键字匹配 |
-| [Custom/Picacomic.list](Custom/Picacomic.list) | 哔咔：按域名关键字匹配 |
-| [Custom/Baozimh.list](Custom/Baozimh.list) | 包子漫画：精确域名匹配 |
+| 文件 | 用途 | 一键导入 |
+| --- | --- | --- |
+| [Custom/Direct.list](Custom/Direct.list) | 自定义直连域名 | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FDirect.list) |
+| [Custom/Proxy.list](Custom/Proxy.list) | 自定义代理域名 | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FProxy.list) |
+| [Custom/Reject.list](Custom/Reject.list) | 自定义拦截域名 | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FReject.list) |
+| [Custom/ExactDomain.list](Custom/ExactDomain.list) | 精确域名匹配示例与模板 | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FExactDomain.list) |
+| [Custom/18comic.list](Custom/18comic.list) | 禁漫天堂：按域名关键字匹配 | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2F18comic.list) |
+| [Custom/Picacomic.list](Custom/Picacomic.list) | 哔咔：按域名关键字匹配 | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FPicacomic.list) |
+| [Custom/Baozimh.list](Custom/Baozimh.list) | 包子漫画：精确域名匹配 | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FBaozimh.list) |
 
 已添加 `Custom/18comic.list`，使用 `DOMAIN-KEYWORD,18comic` 匹配包含 `18comic` 的域名；`Custom/Picacomic.list` 使用 `DOMAIN-KEYWORD,picacomic` 和 `DOMAIN-KEYWORD,picaapi` 匹配哔咔相关域名关键字；`Custom/Baozimh.list` 使用 `DOMAIN` 精确匹配三个包子漫画域名。其余模板中的示例仍处于注释状态。
 
@@ -49,14 +49,12 @@ https://raw.githubusercontent.com/moyuzaime/LoonRules/main/Custom/Direct.list
 
 ## 一键导入 Loon
 
-本仓库的每个规则文件与插件都提供「一键导入」链接，点击后会在 Loon 内直接拉起并进入对应资源的导入流程。
+目录表中的「一键导入」链接使用 Loon URL Scheme，点击后会在 Loon 内直接拉起并导入对应的规则订阅：
 
-- 规则订阅：`loon://import?rules=<urlencode(规则文件URL)>`
-- 插件：`loon://import?plugin=<urlencode(插件URL)>`
+- 规则订阅：`loon://import?rules=<urlencode(规则文件URL)>`（URL 需百分号编码，如 `:` → `%3A`、`/` → `%2F`）
+- 插件：`loon://import?plugin=<urlencode(插件URL)>` → [一键导入插件](loon://import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FPlugins%2FAdBlock%2Fhuangguo-ad.plugin)
 
-URL 需先进行百分号编码（`:` → `%3A`、`/` → `%2F`）。完整链接索引见 [一键导入.md](一键导入.md)。
-
-> 注意：Loon 的 scheme 只能按「文件 / 订阅」导入，无法直接导入单条规则行；规则文件导入后，策略仍在 Loon 的远程规则订阅项中单独指定。
+> 注意：Scheme 只能按「文件 / 订阅」导入，无法直接导入单条规则行；规则文件导入后，策略仍在 Loon 的远程规则订阅项中单独指定。
 
 ## 维护约定
 
