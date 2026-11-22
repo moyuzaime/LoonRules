@@ -47,6 +47,17 @@ https://raw.githubusercontent.com/moyuzaime/LoonRules/main/Custom/Direct.list
 
 其他文件路径依此类推。请使用 Loon 的远程规则订阅功能，并按当前 Loon 版本支持的格式配置策略。
 
+## 一键导入 Loon
+
+本仓库的每个规则文件与插件都提供「一键导入」链接，点击后会在 Loon 内直接拉起并进入对应资源的导入流程。
+
+- 规则订阅：`loon://import?rules=<urlencode(规则文件URL)>`
+- 插件：`loon://import?plugin=<urlencode(插件URL)>`
+
+URL 需先进行百分号编码（`:` → `%3A`、`/` → `%2F`）。完整链接索引见 [一键导入.md](一键导入.md)。
+
+> 注意：Loon 的 scheme 只能按「文件 / 订阅」导入，无法直接导入单条规则行；规则文件导入后，策略仍在 Loon 的远程规则订阅项中单独指定。
+
 ## 维护约定
 
 1. 每行一条规则，使用英文逗号分隔字段。
