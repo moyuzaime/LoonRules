@@ -22,13 +22,13 @@ LoonRules/
     └── 2048ai-request.js          # 2048AI 接口去广告脚本
 ```
 
-## 2. 已启用的规则（共 3 个文件、6 条规则）
+## 2. 已启用的规则（共 3 个文件、7 条规则）
 
 | 文件 | 用途 | 实际生效规则 | Loon 一键导入 |
 | --- | --- | --- | --- |
 | `Custom/18comic.list` | 禁漫天堂，按域名关键字匹配 | `DOMAIN-KEYWORD,18comic` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2F18comic.list) |
 | `Custom/Picacomic.list` | 哔咔，按域名关键字匹配 | `DOMAIN-KEYWORD,picacomic`<br>`DOMAIN-KEYWORD,picaapi` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FPicacomic.list) |
-| `Custom/Baozimh.list` | 包子漫画，精确域名匹配 | `DOMAIN,s2.bzcdn.net`<br>`DOMAIN,www.baozimh.co`<br>`DOMAIN,s1.baozicdn.com` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FBaozimh.list) |
+| `Custom/Baozimh.list` | 包子漫画，精确域名匹配 | `DOMAIN,s2.bzcdn.net`<br>`DOMAIN,www.baozimh.co`<br>`DOMAIN,s1.baozicdn.com`<br>`DOMAIN,s2.baozicdn.com` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FBaozimh.list) |
 
 要点：
 - 前两个文件使用 `DOMAIN-KEYWORD`，匹配范围更广（只要域名里含该关键字就命中）。
