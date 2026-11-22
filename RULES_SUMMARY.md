@@ -26,9 +26,9 @@ LoonRules/
 
 | 文件 | 用途 | 实际生效规则 | Loon 一键导入 |
 | --- | --- | --- | --- |
-| `Custom/18comic.list` | 禁漫天堂，按域名关键字匹配 | `DOMAIN-KEYWORD,18comic` | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2F18comic.list) |
-| `Custom/Picacomic.list` | 哔咔，按域名关键字匹配 | `DOMAIN-KEYWORD,picacomic`<br>`DOMAIN-KEYWORD,picaapi` | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FPicacomic.list) |
-| `Custom/Baozimh.list` | 包子漫画，精确域名匹配 | `DOMAIN,s2.bzcdn.net`<br>`DOMAIN,www.baozimh.co`<br>`DOMAIN,s1.baozicdn.com` | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FBaozimh.list) |
+| `Custom/18comic.list` | 禁漫天堂，按域名关键字匹配 | `DOMAIN-KEYWORD,18comic` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2F18comic.list) |
+| `Custom/Picacomic.list` | 哔咔，按域名关键字匹配 | `DOMAIN-KEYWORD,picacomic`<br>`DOMAIN-KEYWORD,picaapi` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FPicacomic.list) |
+| `Custom/Baozimh.list` | 包子漫画，精确域名匹配 | `DOMAIN,s2.bzcdn.net`<br>`DOMAIN,www.baozimh.co`<br>`DOMAIN,s1.baozicdn.com` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FBaozimh.list) |
 
 要点：
 - 前两个文件使用 `DOMAIN-KEYWORD`，匹配范围更广（只要域名里含该关键字就命中）。
@@ -40,10 +40,10 @@ LoonRules/
 
 | 文件 | 用途 | 建议写法 | Loon 一键导入 |
 | --- | --- | --- | --- |
-| `Custom/Direct.list` | 指定域名走直连 | `DOMAIN,api.example.com` / `DOMAIN-SUFFIX,example.com` | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FDirect.list) |
-| `Custom/Proxy.list` | 指定域名走代理策略 | 同上 | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FProxy.list) |
-| `Custom/Reject.list` | 拦截指定域名 | `DOMAIN,ads.example.com` 等（谨慎，避免误拦登录/支付/更新） | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FReject.list) |
-| `Custom/ExactDomain.list` | 精确匹配（不匹配子域） | 只写 `DOMAIN,...`，不用 `DOMAIN-SUFFIX` | [一键导入](loon://import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FExactDomain.list) |
+| `Custom/Direct.list` | 指定域名走直连 | `DOMAIN,api.example.com` / `DOMAIN-SUFFIX,example.com` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FDirect.list) |
+| `Custom/Proxy.list` | 指定域名走代理策略 | 同上 | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FProxy.list) |
+| `Custom/Reject.list` | 拦截指定域名 | `DOMAIN,ads.example.com` 等（谨慎，避免误拦登录/支付/更新） | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FReject.list) |
+| `Custom/ExactDomain.list` | 精确匹配（不匹配子域） | 只写 `DOMAIN,...`，不用 `DOMAIN-SUFFIX` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FExactDomain.list) |
 
 ## 4. 规则语法（README 约定）
 
@@ -57,7 +57,7 @@ LoonRules/
 
 插件名：**黄果与2048AI去广告**，作者 moyuzaime，要求 Loon ≥ 3.5.1(983)。
 
-[一键导入插件](loon://import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FPlugins%2FAdBlock%2Fhuangguo-ad.plugin)
+[一键导入插件](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FPlugins%2FAdBlock%2Fhuangguo-ad.plugin)
 
 ### huangguo-ad.plugin
 
@@ -91,9 +91,10 @@ MITM 需要的域名：`huangguo.video`、`huangguoai.com`、`2048ai.vip`。
 2. 每个规则集只负责「匹配」，**策略在选择订阅项时指定**（直连 / 代理 / 拦截等）。
 3. 插件在 Loon「插件」中添加 `huangguo-ad.plugin` 的 Raw 链接。
 
-> 一键导入链接说明：上表中的「一键导入」使用 Loon URL Scheme
-> `loon://import?rules=<URL编码后的规则文件地址>`（插件为 `loon://import?plugin=...`），
-> 点击后会在 Loon 内直接拉起并导入对应的**规则订阅文件**。Loon 的 scheme 只能按「文件 / 订阅」导入，
+> 一键导入链接说明：上表中的「一键导入」使用 Loon 官方通用链接（Universal Link）
+> `https://www.nsloon.com/openloon/import?rules=<URL编码后的规则文件地址>`（插件为 `.../import?plugin=...`），
+> 在网页上可直接点击，并在装有 Loon 的 iOS 设备上唤起 Loon 导入对应的**规则订阅文件**。
+> 自定义 Scheme `loon://` 会被 GitHub 安全过滤而无法点击，故统一改用通用链接。Loon 只能按「文件 / 订阅」导入，
 > 无法直接导入单条规则行；如需新增单条规则，请先写入对应的 `.list` 文件，再用上表链接导入。
 
 ## 7. 维护约定要点（README）
