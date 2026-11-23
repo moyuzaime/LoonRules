@@ -1,18 +1,11 @@
 # 热辣漫画
-# API 域名
-DOMAIN,hotmangasg.com
-DOMAIN,hotmangasd.com
-DOMAIN,hotmangasf.com
-DOMAIN,elfgjfghkk.club
-DOMAIN,fgjfghkkcenter.club
-DOMAIN,fgjfghkk.club
-# API 域名（mapi 子域）
-DOMAIN,mapi.hotmangasd.com
-DOMAIN,mapi.hotmangasf.com
-DOMAIN,mapi.hotmangasg.com
-DOMAIN,mapi.elfgjfghkk.club
-DOMAIN,mapi.fgjfghkk.club
-DOMAIN,mapi.fgjfghkkcenter.club
+# API 域名（DOMAIN-SUFFIX 覆盖裸域与 mapi 子域）
+DOMAIN-SUFFIX,hotmangasg.com
+DOMAIN-SUFFIX,hotmangasd.com
+DOMAIN-SUFFIX,hotmangasf.com
+DOMAIN-SUFFIX,elfgjfghkk.club
+DOMAIN-SUFFIX,fgjfghkkcenter.club
+DOMAIN-SUFFIX,fgjfghkk.club
 DOMAIN,api.manga2025.com
 # 网页版域名
 DOMAIN,2024manga.com

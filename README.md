@@ -25,7 +25,7 @@
 | [Custom/Mangacopy.list](Custom/Mangacopy.list) | 拷贝漫画：精确域名匹配 | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FMangacopy.list) |
 | [Plugins/AdBlock/huangguo-ad.plugin](Plugins/AdBlock/huangguo-ad.plugin) | 黄果与2048AI去广告插件 | [一键导入](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FPlugins%2FAdBlock%2Fhuangguo-ad.plugin) |
 
-已添加 `Custom/18comic.list`，使用 `DOMAIN-KEYWORD,18comic` 匹配包含 `18comic` 的域名；`Custom/Picacomic.list` 使用 `DOMAIN-KEYWORD,picacomic` 和 `DOMAIN-KEYWORD,picaapi` 匹配哔咔相关域名关键字；`Custom/Baozimh.list` 使用 `DOMAIN` 精确匹配包子漫画相关域名（baozimh / webmota / kukuc / twmanga / dinnerku 等，共 20 条）；`Custom/Hotmanga.list` 使用 `DOMAIN` 精确匹配热辣漫画相关域名（hotmanga 系列含 mapi 子域、manga2025、elfgjfghkk 等，共 18 条）；`Custom/Mangacopy.list` 使用 `DOMAIN` 精确匹配拷贝漫画相关域名（mangacopy / copy20 / copy3000 / 2026copy 等，共 13 条）。其余模板中的示例仍处于注释状态。
+已添加 `Custom/18comic.list`，使用 `DOMAIN-KEYWORD,18comic` 匹配包含 `18comic` 的域名；`Custom/Picacomic.list` 使用 `DOMAIN-KEYWORD,picacomic` 和 `DOMAIN-KEYWORD,picaapi` 匹配哔咔相关域名关键字；`Custom/Baozimh.list` 使用 `DOMAIN` 精确匹配包子漫画相关域名（baozimh / webmota / kukuc / twmanga / dinnerku 等，共 20 条）；`Custom/Hotmanga.list` 使用 `DOMAIN-SUFFIX` 与 `DOMAIN` 匹配热辣漫画相关域名（hotmanga / elfgjfghkk / fgjfghkk 系列用后缀匹配覆盖裸域与 mapi 子域，manga2025 等用精确匹配，共 12 条）；`Custom/Mangacopy.list` 使用 `DOMAIN` 精确匹配拷贝漫画相关域名（mangacopy / copy20 / copy3000 / 2026copy 等，共 13 条）。其余模板中的示例仍处于注释状态。
 
 ## 规则写法示例
 
