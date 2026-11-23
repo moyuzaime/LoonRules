@@ -13,6 +13,7 @@ LoonRules/
 │   ├── Picacomic.list             # 哔咔（已启用）
 │   ├── Baozimh.list               # 包子漫画（已启用）
 │   ├── Hotmanga.list              # 热辣漫画（已启用）
+│   ├── Mangacopy.list             # 拷贝漫画（已启用）
 │   ├── Direct.list                # 直连模板（注释状态）
 │   ├── Proxy.list                 # 代理模板（注释状态）
 │   ├── Reject.list                # 拦截模板（注释状态）
@@ -23,18 +24,19 @@ LoonRules/
     └── 2048ai-request.js          # 2048AI 接口去广告脚本
 ```
 
-## 2. 已启用的规则（共 4 个文件、32 条规则）
+## 2. 已启用的规则（共 5 个文件、54 条规则）
 
 | 文件 | 用途 | 实际生效规则 | Loon 一键导入 |
 | --- | --- | --- | --- |
 | `Custom/18comic.list` | 禁漫天堂，按域名关键字匹配 | `DOMAIN-KEYWORD,18comic` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2F18comic.list) |
 | `Custom/Picacomic.list` | 哔咔，按域名关键字匹配 | `DOMAIN-KEYWORD,picacomic`<br>`DOMAIN-KEYWORD,picaapi` | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FPicacomic.list) |
 | `Custom/Baozimh.list` | 包子漫画，精确域名匹配 | 共 20 条 `DOMAIN` 精确匹配（baozimh / webmota / kukuc / twmanga / dinnerku / twbzmg 等，详见文件） | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FBaozimh.list) |
-| `Custom/Hotmanga.list` | 热辣漫画，精确域名匹配 | 共 9 条 `DOMAIN` 精确匹配（hotmanga 系列、elfgjfghkk、fgjfghkkcenter、2024manga、relamanhua、manga2024） | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FHotmanga.list) |
+| `Custom/Hotmanga.list` | 热辣漫画，精确域名匹配 | 共 18 条 `DOMAIN` 精确匹配（hotmanga 系列含 mapi 子域、manga2025、elfgjfghkk、fgjfghkkcenter 等，详见文件） | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FHotmanga.list) |
+| `Custom/Mangacopy.list` | 拷贝漫画，精确域名匹配 | 共 13 条 `DOMAIN` 精确匹配（mangacopy / copy20 / copy2000 / 2026copy / copy3000 / copy4000 / copy5000 的 api 与 www 变体） | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FMangacopy.list) |
 
 要点：
 - 前两个文件使用 `DOMAIN-KEYWORD`，匹配范围更广（只要域名里含该关键字就命中）。
-- 包子漫画、热辣漫画使用 `DOMAIN` 精确匹配，避免误伤其他子域。
+- 包子漫画、热辣漫画、拷贝漫画使用 `DOMAIN` 精确匹配，避免误伤其他子域。
 
 ## 3. 模板文件（4 个，均为注释状态、不执行）
 

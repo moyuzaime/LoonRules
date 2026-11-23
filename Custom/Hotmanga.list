@@ -6,7 +6,17 @@ DOMAIN,hotmangasf.com
 DOMAIN,elfgjfghkk.club
 DOMAIN,fgjfghkkcenter.club
 DOMAIN,fgjfghkk.club
+# API 域名（mapi 子域）
+DOMAIN,mapi.hotmangasd.com
+DOMAIN,mapi.hotmangasf.com
+DOMAIN,mapi.hotmangasg.com
+DOMAIN,mapi.elfgjfghkk.club
+DOMAIN,mapi.fgjfghkk.club
+DOMAIN,mapi.fgjfghkkcenter.club
+DOMAIN,api.manga2025.com
 # 网页版域名
 DOMAIN,2024manga.com
 DOMAIN,relamanhua.com
 DOMAIN,manga2024.com
+DOMAIN,m.manga2025.com
+DOMAIN,www.manga2025.com

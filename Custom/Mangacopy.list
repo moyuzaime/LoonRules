@@ -1,0 +1,16 @@
+# 拷贝漫画
+# API 域名
+DOMAIN,api.mangacopy.com
+DOMAIN,mapi.copy20.com
+DOMAIN,mapi.copy2000.site
+DOMAIN,api.2026copy.com
+DOMAIN,api.copy3000.com
+DOMAIN,api.copy4000.com
+DOMAIN,api.copy5000.com
+# WebView 链接
+DOMAIN,www.mangacopy.com
+DOMAIN,www.copy20.com
+DOMAIN,www.2026copy.com
+DOMAIN,www.copy3000.com
+DOMAIN,www.copy4000.com
+DOMAIN,www.copy5000.com
