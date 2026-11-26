@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Roblox
+# 合并来源: blackmatrix7/ios_rule_script Roblox
+# 规则数: 3
+DOMAIN-SUFFIX,rbxcdn.com
+DOMAIN-KEYWORD,roblox
+USER-AGENT,Roblox*

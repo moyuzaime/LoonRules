@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Game/Nikke/Nikke.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Nikke/Nikke.list
+# 规则数: 7
+DOMAIN-SUFFIX,anticheatexpert.com
+DOMAIN-SUFFIX,centauriglobal.com
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,iegcom.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,nikke-kr.com
+IP-CIDR,43.152.114.31/32,no-resolve

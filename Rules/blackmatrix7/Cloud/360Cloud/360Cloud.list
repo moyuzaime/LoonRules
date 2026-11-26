@@ -1,0 +1,12 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Cloud/360Cloud/360Cloud.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/360Cloud/360Cloud.list
+# 规则数: 9
+IP-CIDR,101.197.0.0/16,no-resolve
+IP-CIDR,101.198.0.0/17,no-resolve
+IP-CIDR,101.198.128.0/18,no-resolve
+IP-CIDR,101.198.192.0/19,no-resolve
+IP-CIDR,101.199.32.0/19,no-resolve
+IP-CIDR,104.192.108.0/23,no-resolve
+IP-CIDR,104.192.110.0/24,no-resolve
+IP-CIDR6,2405:a900:ffee::/48,no-resolve
+IP-CIDR6,2405:a900:fffe::/48,no-resolve

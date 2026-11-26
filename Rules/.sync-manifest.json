@@ -1013,6 +1013,17 @@
       "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdGuardSDNSFilter/AdGuardSDNSFilter_Domain.list"
     },
     {
+      "bytes": 4261,
+      "filename": "Direct.list",
+      "kind": "rules",
+      "name": "Direct",
+      "path": "Rules/blackmatrix7/AdGuardSDNSFilter/Direct/Direct.list",
+      "rules": 149,
+      "sha256": "57b0033b02ce3c8274e0f9b19cc2f18db3dfa4e0db16a19535ca0a07c4a9509a",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdGuardSDNSFilter/Direct/Direct.list"
+    },
+    {
       "bytes": 227,
       "filename": "AddToAny.list",
       "kind": "rules",
@@ -2509,6 +2520,72 @@
       "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPs.list"
     },
     {
+      "bytes": 827681,
+      "filename": "ChinaIPsTest.list",
+      "kind": "rules",
+      "name": "ChinaIPsTest",
+      "path": "Rules/blackmatrix7/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list",
+      "rules": 23024,
+      "sha256": "289f1f1a2e30c06f5f38e3b219d20716a262950d42ef06468fddcb0954ad9141",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list"
+    },
+    {
+      "bytes": 563009,
+      "filename": "ChinaIPsTest_No_IPv6.list",
+      "kind": "rules",
+      "name": "ChinaIPsTest_No_IPv6",
+      "path": "Rules/blackmatrix7/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6.list",
+      "rules": 16177,
+      "sha256": "f4244a923bd53e7567139f4205aab7936ec1560c82635650a57b9ec257dd404b",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6.list"
+    },
+    {
+      "bytes": 385078,
+      "filename": "ChinaIPsTest_No_IPv6_Resolve.list",
+      "kind": "rules",
+      "name": "ChinaIPsTest_No_IPv6",
+      "path": "Rules/blackmatrix7/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6_Resolve.list",
+      "rules": 16177,
+      "sha256": "91d982ae0e475864ff5f117537c99eb0888b17c082356119baa93e038225d02d",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPsTest/ChinaIPsTest_No_IPv6_Resolve.list"
+    },
+    {
+      "bytes": 574433,
+      "filename": "ChinaIPsTest_Resolve.list",
+      "kind": "rules",
+      "name": "ChinaIPsTest",
+      "path": "Rules/blackmatrix7/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Resolve.list",
+      "rules": 23024,
+      "sha256": "5b422a34b6da92f44b31d7fb5415c86f2e25b10a44daf162ff4d355c1ca07013",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Resolve.list"
+    },
+    {
+      "bytes": 485170,
+      "filename": "ChinaIPs_No_IPv6.list",
+      "kind": "rules",
+      "name": "ChinaIPs_No_IPv6",
+      "path": "Rules/blackmatrix7/ChinaIPs/ChinaIPs_No_IPv6.list",
+      "rules": 13947,
+      "sha256": "56bae2a8edffc74c7f7720d623bbec44f894c1cdcb3bbc879f4cc96dd443a037",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPs_No_IPv6.list"
+    },
+    {
+      "bytes": 331769,
+      "filename": "ChinaIPs_No_IPv6_Resolve.list",
+      "kind": "rules",
+      "name": "ChinaIPs_No_IPv6",
+      "path": "Rules/blackmatrix7/ChinaIPs/ChinaIPs_No_IPv6_Resolve.list",
+      "rules": 13947,
+      "sha256": "537c2b933341e6481984d875264fd2a7c3dca83074cce4c619fede603aad6da7",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPs_No_IPv6_Resolve.list"
+    },
+    {
       "bytes": 489191,
       "filename": "ChinaIPs_Resolve.list",
       "kind": "rules",
@@ -2562,6 +2639,28 @@
       "sha256": "5dc1253b6205b81e9f98673f8880dfed0432e44b6f01c35994a08f272d436d68",
       "source": "blackmatrix7",
       "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax_Domain.list"
+    },
+    {
+      "bytes": 290016,
+      "filename": "ChinaMax_No_IPv6.list",
+      "kind": "rules",
+      "name": "ChinaMax_No_IPv6",
+      "path": "Rules/blackmatrix7/ChinaMax/ChinaMax_No_IPv6.list",
+      "rules": 8374,
+      "sha256": "378617c5f3e610b3b15d6260fe9884e25cb2d0704f1f16bd4ee52d4bd4181432",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax_No_IPv6.list"
+    },
+    {
+      "bytes": 199337,
+      "filename": "ChinaMax_No_IPv6_Resolve.list",
+      "kind": "rules",
+      "name": "ChinaMax_No_IPv6",
+      "path": "Rules/blackmatrix7/ChinaMax/ChinaMax_No_IPv6_Resolve.list",
+      "rules": 8374,
+      "sha256": "cdc296fa3968cb5ce082bcddd55c6357385e24720c35b8f758bc081c03c3a17a",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax_No_IPv6_Resolve.list"
     },
     {
       "bytes": 318749,
@@ -2859,6 +2958,270 @@
       "sha256": "48574ded47caf5acbbef50d61f5515b4dda8ce7b002a9b63b7c6a72c4534a9a0",
       "source": "blackmatrix7",
       "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list"
+    },
+    {
+      "bytes": 539,
+      "filename": "360Cloud.list",
+      "kind": "rules",
+      "name": "360Cloud",
+      "path": "Rules/blackmatrix7/Cloud/360Cloud/360Cloud.list",
+      "rules": 9,
+      "sha256": "c256d12cc0d1a3604d3c1ae42972525d1f0fdd7f3cd7ef52b882dce0ac33fd0c",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/360Cloud/360Cloud.list"
+    },
+    {
+      "bytes": 456,
+      "filename": "360Cloud_Resolve.list",
+      "kind": "rules",
+      "name": "360Cloud",
+      "path": "Rules/blackmatrix7/Cloud/360Cloud/360Cloud_Resolve.list",
+      "rules": 9,
+      "sha256": "1f088aec0674ce74de66cb2067cb18853cc9b1e81fd01ef01c58ad5851e8eba0",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/360Cloud/360Cloud_Resolve.list"
+    },
+    {
+      "bytes": 10383,
+      "filename": "AkamaiCloud.list",
+      "kind": "rules",
+      "name": "AkamaiCloud",
+      "path": "Rules/blackmatrix7/Cloud/AkamaiCloud/AkamaiCloud.list",
+      "rules": 275,
+      "sha256": "2182eb351d85cccc61259a33dc2254b07ba6311b7f9be43c9d25fad7eaf22f1a",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/AkamaiCloud/AkamaiCloud.list"
+    },
+    {
+      "bytes": 7374,
+      "filename": "AkamaiCloud_Resolve.list",
+      "kind": "rules",
+      "name": "AkamaiCloud",
+      "path": "Rules/blackmatrix7/Cloud/AkamaiCloud/AkamaiCloud_Resolve.list",
+      "rules": 275,
+      "sha256": "c1bb3654172e341cb3e9bcc4aa98f45a664e2655b76daf53074f25a87f0e6590",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/AkamaiCloud/AkamaiCloud_Resolve.list"
+    },
+    {
+      "bytes": 69130,
+      "filename": "AmazonCloud.list",
+      "kind": "rules",
+      "name": "AmazonCloud",
+      "path": "Rules/blackmatrix7/Cloud/AmazonCloud/AmazonCloud.list",
+      "rules": 1952,
+      "sha256": "4596f19028de8dc676b5081f95534bf2bfe3378fcea43a2faee88e3df574ba97",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/AmazonCloud/AmazonCloud.list"
+    },
+    {
+      "bytes": 47674,
+      "filename": "AmazonCloud_Resolve.list",
+      "kind": "rules",
+      "name": "AmazonCloud",
+      "path": "Rules/blackmatrix7/Cloud/AmazonCloud/AmazonCloud_Resolve.list",
+      "rules": 1952,
+      "sha256": "da60fb49b6b0f0bc7129606f5dbe8c1e8b84a8eec0d459b29cb23cb06524ea3a",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/AmazonCloud/AmazonCloud_Resolve.list"
+    },
+    {
+      "bytes": 1552,
+      "filename": "BaiduCloud.list",
+      "kind": "rules",
+      "name": "BaiduCloud",
+      "path": "Rules/blackmatrix7/Cloud/BaiduCloud/BaiduCloud.list",
+      "rules": 38,
+      "sha256": "bd5b67e7a969cb117af5f9ff5ae026412f619429654a20cac113c958bd3aef8f",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/BaiduCloud/BaiduCloud.list"
+    },
+    {
+      "bytes": 1150,
+      "filename": "BaiduCloud_Resolve.list",
+      "kind": "rules",
+      "name": "BaiduCloud",
+      "path": "Rules/blackmatrix7/Cloud/BaiduCloud/BaiduCloud_Resolve.list",
+      "rules": 38,
+      "sha256": "319cbe9f123749aa6375993a4af88feaa2ab9a9abdc15612c1e877ba16278446",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/BaiduCloud/BaiduCloud_Resolve.list"
+    },
+    {
+      "bytes": 8210,
+      "filename": "CloudCN.list",
+      "kind": "rules",
+      "name": "CloudCN",
+      "path": "Rules/blackmatrix7/Cloud/CloudCN/CloudCN.list",
+      "rules": 231,
+      "sha256": "c110aba456d405aa23c2d8ba3707205e9f7a46757e0f58b78e3d31142c5e00a8",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/CloudCN/CloudCN.list"
+    },
+    {
+      "bytes": 5685,
+      "filename": "CloudCN_Resolve.list",
+      "kind": "rules",
+      "name": "CloudCN",
+      "path": "Rules/blackmatrix7/Cloud/CloudCN/CloudCN_Resolve.list",
+      "rules": 231,
+      "sha256": "c68b2cab4092688a6972f4fbfcfecdcdd8554959579c1f57096cf3dd46c11992",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/CloudCN/CloudCN_Resolve.list"
+    },
+    {
+      "bytes": 102719,
+      "filename": "CloudGlobal.list",
+      "kind": "rules",
+      "name": "CloudGlobal",
+      "path": "Rules/blackmatrix7/Cloud/CloudGlobal/CloudGlobal.list",
+      "rules": 2861,
+      "sha256": "4b42f7a29f08bb7310fa0263c57bcce54908cf394839ff87b9a14ae99609f7bc",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/CloudGlobal/CloudGlobal.list"
+    },
+    {
+      "bytes": 71473,
+      "filename": "CloudGlobal_Resolve.list",
+      "kind": "rules",
+      "name": "CloudGlobal",
+      "path": "Rules/blackmatrix7/Cloud/CloudGlobal/CloudGlobal_Resolve.list",
+      "rules": 2861,
+      "sha256": "bb34021a264b921282997f91ead7459f9f3f05ffafe915322d8ce41cf121667c",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/CloudGlobal/CloudGlobal_Resolve.list"
+    },
+    {
+      "bytes": 2437,
+      "filename": "HiNet.list",
+      "kind": "rules",
+      "name": "HiNet",
+      "path": "Rules/blackmatrix7/Cloud/HiNet/HiNet.list",
+      "rules": 65,
+      "sha256": "bd335a40029dd7a6c51e6153ae16371403c40bba29969e645e8323b756f5f48b",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/HiNet/HiNet.list"
+    },
+    {
+      "bytes": 1738,
+      "filename": "HiNet_Resolve.list",
+      "kind": "rules",
+      "name": "HiNet",
+      "path": "Rules/blackmatrix7/Cloud/HiNet/HiNet_Resolve.list",
+      "rules": 65,
+      "sha256": "4754965298581fef0bc9255b7bfd6e2b5195cd00305e8b08f88bd7e7bc63a041",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/HiNet/HiNet_Resolve.list"
+    },
+    {
+      "bytes": 1293,
+      "filename": "HuaweiCloud.list",
+      "kind": "rules",
+      "name": "HuaweiCloud",
+      "path": "Rules/blackmatrix7/Cloud/HuaweiCloud/HuaweiCloud.list",
+      "rules": 31,
+      "sha256": "89f7f4a3e156323112e602b1575cf35b6c6ff595e242d70b5e9493da00023262",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/HuaweiCloud/HuaweiCloud.list"
+    },
+    {
+      "bytes": 968,
+      "filename": "HuaweiCloud_Resolve.list",
+      "kind": "rules",
+      "name": "HuaweiCloud",
+      "path": "Rules/blackmatrix7/Cloud/HuaweiCloud/HuaweiCloud_Resolve.list",
+      "rules": 31,
+      "sha256": "2adf5f635f1945ba6d7aec6940efdd51eca177cef9103068735946835a01fa2d",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/HuaweiCloud/HuaweiCloud_Resolve.list"
+    },
+    {
+      "bytes": 520,
+      "filename": "JingDongCloud.list",
+      "kind": "rules",
+      "name": "JingDongCloud",
+      "path": "Rules/blackmatrix7/Cloud/JingDongCloud/JingDongCloud.list",
+      "rules": 8,
+      "sha256": "d9e345f1e555e58a1fbbccfce29a185a0dbaac0768fda57725955bc8f00a0a1b",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/JingDongCloud/JingDongCloud.list"
+    },
+    {
+      "bytes": 448,
+      "filename": "JingDongCloud_Resolve.list",
+      "kind": "rules",
+      "name": "JingDongCloud",
+      "path": "Rules/blackmatrix7/Cloud/JingDongCloud/JingDongCloud_Resolve.list",
+      "rules": 8,
+      "sha256": "0806522fcfc1b296d96cf7c5ffc0fce99bf5c8e7dbd34900fd5d4cb92d4f2f73",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/JingDongCloud/JingDongCloud_Resolve.list"
+    },
+    {
+      "bytes": 641,
+      "filename": "KingsoftCloud.list",
+      "kind": "rules",
+      "name": "KingsoftCloud",
+      "path": "Rules/blackmatrix7/Cloud/KingsoftCloud/KingsoftCloud.list",
+      "rules": 12,
+      "sha256": "5ecbcce7e737aa09ae78753ef5d96ef6935e5ae6ac99337339365e117d7b331b",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/KingsoftCloud/KingsoftCloud.list"
+    },
+    {
+      "bytes": 525,
+      "filename": "KingsoftCloud_Resolve.list",
+      "kind": "rules",
+      "name": "KingsoftCloud",
+      "path": "Rules/blackmatrix7/Cloud/KingsoftCloud/KingsoftCloud_Resolve.list",
+      "rules": 12,
+      "sha256": "398a88d6f23f88d88e93b3812bd63558936af6b43dfb06f325244ddcee272b8e",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/KingsoftCloud/KingsoftCloud_Resolve.list"
+    },
+    {
+      "bytes": 1233,
+      "filename": "NeteaseCloud.list",
+      "kind": "rules",
+      "name": "NeteaseCloud",
+      "path": "Rules/blackmatrix7/Cloud/NeteaseCloud/NeteaseCloud.list",
+      "rules": 29,
+      "sha256": "95f172c9dd5801db6a30c88b7ba0e538bda944ad21d706e1dfff0040fe5a3593",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/NeteaseCloud/NeteaseCloud.list"
+    },
+    {
+      "bytes": 930,
+      "filename": "NeteaseCloud_Resolve.list",
+      "kind": "rules",
+      "name": "NeteaseCloud",
+      "path": "Rules/blackmatrix7/Cloud/NeteaseCloud/NeteaseCloud_Resolve.list",
+      "rules": 29,
+      "sha256": "a58c0ff4a1a34cfb066327074543626177eca85b56565b09ee64dae74210b3c5",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/NeteaseCloud/NeteaseCloud_Resolve.list"
+    },
+    {
+      "bytes": 3804,
+      "filename": "TencentCloud.list",
+      "kind": "rules",
+      "name": "TencentCloud",
+      "path": "Rules/blackmatrix7/Cloud/TencentCloud/TencentCloud.list",
+      "rules": 104,
+      "sha256": "d9299d2ed8b5a50d74158fda301a4f1844cdba4b1babd2f73744a9aa728807a2",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/TencentCloud/TencentCloud.list"
+    },
+    {
+      "bytes": 2676,
+      "filename": "TencentCloud_Resolve.list",
+      "kind": "rules",
+      "name": "TencentCloud",
+      "path": "Rules/blackmatrix7/Cloud/TencentCloud/TencentCloud_Resolve.list",
+      "rules": 104,
+      "sha256": "fb31f06edc28706641a4951dde92d87ead0302214e70bf66af66f3a08b3fd030",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloud/TencentCloud/TencentCloud_Resolve.list"
     },
     {
       "bytes": 2296,
@@ -3928,6 +4291,28 @@
       "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game.list"
     },
     {
+      "bytes": 1486,
+      "filename": "GameDownload.list",
+      "kind": "rules",
+      "name": "GameDownload",
+      "path": "Rules/blackmatrix7/Game/GameDownload/GameDownload.list",
+      "rules": 39,
+      "sha256": "85dea175879b6120c90e9655bf0f33d7cc594cf89559215383692b983eab380f",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/GameDownload/GameDownload.list"
+    },
+    {
+      "bytes": 794,
+      "filename": "GameDownloadCN.list",
+      "kind": "rules",
+      "name": "GameDownloadCN",
+      "path": "Rules/blackmatrix7/Game/GameDownloadCN/GameDownloadCN.list",
+      "rules": 16,
+      "sha256": "a9199210d6b9948d8c9651935d3f973e9de8064040c493d3e0157207f39670ba",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/GameDownloadCN/GameDownloadCN.list"
+    },
+    {
       "bytes": 19086,
       "filename": "Game_Resolve.list",
       "kind": "rules",
@@ -3937,6 +4322,50 @@
       "sha256": "500d397e5957126bf32ba8b98112cd0013eb2e842371a40b3e7209253db6ea18",
       "source": "blackmatrix7",
       "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Resolve.list"
+    },
+    {
+      "bytes": 407,
+      "filename": "Nikke.list",
+      "kind": "rules",
+      "name": "Nikke",
+      "path": "Rules/blackmatrix7/Game/Nikke/Nikke.list",
+      "rules": 7,
+      "sha256": "bd1b248a78aaec746f5d9690e16c929bfec39e1d09bfdbc7cd05020b2d8e19a5",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Nikke/Nikke.list"
+    },
+    {
+      "bytes": 412,
+      "filename": "Nikke_Resolve.list",
+      "kind": "rules",
+      "name": "Nikke",
+      "path": "Rules/blackmatrix7/Game/Nikke/Nikke_Resolve.list",
+      "rules": 7,
+      "sha256": "995804365f3bc3bd669d372fa830df16b5053257015694dcf69de0a4cc085565",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Nikke/Nikke_Resolve.list"
+    },
+    {
+      "bytes": 268,
+      "filename": "Roblox.list",
+      "kind": "rules",
+      "name": "Roblox",
+      "path": "Rules/blackmatrix7/Game/Roblox/Roblox.list",
+      "rules": 3,
+      "sha256": "cbb7f80ea7fc6a8028049967261181ad65a9ef4fd2dbce41270b5e0f8cc8240a",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Roblox/Roblox.list"
+    },
+    {
+      "bytes": 321,
+      "filename": "TencentLoLMobile.list",
+      "kind": "rules",
+      "name": "TencentLoLMobile",
+      "path": "Rules/blackmatrix7/Game/TencentLoLMobile/TencentLoLMobile.list",
+      "rules": 3,
+      "sha256": "c989533faa2fd142836a3b06caa657ef099c9bd67c1b357555919f63dad9477f",
+      "source": "blackmatrix7",
+      "upstream": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/TencentLoLMobile/TencentLoLMobile.list"
     },
     {
       "bytes": 407,
@@ -9113,14 +9542,12 @@
   "sources": {
     "blackmatrix7": {
       "branch": "master",
-      "categories": 667,
+      "categories": 689,
       "domain_entries": 1330757,
-      "files": 776,
-      "missing": [
-        "Cloud"
-      ],
+      "files": 815,
+      "missing": [],
       "repo": "blackmatrix7/ios_rule_script",
-      "rules": 148217
+      "rules": 282715
     },
     "quixoticheart": {
       "branch": "ruleset",
@@ -9201,6 +9628,15 @@
       "path": "Rules/Unified/360.list",
       "rules": 259,
       "sha256": "45227c64842454ed08502be5f6f5344cbe77610ab8b79b9f78550d7689b751ab"
+    },
+    {
+      "name": "360Cloud",
+      "origins": [
+        "blackmatrix7/ios_rule_script 360Cloud"
+      ],
+      "path": "Rules/Unified/360Cloud.list",
+      "rules": 18,
+      "sha256": "6640769b7b2766aa9a5129f69e7f443f4b9469d114d679cf85be506bbbff678f"
     },
     {
       "name": "36kr",
@@ -9626,6 +10062,15 @@
       "sha256": "532377ab1c712e3a8196b35e3ffaefa13331b56b010f97ce844168cf450bd64c"
     },
     {
+      "name": "AkamaiCloud",
+      "origins": [
+        "blackmatrix7/ios_rule_script AkamaiCloud"
+      ],
+      "path": "Rules/Unified/AkamaiCloud.list",
+      "rules": 550,
+      "sha256": "96d49b83272dc05b27c41ca85d14842bc8def0b2fffcebb4a30c6523312318f8"
+    },
+    {
       "name": "Ali213",
       "origins": [
         "blackmatrix7/ios_rule_script Ali213"
@@ -9678,6 +10123,15 @@
       "path": "Rules/Unified/AmazonCN.list",
       "rules": 47,
       "sha256": "69b30dc809370d26d1696df7cb9a04cec7fa3b4535453bae875625921e77579a"
+    },
+    {
+      "name": "AmazonCloud",
+      "origins": [
+        "blackmatrix7/ios_rule_script AmazonCloud"
+      ],
+      "path": "Rules/Unified/AmazonCloud.list",
+      "rules": 3904,
+      "sha256": "ac5628c4faecb991d97b60e789ac30e3533165f92ec635dec49573836d56200f"
     },
     {
       "name": "AmazonIP",
@@ -10029,6 +10483,15 @@
       "path": "Rules/Unified/Baidu.list",
       "rules": 251,
       "sha256": "265894e41e920acde318cfc74044a2cf40e452dc860112a2e80a88a95070e4c3"
+    },
+    {
+      "name": "BaiduCloud",
+      "origins": [
+        "blackmatrix7/ios_rule_script BaiduCloud"
+      ],
+      "path": "Rules/Unified/BaiduCloud.list",
+      "rules": 76,
+      "sha256": "d6f747358069bdb998d03cba5d1e42654a61976b2fe60b047700aa5f9c683691"
     },
     {
       "name": "BaoFengYingYin",
@@ -10472,6 +10935,33 @@
       "sha256": "a0fa7758dbbf5ed180394f3cd96ee54f6503e055ebb8852ee1fab232f186508a"
     },
     {
+      "name": "ChinaIPsTest",
+      "origins": [
+        "blackmatrix7/ios_rule_script ChinaIPsTest"
+      ],
+      "path": "Rules/Unified/ChinaIPsTest.list",
+      "rules": 46048,
+      "sha256": "9853d3c5c12bce57874d5187a0b2810a8d3b67738ab0399c2b50f98a2f08b380"
+    },
+    {
+      "name": "ChinaIPsTest_No_IPv6",
+      "origins": [
+        "blackmatrix7/ios_rule_script ChinaIPsTest_No_IPv6"
+      ],
+      "path": "Rules/Unified/ChinaIPsTest_No_IPv6.list",
+      "rules": 32354,
+      "sha256": "ef5e4e34cbbdac57052e37aeccf6df767ae68606c1a108c8c7f48c6d59947191"
+    },
+    {
+      "name": "ChinaIPs_No_IPv6",
+      "origins": [
+        "blackmatrix7/ios_rule_script ChinaIPs_No_IPv6"
+      ],
+      "path": "Rules/Unified/ChinaIPs_No_IPv6.list",
+      "rules": 27894,
+      "sha256": "ec792f5a93698072158b3030f7c12d666e598d6f5ba092907af0369bf79d9989"
+    },
+    {
       "name": "ChinaMax",
       "origins": [
         "blackmatrix7/ios_rule_script ChinaMax"
@@ -10497,6 +10987,15 @@
       "path": "Rules/Unified/ChinaMaxNoMedia.list",
       "rules": 135233,
       "sha256": "c7075d0b1d27b3a08d307df455156683557b9ef86d64e2dd652c5d0f7a8f2dca"
+    },
+    {
+      "name": "ChinaMax_No_IPv6",
+      "origins": [
+        "blackmatrix7/ios_rule_script ChinaMax_No_IPv6"
+      ],
+      "path": "Rules/Unified/ChinaMax_No_IPv6.list",
+      "rules": 16619,
+      "sha256": "c3eb654e1f2f5e3f30b9143e0a5965f131160619407c9b2e77ba265372d1b625"
     },
     {
       "name": "ChinaMedia",
@@ -10623,6 +11122,24 @@
       "path": "Rules/Unified/Claude.list",
       "rules": 3,
       "sha256": "476042a443b2732ead75f8c13d3706c5c238474c9388301b033d70806babb0e2"
+    },
+    {
+      "name": "CloudCN",
+      "origins": [
+        "blackmatrix7/ios_rule_script CloudCN"
+      ],
+      "path": "Rules/Unified/CloudCN.list",
+      "rules": 462,
+      "sha256": "466ac62971e4f4d082bc8683cd922f4bb2e83e7c225e079f7c0bc65ce53fe7cb"
+    },
+    {
+      "name": "CloudGlobal",
+      "origins": [
+        "blackmatrix7/ios_rule_script CloudGlobal"
+      ],
+      "path": "Rules/Unified/CloudGlobal.list",
+      "rules": 5703,
+      "sha256": "37eef56a0b530c8be59bb67f5c3cfd4aebc1792c07bb5e65ca62497d67d4b2c3"
     },
     {
       "name": "Cloudflare",
@@ -10927,8 +11444,8 @@
         "blackmatrix7/ios_rule_script Direct"
       ],
       "path": "Rules/Unified/Direct.list",
-      "rules": 232,
-      "sha256": "2190a8e139e738d7f1ee884b7c61c5038da74759e3a27aacb2a50006352aca86"
+      "rules": 377,
+      "sha256": "33a85ac21e6f9a1a02e1ccdcc8ebe2171930a8892ca39269a3ae4e100ed08b62"
     },
     {
       "name": "Discord",
@@ -11381,6 +11898,24 @@
       "sha256": "c4c1c8d68390e2888317e2557edb5ba07bb9b1ec1d921c41b5b10d41a14fcf51"
     },
     {
+      "name": "GameDownload",
+      "origins": [
+        "blackmatrix7/ios_rule_script GameDownload"
+      ],
+      "path": "Rules/Unified/GameDownload.list",
+      "rules": 39,
+      "sha256": "fe5b08c992bbbee4f7d917abf20e9c06fcb9d8e90ada092f79054c11188ba8ff"
+    },
+    {
+      "name": "GameDownloadCN",
+      "origins": [
+        "blackmatrix7/ios_rule_script GameDownloadCN"
+      ],
+      "path": "Rules/Unified/GameDownloadCN.list",
+      "rules": 16,
+      "sha256": "f3e8b1642acabc13f20688042916b54967f15de4863a4348e886f31af2e26a61"
+    },
+    {
       "name": "GaoDe",
       "origins": [
         "blackmatrix7/ios_rule_script GaoDe"
@@ -11732,6 +12267,15 @@
       "sha256": "92f4371d62fff3f71ff82dcf6b8d567ca5428e50d90ecddaf8ae1029a06797a3"
     },
     {
+      "name": "HiNet",
+      "origins": [
+        "blackmatrix7/ios_rule_script HiNet"
+      ],
+      "path": "Rules/Unified/HiNet.list",
+      "rules": 130,
+      "sha256": "5e61e81f7a08788ffdc0eae2a794fe455b38c92e4d1c84732139c04f1dc25294"
+    },
+    {
       "name": "HibyMusic",
       "origins": [
         "blackmatrix7/ios_rule_script HibyMusic"
@@ -11820,6 +12364,15 @@
       "path": "Rules/Unified/Huawei.list",
       "rules": 160,
       "sha256": "c7e84470144361f550ca881874c765da72041e41ef03585fa5095099963a33e1"
+    },
+    {
+      "name": "HuaweiCloud",
+      "origins": [
+        "blackmatrix7/ios_rule_script HuaweiCloud"
+      ],
+      "path": "Rules/Unified/HuaweiCloud.list",
+      "rules": 62,
+      "sha256": "c368613bd37d66f217042db162c21e660b676e507763ef4c581aa824d6f66e2c"
     },
     {
       "name": "Huffpost",
@@ -12056,6 +12609,15 @@
       "sha256": "f7da33cf20f03f4582bb2df5194b1029fad0fb7d80d1e253b09aff62efba0788"
     },
     {
+      "name": "JingDongCloud",
+      "origins": [
+        "blackmatrix7/ios_rule_script JingDongCloud"
+      ],
+      "path": "Rules/Unified/JingDongCloud.list",
+      "rules": 16,
+      "sha256": "357e5073053f6203752562b2a408a0f93b93cb0cecacea2915306a612baa3931"
+    },
+    {
       "name": "Jquery",
       "origins": [
         "blackmatrix7/ios_rule_script Jquery"
@@ -12153,6 +12715,15 @@
       "path": "Rules/Unified/Kingsoft.list",
       "rules": 256,
       "sha256": "d90c14e70dfbd08a8baa74e5f010961d7e8abed32b03ccd96fa6bcf20493b8a4"
+    },
+    {
+      "name": "KingsoftCloud",
+      "origins": [
+        "blackmatrix7/ios_rule_script KingsoftCloud"
+      ],
+      "path": "Rules/Unified/KingsoftCloud.list",
+      "rules": 24,
+      "sha256": "9d43dcf542964398f5ac1325003bdbb89fac09699206ffdde4c54048d299e9aa"
     },
     {
       "name": "KouDaiShiShang",
@@ -12731,6 +13302,15 @@
       "sha256": "d1691cd46473c90b0821957da2624024d3a3e62a341596340d0125fe8ba6427e"
     },
     {
+      "name": "NeteaseCloud",
+      "origins": [
+        "blackmatrix7/ios_rule_script NeteaseCloud"
+      ],
+      "path": "Rules/Unified/NeteaseCloud.list",
+      "rules": 58,
+      "sha256": "4ff07ab4d163b7ba8974e9b268a6d2645d0a88ce5293265859f5506c3943c8ea"
+    },
+    {
       "name": "Nike",
       "origins": [
         "blackmatrix7/ios_rule_script Nike"
@@ -12738,6 +13318,15 @@
       "path": "Rules/Unified/Nike.list",
       "rules": 11,
       "sha256": "b40e2cd7d2af180c86be74d064721c90812459458695f8210a9e06bf7d4feee3"
+    },
+    {
+      "name": "Nikke",
+      "origins": [
+        "blackmatrix7/ios_rule_script Nikke"
+      ],
+      "path": "Rules/Unified/Nikke.list",
+      "rules": 8,
+      "sha256": "da12e8e8154c0073d239205670b5b84e390278acec524812e5c72d9e31935784"
     },
     {
       "name": "Nikkei",
@@ -13289,6 +13878,15 @@
       "sha256": "207efdc4fcdc150be67a1b989dcbe874a7d2339e71bd84aa88ffb30c909d61a5"
     },
     {
+      "name": "Roblox",
+      "origins": [
+        "blackmatrix7/ios_rule_script Roblox"
+      ],
+      "path": "Rules/Unified/Roblox.list",
+      "rules": 3,
+      "sha256": "6cd71e5bbbb542096d86fbd5fdab0854649249d67dd94a78ccf813cd1596a6dd"
+    },
+    {
       "name": "Rockstar",
       "origins": [
         "blackmatrix7/ios_rule_script Rockstar"
@@ -13836,6 +14434,24 @@
       "path": "Rules/Unified/Tencent.list",
       "rules": 2543,
       "sha256": "ffa027914328bc1a63ff877386bcd690019a78cb15a646974dbf55121b742856"
+    },
+    {
+      "name": "TencentCloud",
+      "origins": [
+        "blackmatrix7/ios_rule_script TencentCloud"
+      ],
+      "path": "Rules/Unified/TencentCloud.list",
+      "rules": 208,
+      "sha256": "1eae20e9d78f2b5a09e1cf5baa1023c09c4bf7d2b3a6ceea280b60e27e2e87fa"
+    },
+    {
+      "name": "TencentLoLMobile",
+      "origins": [
+        "blackmatrix7/ios_rule_script TencentLoLMobile"
+      ],
+      "path": "Rules/Unified/TencentLoLMobile.list",
+      "rules": 3,
+      "sha256": "9fc03e90ab82d9f3401da025ec87e2a6f3c59334a4ad8aa9d62c49a780d46ab5"
     },
     {
       "name": "TencentVideo",

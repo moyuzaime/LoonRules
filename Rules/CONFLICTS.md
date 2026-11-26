@@ -10,10 +10,10 @@
 | 来源二文件内去重 | 0 |
 | 来源一无法解析的行 | 0 |
 | 来源二无法解析的行 | 0 |
-| 统一库跨来源重复（保留来源一） | 12155 |
+| 统一库跨来源重复（保留来源一） | 12159 |
 | 统一库跨来源类型冲突 | 4 |
 | 来源一下载失败文件 | 0 |
-| 来源二缺失分类 | 1 |
+| 来源二缺失分类 | 0 |
 
 ## 类型冲突
 
@@ -25,9 +25,3 @@
 | netflix | `netflix.com.edgesuite.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(blackmatrix7) |
 | spotify | `spotify.com.edgesuite.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(blackmatrix7) |
 | tiktok | `p16-tiktokcdn-com.akamaized.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(blackmatrix7) |
-
-## 来源二缺失分类
-
-以下分类在 rule/Loon 下存在，但三个 .list 都未取到（已保留上一版本文件）：
-
-- `Cloud`
