@@ -82,10 +82,13 @@ CONFIG = {
         "subdir": "rule/Loon",
         "ext": ".list",
         "out": "Rules/blackmatrix7",
+        # 先取 rule/Loon 的 tree sha，再递归列出全部 .list（2 次 API 调用）
+        "parent_api": "https://api.github.com/repos/blackmatrix7/ios_rule_script/contents/rule",
+        "tree_api": "https://api.github.com/repos/blackmatrix7/ios_rule_script/git/trees/{sha}?recursive=1",
         "listing_api": "https://api.github.com/repos/blackmatrix7/ios_rule_script/contents/rule/Loon",
         "readme": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/README.md",
         "raw_base": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/",
-        # 分类目录里三个文件的固定后缀，按合并顺序排列
+        # 同一分类下三个文件的固定后缀，按合并顺序排列
         "suffixes": ["", "_Domain", "_Resolve"],
     },
     "unified": {
@@ -105,6 +108,8 @@ ENV_OVERRIDES = {
     "QX_RAW_BASE": ("quixoticheart", "raw_base"),
     "QX_README": ("quixoticheart", "readme"),
     "BMX_LISTING_API": ("blackmatrix7", "listing_api"),
+    "BMX_PARENT_API": ("blackmatrix7", "parent_api"),
+    "BMX_TREE_API": ("blackmatrix7", "tree_api"),
     "BMX_RAW_BASE": ("blackmatrix7", "raw_base"),
     "BMX_README": ("blackmatrix7", "readme"),
 }
@@ -384,96 +389,139 @@ def fetch_source_quixoticheart(limit: int | None = None) -> tuple[dict, list[str
 # --------------------------------------------------------------------------
 
 
-def list_blackmatrix7_categories() -> list[str]:
-    """读取 rule/Loon 下的分类目录；API 失败时回退解析该目录的 README。"""
-    api = config_value("blackmatrix7", "listing_api")
-    try:
-        payload = fetch_text(api)
-        data = json.loads(payload)
-        names = sorted({item["name"] for item in data if item.get("type") == "dir"})
-        if names:
-            return names
-    except Exception as exc:  # noqa: BLE001
-        log(f"[blackmatrix7] API 目录读取失败，回退 README：{exc}")
+SUFFIX_RE = re.compile(r"^(?P<stem>.+?)(?P<suffix>_Domain|_Resolve)?\.list$")
 
-    readme = fetch_text(config_value("blackmatrix7", "readme"))
-    names = sorted(set(re.findall(r"rule/Loon/([^/\s)\"'<>]+)\)", readme or "")))
-    if not names:
-        raise FetchError("blackmatrix7：无法从 API 或 README 取得 rule/Loon 分类列表")
-    return names
+
+def list_blackmatrix7_files() -> list[str]:
+    """返回 rule/Loon 下全部 .list 的相对路径。
+
+    形如 `Apple/Apple.list`、`Cloud/AkamaiCloud/AkamaiCloud.list`。
+    优先用 Git Trees API 一次列出（2 次 API 调用）；失败时回退为逐目录按固定后缀探测，
+    此时会漏掉 Cloud 这类「分组目录」下的子分类，但不会漏掉顶层分类。
+    """
+    tree_api = config_value("blackmatrix7", "tree_api")
+    try:
+        parent = json.loads(fetch_text(config_value("blackmatrix7", "parent_api")))
+        loon = next(
+            item for item in parent
+            if item.get("name") == "Loon" and item.get("type") == "dir"
+        )
+        tree = json.loads(fetch_text(tree_api.format(sha=loon["sha"])))
+        if tree.get("truncated"):
+            raise FetchError("Git Trees 结果被截断")
+        paths = sorted(
+            entry["path"]
+            for entry in tree.get("tree", [])
+            if entry.get("type") == "blob" and entry["path"].endswith(".list")
+        )
+        if paths:
+            return paths
+    except Exception as exc:  # noqa: BLE001
+        log(f"[blackmatrix7] 递归文件列表读取失败，回退逐目录探测：{exc}")
+
+    listing = json.loads(fetch_text(config_value("blackmatrix7", "listing_api")))
+    base = config_value("blackmatrix7", "raw_base").rstrip("/") + "/"
+    paths: list[str] = []
+    for item in listing:
+        if item.get("type") != "dir":
+            continue
+        category = item["name"]
+        for suffix in CONFIG["blackmatrix7"]["suffixes"]:
+            filename = f"{category}{suffix}.list"
+            url = f"{base}{urllib.parse.quote(category)}/{urllib.parse.quote(filename)}"
+            try:
+                if fetch_text(url, retries=1, allow_404=True):
+                    paths.append(f"{category}/{filename}")
+            except FetchError:
+                continue
+    if not paths:
+        raise FetchError("blackmatrix7：无法取得 rule/Loon 下的 .list 文件列表")
+    return sorted(paths)
+
+
+def group_blackmatrix7_files(paths: list[str]) -> "OrderedDict[tuple[str, str], dict[str, str]]":
+    """把 `<dir>/<stem>{_Domain,_Resolve,}.list` 归到同一分类下。"""
+    groups: "OrderedDict[tuple[str, str], dict[str, str]]" = OrderedDict()
+    for rel in paths:
+        directory, filename = rel.rsplit("/", 1)
+        match = SUFFIX_RE.match(filename)
+        if not match:
+            continue
+        stem = match.group("stem")
+        suffix = match.group("suffix") or ""
+        groups.setdefault((directory, stem), {})[suffix] = filename
+    return groups
 
 
 def fetch_source_blackmatrix7(limit: int | None = None) -> tuple[dict, list[dict], list[str], dict]:
-    categories = list_blackmatrix7_categories()
+    paths = list_blackmatrix7_files()
+    groups = group_blackmatrix7_files(paths)
     if limit:
-        categories = categories[:limit]
+        groups = OrderedDict(list(groups.items())[:limit])
     base = config_value("blackmatrix7", "raw_base").rstrip("/") + "/"
     suffixes = CONFIG["blackmatrix7"]["suffixes"]
-    log(f"[blackmatrix7] 待处理 {len(categories)} 个分类（每个最多 3 个 .list）")
+    log(
+        f"[blackmatrix7] 待处理 {len(groups)} 个分类 / "
+        f"{sum(len(files) for files in groups.values())} 个 .list"
+    )
 
-    tasks: list[tuple[str, str]] = []
-    for category in categories:
-        for suffix in suffixes:
-            tasks.append((category, f"{category}{suffix}.list"))
+    def work(rel: str) -> tuple[str, str]:
+        return rel, fetch_text(base + urllib.parse.quote(rel, safe="/"))
 
-    texts: dict[str, dict[str, str]] = {category: {} for category in categories}
-    failed_categories: set[str] = set()
-
-    def work(category: str, filename: str) -> tuple[str, str, str | None]:
-        url = f"{base}{urllib.parse.quote(category)}/{urllib.parse.quote(filename)}"
-        return category, filename, fetch_text(url, allow_404=True)
-
+    texts: dict[str, str] = {}
+    failed_files: set[str] = set()
+    tasks = [
+        f"{directory}/{filename}"
+        for (directory, _stem), files in groups.items()
+        for filename in files.values()
+    ]
     with ThreadPoolExecutor(max_workers=HTTP_WORKERS) as pool:
-        futures = {pool.submit(work, category, filename): (category, filename) for category, filename in tasks}
+        futures = {pool.submit(work, rel): rel for rel in tasks}
         for future in as_completed(futures):
-            category, filename = futures[future]
+            rel = futures[future]
             try:
-                _, _, text = future.result()
+                _, text = future.result()
             except Exception as exc:  # noqa: BLE001
-                log(f"[blackmatrix7] {category}/{filename} 下载失败：{exc}")
-                failed_categories.add(category)
+                log(f"[blackmatrix7] {rel} 下载失败：{exc}")
+                failed_files.add(rel)
                 continue
-            if text and text.strip():
-                texts[category][filename] = text
-
-    missing = [category for category in categories if not texts[category]]
-    for category in sorted(failed_categories):
-        # 有网络错误的分类整组丢弃，保留上一版本，避免只写入一半分片
-        texts[category] = {}
-        if category not in missing:
-            missing.append(category)
-        log(f"[blackmatrix7] {category} 存在网络错误，本次按缺失处理并保留旧文件")
-    missing.sort()
+            texts[rel] = text
 
     mirror: dict[str, dict] = {}
     unified_items: list[dict] = []
-    totals = {"rules": 0, "domain_entries": 0, "files": 0, "duplicates": 0, "unparsed": 0}
+    missing: list[str] = []
+    totals = {
+        "categories": 0,
+        "rules": 0,
+        "domain_entries": 0,
+        "files": 0,
+        "duplicates": 0,
+        "unparsed": 0,
+    }
 
-    for category in categories:
-        files = texts[category]
-        if not files:
+    for (directory, stem), files in groups.items():
+        rels = [f"{directory}/{files[suffix]}" for suffix in suffixes if suffix in files]
+        if any(rel in failed_files or rel not in texts for rel in rels):
+            missing.append(f"{directory}/{stem}")
             continue
+        totals["categories"] += 1
         parts: list[str] = []
         for suffix in suffixes:
-            filename = f"{category}{suffix}.list"
-            if filename not in files:
+            if suffix not in files:
                 continue
-            text = files[filename]
+            filename = files[suffix]
+            rel = f"{directory}/{filename}"
+            text = texts[rel]
             parts.append(text)
-            url = f"{base}{urllib.parse.quote(category)}/{urllib.parse.quote(filename)}"
+            url = base + urllib.parse.quote(rel, safe="/")
             if suffix == "_Domain":
                 lines, duplicates = clean_domain_entries(text)
-                kind = "domain"
-                count = len(lines)
-                label = "条目数"
+                kind, count, label = "domain", len(lines), "条目数"
                 totals["domain_entries"] += count
             else:
                 cleaned = clean_rules(text)
-                lines = cleaned.lines
-                duplicates = cleaned.duplicates
-                kind = "rules"
-                count = cleaned.rules
-                label = "规则数"
+                lines, duplicates, count = cleaned.lines, cleaned.duplicates, cleaned.rules
+                kind, label = "rules", "规则数"
                 totals["rules"] += count
                 totals["unparsed"] += cleaned.unparsed
             totals["duplicates"] += duplicates
@@ -481,19 +529,20 @@ def fetch_source_blackmatrix7(limit: int | None = None) -> tuple[dict, list[dict
             rendered = render_file(
                 header=[
                     f"来源: {CONFIG['blackmatrix7']['label']} "
-                    f"{CONFIG['blackmatrix7']['subdir']}/{category}/{filename}",
+                    f"{CONFIG['blackmatrix7']['subdir']}/{rel}",
                     f"上游: {url}",
                     f"{label}: {count}",
                 ],
                 lines=lines,
             )
-            mirror[f"{category}/{filename}"] = {
+            mirror[rel] = {
                 "source": "blackmatrix7",
                 "source_label": CONFIG["blackmatrix7"]["label"],
-                "name": category,
+                "name": stem,
                 "filename": filename,
+                "rel": rel,
                 "kind": kind,
-                "path": f"{CONFIG['blackmatrix7']['out']}/{category}/{filename}",
+                "path": f"{CONFIG['blackmatrix7']['out']}/{rel}",
                 "text": rendered,
                 "rules": count,
                 "duplicates": duplicates,
@@ -502,12 +551,12 @@ def fetch_source_blackmatrix7(limit: int | None = None) -> tuple[dict, list[dict
             }
 
         merged = merge_rule_chunks(parts)
-        unified_items.append({"name": category, "lines": merged.lines, "count": merged.rules})
+        unified_items.append({"name": stem, "lines": merged.lines, "count": merged.rules})
 
-    if failed_categories and len(failed_categories) > max(1, int(len(categories) * 0.2)):
+    if missing and len(missing) > max(1, int(len(groups) * 0.2)):
         raise FetchError(
-            f"blackmatrix7：{len(failed_categories)} / {len(categories)} 个分类网络错误，"
-            "超过 20%，保留现有文件并中止"
+            f"blackmatrix7：{len(missing)} / {len(groups)} 个分类下载失败，超过 20%，"
+            "保留现有文件并中止"
         )
     return mirror, unified_items, missing, totals
 
@@ -669,9 +718,10 @@ def import_link(url: str) -> str:
 
 def build_index(qx: dict, bmx: dict, unified: dict, totals: dict) -> str:
     repo, branch = "moyuzaime/LoonRules", "main"
-    categories: dict[str, dict[str, dict]] = {}
-    for key, item in bmx.items():
-        categories.setdefault(item["name"], {})[item["filename"]] = item
+    categories: "OrderedDict[tuple[str, str], dict[str, dict]]" = OrderedDict()
+    for item in bmx.values():
+        directory = item["rel"].rsplit("/", 1)[0]
+        categories.setdefault((directory, item["name"]), {})[item["filename"]] = item
 
     lines = [
         "# Loon 规则索引",
@@ -723,20 +773,23 @@ def build_index(qx: dict, bmx: dict, unified: dict, totals: dict) -> str:
         f"## 来源镜像 · {CONFIG['blackmatrix7']['label']}",
         "",
         "每个分类最多三个文件：`.list`（规则）、`_Domain.list`（域名列表）、`_Resolve.list`"
-        "（与 `.list` 相同、IP 规则不带 no-resolve）。",
+        "（与 `.list` 相同、IP 规则不带 no-resolve）；保留上游目录结构。",
         "",
         "| # | 分类 | 文件 | 条目 | 一键导入 |",
         "| ---: | --- | --- | ---: | --- |",
     ]
-    for index, category in enumerate(sorted(categories, key=str.lower), start=1):
-        files = categories[category]
+    for index, key in enumerate(
+        sorted(categories, key=lambda item: (item[1].lower(), item[0])), start=1
+    ):
+        _directory, category = key
+        files = categories[key]
         file_links = []
         import_links = []
         total = 0
         for filename in sorted(files, key=lambda name: (name != f"{category}.list", name)):
             item = files[filename]
             total += item["rules"]
-            file_links.append(f"[{filename}](blackmatrix7/{category}/{filename})")
+            file_links.append(f"[{filename}](blackmatrix7/{item['rel']})")
             import_links.append(f"[{filename}]({import_link(raw_url(repo, branch, item['path']))})")
         lines.append(
             f"| {index} | `{category}` | {' · '.join(file_links)} | {total} | {' · '.join(import_links)} |"
@@ -849,7 +902,7 @@ def build_manifest(
             "blackmatrix7": {
                 "repo": CONFIG["blackmatrix7"]["repo"],
                 "branch": CONFIG["blackmatrix7"]["branch"],
-                "categories": len({item["name"] for item in bmx.values()}),
+                "categories": totals["blackmatrix7_categories"],
                 "files": len(bmx),
                 "rules": totals["blackmatrix7"],
                 "domain_entries": totals["blackmatrix7_domain"],
@@ -895,7 +948,7 @@ def sync(repo_root: Path, *, limit: int | None = None, dry_run: bool = False) ->
             raise FetchError("QuixoticHeart：没有任何文件下载成功，保留现有文件并中止")
         if len(bmx) == 0:
             raise FetchError("blackmatrix7：没有任何文件下载成功，保留现有文件并中止")
-        if bmx_missing and len(bmx_missing) > len({item["name"] for item in bmx.values()}) * 0.2:
+        if bmx_missing and bmx_totals["categories"] and len(bmx_missing) > bmx_totals["categories"] * 0.2:
             raise FetchError(
                 f"blackmatrix7：缺失 {len(bmx_missing)} 个分类，超过 20%，"
                 "为避免误删保留现有文件并中止"
@@ -913,6 +966,7 @@ def sync(repo_root: Path, *, limit: int | None = None, dry_run: bool = False) ->
         "quixoticheart": sum(item["rules"] for item in qx.values()),
         "blackmatrix7": bmx_totals["rules"],
         "blackmatrix7_domain": bmx_totals["domain_entries"],
+        "blackmatrix7_categories": bmx_totals["categories"],
         "unified": sum(item["rules"] for item in unified.values()),
     }
     qx_dupes = sum(item.get("duplicates", 0) for item in qx.values())
@@ -934,7 +988,7 @@ def sync(repo_root: Path, *, limit: int | None = None, dry_run: bool = False) ->
         "quixoticheart_files": len(qx),
         "quixoticheart_rules": totals["quixoticheart"],
         "quixoticheart_failed": len(qx_failed),
-        "blackmatrix7_categories": len({item["name"] for item in bmx.values()}),
+        "blackmatrix7_categories": totals["blackmatrix7_categories"],
         "blackmatrix7_files": len(bmx),
         "blackmatrix7_rules": totals["blackmatrix7"],
         "blackmatrix7_domain_entries": totals["blackmatrix7_domain"],
