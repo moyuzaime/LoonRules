@@ -9,7 +9,10 @@
 | 简称 | 上游 | 取用范围 | 许可 |
 | --- | --- | --- | --- |
 | 来源一 | [QuixoticHeart/rule-set](https://github.com/QuixoticHeart/rule-set/tree/ruleset) | `ruleset` 分支 `loon/` 目录，约 52 个 `.list` | GPL-3.0 |
-| 来源二 | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon) | `master` 分支 `rule/Loon/` 下 668 个分类目录中的 `.list` 文件 | GPL-2.0 |
+| 来源二 | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon) | `master` 分支 `rule/Loon/` 下 **689 个分类 / 815 个 `.list`**（含 `Cloud`、`Game` 等分组目录里的子分类） | GPL-2.0 |
+
+实测（2026-11-26）：来源一 52 个文件 / 434,043 条规则；来源二 689 个分类 / 815 个文件 /
+282,715 条规则 + 1,330,757 条域名列表；统一库 712 个分类 / 2,026,453 条规则。
 
 只提取 Loon 规则：来源一里 Surge / Clash / Shadowrocket / Quantumult X / Egern / sing-box 等
 目录一律忽略；来源二只取 `rule/Loon/`（其他工具的 `rule/` 子目录不处理）。
@@ -21,10 +24,14 @@ Rules/
 ├── QuixoticHeart/                    # 来源一镜像，保留上游文件名
 │   └── abema.list
 ├── blackmatrix7/                     # 来源二镜像，保留上游目录与文件名
-│   └── Apple/
-│       ├── Apple.list                # 规则（DOMAIN-KEYWORD / USER-AGENT / IP-CIDR 等）
-│       ├── Apple_Domain.list         # 域名列表（.example.com = 后缀，example.com = 精确）
-│       └── Apple_Resolve.list        # 与 Apple.list 相同，但 IP 规则不带 no-resolve
+│   ├── Apple/
+│   │   ├── Apple.list                # 规则（DOMAIN-KEYWORD / USER-AGENT / IP-CIDR 等）
+│   │   ├── Apple_Domain.list         # 域名列表（.example.com = 后缀，example.com = 精确）
+│   │   └── Apple_Resolve.list        # 与 Apple.list 相同，但 IP 规则不带 no-resolve
+│   └── Cloud/                        # 上游的分组目录同样保留
+│       └── 360Cloud/
+│           ├── 360Cloud.list
+│           └── 360Cloud_Resolve.list
 ├── Unified/                          # 统一规则库：同名分类合并去重，来源一优先
 │   ├── abema.list
 │   └── Apple.list
@@ -48,12 +55,9 @@ Rules/
         └─ API 失败 → 解析 ruleset 分支 README 里的 loon 链接
         └─ 逐个 raw 下载
 
-来源二：GitHub API 读取 rule/Loon/ 下的分类目录
-        └─ API 失败 → 解析 rule/Loon/README.md 里的分类链接
-        └─ 每个分类固定尝试三个文件（404 视为不存在）：
-              <Category>.list
-              <Category>_Domain.list
-              <Category>_Resolve.list
+来源二：GitHub API 读取 rule/Loon 的 tree sha，再用 Git Trees API 递归列出全部 .list
+        └─ API 失败 → 读取 rule/Loon 顶层目录，按固定后缀逐个探测
+        └─ 按 `<dir>/<stem>{,_Domain,_Resolve}.list` 归组后逐个 raw 下载
 ```
 
 镜像与统一库对 `_Domain.list` 的处理不同，这是刻意的：

@@ -37,7 +37,7 @@
 | 目录 | 内容 | 生成方式 |
 | --- | --- | --- |
 | `Rules/QuixoticHeart/` | [QuixoticHeart/rule-set](https://github.com/QuixoticHeart/rule-set/tree/ruleset) 的 `loon/` 规则镜像（约 52 个） | GitHub Actions 每天 08:00（北京时间） |
-| `Rules/blackmatrix7/` | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon) 的 `rule/Loon/` 分类镜像（668 个分类，保留上游目录与文件名） | 同上 |
+| `Rules/blackmatrix7/` | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon) 的 `rule/Loon/` 分类镜像（689 个分类 / 815 个 .list，保留上游目录与文件名） | 同上 |
 | `Rules/Unified/` | 两个来源按分类合并去重后的统一规则库 | 同上 |
 
 - 只提取 Loon 规则，不处理 Surge / Clash / Shadowrocket / Quantumult X / Egern / sing-box。
