@@ -73,7 +73,7 @@ CONFIG = {
         "out": "Rules/QuixoticHeart",
         "tree_api": "https://api.github.com/repos/QuixoticHeart/rule-set/git/trees/ruleset?recursive=1",
         "raw_base": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/",
-        "readme": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/README.md",
+        "readme": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/master/README.md",
     },
     "blackmatrix7": {
         "label": "blackmatrix7/ios_rule_script",
