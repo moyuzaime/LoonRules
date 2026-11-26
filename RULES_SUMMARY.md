@@ -121,5 +121,6 @@ MITM 需要的域名：`huangguo.video`、`huangguoai.com`、`2048ai.vip`。
 
 - 定时：GitHub Actions `.github/workflows/sync-loon-rules.yml`，每天 08:00（北京时间）。
 - 脚本：`scripts/sync.py`（仅标准库），内容无变化时不产生提交。
+- 注释：每条规则上方有 `# 目标: <分类>`，文件头有 `# 说明: <中文描述>`；可在 `CONFIG["annotation"]` 中关闭或改为 section 模式。
 - 细节：见 [docs/THIRD_PARTY_RULES.md](docs/THIRD_PARTY_RULES.md)。
 - 注意：来源一为 GPL-3.0 且声明「禁止转载/发布至中国大陆地区」，对外分发前请自行评估合规性。

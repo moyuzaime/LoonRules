@@ -41,6 +41,7 @@
 | `Rules/Unified/` | 两个来源按分类合并去重后的统一规则库 | 同上 |
 
 - 只提取 Loon 规则，不处理 Surge / Clash / Shadowrocket / Quantumult X / Egern / sing-box。
+- 每条规则上方有 `# 目标: <分类>` 注释，文件头有 `# 说明: <中文描述>`（均来自上游规则集/分类信息），不影响匹配语义。
 - 同一分类在两个来源都有时合并为一份：重复规则保留来源一，同域名类型冲突记入 `Rules/CONFLICTS.md`。
 - 想要上游原始粒度，订阅 `Rules/QuixoticHeart/*.list` 或 `Rules/blackmatrix7/<分类>/<分类>.list`（按上游建议与 `_Domain.list` 配合使用）；想要合并结果，订阅 `Rules/Unified/`。
 - `Rules/` 由 `scripts/sync.py` 生成，手工修改会在下次同步时被覆盖；`Custom/` 仍用于你自己的规则。

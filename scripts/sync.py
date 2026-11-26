@@ -100,6 +100,16 @@ CONFIG = {
         "conflicts": "Rules/CONFLICTS.md",
         "manifest": "Rules/.sync-manifest.json",
     },
+    # 每条规则前的注释：说明该规则对应的软件/网站。
+    # 上游只提供「规则集/分类」粒度信息，因此注释文本 = 分类名（如 Apple、abema）。
+    # mode = "rule"    → 每条规则前一行注释（默认，最直观但文件会变大）
+    # mode = "section" → 只在文件开头/目标变化处写一条注释（更省体积）
+    # enabled = False  → 不写规则级注释
+    "annotation": {
+        "enabled": True,
+        "mode": "rule",
+        "prefix": "# 目标: ",
+    },
 }
 
 # 允许用环境变量覆盖（便于本地用 http.server 做离线校验）
@@ -297,6 +307,60 @@ def merge_rule_chunks(chunks: list[str]) -> CleanResult:
 
 
 # --------------------------------------------------------------------------
+# 规则目标说明（来自上游 README 的分类名/描述）
+# --------------------------------------------------------------------------
+
+
+def _clean_text(value: str, limit: int = 40) -> str:
+    """清掉 HTML 标签/换行/# 等，截断到适合做注释的长度。"""
+    text = re.sub(r"<[^>]+>", "", value)
+    text = text.replace("#", "").replace("|", " ").strip()
+    text = re.sub(r"\s+", " ", text)
+    return text[:limit].strip()
+
+
+def load_quixoticheart_descriptions() -> dict[str, str]:
+    """解析来源一 README 的规则描述表（规则名称 -> 中文描述）。"""
+    try:
+        readme = fetch_text(config_value("quixoticheart", "readme")) or ""
+    except FetchError as exc:
+        log(f"[quixoticheart] README 读取失败，规则注释只用分类名：{exc}")
+        return {}
+    descriptions: dict[str, str] = {}
+    pattern = re.compile(
+        r"<td><code>(?P<name>[^<]+)</code></td>\s*<td>(?P<desc>.*?)(?:<br\s*/?>|</td>)",
+        re.S,
+    )
+    for match in pattern.finditer(readme):
+        name = match.group("name").strip()
+        desc = _clean_text(match.group("desc"))
+        if name and desc and desc != name:
+            descriptions[name] = desc
+    return descriptions
+
+
+def load_blackmatrix7_descriptions() -> dict[str, str]:
+    """解析来源二 README 目录表（分类名 -> 中文标签，如 Advertising -> 去广告）。"""
+    try:
+        readme = fetch_text(config_value("blackmatrix7", "readme")) or ""
+    except FetchError as exc:
+        log(f"[blackmatrix7] README 读取失败，规则注释只用分类名：{exc}")
+        return {}
+    descriptions: dict[str, str] = {}
+    pattern = re.compile(
+        r"\[(?P<label>[^\]]+)\]"
+        r"\(https://github\.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/"
+        r"(?P<name>[^)]+)\)"
+    )
+    for match in pattern.finditer(readme):
+        name = match.group("name").strip()
+        label = _clean_text(match.group("label"))
+        if name and label and label.lower() != name.lower():
+            descriptions[name] = label
+    return descriptions
+
+
+# --------------------------------------------------------------------------
 # 来源一：QuixoticHeart/rule-set
 # --------------------------------------------------------------------------
 
@@ -334,21 +398,26 @@ def fetch_source_quixoticheart(limit: int | None = None) -> tuple[dict, list[str
         names = names[:limit]
     raw_base = config_value("quixoticheart", "raw_base").rstrip("/") + "/"
     out_dir = CONFIG["quixoticheart"]["out"]
+    descriptions = load_quixoticheart_descriptions()
     log(f"[quixoticheart] 待下载 {len(names)} 个文件")
 
-    def work(name: str) -> tuple[str, str, CleanResult]:
+    def work(name: str) -> tuple[str, str, CleanResult, str]:
         url = f"{raw_base}loon/{urllib.parse.quote(name)}"
         text = fetch_text(url)
         cleaned = clean_rules(text)
-        return name, render_file(
-            header=[
-                f"来源: {CONFIG['quixoticheart']['label']}@{CONFIG['quixoticheart']['branch']}/"
-                f"{CONFIG['quixoticheart']['subdir']}/{name}",
-                f"上游: {url}",
-                f"规则数: {cleaned.rules}",
-            ],
-            lines=cleaned.lines,
-        ), cleaned
+        base = name[: -len(CONFIG["quixoticheart"]["ext"])] if name.endswith(
+            CONFIG["quixoticheart"]["ext"]
+        ) else name
+        desc = descriptions.get(base, "")
+        header = [
+            f"来源: {CONFIG['quixoticheart']['label']}@{CONFIG['quixoticheart']['branch']}/"
+            f"{CONFIG['quixoticheart']['subdir']}/{name}",
+            f"上游: {url}",
+        ]
+        if desc:
+            header.append(f"说明: {desc}")
+        header.append(f"规则数: {cleaned.rules}")
+        return name, render_file(header=header, lines=cleaned.lines, note=base), cleaned, desc
 
     results: dict[str, dict] = {}
     failed: list[str] = []
@@ -357,7 +426,7 @@ def fetch_source_quixoticheart(limit: int | None = None) -> tuple[dict, list[str
         for future in as_completed(futures):
             filename = futures[future]
             try:
-                fname, text, cleaned = future.result()
+                fname, text, cleaned, desc = future.result()
             except Exception as exc:  # noqa: BLE001
                 log(f"[quixoticheart] {filename} 下载失败：{exc}")
                 failed.append(filename)
@@ -369,6 +438,7 @@ def fetch_source_quixoticheart(limit: int | None = None) -> tuple[dict, list[str
                 "source": "quixoticheart",
                 "source_label": CONFIG["quixoticheart"]["label"],
                 "name": base,
+                "description": desc,
                 "path": f"{out_dir}/{fname}",
                 "text": text,
                 "lines": cleaned.lines,
@@ -490,6 +560,7 @@ def fetch_source_blackmatrix7(limit: int | None = None) -> tuple[dict, list[dict
     mirror: dict[str, dict] = {}
     unified_items: list[dict] = []
     missing: list[str] = []
+    descriptions = load_blackmatrix7_descriptions()
     totals = {
         "categories": 0,
         "rules": 0,
@@ -526,19 +597,21 @@ def fetch_source_blackmatrix7(limit: int | None = None) -> tuple[dict, list[dict
                 totals["unparsed"] += cleaned.unparsed
             totals["duplicates"] += duplicates
             totals["files"] += 1
-            rendered = render_file(
-                header=[
-                    f"来源: {CONFIG['blackmatrix7']['label']} "
-                    f"{CONFIG['blackmatrix7']['subdir']}/{rel}",
-                    f"上游: {url}",
-                    f"{label}: {count}",
-                ],
-                lines=lines,
-            )
+            desc = descriptions.get(stem, "")
+            header = [
+                f"来源: {CONFIG['blackmatrix7']['label']} "
+                f"{CONFIG['blackmatrix7']['subdir']}/{rel}",
+                f"上游: {url}",
+            ]
+            if desc:
+                header.append(f"说明: {desc}")
+            header.append(f"{label}: {count}")
+            rendered = render_file(header=header, lines=lines, note=stem)
             mirror[rel] = {
                 "source": "blackmatrix7",
                 "source_label": CONFIG["blackmatrix7"]["label"],
                 "name": stem,
+                "description": desc,
                 "filename": filename,
                 "rel": rel,
                 "kind": kind,
@@ -551,7 +624,14 @@ def fetch_source_blackmatrix7(limit: int | None = None) -> tuple[dict, list[dict
             }
 
         merged = merge_rule_chunks(parts)
-        unified_items.append({"name": stem, "lines": merged.lines, "count": merged.rules})
+        unified_items.append(
+            {
+                "name": stem,
+                "lines": merged.lines,
+                "count": merged.rules,
+                "description": descriptions.get(stem, ""),
+            }
+        )
 
     if missing and len(missing) > max(1, int(len(groups) * 0.2)):
         raise FetchError(
@@ -566,10 +646,26 @@ def fetch_source_blackmatrix7(limit: int | None = None) -> tuple[dict, list[dict
 # --------------------------------------------------------------------------
 
 
-def render_file(header: list[str], lines: list[str]) -> str:
+def render_file(header: list[str], lines: list[str], note: str | None = None) -> str:
+    """渲染规则文件：静态头 + （可选）每条规则的目标注释 + 规则行。
+
+    note 为「该规则针对的软件/网站」（来自上游分类名）。Loon 只支持整行 `#` 注释，
+    所以注释单独占一行，写在对应规则上方。
+    """
     head = "\n".join("# " + item for item in header)
-    body = "\n".join(lines)
-    return f"{head}\n{body}\n" if body else f"{head}\n"
+    if not lines:
+        return f"{head}\n"
+
+    annotation = CONFIG["annotation"]
+    if note and annotation.get("enabled"):
+        prefix = annotation.get("prefix", "# 目标: ")
+        if annotation.get("mode") == "section":
+            body = f"{prefix}{note}\n" + "\n".join(lines)
+        else:
+            body = "\n".join(f"{prefix}{note}\n{line}" for line in lines)
+    else:
+        body = "\n".join(lines)
+    return f"{head}\n{body}\n"
 
 
 def write_if_changed(path: Path, text: str) -> bool:
@@ -645,6 +741,7 @@ def build_unified(source_items: dict[str, list[dict]], priority: list[str]) -> t
                 key,
                 {
                     "display": item["name"],
+                    "description": "",
                     "origin": {},
                     "lines": [],
                     "seen": set(),
@@ -653,6 +750,8 @@ def build_unified(source_items: dict[str, list[dict]], priority: list[str]) -> t
                 },
             )
             category["origin"][source] = item["name"]
+            if item.get("description") and not category["description"]:
+                category["description"] = item["description"]
             for line in item["lines"]:
                 parsed = parse_rule(line)
                 if parsed is None:
@@ -677,11 +776,14 @@ def build_unified(source_items: dict[str, list[dict]], priority: list[str]) -> t
         header = [
             f"统一规则库 | 分类: {name}",
             "合并来源: " + "; ".join(origin_notes),
-            f"规则数: {category['count']}",
         ]
+        if category["description"]:
+            header.append(f"说明: {category['description']}")
+        header.append(f"规则数: {category['count']}")
         unified[f"{name}{CONFIG['unified']['ext']}"] = {
             "name": name,
-            "text": render_file(header=header, lines=category["lines"]),
+            "description": category["description"],
+            "text": render_file(header=header, lines=category["lines"], note=name),
             "rules": category["count"],
             "origins": origin_notes,
             "path": f"{CONFIG['unified']['out']}/{name}{CONFIG['unified']['ext']}",
@@ -956,7 +1058,12 @@ def sync(repo_root: Path, *, limit: int | None = None, dry_run: bool = False) ->
 
     source_items = {
         "quixoticheart": [
-            {"name": item["name"], "lines": item["lines"]} for item in qx.values()
+            {
+                "name": item["name"],
+                "lines": item["lines"],
+                "description": item.get("description", ""),
+            }
+            for item in qx.values()
         ],
         "blackmatrix7": bmx_items,
     }

@@ -45,8 +45,29 @@ Rules/
 - 镜像目录严格沿用上游目录与文件名，方便和上游对照、便于 `git diff` 溯源。
 - 统一库按「分类」出文件；分类名归一化后（忽略大小写与标点）相同的规则集会合并，
   例如来源一的 `apple` 与来源二的 `Apple` 合并为 `Rules/Unified/apple.list`。
-- 每个生成文件顶部有静态注释头（来源、上游地址、规则数），**不含时间戳**，
+- 每个生成文件顶部有静态注释头（来源、上游地址、说明、规则数），**不含时间戳**，
   所以规则没变时文件字节不变，不会产生空提交。
+
+### 规则注释
+
+每条规则上方都有一行 `# 目标: <分类>`，说明该规则针对的软件/网站；分类的中文说明
+（来自上游 README 的规则描述/目录标签）写在文件头的 `# 说明:` 行。例如：
+
+```text
+# 来源: QuixoticHeart/rule-set@ruleset/loon/abema.list
+# 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/abema.list
+# 说明: abema 视频流媒体平台
+# 规则数: 21
+# 目标: abema
+DOMAIN,abematv.akamaized.net
+```
+
+说明：
+
+- 上游只提供「规则集/分类」粒度信息，没有逐条规则的描述，所以同一个文件内的注释相同。
+- Loon 只支持整行 `#` 注释，因此注释单独占一行写在规则上方，不改变规则的匹配语义。
+- 注释会让文件体积增加约 50%（实测见第 1 节）；可在 `CONFIG["annotation"]` 里调整：
+  `enabled: False` 关闭，或 `mode: "section"` 只保留文件开头的一条注释。
 
 ## 3. 抓取与归一化
 
