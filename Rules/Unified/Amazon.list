@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Amazon
-# 合并来源: luestr/ShuntRules Amazon
+# 合并来源: blackmatrix7/ios_rule_script Amazon
 # 规则数: 220
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.cn

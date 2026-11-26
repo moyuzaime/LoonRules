@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/JianShu/JianShu.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JianShu/JianShu.list
+# 规则数: 5
+DOMAIN-SUFFIX,baijii.com
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,jianshuapi.com
+DOMAIN-SUFFIX,shengmingfa.com

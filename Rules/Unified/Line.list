@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Line
-# 合并来源: luestr/ShuntRules Line
+# 合并来源: blackmatrix7/ios_rule_script Line
 # 规则数: 40
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com

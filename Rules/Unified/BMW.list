@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: BMW
-# 合并来源: luestr/ShuntRules BMW
+# 合并来源: blackmatrix7/ios_rule_script BMW
 # 规则数: 729
 DOMAIN-SUFFIX,4myminicard.com
 DOMAIN-SUFFIX,aboutyourmini.com

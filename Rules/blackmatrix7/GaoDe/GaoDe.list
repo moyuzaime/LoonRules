@@ -1,0 +1,12 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/GaoDe/GaoDe.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GaoDe/GaoDe.list
+# 规则数: 9
+DOMAIN-SUFFIX,a-map.cn
+DOMAIN-SUFFIX,a-map.co
+DOMAIN-SUFFIX,a-map.link
+DOMAIN-SUFFIX,a-map.vip
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,amapauto.com
+DOMAIN-SUFFIX,anav.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,gaode.com

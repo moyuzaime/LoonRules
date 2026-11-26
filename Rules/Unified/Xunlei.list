@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Xunlei
-# 合并来源: luestr/ShuntRules Xunlei
+# 合并来源: blackmatrix7/ios_rule_script Xunlei
 # 规则数: 31
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,155.com

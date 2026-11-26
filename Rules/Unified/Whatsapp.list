@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Whatsapp
-# 合并来源: luestr/ShuntRules Whatsapp
+# 合并来源: blackmatrix7/ios_rule_script Whatsapp
 # 规则数: 28
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com

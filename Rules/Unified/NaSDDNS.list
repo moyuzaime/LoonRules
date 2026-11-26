@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: NaSDDNS
-# 合并来源: luestr/ShuntRules NaSDDNS
+# 合并来源: blackmatrix7/ios_rule_script NaSDDNS
 # 规则数: 59
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,3322.org

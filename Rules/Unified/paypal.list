@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: paypal
-# 合并来源: QuixoticHeart/rule-set paypal; luestr/ShuntRules PayPal
+# 合并来源: QuixoticHeart/rule-set paypal; blackmatrix7/ios_rule_script PayPal
 # 规则数: 248
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HaiNanHangKong
-# 合并来源: luestr/ShuntRules HaiNanHangKong
+# 合并来源: blackmatrix7/ios_rule_script HaiNanHangKong
 # 规则数: 6
 DOMAIN-SUFFIX,10044.cn
 DOMAIN-SUFFIX,hainanairlines.com

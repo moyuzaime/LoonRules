@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: IKEA
-# 合并来源: luestr/ShuntRules IKEA
+# 合并来源: blackmatrix7/ios_rule_script IKEA
 # 规则数: 95
 DOMAIN-SUFFIX,ikea.ae
 DOMAIN-SUFFIX,ikea.at

@@ -1,0 +1,11 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Wordpress/Wordpress.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Wordpress/Wordpress.list
+# 规则数: 8
+DOMAIN-SUFFIX,videopress.com
+DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wpvip.com

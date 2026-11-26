@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: BesTV
-# 合并来源: luestr/ShuntRules BesTV
+# 合并来源: blackmatrix7/ios_rule_script BesTV
 # 规则数: 7
 DOMAIN-SUFFIX,bbtv.cn
 DOMAIN-SUFFIX,bestv.com.cn

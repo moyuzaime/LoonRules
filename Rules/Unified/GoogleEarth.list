@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: GoogleEarth
-# 合并来源: luestr/ShuntRules GoogleEarth
+# 合并来源: blackmatrix7/ios_rule_script GoogleEarth
 # 规则数: 16
 DOMAIN-SUFFIX,earth-pa.clients6.google.com
 DOMAIN-SUFFIX,earth.google.com

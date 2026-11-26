@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HBOHK
-# 合并来源: luestr/ShuntRules HBOHK
+# 合并来源: blackmatrix7/ios_rule_script HBOHK
 # 规则数: 24
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,hboasia.com

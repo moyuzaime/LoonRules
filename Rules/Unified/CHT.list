@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CHT
-# 合并来源: luestr/ShuntRules CHT
+# 合并来源: blackmatrix7/ios_rule_script CHT
 # 规则数: 7
 DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,chtf.org.tw

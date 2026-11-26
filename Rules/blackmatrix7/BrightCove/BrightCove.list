@@ -1,0 +1,17 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/BrightCove/BrightCove.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BrightCove/BrightCove.list
+# 规则数: 14
+DOMAIN-SUFFIX,bcove.video
+DOMAIN-SUFFIX,bcovlive-a.akamaihd.net
+DOMAIN-SUFFIX,bcovlive.io
+DOMAIN-SUFFIX,bcsecure01-a.akamaihd.net
+DOMAIN-SUFFIX,bcvp0rtal.com
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,brightcove.imgix.net
+DOMAIN-SUFFIX,brightcove.net
+DOMAIN-SUFFIX,brightcove.services
+DOMAIN-SUFFIX,brightcovecdn.com
+DOMAIN-SUFFIX,videojs.com
+DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,zencoder.com

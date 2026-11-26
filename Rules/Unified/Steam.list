@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Steam
-# 合并来源: luestr/ShuntRules Steam
+# 合并来源: blackmatrix7/ios_rule_script Steam
 # 规则数: 81
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
 DOMAIN-SUFFIX,cdn-qc.content.steamchina.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: WoLai
-# 合并来源: luestr/ShuntRules WoLai
+# 合并来源: blackmatrix7/ios_rule_script WoLai
 # 规则数: 5
 DOMAIN-SUFFIX,wol.tv
 DOMAIN-SUFFIX,wolai.com

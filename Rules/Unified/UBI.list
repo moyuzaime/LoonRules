@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: UBI
-# 合并来源: luestr/ShuntRules UBI
+# 合并来源: blackmatrix7/ios_rule_script UBI
 # 规则数: 5
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com

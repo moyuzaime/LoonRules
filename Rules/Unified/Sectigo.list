@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Sectigo
-# 合并来源: luestr/ShuntRules Sectigo
+# 合并来源: blackmatrix7/ios_rule_script Sectigo
 # 规则数: 7
 DOMAIN-SUFFIX,enterprisessl.com
 DOMAIN-SUFFIX,hackerguardian.com

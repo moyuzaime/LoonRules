@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Dandanplay
-# 合并来源: luestr/ShuntRules Dandanplay
+# 合并来源: blackmatrix7/ios_rule_script Dandanplay
 # 规则数: 3
 DOMAIN-SUFFIX,acplay.net
 DOMAIN-SUFFIX,dandanplay.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ChengTongWangPan
-# 合并来源: luestr/ShuntRules ChengTongWangPan
+# 合并来源: blackmatrix7/ios_rule_script ChengTongWangPan
 # 规则数: 4
 DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,ctfile.net

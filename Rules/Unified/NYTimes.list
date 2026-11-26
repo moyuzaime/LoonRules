@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: NYTimes
-# 合并来源: luestr/ShuntRules NYTimes
+# 合并来源: blackmatrix7/ios_rule_script NYTimes
 # 规则数: 16
 DOMAIN-SUFFIX,d1f1eryiqyjs0r.cloudfront.net
 DOMAIN-SUFFIX,d3lar09xbwlsge.cloudfront.net

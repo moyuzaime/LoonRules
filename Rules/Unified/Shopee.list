@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Shopee
-# 合并来源: luestr/ShuntRules Shopee
+# 合并来源: blackmatrix7/ios_rule_script Shopee
 # 规则数: 21
 DOMAIN-SUFFIX,shopee.cl
 DOMAIN-SUFFIX,shopee.cn

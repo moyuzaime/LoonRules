@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: WanMeiShiJie
-# 合并来源: luestr/ShuntRules WanMeiShiJie
+# 合并来源: blackmatrix7/ios_rule_script WanMeiShiJie
 # 规则数: 11
 DOMAIN-SUFFIX,counter-strike.cn
 DOMAIN-SUFFIX,counter-strike.com.cn

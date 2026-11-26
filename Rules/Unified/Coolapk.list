@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Coolapk
-# 合并来源: luestr/ShuntRules Coolapk
+# 合并来源: blackmatrix7/ios_rule_script Coolapk
 # 规则数: 3
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com

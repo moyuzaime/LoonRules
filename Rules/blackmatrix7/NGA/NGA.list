@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/NGA/NGA.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NGA/NGA.list
+# 规则数: 4
+DOMAIN-SUFFIX,178.com
+DOMAIN-SUFFIX,nga.cn
+DOMAIN-SUFFIX,ngabbs.com
+DOMAIN-SUFFIX,ngacn.cc

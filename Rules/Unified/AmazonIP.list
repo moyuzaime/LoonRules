@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AmazonIP
-# 合并来源: luestr/ShuntRules AmazonIP
+# 合并来源: blackmatrix7/ios_rule_script AmazonIP
 # 规则数: 3042
 IP-CIDR,1.178.72.0/21,no-resolve
 IP-CIDR,100.20.0.0/14,no-resolve

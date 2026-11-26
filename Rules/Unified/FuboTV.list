@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: FuboTV
-# 合并来源: luestr/ShuntRules FuboTV
+# 合并来源: blackmatrix7/ios_rule_script FuboTV
 # 规则数: 2
 DOMAIN-SUFFIX,fubo.tv
 DOMAIN-SUFFIX,fubotv.com

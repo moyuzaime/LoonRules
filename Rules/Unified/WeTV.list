@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: WeTV
-# 合并来源: luestr/ShuntRules WeTV
+# 合并来源: blackmatrix7/ios_rule_script WeTV
 # 规则数: 9
 DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,iflix-images.akamaized.net

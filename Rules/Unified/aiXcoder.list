@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: aiXcoder
-# 合并来源: luestr/ShuntRules aiXcoder
+# 合并来源: blackmatrix7/ios_rule_script aiXcoder
 # 规则数: 2
 DOMAIN-SUFFIX,aixcoder.com
 DOMAIN-SUFFIX,nnthink.com

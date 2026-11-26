@@ -1,0 +1,16 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Anime/Anime.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Anime/Anime.list
+# 规则数: 13
+DOMAIN-SUFFIX,9anime.cz
+DOMAIN-SUFFIX,9anime.id
+DOMAIN-SUFFIX,9anime.to
+DOMAIN-SUFFIX,9anime.ws
+DOMAIN-SUFFIX,animedao-tv.com
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,funimation.com
+DOMAIN-SUFFIX,gogo-load.com
+DOMAIN-SUFFIX,gogoanime.vc
+DOMAIN-SUFFIX,gogoanime.wiki
+DOMAIN-SUFFIX,gogocdn.net
+DOMAIN-SUFFIX,hidive.com
+DOMAIN-SUFFIX,vrv.co

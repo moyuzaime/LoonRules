@@ -1,0 +1,9 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/HaiNanHangKong/HaiNanHangKong.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HaiNanHangKong/HaiNanHangKong.list
+# 规则数: 6
+DOMAIN-SUFFIX,10044.cn
+DOMAIN-SUFFIX,hainanairlines.com
+DOMAIN-SUFFIX,hnacargo.com
+DOMAIN-SUFFIX,hnair.com
+DOMAIN-SUFFIX,hnair.net
+DOMAIN-KEYWORD,hnagroup

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: FengHuangWang
-# 合并来源: luestr/ShuntRules FengHuangWang
+# 合并来源: blackmatrix7/ios_rule_script FengHuangWang
 # 规则数: 9
 DOMAIN-SUFFIX,fengcx.com
 DOMAIN-SUFFIX,fengedu.com

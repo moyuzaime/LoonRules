@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HunanTV
-# 合并来源: luestr/ShuntRules HunanTV
+# 合并来源: blackmatrix7/ios_rule_script HunanTV
 # 规则数: 8
 DOMAIN-SUFFIX,hifuntv.com
 DOMAIN-SUFFIX,hitv.com

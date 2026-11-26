@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: dazn
-# 合并来源: QuixoticHeart/rule-set dazn; luestr/ShuntRules DAZN
+# 合并来源: QuixoticHeart/rule-set dazn; blackmatrix7/ios_rule_script DAZN
 # 规则数: 22
 DOMAIN-SUFFIX,control.kochava.com
 DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net

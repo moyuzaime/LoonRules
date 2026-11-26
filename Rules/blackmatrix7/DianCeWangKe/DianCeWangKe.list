@@ -1,0 +1,11 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/DianCeWangKe/DianCeWangKe.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DianCeWangKe/DianCeWangKe.list
+# 规则数: 8
+DOMAIN-SUFFIX,pgyer.cc
+DOMAIN-SUFFIX,pgyer.com
+DOMAIN-SUFFIX,pgyer.im
+DOMAIN-SUFFIX,qcers.com
+DOMAIN-SUFFIX,qcers.net
+DOMAIN-SUFFIX,testin.im
+DOMAIN-SUFFIX,tracup.com
+DOMAIN-SUFFIX,xcxwo.com

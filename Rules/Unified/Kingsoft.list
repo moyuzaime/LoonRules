@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Kingsoft
-# 合并来源: luestr/ShuntRules Kingsoft
+# 合并来源: blackmatrix7/ios_rule_script Kingsoft
 # 规则数: 256
 DOMAIN-SUFFIX,35go.cn
 DOMAIN-SUFFIX,35go.net

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: MeiTu
-# 合并来源: luestr/ShuntRules MeiTu
+# 合并来源: blackmatrix7/ios_rule_script MeiTu
 # 规则数: 4
 DOMAIN-SUFFIX,meipai.com
 DOMAIN-SUFFIX,meitu.com

@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/WildRift/WildRift.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WildRift/WildRift.list
+# 规则数: 3
+DOMAIN-SUFFIX,pvp.net
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotgames.com

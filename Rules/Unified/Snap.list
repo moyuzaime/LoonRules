@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Snap
-# 合并来源: luestr/ShuntRules Snap
+# 合并来源: blackmatrix7/ios_rule_script Snap
 # 规则数: 6
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,snap-dev.net

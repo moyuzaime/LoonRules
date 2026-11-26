@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/PotatoChat/PotatoChat_Resolve.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PotatoChat/PotatoChat_Resolve.list
+# 规则数: 3
+IP-CIDR,13.251.24.0/24
+IP-CIDR,13.251.41.0/24
+IP-CIDR,17.252.156.0/23

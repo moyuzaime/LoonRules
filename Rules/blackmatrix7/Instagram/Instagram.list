@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Instagram/Instagram.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Instagram/Instagram.list
+# 规则数: 4
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-KEYWORD,instagram

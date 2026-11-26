@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AppleMail
-# 合并来源: luestr/ShuntRules AppleMail
+# 合并来源: blackmatrix7/ios_rule_script AppleMail
 # 规则数: 2
 DOMAIN-SUFFIX,mail.icloud.com.cn
 DOMAIN-SUFFIX,mail.me.com

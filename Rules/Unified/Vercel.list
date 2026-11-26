@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Vercel
-# 合并来源: luestr/ShuntRules Vercel
+# 合并来源: blackmatrix7/ios_rule_script Vercel
 # 规则数: 27
 DOMAIN-SUFFIX,err.sh
 DOMAIN-SUFFIX,hyper.is

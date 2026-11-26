@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HashiCorp
-# 合并来源: luestr/ShuntRules HashiCorp
+# 合并来源: blackmatrix7/ios_rule_script HashiCorp
 # 规则数: 8
 DOMAIN-SUFFIX,consul.io
 DOMAIN-SUFFIX,hashicorp.com

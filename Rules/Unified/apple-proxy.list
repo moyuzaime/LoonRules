@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: apple-proxy
-# 合并来源: QuixoticHeart/rule-set apple-proxy; luestr/ShuntRules AppleProxy
+# 合并来源: QuixoticHeart/rule-set apple-proxy; blackmatrix7/ios_rule_script AppleProxy
 # 规则数: 50
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,apple-relay.apple.com

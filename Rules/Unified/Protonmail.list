@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Protonmail
-# 合并来源: luestr/ShuntRules Protonmail
+# 合并来源: blackmatrix7/ios_rule_script Protonmail
 # 规则数: 5
 DOMAIN-SUFFIX,pm.me
 DOMAIN-SUFFIX,proton.me

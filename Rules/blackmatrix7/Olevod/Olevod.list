@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Olevod/Olevod.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Olevod/Olevod.list
+# 规则数: 5
+DOMAIN-SUFFIX,haiwaikan.com
+DOMAIN-SUFFIX,iole.tv
+DOMAIN-SUFFIX,olehd.com
+DOMAIN-SUFFIX,olelive.com
+DOMAIN-KEYWORD,olevod

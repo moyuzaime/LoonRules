@@ -1,0 +1,9 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/HKBN/HKBN.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HKBN/HKBN.list
+# 规则数: 6
+DOMAIN-SUFFIX,csifund.org
+DOMAIN-SUFFIX,hkbn.com.hk
+DOMAIN-SUFFIX,hkbn.net
+DOMAIN-SUFFIX,hkbnes.net
+DOMAIN-SUFFIX,jos.com
+DOMAIN-SUFFIX,speedtest.com.hk

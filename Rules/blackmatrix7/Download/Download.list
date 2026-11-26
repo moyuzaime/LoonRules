@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Download/Download.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Download/Download.list
+# 规则数: 7
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,thunder
+DOMAIN-KEYWORD,xlliveud
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan
+URL-REGEX,assets\d+\.xboxlive\.(com|cn)

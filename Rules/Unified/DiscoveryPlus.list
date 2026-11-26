@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: DiscoveryPlus
-# 合并来源: luestr/ShuntRules DiscoveryPlus
+# 合并来源: blackmatrix7/ios_rule_script DiscoveryPlus
 # 规则数: 17
 DOMAIN,discovery-us.conax.cloud
 DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io

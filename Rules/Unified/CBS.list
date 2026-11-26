@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CBS
-# 合并来源: luestr/ShuntRules CBS
+# 合并来源: blackmatrix7/ios_rule_script CBS
 # 规则数: 35
 DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,cbs.com

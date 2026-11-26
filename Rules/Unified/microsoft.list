@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: microsoft
-# 合并来源: QuixoticHeart/rule-set microsoft; luestr/ShuntRules Microsoft
+# 合并来源: QuixoticHeart/rule-set microsoft; blackmatrix7/ios_rule_script Microsoft
 # 规则数: 772
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com

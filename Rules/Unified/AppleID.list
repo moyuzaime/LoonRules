@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AppleID
-# 合并来源: luestr/ShuntRules AppleID
+# 合并来源: blackmatrix7/ios_rule_script AppleID
 # 规则数: 4
 DOMAIN,appleid.apple.com
 DOMAIN,appleid.cdn-apple.com

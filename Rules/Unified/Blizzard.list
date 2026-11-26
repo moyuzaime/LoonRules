@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Blizzard
-# 合并来源: luestr/ShuntRules Blizzard
+# 合并来源: blackmatrix7/ios_rule_script Blizzard
 # 规则数: 85
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com.cn

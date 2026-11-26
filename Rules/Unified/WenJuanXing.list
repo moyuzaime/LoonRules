@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: WenJuanXing
-# 合并来源: luestr/ShuntRules WenJuanXing
+# 合并来源: blackmatrix7/ios_rule_script WenJuanXing
 # 规则数: 4
 DOMAIN-SUFFIX,sojump.com
 DOMAIN-SUFFIX,wjx.cn

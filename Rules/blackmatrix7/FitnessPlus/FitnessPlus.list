@@ -1,0 +1,5 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/FitnessPlus/FitnessPlus.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FitnessPlus/FitnessPlus.list
+# 规则数: 2
+DOMAIN,amp-api.fitness.apple.com
+DOMAIN,hls-svod.itunes.apple.com

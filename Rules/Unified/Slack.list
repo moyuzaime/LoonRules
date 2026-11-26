@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Slack
-# 合并来源: luestr/ShuntRules Slack
+# 合并来源: blackmatrix7/ios_rule_script Slack
 # 规则数: 11
 DOMAIN-SUFFIX,slack-core.com
 DOMAIN-SUFFIX,slack-edge.com

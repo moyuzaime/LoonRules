@@ -1,0 +1,5 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/TruthSocial/TruthSocial.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TruthSocial/TruthSocial.list
+# 规则数: 2
+DOMAIN-SUFFIX,trk.bonsa.net
+DOMAIN-SUFFIX,truthsocial.com

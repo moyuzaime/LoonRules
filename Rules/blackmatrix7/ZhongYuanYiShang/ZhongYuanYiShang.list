@@ -1,0 +1,12 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/ZhongYuanYiShang/ZhongYuanYiShang.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhongYuanYiShang/ZhongYuanYiShang.list
+# 规则数: 9
+DOMAIN-SUFFIX,bjesound.com
+DOMAIN-SUFFIX,earlymen.com.cn
+DOMAIN-SUFFIX,esound.cn
+DOMAIN-SUFFIX,esound.net.cn
+DOMAIN-SUFFIX,esound.vip
+DOMAIN-SUFFIX,flymodem.cn
+DOMAIN-SUFFIX,flymodem.com.cn
+DOMAIN-SUFFIX,flymodem.net
+DOMAIN-SUFFIX,iotboss.cn

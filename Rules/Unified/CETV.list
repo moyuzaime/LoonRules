@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CETV
-# 合并来源: luestr/ShuntRules CETV
+# 合并来源: blackmatrix7/ios_rule_script CETV
 # 规则数: 3
 DOMAIN-SUFFIX,centv.cn
 DOMAIN-SUFFIX,centv.net.cn

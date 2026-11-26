@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Classic/Classic.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Classic/Classic.list
+# 规则数: 4
+DOMAIN,asia.battle.net
+DOMAIN,europe.battle.net
+DOMAIN,useast.battle.net
+DOMAIN,uswest.battle.net

@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/OKX/OKX.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OKX/OKX.list
+# 规则数: 3
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com

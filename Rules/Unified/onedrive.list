@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: onedrive
-# 合并来源: QuixoticHeart/rule-set onedrive; luestr/ShuntRules OneDrive
+# 合并来源: QuixoticHeart/rule-set onedrive; blackmatrix7/ios_rule_script OneDrive
 # 规则数: 21
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com

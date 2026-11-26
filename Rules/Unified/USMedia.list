@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: USMedia
-# 合并来源: luestr/ShuntRules USMedia
+# 合并来源: blackmatrix7/ios_rule_script USMedia
 # 规则数: 98
 DOMAIN,espn.api.edge.bamgrid.com
 DOMAIN,espn.hb.omtrdc.net

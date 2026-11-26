@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/HuYa/HuYa.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HuYa/HuYa.list
+# 规则数: 4
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,huyagame.cn
+DOMAIN-SUFFIX,peiwanlu.com
+DOMAIN-SUFFIX,snapplay.com

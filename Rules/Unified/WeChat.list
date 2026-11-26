@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: WeChat
-# 合并来源: luestr/ShuntRules WeChat
+# 合并来源: blackmatrix7/ios_rule_script WeChat
 # 规则数: 34
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com

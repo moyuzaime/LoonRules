@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: SMG
-# 合并来源: luestr/ShuntRules SMG
+# 合并来源: blackmatrix7/ios_rule_script SMG
 # 规则数: 4
 DOMAIN-SUFFIX,cptn.tv
 DOMAIN-SUFFIX,sava.sh.cn

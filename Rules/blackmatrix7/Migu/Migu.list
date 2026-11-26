@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Migu/Migu.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Migu/Migu.list
+# 规则数: 5
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,miguvideo.com
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*

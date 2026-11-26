@@ -1,0 +1,12 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/OuPeng/OuPeng.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OuPeng/OuPeng.list
+# 规则数: 9
+DOMAIN-SUFFIX,adbxb.cn
+DOMAIN-SUFFIX,adbxb.com
+DOMAIN-SUFFIX,opfed.com
+DOMAIN-SUFFIX,opthink.cn
+DOMAIN-SUFFIX,oupeng.com
+DOMAIN-SUFFIX,oupeng.net.cn
+DOMAIN-SUFFIX,oupeng9.com
+DOMAIN-SUFFIX,oupengcloud.cn
+DOMAIN-SUFFIX,oupengcloud.net

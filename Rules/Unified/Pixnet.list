@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Pixnet
-# 合并来源: luestr/ShuntRules Pixnet
+# 合并来源: blackmatrix7/ios_rule_script Pixnet
 # 规则数: 9
 DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,pixanalytics.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Vivo
-# 合并来源: luestr/ShuntRules Vivo
+# 合并来源: blackmatrix7/ios_rule_script Vivo
 # 规则数: 14
 DOMAIN-SUFFIX,bbk.com
 DOMAIN-SUFFIX,bbktel.com.cn

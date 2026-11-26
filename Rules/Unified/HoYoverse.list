@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HoYoverse
-# 合并来源: luestr/ShuntRules HoYoverse
+# 合并来源: blackmatrix7/ios_rule_script HoYoverse
 # 规则数: 11
 DOMAIN-SUFFIX,genshinimpact.com
 DOMAIN-SUFFIX,honkaiimpact3.com

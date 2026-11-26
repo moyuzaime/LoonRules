@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: DingXiangYuan
-# 合并来源: luestr/ShuntRules DingXiangYuan
+# 合并来源: blackmatrix7/ios_rule_script DingXiangYuan
 # 规则数: 16
 DOMAIN-SUFFIX,0dxy.cn
 DOMAIN-SUFFIX,biomart.cn

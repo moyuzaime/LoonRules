@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AbemaTV
-# 合并来源: luestr/ShuntRules AbemaTV
+# 合并来源: blackmatrix7/ios_rule_script AbemaTV
 # 规则数: 24
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io

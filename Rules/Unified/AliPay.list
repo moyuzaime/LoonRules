@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AliPay
-# 合并来源: luestr/ShuntRules AliPay
+# 合并来源: blackmatrix7/ios_rule_script AliPay
 # 规则数: 21
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,alipay-corp.com

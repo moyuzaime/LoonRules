@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: MicrosoftEdge
-# 合并来源: luestr/ShuntRules MicrosoftEdge
+# 合并来源: blackmatrix7/ios_rule_script MicrosoftEdge
 # 规则数: 4
 DOMAIN,edge.activity.windows.com
 DOMAIN,edge.microsoft.com

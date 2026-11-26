@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Huffpost
-# 合并来源: luestr/ShuntRules Huffpost
+# 合并来源: blackmatrix7/ios_rule_script Huffpost
 # 规则数: 18
 DOMAIN-SUFFIX,huffingtonpost.ca
 DOMAIN-SUFFIX,huffingtonpost.co.uk

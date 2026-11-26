@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: McDonalds
-# 合并来源: luestr/ShuntRules McDonalds
+# 合并来源: blackmatrix7/ios_rule_script McDonalds
 # 规则数: 25
 DOMAIN-SUFFIX,4008-517-517.cn
 DOMAIN-SUFFIX,aboutmcdonalds.com

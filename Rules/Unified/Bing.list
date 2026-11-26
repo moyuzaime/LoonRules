@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Bing
-# 合并来源: luestr/ShuntRules Bing
+# 合并来源: blackmatrix7/ios_rule_script Bing
 # 规则数: 9
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn

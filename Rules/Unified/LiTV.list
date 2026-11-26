@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: LiTV
-# 合并来源: luestr/ShuntRules LiTV
+# 合并来源: blackmatrix7/ios_rule_script LiTV
 # 规则数: 2
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv

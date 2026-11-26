@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HibyMusic
-# 合并来源: luestr/ShuntRules HibyMusic
+# 合并来源: blackmatrix7/ios_rule_script HibyMusic
 # 规则数: 3
 DOMAIN-SUFFIX,hiby.cd
 DOMAIN-SUFFIX,hiby.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: MOOV
-# 合并来源: luestr/ShuntRules MOOV
+# 合并来源: blackmatrix7/ios_rule_script MOOV
 # 规则数: 2
 DOMAIN-SUFFIX,moov.hk
 DOMAIN-SUFFIX,mtg.now.com

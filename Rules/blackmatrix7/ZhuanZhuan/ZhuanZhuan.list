@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/ZhuanZhuan/ZhuanZhuan.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhuanZhuan/ZhuanZhuan.list
+# 规则数: 4
+DOMAIN-SUFFIX,zhuan-zhuan.cn
+DOMAIN-SUFFIX,zhuancorp.com
+DOMAIN-SUFFIX,zhuanspirit.com
+DOMAIN-SUFFIX,zhuanzhuan.com

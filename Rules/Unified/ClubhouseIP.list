@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ClubhouseIP
-# 合并来源: luestr/ShuntRules ClubhouseIP
+# 合并来源: blackmatrix7/ios_rule_script ClubhouseIP
 # 规则数: 172
 DOMAIN,ap-oversea-tls.agora.io
 DOMAIN,ap-oversea.agora.io

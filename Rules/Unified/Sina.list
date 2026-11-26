@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Sina
-# 合并来源: luestr/ShuntRules Sina
+# 合并来源: blackmatrix7/ios_rule_script Sina
 # 规则数: 108
 DOMAIN-SUFFIX,001wifi.com
 DOMAIN-SUFFIX,1kapp.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: bahamut
-# 合并来源: QuixoticHeart/rule-set bahamut; luestr/ShuntRules Bahamut
+# 合并来源: QuixoticHeart/rule-set bahamut; blackmatrix7/ios_rule_script Bahamut
 # 规则数: 9
 DOMAIN-SUFFIX,bahamut.akamaized.net
 DOMAIN-SUFFIX,bahamut.com.tw

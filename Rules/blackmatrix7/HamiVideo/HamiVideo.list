@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/HamiVideo/HamiVideo.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HamiVideo/HamiVideo.list
+# 规则数: 4
+DOMAIN,hls-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN-SUFFIX,ott.hinet.net
+DOMAIN-KEYWORD,hamivideo.cdn.hinet.net

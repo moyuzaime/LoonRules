@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Gemini
-# 合并来源: luestr/ShuntRules Gemini
+# 合并来源: blackmatrix7/ios_rule_script Gemini
 # 规则数: 13
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com

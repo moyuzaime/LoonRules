@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: LanZouYun
-# 合并来源: luestr/ShuntRules LanZouYun
+# 合并来源: blackmatrix7/ios_rule_script LanZouYun
 # 规则数: 36
 DOMAIN-SUFFIX,baidupan.com
 DOMAIN-SUFFIX,bakstotre.com

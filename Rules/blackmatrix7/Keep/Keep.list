@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Keep/Keep.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Keep/Keep.list
+# 规则数: 5
+DOMAIN-SUFFIX,calorietech.com
+DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,keep.com
+DOMAIN-SUFFIX,keep.com.cn
+DOMAIN-SUFFIX,keepcdn.com

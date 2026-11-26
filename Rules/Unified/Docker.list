@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Docker
-# 合并来源: luestr/ShuntRules Docker
+# 合并来源: blackmatrix7/ios_rule_script Docker
 # 规则数: 7
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net

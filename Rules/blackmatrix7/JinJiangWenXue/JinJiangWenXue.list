@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/JinJiangWenXue/JinJiangWenXue.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JinJiangWenXue/JinJiangWenXue.list
+# 规则数: 7
+DOMAIN-SUFFIX,chaba123.com
+DOMAIN-SUFFIX,jjwxc.cn
+DOMAIN-SUFFIX,jjwxc.com
+DOMAIN-SUFFIX,jjwxc.net
+DOMAIN-SUFFIX,jjwxc.org
+DOMAIN-SUFFIX,jjycw.net
+DOMAIN-SUFFIX,robook.com

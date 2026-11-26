@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: abema
-# 合并来源: QuixoticHeart/rule-set abema; luestr/ShuntRules Abema
+# 合并来源: QuixoticHeart/rule-set abema; blackmatrix7/ios_rule_script Abema
 # 规则数: 21
 DOMAIN,abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net

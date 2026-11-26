@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: eBay
-# 合并来源: luestr/ShuntRules eBay
+# 合并来源: blackmatrix7/ios_rule_script eBay
 # 规则数: 44
 DOMAIN-SUFFIX,about.co.kr
 DOMAIN-SUFFIX,auction.co.kr

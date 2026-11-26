@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/SlideShare/SlideShare.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SlideShare/SlideShare.list
+# 规则数: 3
+DOMAIN-SUFFIX,slideshare.com
+DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,slidesharecdn.com

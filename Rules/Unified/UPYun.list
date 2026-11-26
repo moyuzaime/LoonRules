@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: UPYun
-# 合并来源: luestr/ShuntRules UPYun
+# 合并来源: blackmatrix7/ios_rule_script UPYun
 # 规则数: 16
 DOMAIN-SUFFIX,aicdn.com
 DOMAIN-SUFFIX,aicdn2.com

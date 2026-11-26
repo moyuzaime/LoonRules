@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Origin
-# 合并来源: luestr/ShuntRules Origin
+# 合并来源: blackmatrix7/ios_rule_script Origin
 # 规则数: 7
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,eaasserts-a.akamaihd.net

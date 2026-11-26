@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: NTPService
-# 合并来源: luestr/ShuntRules NTPService
+# 合并来源: blackmatrix7/ios_rule_script NTPService
 # 规则数: 82
 DOMAIN-SUFFIX,cn.ntp.org.cn
 DOMAIN-SUFFIX,de.ntp.org.cn

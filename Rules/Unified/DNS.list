@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: DNS
-# 合并来源: luestr/ShuntRules DNS
+# 合并来源: blackmatrix7/ios_rule_script DNS
 # 规则数: 145
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN,8888.google

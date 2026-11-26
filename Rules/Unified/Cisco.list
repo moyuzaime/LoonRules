@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Cisco
-# 合并来源: luestr/ShuntRules Cisco
+# 合并来源: blackmatrix7/ios_rule_script Cisco
 # 规则数: 118
 DOMAIN-SUFFIX,academynetriders.com
 DOMAIN-SUFFIX,app-dynamics.com

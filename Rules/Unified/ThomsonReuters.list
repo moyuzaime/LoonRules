@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ThomsonReuters
-# 合并来源: luestr/ShuntRules ThomsonReuters
+# 合并来源: blackmatrix7/ios_rule_script ThomsonReuters
 # 规则数: 31
 DOMAIN-SUFFIX,aranzadi.es
 DOMAIN-SUFFIX,corepublishingsolutions.com

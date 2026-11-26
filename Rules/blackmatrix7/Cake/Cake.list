@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Cake/Cake.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cake/Cake.list
+# 规则数: 7
+DOMAIN,d1koerlbtsmkf8.cloudfront.net
+DOMAIN,d31wl6mro6753i.cloudfront.net
+DOMAIN,static-mycake.pstatic.net
+DOMAIN,vstatic-mycake.pstatic.net
+DOMAIN-SUFFIX,cake.day
+DOMAIN-SUFFIX,cakeapp.me
+DOMAIN-SUFFIX,mycake.me

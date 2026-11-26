@@ -1,0 +1,11 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/TongCheng/TongCheng.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TongCheng/TongCheng.list
+# 规则数: 8
+DOMAIN-SUFFIX,17u.cn
+DOMAIN-SUFFIX,17u.net
+DOMAIN-SUFFIX,17usoft.com
+DOMAIN-SUFFIX,17usoft.net
+DOMAIN-SUFFIX,40017.cn
+DOMAIN-SUFFIX,elong.com
+DOMAIN-SUFFIX,elongstatic.com
+DOMAIN-SUFFIX,ly.com

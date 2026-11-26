@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: XiaoGouKeJi
-# 合并来源: luestr/ShuntRules XiaoGouKeJi
+# 合并来源: blackmatrix7/ios_rule_script XiaoGouKeJi
 # 规则数: 17
 DOMAIN-SUFFIX,8moom.com
 DOMAIN-SUFFIX,moomv.com

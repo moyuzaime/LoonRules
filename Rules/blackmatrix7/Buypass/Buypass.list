@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Buypass/Buypass.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Buypass/Buypass.list
+# 规则数: 5
+DOMAIN-SUFFIX,buypass-ssl.com
+DOMAIN-SUFFIX,buypass.com
+DOMAIN-SUFFIX,buypass.no
+DOMAIN-SUFFIX,buypass.se
+DOMAIN-SUFFIX,minid.no

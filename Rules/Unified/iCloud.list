@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: iCloud
-# 合并来源: luestr/ShuntRules iCloud
+# 合并来源: blackmatrix7/ios_rule_script iCloud
 # 规则数: 61
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-icloud.cn

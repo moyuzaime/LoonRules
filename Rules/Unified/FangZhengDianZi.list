@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: FangZhengDianZi
-# 合并来源: luestr/ShuntRules FangZhengDianZi
+# 合并来源: blackmatrix7/ios_rule_script FangZhengDianZi
 # 规则数: 19
 DOMAIN-SUFFIX,cloudpress.cn
 DOMAIN-SUFFIX,cloudpub.cn

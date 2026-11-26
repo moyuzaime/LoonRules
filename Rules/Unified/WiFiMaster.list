@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: WiFiMaster
-# 合并来源: luestr/ShuntRules WiFiMaster
+# 合并来源: blackmatrix7/ios_rule_script WiFiMaster
 # 规则数: 62
 DOMAIN-SUFFIX,51huitu.cn
 DOMAIN-SUFFIX,51lstt.com

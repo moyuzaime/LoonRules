@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Dailymail
-# 合并来源: luestr/ShuntRules Dailymail
+# 合并来源: blackmatrix7/ios_rule_script Dailymail
 # 规则数: 17
 DOMAIN-SUFFIX,anm.co.uk
 DOMAIN-SUFFIX,dailym.ai

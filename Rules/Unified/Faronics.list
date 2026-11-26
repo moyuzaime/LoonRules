@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Faronics
-# 合并来源: luestr/ShuntRules Faronics
+# 合并来源: blackmatrix7/ios_rule_script Faronics
 # 规则数: 18
 DOMAIN-SUFFIX,clickedu.co.uk
 DOMAIN-SUFFIX,deepfreeze.co.uk

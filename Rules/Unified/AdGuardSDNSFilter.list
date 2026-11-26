@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AdGuardSDNSFilter
-# 合并来源: luestr/ShuntRules AdGuardSDNSFilter
+# 合并来源: blackmatrix7/ios_rule_script AdGuardSDNSFilter
 # 规则数: 109050
 DOMAIN-SUFFIX,0.101tubeporn.com
 DOMAIN-SUFFIX,0.code.cotsta.ru

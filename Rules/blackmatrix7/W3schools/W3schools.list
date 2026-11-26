@@ -1,0 +1,4 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/W3schools/W3schools.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/W3schools/W3schools.list
+# 规则数: 1
+DOMAIN-SUFFIX,w3schools.com

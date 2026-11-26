@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Bestbuy
-# 合并来源: luestr/ShuntRules Bestbuy
+# 合并来源: blackmatrix7/ios_rule_script Bestbuy
 # 规则数: 82
 DOMAIN-SUFFIX,bby.com
 DOMAIN-SUFFIX,bbycastatic.ca

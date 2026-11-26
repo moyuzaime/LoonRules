@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Overwatch
-# 合并来源: luestr/ShuntRules Overwatch
+# 合并来源: blackmatrix7/ios_rule_script Overwatch
 # 规则数: 14
 IP-CIDR,185.60.112.157/32,no-resolve
 IP-CIDR,185.60.114.159/32,no-resolve

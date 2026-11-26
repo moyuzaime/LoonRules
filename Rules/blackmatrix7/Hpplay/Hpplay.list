@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Hpplay/Hpplay.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hpplay/Hpplay.list
+# 规则数: 5
+DOMAIN-SUFFIX,hpplay.cn
+DOMAIN-SUFFIX,hpplay.com.cn
+DOMAIN-SUFFIX,mirrorcast.cn
+DOMAIN-SUFFIX,mirrorcast.com.cn
+DOMAIN-SUFFIX,mirrorcast.tv

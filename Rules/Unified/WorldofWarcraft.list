@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: WorldofWarcraft
-# 合并来源: luestr/ShuntRules WorldofWarcraft
+# 合并来源: blackmatrix7/ios_rule_script WorldofWarcraft
 # 规则数: 16
 IP-CIDR,103.4.115.248/32,no-resolve
 IP-CIDR,137.221.105.2/32,no-resolve

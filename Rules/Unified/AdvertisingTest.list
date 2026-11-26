@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AdvertisingTest
-# 合并来源: luestr/ShuntRules AdvertisingTest
+# 合并来源: blackmatrix7/ios_rule_script AdvertisingTest
 # 规则数: 316373
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-rtb.gravite.net

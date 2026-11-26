@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Deepin
-# 合并来源: luestr/ShuntRules Deepin
+# 合并来源: blackmatrix7/ios_rule_script Deepin
 # 规则数: 7
 DOMAIN-SUFFIX,chinauos.com
 DOMAIN-SUFFIX,deepin.cn

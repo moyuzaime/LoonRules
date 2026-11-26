@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Acplay
-# 合并来源: luestr/ShuntRules Acplay
+# 合并来源: blackmatrix7/ios_rule_script Acplay
 # 规则数: 2
 DOMAIN-SUFFIX,acplay.net
 DOMAIN-SUFFIX,dandanplay.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: googlefcm
-# 合并来源: QuixoticHeart/rule-set googlefcm; luestr/ShuntRules GoogleFCM
+# 合并来源: QuixoticHeart/rule-set googlefcm; blackmatrix7/ios_rule_script GoogleFCM
 # 规则数: 67
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com

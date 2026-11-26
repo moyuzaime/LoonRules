@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CGB
-# 合并来源: luestr/ShuntRules CGB
+# 合并来源: blackmatrix7/ios_rule_script CGB
 # 规则数: 4
 DOMAIN-SUFFIX,95508.com
 DOMAIN-SUFFIX,cgbchina.cn

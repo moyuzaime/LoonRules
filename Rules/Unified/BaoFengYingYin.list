@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: BaoFengYingYin
-# 合并来源: luestr/ShuntRules BaoFengYingYin
+# 合并来源: blackmatrix7/ios_rule_script BaoFengYingYin
 # 规则数: 8
 DOMAIN-SUFFIX,baofeng.com
 DOMAIN-SUFFIX,baofeng.mobi

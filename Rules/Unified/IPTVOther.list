@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: IPTVOther
-# 合并来源: luestr/ShuntRules IPTVOther
+# 合并来源: blackmatrix7/ios_rule_script IPTVOther
 # 规则数: 3329
 IP-CIDR,1.222.207.80/32,no-resolve
 IP-CIDR,1.245.74.5/32,no-resolve

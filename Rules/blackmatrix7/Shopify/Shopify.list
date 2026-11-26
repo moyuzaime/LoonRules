@@ -1,0 +1,11 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Shopify/Shopify.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Shopify/Shopify.list
+# 规则数: 8
+DOMAIN-SUFFIX,myshopify.com
+DOMAIN-SUFFIX,shop.app
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,shopify.dev
+DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shopifycloud.com
+DOMAIN-SUFFIX,shopifystatus.com
+DOMAIN-SUFFIX,shopifysvc.com

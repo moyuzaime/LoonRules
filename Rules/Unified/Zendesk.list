@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Zendesk
-# 合并来源: luestr/ShuntRules Zendesk
+# 合并来源: blackmatrix7/ios_rule_script Zendesk
 # 规则数: 6
 DOMAIN-SUFFIX,outbound.io
 DOMAIN-SUFFIX,zdassets.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: BaiShanYunKeJi
-# 合并来源: luestr/ShuntRules BaiShanYunKeJi
+# 合并来源: blackmatrix7/ios_rule_script BaiShanYunKeJi
 # 规则数: 59
 DOMAIN-SUFFIX,5gcdnx.com
 DOMAIN-SUFFIX,baicdnx.com

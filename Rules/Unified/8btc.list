@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: 8btc
-# 合并来源: luestr/ShuntRules 8btc
+# 合并来源: blackmatrix7/ios_rule_script 8btc
 # 规则数: 5
 DOMAIN-SUFFIX,8btc.com
 DOMAIN-SUFFIX,bystack.com

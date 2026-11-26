@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Adidas
-# 合并来源: luestr/ShuntRules Adidas
+# 合并来源: blackmatrix7/ios_rule_script Adidas
 # 规则数: 19
 DOMAIN-SUFFIX,adidas.at
 DOMAIN-SUFFIX,adidas.be

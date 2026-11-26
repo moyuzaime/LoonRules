@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Spark
-# 合并来源: luestr/ShuntRules Spark
+# 合并来源: blackmatrix7/ios_rule_script Spark
 # 规则数: 5
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,firebaseio.com

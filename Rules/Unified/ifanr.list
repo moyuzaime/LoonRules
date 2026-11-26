@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ifanr
-# 合并来源: luestr/ShuntRules ifanr
+# 合并来源: blackmatrix7/ios_rule_script ifanr
 # 规则数: 34
 DOMAIN-SUFFIX,01hub.com
 DOMAIN-SUFFIX,app.so

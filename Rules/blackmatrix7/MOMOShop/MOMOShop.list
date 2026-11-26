@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/MOMOShop/MOMOShop.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/MOMOShop/MOMOShop.list
+# 规则数: 4
+DOMAIN-SUFFIX,momo.dm
+DOMAIN-SUFFIX,momo5188.com
+DOMAIN-SUFFIX,momomall.com.tw
+DOMAIN-SUFFIX,momoshop.com.tw

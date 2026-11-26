@@ -1,0 +1,12 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/KKBOX/KKBOX.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KKBOX/KKBOX.list
+# 规则数: 9
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kk.stream
+DOMAIN-SUFFIX,kkbox-prime.com
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kktix.com
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net

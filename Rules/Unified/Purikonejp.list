@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Purikonejp
-# 合并来源: luestr/ShuntRules Purikonejp
+# 合并来源: blackmatrix7/ios_rule_script Purikonejp
 # 规则数: 3
 DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
 DOMAIN-SUFFIX,omotenashi.cygames.jp

@@ -1,4 +1,4 @@
 # 统一规则库 | 分类: AnandTech
-# 合并来源: luestr/ShuntRules AnandTech
+# 合并来源: blackmatrix7/ios_rule_script AnandTech
 # 规则数: 1
 DOMAIN-SUFFIX,anandtech.com

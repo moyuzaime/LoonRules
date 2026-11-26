@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Viki
-# 合并来源: luestr/ShuntRules Viki
+# 合并来源: blackmatrix7/ios_rule_script Viki
 # 规则数: 8
 DOMAIN-SUFFIX,kalhlspd-a.akamaihd.net
 DOMAIN-SUFFIX,m-content-viki.s.llnwi.net

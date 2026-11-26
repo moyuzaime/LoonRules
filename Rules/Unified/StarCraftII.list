@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: StarCraftII
-# 合并来源: luestr/ShuntRules StarCraftII
+# 合并来源: blackmatrix7/ios_rule_script StarCraftII
 # 规则数: 16
 IP-CIDR,103.4.114.233/32,no-resolve
 IP-CIDR,185.60.112.157/32,no-resolve

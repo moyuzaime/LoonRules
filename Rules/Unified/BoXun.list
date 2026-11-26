@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: BoXun
-# 合并来源: luestr/ShuntRules BoXun
+# 合并来源: blackmatrix7/ios_rule_script BoXun
 # 规则数: 2
 DOMAIN-SUFFIX,bowenpress.com
 DOMAIN-SUFFIX,boxun.com

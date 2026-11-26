@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/VipShop/VipShop.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/VipShop/VipShop.list
+# 规则数: 4
+DOMAIN-SUFFIX,appsimg.com
+DOMAIN-SUFFIX,appvipshop.com
+DOMAIN-SUFFIX,vip.com
+DOMAIN-SUFFIX,vipstatic.com

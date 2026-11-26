@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Jwplayer/Jwplayer.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Jwplayer/Jwplayer.list
+# 规则数: 5
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplatform.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com

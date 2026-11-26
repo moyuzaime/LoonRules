@@ -1,0 +1,12 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/TaiheMusic/TaiheMusic.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TaiheMusic/TaiheMusic.list
+# 规则数: 9
+DOMAIN-SUFFIX,91q.com
+DOMAIN-SUFFIX,dmhmusic.com
+DOMAIN-SUFFIX,qianqian.com
+DOMAIN-SUFFIX,submusic.cn
+DOMAIN-SUFFIX,taihe.com
+DOMAIN-SUFFIX,ttplayer.com
+DOMAIN-SUFFIX,youyou.com
+DOMAIN-SUFFIX,youyou001.com
+USER-AGENT,baiduyinyue

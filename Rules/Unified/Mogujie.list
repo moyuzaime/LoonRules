@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Mogujie
-# 合并来源: luestr/ShuntRules Mogujie
+# 合并来源: blackmatrix7/ios_rule_script Mogujie
 # 规则数: 10
 DOMAIN-SUFFIX,juangua.com
 DOMAIN-SUFFIX,linkeye.net

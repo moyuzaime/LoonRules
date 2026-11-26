@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Binance
-# 合并来源: luestr/ShuntRules Binance
+# 合并来源: blackmatrix7/ios_rule_script Binance
 # 规则数: 12
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cloud

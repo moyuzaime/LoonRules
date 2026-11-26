@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ChinaMobile
-# 合并来源: luestr/ShuntRules ChinaMobile
+# 合并来源: blackmatrix7/ios_rule_script ChinaMobile
 # 规则数: 39
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,10086kuaixiu.com

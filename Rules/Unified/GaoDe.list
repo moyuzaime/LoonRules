@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: GaoDe
-# 合并来源: luestr/ShuntRules GaoDe
+# 合并来源: blackmatrix7/ios_rule_script GaoDe
 # 规则数: 9
 DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,a-map.co

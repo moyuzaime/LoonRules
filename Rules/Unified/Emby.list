@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Emby
-# 合并来源: luestr/ShuntRules Emby
+# 合并来源: blackmatrix7/ios_rule_script Emby
 # 规则数: 51
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki

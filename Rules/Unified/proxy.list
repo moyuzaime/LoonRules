@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: proxy
-# 合并来源: QuixoticHeart/rule-set proxy; luestr/ShuntRules Proxy
+# 合并来源: QuixoticHeart/rule-set proxy; blackmatrix7/ios_rule_script Proxy
 # 规则数: 30456
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com

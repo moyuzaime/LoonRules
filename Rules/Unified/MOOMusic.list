@@ -1,4 +1,4 @@
 # 统一规则库 | 分类: MOOMusic
-# 合并来源: luestr/ShuntRules MOOMusic
+# 合并来源: blackmatrix7/ios_rule_script MOOMusic
 # 规则数: 1
 USER-AGENT,TencentMidasConnect*

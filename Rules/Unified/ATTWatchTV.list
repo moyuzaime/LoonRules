@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ATTWatchTV
-# 合并来源: luestr/ShuntRules ATTWatchTV
+# 合并来源: blackmatrix7/ios_rule_script ATTWatchTV
 # 规则数: 6
 DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,atttvnow.com

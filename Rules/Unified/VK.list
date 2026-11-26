@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: VK
-# 合并来源: luestr/ShuntRules VK
+# 合并来源: blackmatrix7/ios_rule_script VK
 # 规则数: 7
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AppleDev
-# 合并来源: luestr/ShuntRules AppleDev
+# 合并来源: blackmatrix7/ios_rule_script AppleDev
 # 规则数: 40
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-mapkit.com

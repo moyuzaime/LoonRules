@@ -1,0 +1,4 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/3dm/3dm.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/3dm/3dm.list
+# 规则数: 1
+DOMAIN-SUFFIX,3dmgame.com

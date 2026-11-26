@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Sling/Sling.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Sling/Sling.list
+# 规则数: 5
+DOMAIN-SUFFIX,dishworld.com
+DOMAIN-SUFFIX,movenetworks.com
+DOMAIN-SUFFIX,movetv.com
+DOMAIN-SUFFIX,sling.com
+DOMAIN-SUFFIX,slinginternational.com

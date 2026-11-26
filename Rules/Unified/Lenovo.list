@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Lenovo
-# 合并来源: luestr/ShuntRules Lenovo
+# 合并来源: blackmatrix7/ios_rule_script Lenovo
 # 规则数: 32
 DOMAIN-SUFFIX,blurdev.com
 DOMAIN-SUFFIX,cftsupport.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Wikimedia
-# 合并来源: luestr/ShuntRules Wikimedia
+# 合并来源: blackmatrix7/ios_rule_script Wikimedia
 # 规则数: 20
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,toolforge.org

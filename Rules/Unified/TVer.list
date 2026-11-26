@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: TVer
-# 合并来源: luestr/ShuntRules TVer
+# 合并来源: blackmatrix7/ios_rule_script TVer
 # 规则数: 7
 DOMAIN-SUFFIX,dogatch.jp
 DOMAIN-SUFFIX,edge.api.brightcove.com

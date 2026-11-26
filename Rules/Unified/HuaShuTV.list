@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HuaShuTV
-# 合并来源: luestr/ShuntRules HuaShuTV
+# 合并来源: blackmatrix7/ios_rule_script HuaShuTV
 # 规则数: 6
 DOMAIN-SUFFIX,hzcnc.com
 DOMAIN-SUFFIX,hzdtv.tv

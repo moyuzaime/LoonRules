@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Ku6
-# 合并来源: luestr/ShuntRules Ku6
+# 合并来源: blackmatrix7/ios_rule_script Ku6
 # 规则数: 11
 DOMAIN-SUFFIX,feedsp.com
 DOMAIN-SUFFIX,juchang.cn

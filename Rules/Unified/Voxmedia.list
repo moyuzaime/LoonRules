@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Voxmedia
-# 合并来源: luestr/ShuntRules Voxmedia
+# 合并来源: blackmatrix7/ios_rule_script Voxmedia
 # 规则数: 16
 DOMAIN-SUFFIX,cstatic.net
 DOMAIN-SUFFIX,curbed.com

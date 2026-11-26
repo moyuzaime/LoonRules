@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Dynu
-# 合并来源: luestr/ShuntRules Dynu
+# 合并来源: blackmatrix7/ios_rule_script Dynu
 # 规则数: 3
 DOMAIN-SUFFIX,dynu.com
 DOMAIN-SUFFIX,dynu.net

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: STUN
-# 合并来源: luestr/ShuntRules STUN
+# 合并来源: blackmatrix7/ios_rule_script STUN
 # 规则数: 382
 DOMAIN,iphone-stun.strato-iphone.de
 DOMAIN,relay.webwormhole.io

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Sony
-# 合并来源: luestr/ShuntRules Sony
+# 合并来源: blackmatrix7/ios_rule_script Sony
 # 规则数: 116
 DOMAIN,sonyliveevents-nonssai.akamaized.net
 DOMAIN-SUFFIX,cn-playnow.com.cn

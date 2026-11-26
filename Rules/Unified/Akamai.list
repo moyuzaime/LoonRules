@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Akamai
-# 合并来源: luestr/ShuntRules Akamai
+# 合并来源: blackmatrix7/ios_rule_script Akamai
 # 规则数: 6
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,akamai.net

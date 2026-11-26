@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: LianMeng
-# 合并来源: luestr/ShuntRules LianMeng
+# 合并来源: blackmatrix7/ios_rule_script LianMeng
 # 规则数: 13
 DOMAIN-SUFFIX,2333333333333.com
 DOMAIN-SUFFIX,bqtalk.com

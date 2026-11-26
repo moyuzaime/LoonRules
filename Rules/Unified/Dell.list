@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Dell
-# 合并来源: luestr/ShuntRules Dell
+# 合并来源: blackmatrix7/ios_rule_script Dell
 # 规则数: 118
 DOMAIN-SUFFIX,air-watch.com
 DOMAIN-SUFFIX,airwatchexpress.com

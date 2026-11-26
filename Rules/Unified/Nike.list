@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Nike
-# 合并来源: luestr/ShuntRules Nike
+# 合并来源: blackmatrix7/ios_rule_script Nike
 # 规则数: 11
 DOMAIN-SUFFIX,nike.com
 DOMAIN-SUFFIX,nike.com.br

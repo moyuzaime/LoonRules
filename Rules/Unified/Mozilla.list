@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Mozilla
-# 合并来源: luestr/ShuntRules Mozilla
+# 合并来源: blackmatrix7/ios_rule_script Mozilla
 # 规则数: 21
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,crates.io

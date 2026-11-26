@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: YunFanJiaSu
-# 合并来源: luestr/ShuntRules YunFanJiaSu
+# 合并来源: blackmatrix7/ios_rule_script YunFanJiaSu
 # 规则数: 32
 DOMAIN-SUFFIX,cdndns2.cn
 DOMAIN-SUFFIX,cdndns2.net

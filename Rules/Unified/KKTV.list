@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: KKTV
-# 合并来源: luestr/ShuntRules KKTV
+# 合并来源: blackmatrix7/ios_rule_script KKTV
 # 规则数: 6
 DOMAIN,kktv-theater.kk.stream
 DOMAIN,theater-kktv.cdn.hinet.net

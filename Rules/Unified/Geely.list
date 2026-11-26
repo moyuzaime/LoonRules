@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Geely
-# 合并来源: luestr/ShuntRules Geely
+# 合并来源: blackmatrix7/ios_rule_script Geely
 # 规则数: 50
 DOMAIN-SUFFIX,51caocao.cn
 DOMAIN-SUFFIX,51caocao.net

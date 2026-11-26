@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: XiaoHongShu
-# 合并来源: luestr/ShuntRules XiaoHongShu
+# 合并来源: blackmatrix7/ios_rule_script XiaoHongShu
 # 规则数: 4
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,xhscdn.com

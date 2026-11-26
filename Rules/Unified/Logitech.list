@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Logitech
-# 合并来源: luestr/ShuntRules Logitech
+# 合并来源: blackmatrix7/ios_rule_script Logitech
 # 规则数: 9
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logicool.co.jp

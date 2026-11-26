@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: EastMoney
-# 合并来源: luestr/ShuntRules EastMoney
+# 合并来源: blackmatrix7/ios_rule_script EastMoney
 # 规则数: 33
 DOMAIN-SUFFIX,1234567.com.cn
 DOMAIN-SUFFIX,18.cn

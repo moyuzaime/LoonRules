@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Mojitianqi/Mojitianqi.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Mojitianqi/Mojitianqi.list
+# 规则数: 7
+DOMAIN-SUFFIX,airnut.com
+DOMAIN-SUFFIX,moji.com
+DOMAIN-SUFFIX,mojicb.com
+DOMAIN-SUFFIX,mojichina.com
+DOMAIN-SUFFIX,mojitest.com
+DOMAIN-SUFFIX,moweather.com
+DOMAIN-SUFFIX,xiaomo.cn

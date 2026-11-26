@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: KakaoTalk
-# 合并来源: luestr/ShuntRules KakaoTalk
+# 合并来源: blackmatrix7/ios_rule_script KakaoTalk
 # 规则数: 21
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,daumcdn.net

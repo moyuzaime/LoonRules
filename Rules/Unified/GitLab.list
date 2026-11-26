@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: GitLab
-# 合并来源: luestr/ShuntRules GitLab
+# 合并来源: blackmatrix7/ios_rule_script GitLab
 # 规则数: 6
 DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,gitlab-static.net

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Gigabyte
-# 合并来源: luestr/ShuntRules Gigabyte
+# 合并来源: blackmatrix7/ios_rule_script Gigabyte
 # 规则数: 7
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoruszone.cn

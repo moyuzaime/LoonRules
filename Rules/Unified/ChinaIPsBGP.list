@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ChinaIPsBGP
-# 合并来源: luestr/ShuntRules ChinaIPsBGP
+# 合并来源: blackmatrix7/ios_rule_script ChinaIPsBGP
 # 规则数: 7832
 IP-CIDR,1.1.8.0/24,no-resolve
 IP-CIDR,1.116.0.0/15,no-resolve

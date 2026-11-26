@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HKBN
-# 合并来源: luestr/ShuntRules HKBN
+# 合并来源: blackmatrix7/ios_rule_script HKBN
 # 规则数: 6
 DOMAIN-SUFFIX,csifund.org
 DOMAIN-SUFFIX,hkbn.com.hk

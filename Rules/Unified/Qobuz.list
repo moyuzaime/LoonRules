@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Qobuz
-# 合并来源: luestr/ShuntRules Qobuz
+# 合并来源: blackmatrix7/ios_rule_script Qobuz
 # 规则数: 35
 DOMAIN-SUFFIX,cobeuz.fr
 DOMAIN-SUFFIX,cobuz.fr

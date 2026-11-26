@@ -1,0 +1,13 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/SouFang/SouFang.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SouFang/SouFang.list
+# 规则数: 10
+DOMAIN-SUFFIX,fang.com
+DOMAIN-SUFFIX,hkproperty.com
+DOMAIN-SUFFIX,houselight.cn
+DOMAIN-SUFFIX,nree.cn
+DOMAIN-SUFFIX,soufun.com
+DOMAIN-SUFFIX,soufun.com.cn
+DOMAIN-SUFFIX,soufunimg.com
+DOMAIN-SUFFIX,txsf.com
+DOMAIN-SUFFIX,villachina.com
+DOMAIN-SUFFIX,villachina.com.cn

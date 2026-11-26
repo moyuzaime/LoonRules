@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/WoLai/WoLai.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WoLai/WoLai.list
+# 规则数: 5
+DOMAIN-SUFFIX,wol.tv
+DOMAIN-SUFFIX,wolai.com
+DOMAIN-SUFFIX,wolai.ren
+DOMAIN-SUFFIX,wostatic.cn
+DOMAIN-SUFFIX,woyun.work

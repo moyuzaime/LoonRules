@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Pinduoduo/Pinduoduo.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pinduoduo/Pinduoduo.list
+# 规则数: 3
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com

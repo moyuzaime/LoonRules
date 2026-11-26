@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: NGA
-# 合并来源: luestr/ShuntRules NGA
+# 合并来源: blackmatrix7/ios_rule_script NGA
 # 规则数: 4
 DOMAIN-SUFFIX,178.com
 DOMAIN-SUFFIX,nga.cn

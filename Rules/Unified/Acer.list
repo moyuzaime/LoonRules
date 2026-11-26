@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Acer
-# 合并来源: luestr/ShuntRules Acer
+# 合并来源: blackmatrix7/ios_rule_script Acer
 # 规则数: 5
 DOMAIN-SUFFIX,acer-group.com
 DOMAIN-SUFFIX,acer.com

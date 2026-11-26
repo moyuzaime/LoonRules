@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: OP
-# 合并来源: luestr/ShuntRules OP
+# 合并来源: blackmatrix7/ios_rule_script OP
 # 规则数: 2
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,opgg-static.akamaized.net

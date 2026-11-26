@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CNN
-# 合并来源: luestr/ShuntRules CNN
+# 合并来源: blackmatrix7/ios_rule_script CNN
 # 规则数: 6
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnn.io

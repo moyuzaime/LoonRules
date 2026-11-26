@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/HP/HP.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HP/HP.list
+# 规则数: 4
+DOMAIN-SUFFIX,hp.com
+DOMAIN-SUFFIX,hpstore-china.com
+DOMAIN-SUFFIX,hpstore.com
+DOMAIN-SUFFIX,hpstore.corpmerchandise.com

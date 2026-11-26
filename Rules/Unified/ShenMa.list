@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ShenMa
-# 合并来源: luestr/ShuntRules ShenMa
+# 合并来源: blackmatrix7/ios_rule_script ShenMa
 # 规则数: 13
 DOMAIN-SUFFIX,shenma-inc.com
 DOMAIN-SUFFIX,sm.cn

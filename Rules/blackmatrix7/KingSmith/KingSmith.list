@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/KingSmith/KingSmith.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KingSmith/KingSmith.list
+# 规则数: 4
+DOMAIN-SUFFIX,kingsmith.cn
+DOMAIN-SUFFIX,kingsmith.com.cn
+DOMAIN-SUFFIX,walkingpad.cn
+DOMAIN-SUFFIX,walkingpad.com

@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Deepin/Deepin.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Deepin/Deepin.list
+# 规则数: 7
+DOMAIN-SUFFIX,chinauos.com
+DOMAIN-SUFFIX,deepin.cn
+DOMAIN-SUFFIX,deepin.com
+DOMAIN-SUFFIX,deepin.io
+DOMAIN-SUFFIX,deepin.org
+DOMAIN-SUFFIX,linglong.dev
+DOMAIN-SUFFIX,uniontech.com

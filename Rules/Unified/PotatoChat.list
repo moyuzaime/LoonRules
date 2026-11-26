@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: PotatoChat
-# 合并来源: luestr/ShuntRules PotatoChat
+# 合并来源: blackmatrix7/ios_rule_script PotatoChat
 # 规则数: 6
 IP-CIDR,13.251.24.0/24,no-resolve
 IP-CIDR,13.251.41.0/24,no-resolve

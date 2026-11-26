@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CIBN
-# 合并来源: luestr/ShuntRules CIBN
+# 合并来源: blackmatrix7/ios_rule_script CIBN
 # 规则数: 71
 DOMAIN-SUFFIX,apecn.com
 DOMAIN-SUFFIX,china-ceec-cooperation.com

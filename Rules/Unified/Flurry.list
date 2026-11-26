@@ -1,4 +1,4 @@
 # 统一规则库 | 分类: Flurry
-# 合并来源: luestr/ShuntRules Flurry
+# 合并来源: blackmatrix7/ios_rule_script Flurry
 # 规则数: 1
 DOMAIN-SUFFIX,data.flurry.com

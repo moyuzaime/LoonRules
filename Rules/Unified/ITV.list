@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ITV
-# 合并来源: luestr/ShuntRules ITV
+# 合并来源: blackmatrix7/ios_rule_script ITV
 # 规则数: 4
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itv.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CAS
-# 合并来源: luestr/ShuntRules CAS
+# 合并来源: blackmatrix7/ios_rule_script CAS
 # 规则数: 43
 DOMAIN-SUFFIX,acas.ac.cn
 DOMAIN-SUFFIX,agklab.cn

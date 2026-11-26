@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: FeiZhu
-# 合并来源: luestr/ShuntRules FeiZhu
+# 合并来源: blackmatrix7/ios_rule_script FeiZhu
 # 规则数: 20
 DOMAIN-SUFFIX,alitrip.com
 DOMAIN-SUFFIX,asczwa.com

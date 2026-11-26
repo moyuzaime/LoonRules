@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Migu
-# 合并来源: luestr/ShuntRules Migu
+# 合并来源: blackmatrix7/ios_rule_script Migu
 # 规则数: 5
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,migu.cn

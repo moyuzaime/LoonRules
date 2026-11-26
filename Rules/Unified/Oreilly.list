@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Oreilly
-# 合并来源: luestr/ShuntRules Oreilly
+# 合并来源: blackmatrix7/ios_rule_script Oreilly
 # 规则数: 6
 DOMAIN-SUFFIX,oreil.ly
 DOMAIN-SUFFIX,oreilly.com

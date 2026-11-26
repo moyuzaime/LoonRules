@@ -1,4 +1,4 @@
 # 统一规则库 | 分类: Chromecast
-# 合并来源: luestr/ShuntRules Chromecast
+# 合并来源: blackmatrix7/ios_rule_script Chromecast
 # 规则数: 1
 DOMAIN-KEYWORD,pa.google

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: 6park
-# 合并来源: luestr/ShuntRules 6park
+# 合并来源: blackmatrix7/ios_rule_script 6park
 # 规则数: 4
 DOMAIN-SUFFIX,6park.com
 DOMAIN-SUFFIX,6parkbbs.com

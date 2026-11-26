@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Espn
-# 合并来源: luestr/ShuntRules Espn
+# 合并来源: blackmatrix7/ios_rule_script Espn
 # 规则数: 11
 DOMAIN,espn.api.edge.bamgrid.com
 DOMAIN,espn.hb.omtrdc.net

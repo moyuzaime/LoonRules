@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: apple
-# 合并来源: QuixoticHeart/rule-set apple; luestr/ShuntRules Apple
+# 合并来源: QuixoticHeart/rule-set apple; blackmatrix7/ios_rule_script Apple
 # 规则数: 1638
 DOMAIN,apple-events.akamaized.net
 DOMAIN,apple-relay.cloudflare.com

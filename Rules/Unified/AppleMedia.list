@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AppleMedia
-# 合并来源: luestr/ShuntRules AppleMedia
+# 合并来源: blackmatrix7/ios_rule_script AppleMedia
 # 规则数: 52
 DOMAIN-SUFFIX,aod.itunes.apple.com
 DOMAIN-SUFFIX,apple.comscoreresearch.com

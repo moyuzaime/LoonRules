@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AppleNews
-# 合并来源: luestr/ShuntRules AppleNews
+# 合并来源: blackmatrix7/ios_rule_script AppleNews
 # 规则数: 2
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com

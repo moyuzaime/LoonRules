@@ -1,0 +1,11 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/BaoFengYingYin/BaoFengYingYin.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BaoFengYingYin/BaoFengYingYin.list
+# 规则数: 8
+DOMAIN-SUFFIX,baofeng.com
+DOMAIN-SUFFIX,baofeng.mobi
+DOMAIN-SUFFIX,baofeng.net
+DOMAIN-SUFFIX,baofengtv.com
+DOMAIN-SUFFIX,bfimg.com
+DOMAIN-SUFFIX,bfshow.cn
+DOMAIN-SUFFIX,bjtndao.org
+DOMAIN-SUFFIX,stormshow.cn

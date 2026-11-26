@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Comodo/Comodo.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Comodo/Comodo.list
+# 规则数: 5
+DOMAIN-SUFFIX,comodo.com
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,comodoca2.com
+DOMAIN-SUFFIX,comodoca3.com
+DOMAIN-SUFFIX,comodoca4.com

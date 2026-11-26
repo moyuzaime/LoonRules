@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: NetEaseMusic
-# 合并来源: luestr/ShuntRules NetEaseMusic
+# 合并来源: blackmatrix7/ios_rule_script NetEaseMusic
 # 规则数: 48
 DOMAIN,netease.ugcvideoss.ourdvs.com
 DOMAIN-SUFFIX,163yun.com

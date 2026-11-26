@@ -1,0 +1,9 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/EncoreTVB/EncoreTVB.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/EncoreTVB/EncoreTVB.list
+# 规则数: 6
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,encoretvb.com
+USER-AGENT,encoreTVB*

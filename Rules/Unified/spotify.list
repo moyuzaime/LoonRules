@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: spotify
-# 合并来源: QuixoticHeart/rule-set spotify; luestr/ShuntRules Spotify
+# 合并来源: QuixoticHeart/rule-set spotify; blackmatrix7/ios_rule_script Spotify
 # 规则数: 37
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com

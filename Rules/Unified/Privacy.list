@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Privacy
-# 合并来源: luestr/ShuntRules Privacy
+# 合并来源: blackmatrix7/ios_rule_script Privacy
 # 规则数: 39947
 DOMAIN-KEYWORD,analytics.
 DOMAIN-KEYWORD,app-analytics

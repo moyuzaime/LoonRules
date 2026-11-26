@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Dandanplay/Dandanplay.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Dandanplay/Dandanplay.list
+# 规则数: 3
+DOMAIN-SUFFIX,acplay.net
+DOMAIN-SUFFIX,dandanplay.com
+DOMAIN-SUFFIX,dandanplayer.com

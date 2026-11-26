@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Agora/Agora.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Agora/Agora.list
+# 规则数: 3
+DOMAIN-SUFFIX,agora.io
+DOMAIN-SUFFIX,agoraio.cn
+DOMAIN-SUFFIX,agoralab.co

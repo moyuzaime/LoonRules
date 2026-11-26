@@ -1,0 +1,13 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Mogujie/Mogujie.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Mogujie/Mogujie.list
+# 规则数: 10
+DOMAIN-SUFFIX,juangua.com
+DOMAIN-SUFFIX,linkeye.net
+DOMAIN-SUFFIX,meili-inc.com
+DOMAIN-SUFFIX,mogu.com
+DOMAIN-SUFFIX,mogucdn.com
+DOMAIN-SUFFIX,mogujie.com
+DOMAIN-SUFFIX,mogujielive.com
+DOMAIN-SUFFIX,styledata.cn
+DOMAIN-SUFFIX,uniny.com
+DOMAIN-SUFFIX,xdgogogo.com

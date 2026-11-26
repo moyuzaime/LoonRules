@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: LastFM
-# 合并来源: luestr/ShuntRules LastFM
+# 合并来源: blackmatrix7/ios_rule_script LastFM
 # 规则数: 31
 DOMAIN,last.us11.list-manage.com
 DOMAIN,lastfm-img2.akamaized.net

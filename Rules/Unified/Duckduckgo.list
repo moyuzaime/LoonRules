@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Duckduckgo
-# 合并来源: luestr/ShuntRules Duckduckgo
+# 合并来源: blackmatrix7/ios_rule_script Duckduckgo
 # 规则数: 43
 DOMAIN-SUFFIX,cispaletter.com
 DOMAIN-SUFFIX,cispaletter.org

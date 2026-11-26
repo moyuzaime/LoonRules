@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: NGAA
-# 合并来源: luestr/ShuntRules NGAA
+# 合并来源: blackmatrix7/ios_rule_script NGAA
 # 规则数: 29
 DOMAIN-SUFFIX,chinagslb.cn
 DOMAIN-SUFFIX,chinagslb.com

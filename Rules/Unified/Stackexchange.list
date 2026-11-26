@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Stackexchange
-# 合并来源: luestr/ShuntRules Stackexchange
+# 合并来源: blackmatrix7/ios_rule_script Stackexchange
 # 规则数: 20
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,blogoverflow.com

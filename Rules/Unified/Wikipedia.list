@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Wikipedia
-# 合并来源: luestr/ShuntRules Wikipedia
+# 合并来源: blackmatrix7/ios_rule_script Wikipedia
 # 规则数: 12
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org

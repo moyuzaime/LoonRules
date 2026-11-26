@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: IPTVMainland
-# 合并来源: luestr/ShuntRules IPTVMainland
+# 合并来源: blackmatrix7/ios_rule_script IPTVMainland
 # 规则数: 3604
 DOMAIN,1-fss24-s0.streamhoster.com
 DOMAIN,1.cache.applinzi.com

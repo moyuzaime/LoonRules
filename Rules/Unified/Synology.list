@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Synology
-# 合并来源: luestr/ShuntRules Synology
+# 合并来源: blackmatrix7/ios_rule_script Synology
 # 规则数: 19
 DOMAIN,d2f0395ykn6hxb.cloudfront.net
 DOMAIN-SUFFIX,diskstation.me

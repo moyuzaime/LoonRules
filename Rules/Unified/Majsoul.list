@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Majsoul
-# 合并来源: luestr/ShuntRules Majsoul
+# 合并来源: blackmatrix7/ios_rule_script Majsoul
 # 规则数: 11
 DOMAIN-SUFFIX,game.maj-soul.com
 DOMAIN-SUFFIX,gateway-cdn.maj-soul.com

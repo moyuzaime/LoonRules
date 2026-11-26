@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: friDay
-# 合并来源: luestr/ShuntRules friDay
+# 合并来源: blackmatrix7/ios_rule_script friDay
 # 规则数: 2
 DOMAIN-SUFFIX,fetnet.net
 DOMAIN-SUFFIX,friday.tw

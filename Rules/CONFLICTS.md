@@ -7,13 +7,13 @@
 | 项目 | 数量 |
 | --- | ---: |
 | 来源一文件内去重 | 0 |
-| 来源二文件内去重 | 8738 |
+| 来源二文件内去重 | 0 |
 | 来源一无法解析的行 | 0 |
 | 来源二无法解析的行 | 0 |
 | 统一库跨来源重复（保留来源一） | 12155 |
 | 统一库跨来源类型冲突 | 4 |
 | 来源一下载失败文件 | 0 |
-| 来源二下载失败文件 | 2 |
+| 来源二缺失分类 | 1 |
 
 ## 类型冲突
 
@@ -21,14 +21,13 @@
 
 | 分类 | 域名 | 类型 | 明细 |
 | --- | --- | --- | --- |
-| bahamut | `bahamut.akamaized.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(shuntrules) |
-| netflix | `netflix.com.edgesuite.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(shuntrules) |
-| spotify | `spotify.com.edgesuite.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(shuntrules) |
-| tiktok | `p16-tiktokcdn-com.akamaized.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(shuntrules) |
+| bahamut | `bahamut.akamaized.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(blackmatrix7) |
+| netflix | `netflix.com.edgesuite.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(blackmatrix7) |
+| spotify | `spotify.com.edgesuite.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(blackmatrix7) |
+| tiktok | `p16-tiktokcdn-com.akamaized.net` | DOMAIN / DOMAIN-SUFFIX | DOMAIN-SUFFIX(quixoticheart); DOMAIN(blackmatrix7) |
 
-## 来源二下载失败
+## 来源二缺失分类
 
-以下规则集在直连与 blackmatrix7 回退中均未取到，已保留上一版本文件：
+以下分类在 rule/Loon 下存在，但三个 .list 都未取到（已保留上一版本文件）：
 
-- `ChinaIPs_No_IPv6`
-- `ChinaMax_No_IPv6`
+- `Cloud`

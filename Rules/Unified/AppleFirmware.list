@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AppleFirmware
-# 合并来源: luestr/ShuntRules AppleFirmware
+# 合并来源: blackmatrix7/ios_rule_script AppleFirmware
 # 规则数: 174
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl

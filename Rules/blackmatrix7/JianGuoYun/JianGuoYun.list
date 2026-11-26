@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/JianGuoYun/JianGuoYun.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JianGuoYun/JianGuoYun.list
+# 规则数: 5
+DOMAIN-SUFFIX,gdfgq.club
+DOMAIN-SUFFIX,jianguopuzi.com
+DOMAIN-SUFFIX,jianguoyun.com
+DOMAIN-SUFFIX,nutstore.net
+DOMAIN-SUFFIX,nutstorehq.com

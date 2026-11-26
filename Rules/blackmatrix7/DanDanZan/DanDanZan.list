@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/DanDanZan/DanDanZan.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DanDanZan/DanDanZan.list
+# 规则数: 7
+DOMAIN-SUFFIX,343480.com
+DOMAIN-SUFFIX,baduziyuan.com
+DOMAIN-SUFFIX,com-hs-hkdy.com
+DOMAIN-SUFFIX,czybjz.com
+DOMAIN-SUFFIX,dandanzan.com
+DOMAIN-SUFFIX,fjhps.com
+DOMAIN-SUFFIX,kuyunbo.club

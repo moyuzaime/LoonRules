@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AOL
-# 合并来源: luestr/ShuntRules AOL
+# 合并来源: blackmatrix7/ios_rule_script AOL
 # 规则数: 4
 DOMAIN-SUFFIX,aol.ca
 DOMAIN-SUFFIX,aol.co.uk

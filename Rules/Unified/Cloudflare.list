@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Cloudflare
-# 合并来源: luestr/ShuntRules Cloudflare
+# 合并来源: blackmatrix7/ios_rule_script Cloudflare
 # 规则数: 87
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com

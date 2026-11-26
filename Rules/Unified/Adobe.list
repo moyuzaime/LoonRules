@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Adobe
-# 合并来源: luestr/ShuntRules Adobe
+# 合并来源: blackmatrix7/ios_rule_script Adobe
 # 规则数: 137
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN-SUFFIX,10xfotolia.com

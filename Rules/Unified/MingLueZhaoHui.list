@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: MingLueZhaoHui
-# 合并来源: luestr/ShuntRules MingLueZhaoHui
+# 合并来源: blackmatrix7/ios_rule_script MingLueZhaoHui
 # 规则数: 18
 DOMAIN-SUFFIX,3wnet.cn
 DOMAIN-SUFFIX,admonitor.org

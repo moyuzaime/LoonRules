@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Asahi/Asahi.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Asahi/Asahi.list
+# 规则数: 7
+DOMAIN,asahishimbun.sc.omtrdc.net
+DOMAIN-SUFFIX,aiasahi.jp
+DOMAIN-SUFFIX,asagaku.com
+DOMAIN-SUFFIX,asahi.com
+DOMAIN-SUFFIX,asahicom.jp
+DOMAIN-SUFFIX,asakonet.co.jp
+DOMAIN-SUFFIX,nikkansports.com

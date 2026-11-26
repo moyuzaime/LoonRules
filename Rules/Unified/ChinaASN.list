@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ChinaASN
-# 合并来源: luestr/ShuntRules ChinaASN
+# 合并来源: blackmatrix7/ios_rule_script ChinaASN
 # 规则数: 2018
 IP-ASN,10111,no-resolve
 IP-ASN,10206,no-resolve

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Mail
-# 合并来源: luestr/ShuntRules Mail
+# 合并来源: blackmatrix7/ios_rule_script Mail
 # 规则数: 12
 DOMAIN,apple.imap.mail.yahoo.com
 DOMAIN,apple.smtp.mail.yahoo.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: SystemOTA
-# 合并来源: luestr/ShuntRules SystemOTA
+# 合并来源: blackmatrix7/ios_rule_script SystemOTA
 # 规则数: 78
 DOMAIN,appldnld-cdn.apple.com.akadns.net
 DOMAIN,appldnld-cdn.origin-apple.com.akadns.net

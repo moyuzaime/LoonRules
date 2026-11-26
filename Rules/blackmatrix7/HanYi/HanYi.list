@@ -1,0 +1,12 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/HanYi/HanYi.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HanYi/HanYi.list
+# 规则数: 9
+DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
+DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,fontstar.com.cn
+DOMAIN-SUFFIX,fontstudio.cn
+DOMAIN-SUFFIX,hanyi.com
+DOMAIN-SUFFIX,hanyi.com.cn
+DOMAIN-SUFFIX,hellowebfont.com
+DOMAIN-SUFFIX,ifont.cn
+DOMAIN-SUFFIX,joytype.com

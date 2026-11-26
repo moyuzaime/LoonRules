@@ -1,0 +1,14 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/XueQiu/XueQiu.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XueQiu/XueQiu.list
+# 规则数: 11
+DOMAIN-SUFFIX,aiganggu.com
+DOMAIN-SUFFIX,danjuanapp.com
+DOMAIN-SUFFIX,danjuanfunds.com
+DOMAIN-SUFFIX,iganggu.com
+DOMAIN-SUFFIX,imedao.com
+DOMAIN-SUFFIX,imeigu.cn
+DOMAIN-SUFFIX,imeigu.com.cn
+DOMAIN-SUFFIX,ncfjj.com
+DOMAIN-SUFFIX,snowballfinance.com
+DOMAIN-SUFFIX,snowballsecurities.com
+DOMAIN-SUFFIX,xueqiu.com

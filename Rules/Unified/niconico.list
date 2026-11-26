@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: niconico
-# 合并来源: QuixoticHeart/rule-set niconico; luestr/ShuntRules Niconico
+# 合并来源: QuixoticHeart/rule-set niconico; blackmatrix7/ios_rule_script Niconico
 # 规则数: 13
 DOMAIN-SUFFIX,nico
 DOMAIN-SUFFIX,nico.ms

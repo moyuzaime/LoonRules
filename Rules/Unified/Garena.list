@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Garena
-# 合并来源: luestr/ShuntRules Garena
+# 合并来源: blackmatrix7/ios_rule_script Garena
 # 规则数: 15
 DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
 DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net

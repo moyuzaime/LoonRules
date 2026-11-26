@@ -1,0 +1,5 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/TapTap/TapTap.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TapTap/TapTap.list
+# 规则数: 2
+DOMAIN-SUFFIX,tap.io
+DOMAIN-SUFFIX,taptap.tw

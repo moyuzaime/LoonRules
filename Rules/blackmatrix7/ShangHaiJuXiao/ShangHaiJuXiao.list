@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/ShangHaiJuXiao/ShangHaiJuXiao.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ShangHaiJuXiao/ShangHaiJuXiao.list
+# 规则数: 5
+DOMAIN-SUFFIX,bubuying.net
+DOMAIN-SUFFIX,kuaishuru.net
+DOMAIN-SUFFIX,mdvdns.com
+DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,mvad.com

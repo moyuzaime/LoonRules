@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Zoho
-# 合并来源: luestr/ShuntRules Zoho
+# 合并来源: blackmatrix7/ios_rule_script Zoho
 # 规则数: 13
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zoho.com.au

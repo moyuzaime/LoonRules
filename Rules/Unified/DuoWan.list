@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: DuoWan
-# 合并来源: luestr/ShuntRules DuoWan
+# 合并来源: blackmatrix7/ios_rule_script DuoWan
 # 规则数: 27
 DOMAIN-SUFFIX,5253.com
 DOMAIN-SUFFIX,bcshipgo.com

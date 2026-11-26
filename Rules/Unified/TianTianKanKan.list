@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: TianTianKanKan
-# 合并来源: luestr/ShuntRules TianTianKanKan
+# 合并来源: blackmatrix7/ios_rule_script TianTianKanKan
 # 规则数: 4
 DOMAIN-SUFFIX,ibangtiao.com
 DOMAIN-SUFFIX,kankanpro.cn

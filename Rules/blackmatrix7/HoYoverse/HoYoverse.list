@@ -1,0 +1,14 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/HoYoverse/HoYoverse.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HoYoverse/HoYoverse.list
+# 规则数: 11
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,juequling.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,starrails.com
+DOMAIN-SUFFIX,themisweeps.com
+DOMAIN-SUFFIX,yuanshen.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Shopify
-# 合并来源: luestr/ShuntRules Shopify
+# 合并来源: blackmatrix7/ios_rule_script Shopify
 # 规则数: 8
 DOMAIN-SUFFIX,myshopify.com
 DOMAIN-SUFFIX,shop.app

@@ -1,0 +1,11 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/BritboxUK/BritboxUK.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BritboxUK/BritboxUK.list
+# 规则数: 8
+DOMAIN,itvpnp.live.ott.irdeto.com
+DOMAIN,itvpnp.stage.ott.irdeto.com
+DOMAIN-SUFFIX,bb-static.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,britbox.co.uk
+DOMAIN-SUFFIX,britbox.com
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,massive-itv.com

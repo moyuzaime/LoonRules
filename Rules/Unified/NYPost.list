@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: NYPost
-# 合并来源: luestr/ShuntRules NYPost
+# 合并来源: blackmatrix7/ios_rule_script NYPost
 # 规则数: 3
 DOMAIN-SUFFIX,nypost.com
 DOMAIN-SUFFIX,nypost.help

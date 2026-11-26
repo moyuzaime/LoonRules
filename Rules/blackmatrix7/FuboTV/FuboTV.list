@@ -1,0 +1,5 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/FuboTV/FuboTV.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FuboTV/FuboTV.list
+# 规则数: 2
+DOMAIN-SUFFIX,fubo.tv
+DOMAIN-SUFFIX,fubotv.com

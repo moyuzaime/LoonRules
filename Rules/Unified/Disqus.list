@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Disqus
-# 合并来源: luestr/ShuntRules Disqus
+# 合并来源: blackmatrix7/ios_rule_script Disqus
 # 规则数: 3
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com

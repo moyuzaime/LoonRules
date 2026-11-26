@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CCTV
-# 合并来源: luestr/ShuntRules CCTV
+# 合并来源: blackmatrix7/ios_rule_script CCTV
 # 规则数: 37
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com

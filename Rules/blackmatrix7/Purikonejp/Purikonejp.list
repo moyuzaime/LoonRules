@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Purikonejp/Purikonejp.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Purikonejp/Purikonejp.list
+# 规则数: 3
+DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+DOMAIN-SUFFIX,omotenashi.cygames.jp
+DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net

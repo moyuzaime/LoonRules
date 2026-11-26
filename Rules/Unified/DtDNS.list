@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: DtDNS
-# 合并来源: luestr/ShuntRules DtDNS
+# 合并来源: blackmatrix7/ios_rule_script DtDNS
 # 规则数: 17
 DOMAIN-SUFFIX,3d-game.com
 DOMAIN-SUFFIX,4irc.com

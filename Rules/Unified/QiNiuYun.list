@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: QiNiuYun
-# 合并来源: luestr/ShuntRules QiNiuYun
+# 合并来源: blackmatrix7/ios_rule_script QiNiuYun
 # 规则数: 53
 DOMAIN-SUFFIX,atlab.ai
 DOMAIN-SUFFIX,cdnhub.net

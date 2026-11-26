@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: TelegramSG
-# 合并来源: luestr/ShuntRules TelegramSG
+# 合并来源: blackmatrix7/ios_rule_script TelegramSG
 # 规则数: 6
 IP-CIDR,91.108.16.0/22,no-resolve
 IP-CIDR,91.108.56.0/22,no-resolve

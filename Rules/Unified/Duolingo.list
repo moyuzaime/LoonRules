@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Duolingo
-# 合并来源: luestr/ShuntRules Duolingo
+# 合并来源: blackmatrix7/ios_rule_script Duolingo
 # 规则数: 2
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com

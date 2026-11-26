@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Movefree/Movefree.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Movefree/Movefree.list
+# 规则数: 7
+DOMAIN-SUFFIX,keepmovingwithmovefree.com
+DOMAIN-SUFFIX,move-free.net
+DOMAIN-SUFFIX,movefree.cn
+DOMAIN-SUFFIX,movefreeoffers.com
+DOMAIN-SUFFIX,movefreerewards.com
+DOMAIN-SUFFIX,movefrees.com
+DOMAIN-SUFFIX,schiffvitamins.com

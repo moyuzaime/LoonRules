@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Alibaba
-# 合并来源: luestr/ShuntRules Alibaba
+# 合并来源: blackmatrix7/ios_rule_script Alibaba
 # 规则数: 1374
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,taobao

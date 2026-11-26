@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Jquery
-# 合并来源: luestr/ShuntRules Jquery
+# 合并来源: blackmatrix7/ios_rule_script Jquery
 # 规则数: 3
 DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,jquerymobile.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Twitter
-# 合并来源: luestr/ShuntRules Twitter
+# 合并来源: blackmatrix7/ios_rule_script Twitter
 # 规则数: 39
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: VISA
-# 合并来源: luestr/ShuntRules VISA
+# 合并来源: blackmatrix7/ios_rule_script VISA
 # 规则数: 99
 DOMAIN-SUFFIX,visa.be
 DOMAIN-SUFFIX,visa.ca

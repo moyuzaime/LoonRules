@@ -1,0 +1,9 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Picsee/Picsee.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Picsee/Picsee.list
+# 规则数: 6
+DOMAIN-SUFFIX,pics.ee
+DOMAIN-SUFFIX,picsee.co
+DOMAIN-SUFFIX,picsee.pro
+DOMAIN-SUFFIX,pise.pw
+DOMAIN-SUFFIX,pros.ee
+DOMAIN-SUFFIX,pse.is

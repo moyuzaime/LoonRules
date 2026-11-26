@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Entrust/Entrust.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Entrust/Entrust.list
+# 规则数: 7
+DOMAIN-SUFFIX,affirmtrust.com
+DOMAIN-SUFFIX,atos.net
+DOMAIN-SUFFIX,certificat2.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN-SUFFIX,myatos.net
+DOMAIN-SUFFIX,trendmicro.com

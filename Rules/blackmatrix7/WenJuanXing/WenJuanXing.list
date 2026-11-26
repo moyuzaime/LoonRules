@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/WenJuanXing/WenJuanXing.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WenJuanXing/WenJuanXing.list
+# 规则数: 4
+DOMAIN-SUFFIX,sojump.com
+DOMAIN-SUFFIX,wjx.cn
+DOMAIN-SUFFIX,wjx.com
+DOMAIN-SUFFIX,wjx.top

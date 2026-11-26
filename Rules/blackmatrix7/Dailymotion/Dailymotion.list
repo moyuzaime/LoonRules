@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Dailymotion/Dailymotion.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Dailymotion/Dailymotion.list
+# 规则数: 5
+DOMAIN-SUFFIX,dai.ly
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dm-event.net
+DOMAIN-SUFFIX,dmcdn.net
+DOMAIN-SUFFIX,dmxleo.com

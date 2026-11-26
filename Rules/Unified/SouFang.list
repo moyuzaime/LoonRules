@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: SouFang
-# 合并来源: luestr/ShuntRules SouFang
+# 合并来源: blackmatrix7/ios_rule_script SouFang
 # 规则数: 10
 DOMAIN-SUFFIX,fang.com
 DOMAIN-SUFFIX,hkproperty.com

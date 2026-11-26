@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ZhangYue
-# 合并来源: luestr/ShuntRules ZhangYue
+# 合并来源: blackmatrix7/ios_rule_script ZhangYue
 # 规则数: 26
 DOMAIN-SUFFIX,corp3g.cn
 DOMAIN-SUFFIX,ireader.com

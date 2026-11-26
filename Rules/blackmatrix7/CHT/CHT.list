@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/CHT/CHT.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CHT/CHT.list
+# 规则数: 7
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,chtf.org.tw
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,xuite.net

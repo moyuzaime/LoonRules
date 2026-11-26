@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Ubuntu
-# 合并来源: luestr/ShuntRules Ubuntu
+# 合并来源: blackmatrix7/ios_rule_script Ubuntu
 # 规则数: 54
 DOMAIN-SUFFIX,aerialline.com
 DOMAIN-SUFFIX,askubuntu.com

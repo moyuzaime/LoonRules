@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AmazonTrust
-# 合并来源: luestr/ShuntRules AmazonTrust
+# 合并来源: blackmatrix7/ios_rule_script AmazonTrust
 # 规则数: 3
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,awstrust.com

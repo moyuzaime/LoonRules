@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Asahi
-# 合并来源: luestr/ShuntRules Asahi
+# 合并来源: blackmatrix7/ios_rule_script Asahi
 # 规则数: 7
 DOMAIN,asahishimbun.sc.omtrdc.net
 DOMAIN-SUFFIX,aiasahi.jp

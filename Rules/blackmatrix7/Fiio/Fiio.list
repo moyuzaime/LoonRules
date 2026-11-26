@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Fiio/Fiio.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Fiio/Fiio.list
+# 规则数: 4
+DOMAIN-SUFFIX,fiio.cn
+DOMAIN-SUFFIX,fiio.com
+DOMAIN-SUFFIX,fiio.com.cn
+DOMAIN-SUFFIX,fiio.net

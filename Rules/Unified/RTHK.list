@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: RTHK
-# 合并来源: luestr/ShuntRules RTHK
+# 合并来源: blackmatrix7/ios_rule_script RTHK
 # 规则数: 13
 DOMAIN,rthklive2-lh.akamaihd.net
 DOMAIN,rthkradio1-live.akamaized.net

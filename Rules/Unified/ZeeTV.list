@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ZeeTV
-# 合并来源: luestr/ShuntRules ZeeTV
+# 合并来源: blackmatrix7/ios_rule_script ZeeTV
 # 规则数: 9
 DOMAIN-SUFFIX,z5.app
 DOMAIN-SUFFIX,z5.com

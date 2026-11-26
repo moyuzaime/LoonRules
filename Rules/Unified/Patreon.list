@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Patreon
-# 合并来源: luestr/ShuntRules Patreon
+# 合并来源: blackmatrix7/ios_rule_script Patreon
 # 规则数: 4
 DOMAIN,live-patreon-marketing.pantheonsite.io
 DOMAIN-SUFFIX,patreon.com

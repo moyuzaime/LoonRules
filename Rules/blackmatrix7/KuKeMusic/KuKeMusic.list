@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/KuKeMusic/KuKeMusic.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KuKeMusic/KuKeMusic.list
+# 规则数: 3
+DOMAIN-SUFFIX,kuke.com
+DOMAIN-SUFFIX,kukey.com.cn
+DOMAIN-SUFFIX,naxos.cn

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Limelight
-# 合并来源: luestr/ShuntRules Limelight
+# 合并来源: blackmatrix7/ios_rule_script Limelight
 # 规则数: 8
 DOMAIN-SUFFIX,delvenetworks.com
 DOMAIN-SUFFIX,limelight.com

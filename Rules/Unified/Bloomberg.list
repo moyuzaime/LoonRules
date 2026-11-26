@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Bloomberg
-# 合并来源: luestr/ShuntRules Bloomberg
+# 合并来源: blackmatrix7/ios_rule_script Bloomberg
 # 规则数: 22
 DOMAIN-SUFFIX,bloomberg.co.kr
 DOMAIN-SUFFIX,bloomberg.com

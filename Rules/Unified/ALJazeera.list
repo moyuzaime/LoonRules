@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ALJazeera
-# 合并来源: luestr/ShuntRules ALJazeera
+# 合并来源: blackmatrix7/ios_rule_script ALJazeera
 # 规则数: 7
 DOMAIN-SUFFIX,ajplus.net
 DOMAIN-SUFFIX,aljazeera.com

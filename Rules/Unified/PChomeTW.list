@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: PChomeTW
-# 合并来源: luestr/ShuntRules PChomeTW
+# 合并来源: blackmatrix7/ios_rule_script PChomeTW
 # 规则数: 5
 DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net
 DOMAIN-SUFFIX,ecimg.tw

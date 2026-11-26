@@ -1,0 +1,22 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/TigerFintech/TigerFintech.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TigerFintech/TigerFintech.list
+# 规则数: 19
+DOMAIN-SUFFIX,ftfast.com
+DOMAIN-SUFFIX,iotaskyt.com
+DOMAIN-SUFFIX,iotaskyty.com
+DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,itigergrowtha.com
+DOMAIN-SUFFIX,itigerup.com
+DOMAIN-SUFFIX,laohu8.com
+DOMAIN-SUFFIX,play-analytics.com
+DOMAIN-SUFFIX,skytigris.cn
+DOMAIN-SUFFIX,tbdesk.com
+DOMAIN-SUFFIX,tigerbbs.cn
+DOMAIN-SUFFIX,tigerbbs.com
+DOMAIN-SUFFIX,tigerbrokers.net
+DOMAIN-SUFFIX,tigerfintech.com
+DOMAIN-SUFFIX,tigertcp.cn
+DOMAIN-SUFFIX,tigr.link
+DOMAIN-SUFFIX,xiaohu8.com
+DOMAIN-SUFFIX,zhijianfengyi.cn
+DOMAIN-SUFFIX,zhijianfengyi.com

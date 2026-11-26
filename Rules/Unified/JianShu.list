@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: JianShu
-# 合并来源: luestr/ShuntRules JianShu
+# 合并来源: blackmatrix7/ios_rule_script JianShu
 # 规则数: 5
 DOMAIN-SUFFIX,baijii.com
 DOMAIN-SUFFIX,jianshu.com

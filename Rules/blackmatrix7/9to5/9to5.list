@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/9to5/9to5.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/9to5/9to5.list
+# 规则数: 7
+DOMAIN-SUFFIX,9to5google.com
+DOMAIN-SUFFIX,9to5mac.com
+DOMAIN-SUFFIX,9to5terminal.com
+DOMAIN-SUFFIX,9to5toys.com
+DOMAIN-SUFFIX,dronedj.com
+DOMAIN-SUFFIX,electrek.co
+DOMAIN-SUFFIX,spaceexplored.com

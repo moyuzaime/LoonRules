@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CNNIC
-# 合并来源: luestr/ShuntRules CNNIC
+# 合并来源: blackmatrix7/ios_rule_script CNNIC
 # 规则数: 33
 DOMAIN-SUFFIX,6pilot.cn
 DOMAIN-SUFFIX,apac.cn

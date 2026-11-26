@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: MeiTuan
-# 合并来源: luestr/ShuntRules MeiTuan
+# 合并来源: blackmatrix7/ios_rule_script MeiTuan
 # 规则数: 7
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,maoyan.com

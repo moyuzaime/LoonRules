@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: SmarTone
-# 合并来源: luestr/ShuntRules SmarTone
+# 合并来源: blackmatrix7/ios_rule_script SmarTone
 # 规则数: 15
 DOMAIN-SUFFIX,barkadahansasmartone.com
 DOMAIN-SUFFIX,healthreach.hk

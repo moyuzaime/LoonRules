@@ -1,0 +1,13 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Japonx/Japonx.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Japonx/Japonx.list
+# 规则数: 10
+DOMAIN-SUFFIX,japonx.com
+DOMAIN-SUFFIX,japonx.net
+DOMAIN-SUFFIX,japonx.tv
+DOMAIN-SUFFIX,japonx.vip
+DOMAIN-SUFFIX,japronx.com
+DOMAIN-SUFFIX,japronx.net
+DOMAIN-SUFFIX,japronx.tv
+DOMAIN-SUFFIX,japronx.vip
+DOMAIN-KEYWORD,japonx
+DOMAIN-KEYWORD,japronx

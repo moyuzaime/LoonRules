@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: NBC
-# 合并来源: luestr/ShuntRules NBC
+# 合并来源: blackmatrix7/ios_rule_script NBC
 # 规则数: 22
 DOMAIN,nbcstreaming.sc.omtrdc.net
 DOMAIN-SUFFIX,bravotv.com

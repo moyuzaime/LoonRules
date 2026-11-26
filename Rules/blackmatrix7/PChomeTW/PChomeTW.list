@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/PChomeTW/PChomeTW.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PChomeTW/PChomeTW.list
+# 规则数: 5
+DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net
+DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pchomepay.com.tw
+DOMAIN-SUFFIX,pcloud.tw

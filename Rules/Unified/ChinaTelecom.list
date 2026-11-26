@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ChinaTelecom
-# 合并来源: luestr/ShuntRules ChinaTelecom
+# 合并来源: blackmatrix7/ios_rule_script ChinaTelecom
 # 规则数: 83
 DOMAIN-SUFFIX,01058511989.com
 DOMAIN-SUFFIX,10000.gd.cn

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Comodo
-# 合并来源: luestr/ShuntRules Comodo
+# 合并来源: blackmatrix7/ios_rule_script Comodo
 # 规则数: 5
 DOMAIN-SUFFIX,comodo.com
 DOMAIN-SUFFIX,comodoca.com

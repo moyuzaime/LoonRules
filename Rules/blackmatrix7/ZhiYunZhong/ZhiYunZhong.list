@@ -1,0 +1,11 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/ZhiYunZhong/ZhiYunZhong.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhiYunZhong/ZhiYunZhong.list
+# 规则数: 8
+DOMAIN-SUFFIX,2taobao2jd.com
+DOMAIN-SUFFIX,appgrub.com
+DOMAIN-SUFFIX,cloudau.cn
+DOMAIN-SUFFIX,iappad.com
+DOMAIN-SUFFIX,iapprank.com
+DOMAIN-SUFFIX,igo52.com
+DOMAIN-SUFFIX,optaim.cn
+DOMAIN-SUFFIX,optaim.com

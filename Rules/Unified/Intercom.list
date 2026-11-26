@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Intercom
-# 合并来源: luestr/ShuntRules Intercom
+# 合并来源: blackmatrix7/ios_rule_script Intercom
 # 规则数: 4
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,intercom.io

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: crypto
-# 合并来源: QuixoticHeart/rule-set crypto; luestr/ShuntRules Crypto
+# 合并来源: QuixoticHeart/rule-set crypto; blackmatrix7/ios_rule_script Crypto
 # 规则数: 421
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support

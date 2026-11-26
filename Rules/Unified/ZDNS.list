@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ZDNS
-# 合并来源: luestr/ShuntRules ZDNS
+# 合并来源: blackmatrix7/ios_rule_script ZDNS
 # 规则数: 12
 DOMAIN-SUFFIX,zcmbc.com.cn
 DOMAIN-SUFFIX,zdns.cn

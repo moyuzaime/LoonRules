@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HBOUSA
-# 合并来源: luestr/ShuntRules HBOUSA
+# 合并来源: blackmatrix7/ios_rule_script HBOUSA
 # 规则数: 11
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,cinemax.com

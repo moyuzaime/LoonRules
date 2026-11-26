@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Origin/Origin.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Origin/Origin.list
+# 规则数: 7
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,eaasserts-a.akamaihd.net
+DOMAIN,origin-a.akamaihd.net
+DOMAIN,originasserts.akamaized.net
+DOMAIN,rtm.tnt-ea.com
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,origin.com

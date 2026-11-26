@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Atomdata/Atomdata.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Atomdata/Atomdata.list
+# 规则数: 3
+DOMAIN-SUFFIX,analytics-data.io
+DOMAIN-SUFFIX,atom-data.io
+DOMAIN-SUFFIX,ironbeast.io

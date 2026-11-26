@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ProxyLite
-# 合并来源: luestr/ShuntRules ProxyLite
+# 合并来源: blackmatrix7/ios_rule_script ProxyLite
 # 规则数: 1097
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com

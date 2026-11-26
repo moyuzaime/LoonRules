@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: FOXNOW
-# 合并来源: luestr/ShuntRules FOXNOW
+# 合并来源: blackmatrix7/ios_rule_script FOXNOW
 # 规则数: 4
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Gog
-# 合并来源: luestr/ShuntRules Gog
+# 合并来源: blackmatrix7/ios_rule_script Gog
 # 规则数: 4
 DOMAIN,gog.salesmanago.com
 DOMAIN-SUFFIX,gog-statics.com

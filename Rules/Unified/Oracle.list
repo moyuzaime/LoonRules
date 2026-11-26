@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Oracle
-# 合并来源: luestr/ShuntRules Oracle
+# 合并来源: blackmatrix7/ios_rule_script Oracle
 # 规则数: 25
 DOMAIN-SUFFIX,a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com
 DOMAIN-SUFFIX,addthis.com

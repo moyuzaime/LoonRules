@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: LeTV
-# 合并来源: luestr/ShuntRules LeTV
+# 合并来源: blackmatrix7/ios_rule_script LeTV
 # 规则数: 13
 DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,lecloud.com

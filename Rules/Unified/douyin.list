@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: douyin
-# 合并来源: QuixoticHeart/rule-set douyin; luestr/ShuntRules DouYin
+# 合并来源: QuixoticHeart/rule-set douyin; blackmatrix7/ios_rule_script DouYin
 # 规则数: 53
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdxiguavod.com

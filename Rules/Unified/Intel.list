@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Intel
-# 合并来源: luestr/ShuntRules Intel
+# 合并来源: blackmatrix7/ios_rule_script Intel
 # 规则数: 261
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,acpica.com

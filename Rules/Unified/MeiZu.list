@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: MeiZu
-# 合并来源: luestr/ShuntRules MeiZu
+# 合并来源: blackmatrix7/ios_rule_script MeiZu
 # 规则数: 15
 DOMAIN-SUFFIX,flyme.cn
 DOMAIN-SUFFIX,flyme.com

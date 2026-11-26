@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: DaMai
-# 合并来源: luestr/ShuntRules DaMai
+# 合并来源: blackmatrix7/ios_rule_script DaMai
 # 规则数: 11
 DOMAIN-SUFFIX,baotoo.com
 DOMAIN-SUFFIX,damai.cn

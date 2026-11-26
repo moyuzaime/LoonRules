@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Apkpure/Apkpure.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apkpure/Apkpure.list
+# 规则数: 4
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com

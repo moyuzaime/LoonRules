@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Vimeo
-# 合并来源: luestr/ShuntRules Vimeo
+# 合并来源: blackmatrix7/ios_rule_script Vimeo
 # 规则数: 16
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,vhx.tv

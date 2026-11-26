@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: IMDB
-# 合并来源: luestr/ShuntRules IMDB
+# 合并来源: blackmatrix7/ios_rule_script IMDB
 # 规则数: 4
 DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,imdb.com

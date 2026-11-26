@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CEB
-# 合并来源: luestr/ShuntRules CEB
+# 合并来源: blackmatrix7/ios_rule_script CEB
 # 规则数: 15
 DOMAIN-SUFFIX,cebbank.com
 DOMAIN-SUFFIX,ceblease.com

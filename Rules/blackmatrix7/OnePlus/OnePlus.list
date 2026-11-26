@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/OnePlus/OnePlus.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OnePlus/OnePlus.list
+# 规则数: 7
+DOMAIN-SUFFIX,h2os.com
+DOMAIN-SUFFIX,oneplus.cn
+DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,oneplus.net
+DOMAIN-SUFFIX,oneplusbbs.com
+DOMAIN-SUFFIX,oneplusmobile.com
+DOMAIN-SUFFIX,opstatics.com

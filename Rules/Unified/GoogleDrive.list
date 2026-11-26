@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: GoogleDrive
-# 合并来源: luestr/ShuntRules GoogleDrive
+# 合并来源: blackmatrix7/ios_rule_script GoogleDrive
 # 规则数: 8
 DOMAIN,www.googleapis.com
 DOMAIN-SUFFIX,docs.google.com

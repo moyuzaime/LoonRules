@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AirWick
-# 合并来源: luestr/ShuntRules AirWick
+# 合并来源: blackmatrix7/ios_rule_script AirWick
 # 规则数: 40
 DOMAIN-SUFFIX,airwick.at
 DOMAIN-SUFFIX,airwick.be

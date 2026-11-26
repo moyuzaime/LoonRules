@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Emojipedia/Emojipedia.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Emojipedia/Emojipedia.list
+# 规则数: 3
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com

@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Atlassian/Atlassian.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Atlassian/Atlassian.list
+# 规则数: 5
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,statuspage.io
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com

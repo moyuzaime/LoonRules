@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: OpenAI
-# 合并来源: luestr/ShuntRules OpenAI
+# 合并来源: blackmatrix7/ios_rule_script OpenAI
 # 规则数: 38
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net

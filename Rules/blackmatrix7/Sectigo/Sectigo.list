@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Sectigo/Sectigo.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Sectigo/Sectigo.list
+# 规则数: 7
+DOMAIN-SUFFIX,enterprisessl.com
+DOMAIN-SUFFIX,hackerguardian.com
+DOMAIN-SUFFIX,instantssl.com
+DOMAIN-SUFFIX,optimumssl.com
+DOMAIN-SUFFIX,positivessl.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,usertrust.com

@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/HKedcity/HKedcity.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HKedcity/HKedcity.list
+# 规则数: 3
+DOMAIN-SUFFIX,edcity.hk
+DOMAIN-SUFFIX,hkedcity.net
+DOMAIN-SUFFIX,hkreadingcity.net

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: youtube
-# 合并来源: QuixoticHeart/rule-set youtube; luestr/ShuntRules YouTube
+# 合并来源: QuixoticHeart/rule-set youtube; blackmatrix7/ios_rule_script YouTube
 # 规则数: 194
 DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,ggpht.cn

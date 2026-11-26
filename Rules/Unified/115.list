@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: 115
-# 合并来源: luestr/ShuntRules 115
+# 合并来源: blackmatrix7/ios_rule_script 115
 # 规则数: 10
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,115.com

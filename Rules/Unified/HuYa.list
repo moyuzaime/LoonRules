@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HuYa
-# 合并来源: luestr/ShuntRules HuYa
+# 合并来源: blackmatrix7/ios_rule_script HuYa
 # 规则数: 4
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,huyagame.cn

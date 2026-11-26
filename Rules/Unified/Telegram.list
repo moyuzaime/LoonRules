@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Telegram
-# 合并来源: luestr/ShuntRules Telegram
+# 合并来源: blackmatrix7/ios_rule_script Telegram
 # 规则数: 55
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app

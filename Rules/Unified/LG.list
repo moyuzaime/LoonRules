@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: LG
-# 合并来源: luestr/ShuntRules LG
+# 合并来源: blackmatrix7/ios_rule_script LG
 # 规则数: 62
 DOMAIN-SUFFIX,dacom.co.kr
 DOMAIN-SUFFIX,kidc.net

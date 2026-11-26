@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: SuiShiChuanMei
-# 合并来源: luestr/ShuntRules SuiShiChuanMei
+# 合并来源: blackmatrix7/ios_rule_script SuiShiChuanMei
 # 规则数: 14
 DOMAIN-SUFFIX,91friend.com
 DOMAIN-SUFFIX,adsit.cn

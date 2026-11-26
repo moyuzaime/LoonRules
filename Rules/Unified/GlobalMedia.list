@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: GlobalMedia
-# 合并来源: luestr/ShuntRules GlobalMedia
+# 合并来源: blackmatrix7/ios_rule_script GlobalMedia
 # 规则数: 3256
 DOMAIN-SUFFIX,youtube
 DOMAIN-KEYWORD,abematv.akamaized.net

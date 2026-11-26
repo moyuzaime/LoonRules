@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: TIDAL
-# 合并来源: luestr/ShuntRules TIDAL
+# 合并来源: blackmatrix7/ios_rule_script TIDAL
 # 规则数: 6
 DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
 DOMAIN-SUFFIX,tidal.com

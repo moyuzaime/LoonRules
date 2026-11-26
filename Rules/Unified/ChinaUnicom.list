@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ChinaUnicom
-# 合并来源: luestr/ShuntRules ChinaUnicom
+# 合并来源: blackmatrix7/ios_rule_script ChinaUnicom
 # 规则数: 35
 DOMAIN-SUFFIX,10010.cn
 DOMAIN-SUFFIX,10010.com

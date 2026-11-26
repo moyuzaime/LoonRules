@@ -1,0 +1,17 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/DigiCert/DigiCert.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DigiCert/DigiCert.list
+# 规则数: 14
+DOMAIN-SUFFIX,dcocsp.cn
+DOMAIN-SUFFIX,digicert-cn.com
+DOMAIN-SUFFIX,digicert-validation.com
+DOMAIN-SUFFIX,digicert.cn
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,digitalcertvalidation.com
+DOMAIN-SUFFIX,freessl.com
+DOMAIN-SUFFIX,geotrust.com
+DOMAIN-SUFFIX,public-trust.com
+DOMAIN-SUFFIX,quovadisglobal.com
+DOMAIN-SUFFIX,rapidssl.com
+DOMAIN-SUFFIX,thawte.com
+DOMAIN-SUFFIX,thawte.de
+DOMAIN-SUFFIX,thawte.fr

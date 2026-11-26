@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: QuickConnect
-# 合并来源: luestr/ShuntRules QuickConnect
+# 合并来源: blackmatrix7/ios_rule_script QuickConnect
 # 规则数: 6
 DOMAIN,account.synology.com
 DOMAIN,global.quickconnect.cn

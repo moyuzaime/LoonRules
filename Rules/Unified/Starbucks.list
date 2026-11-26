@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Starbucks
-# 合并来源: luestr/ShuntRules Starbucks
+# 合并来源: blackmatrix7/ios_rule_script Starbucks
 # 规则数: 32
 DOMAIN-SUFFIX,sbux.com.my
 DOMAIN-SUFFIX,sbuxcard.com

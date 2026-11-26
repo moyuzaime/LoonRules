@@ -1,0 +1,9 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/KuaiDi100/KuaiDi100.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KuaiDi100/KuaiDi100.list
+# 规则数: 6
+DOMAIN-SUFFIX,baidiapp.com
+DOMAIN-SUFFIX,baidinet.com
+DOMAIN-SUFFIX,ckd.im
+DOMAIN-SUFFIX,kd100.com
+DOMAIN-SUFFIX,kuaidi100.com
+DOMAIN-SUFFIX,kuaidilab.com

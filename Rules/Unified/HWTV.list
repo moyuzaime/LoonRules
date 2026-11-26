@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HWTV
-# 合并来源: luestr/ShuntRules HWTV
+# 合并来源: blackmatrix7/ios_rule_script HWTV
 # 规则数: 3
 DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com

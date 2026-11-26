@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Embl
-# 合并来源: luestr/ShuntRules Embl
+# 合并来源: blackmatrix7/ios_rule_script Embl
 # 规则数: 7
 DOMAIN-SUFFIX,ebi.ac.uk
 DOMAIN-SUFFIX,embl-hamburg.de

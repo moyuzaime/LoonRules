@@ -1,0 +1,15 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Tesla/Tesla.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Tesla/Tesla.list
+# 规则数: 12
+DOMAIN-SUFFIX,solarcity.com
+DOMAIN-SUFFIX,tesla-cdn.thron.cn
+DOMAIN-SUFFIX,tesla-cdn.thron.com
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,tesla.com.cn
+DOMAIN-SUFFIX,tesla.services
+DOMAIN-SUFFIX,teslaenergy.services
+DOMAIN-SUFFIX,teslamotors.cn
+DOMAIN-SUFFIX,teslamotors.com
+DOMAIN-SUFFIX,teslamotors.com.cn
+DOMAIN-SUFFIX,teslazta.net
+DOMAIN-SUFFIX,ts.la

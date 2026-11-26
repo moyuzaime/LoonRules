@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Rakuten
-# 合并来源: luestr/ShuntRules Rakuten
+# 合并来源: blackmatrix7/ios_rule_script Rakuten
 # 规则数: 18
 DOMAIN-SUFFIX,ebates.com
 DOMAIN-SUFFIX,infoseek.co.jp

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Facebook
-# 合并来源: luestr/ShuntRules Facebook
+# 合并来源: blackmatrix7/ios_rule_script Facebook
 # 规则数: 594
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com

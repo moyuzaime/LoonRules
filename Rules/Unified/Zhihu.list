@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Zhihu
-# 合并来源: luestr/ShuntRules Zhihu
+# 合并来源: blackmatrix7/ios_rule_script Zhihu
 # 规则数: 12
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com

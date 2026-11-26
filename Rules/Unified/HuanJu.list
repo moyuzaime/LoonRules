@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HuanJu
-# 合并来源: luestr/ShuntRules HuanJu
+# 合并来源: blackmatrix7/ios_rule_script HuanJu
 # 规则数: 20
 DOMAIN-SUFFIX,5253.com
 DOMAIN-SUFFIX,blogchina.org

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ViuTV
-# 合并来源: luestr/ShuntRules ViuTV
+# 合并来源: blackmatrix7/ios_rule_script ViuTV
 # 规则数: 9
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net

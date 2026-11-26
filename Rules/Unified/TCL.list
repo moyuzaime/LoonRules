@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: TCL
-# 合并来源: luestr/ShuntRules TCL
+# 合并来源: blackmatrix7/ios_rule_script TCL
 # 规则数: 7
 DOMAIN-SUFFIX,alcatel-home.com
 DOMAIN-SUFFIX,alcatelmobile.com

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Hijacking
-# 合并来源: luestr/ShuntRules Hijacking
+# 合并来源: blackmatrix7/ios_rule_script Hijacking
 # 规则数: 270
 DOMAIN,geo2.adobe.com
 DOMAIN-SUFFIX,17gouwuba.com

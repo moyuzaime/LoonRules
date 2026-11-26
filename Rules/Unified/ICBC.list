@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ICBC
-# 合并来源: luestr/ShuntRules ICBC
+# 合并来源: blackmatrix7/ios_rule_script ICBC
 # 规则数: 58
 DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,95588.com.cn

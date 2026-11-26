@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HKedcity
-# 合并来源: luestr/ShuntRules HKedcity
+# 合并来源: blackmatrix7/ios_rule_script HKedcity
 # 规则数: 3
 DOMAIN-SUFFIX,edcity.hk
 DOMAIN-SUFFIX,hkedcity.net

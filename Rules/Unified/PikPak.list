@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: PikPak
-# 合并来源: luestr/ShuntRules PikPak
+# 合并来源: blackmatrix7/ios_rule_script PikPak
 # 规则数: 7
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
 DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net

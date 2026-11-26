@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: ZhongGuoShiHua
-# 合并来源: luestr/ShuntRules ZhongGuoShiHua
+# 合并来源: blackmatrix7/ios_rule_script ZhongGuoShiHua
 # 规则数: 5
 DOMAIN-SUFFIX,sinopec-usa.com
 DOMAIN-SUFFIX,sinopec.com

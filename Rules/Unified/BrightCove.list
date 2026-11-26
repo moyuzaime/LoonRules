@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: BrightCove
-# 合并来源: luestr/ShuntRules BrightCove
+# 合并来源: blackmatrix7/ios_rule_script BrightCove
 # 规则数: 14
 DOMAIN-SUFFIX,bcove.video
 DOMAIN-SUFFIX,bcovlive-a.akamaihd.net

@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Movefree
-# 合并来源: luestr/ShuntRules Movefree
+# 合并来源: blackmatrix7/ios_rule_script Movefree
 # 规则数: 7
 DOMAIN-SUFFIX,keepmovingwithmovefree.com
 DOMAIN-SUFFIX,move-free.net

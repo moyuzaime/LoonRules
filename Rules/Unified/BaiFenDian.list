@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: BaiFenDian
-# 合并来源: luestr/ShuntRules BaiFenDian
+# 合并来源: blackmatrix7/ios_rule_script BaiFenDian
 # 规则数: 10
 DOMAIN-SUFFIX,baifendian.com
 DOMAIN-SUFFIX,bfdcdn.com

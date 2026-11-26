@@ -1,0 +1,12 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/ZeeTV/ZeeTV.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZeeTV/ZeeTV.list
+# 规则数: 9
+DOMAIN-SUFFIX,z5.app
+DOMAIN-SUFFIX,z5.com
+DOMAIN-SUFFIX,zee5.com
+DOMAIN-SUFFIX,zee5.in
+DOMAIN-SUFFIX,zee5.tv
+DOMAIN-SUFFIX,zeebioskop.com
+DOMAIN-SUFFIX,zeetv.co.uk
+DOMAIN-SUFFIX,zeetv.com
+DOMAIN-SUFFIX,zeeuk.com

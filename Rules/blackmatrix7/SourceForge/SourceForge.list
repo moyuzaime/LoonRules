@@ -1,0 +1,7 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/SourceForge/SourceForge.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SourceForge/SourceForge.list
+# 规则数: 4
+DOMAIN-SUFFIX,fsdn.com
+DOMAIN-SUFFIX,sf.net
+DOMAIN-SUFFIX,sourceforge.com
+DOMAIN-SUFFIX,sourceforge.net

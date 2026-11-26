@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: iTalkBB
-# 合并来源: luestr/ShuntRules iTalkBB
+# 合并来源: blackmatrix7/ios_rule_script iTalkBB
 # 规则数: 3
 DOMAIN-SUFFIX,api.tv.colnv.com
 DOMAIN-SUFFIX,italkbb.com

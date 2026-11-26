@@ -1,0 +1,9 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/ATTWatchTV/ATTWatchTV.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ATTWatchTV/ATTWatchTV.list
+# 规则数: 6
+DOMAIN-SUFFIX,att.tv
+DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,attwatchtv.com
+DOMAIN-SUFFIX,directv.com
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,nettyinternet.com

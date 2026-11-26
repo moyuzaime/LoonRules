@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: BOC
-# 合并来源: luestr/ShuntRules BOC
+# 合并来源: blackmatrix7/ios_rule_script BOC
 # 规则数: 22
 DOMAIN-SUFFIX,bank-of-china.com
 DOMAIN-SUFFIX,bankofchina.com

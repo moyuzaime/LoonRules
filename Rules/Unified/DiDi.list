@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: DiDi
-# 合并来源: luestr/ShuntRules DiDi
+# 合并来源: blackmatrix7/ios_rule_script DiDi
 # 规则数: 25
 DOMAIN-SUFFIX,apptaxi.com.cn
 DOMAIN-SUFFIX,cxyule.com

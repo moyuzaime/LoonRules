@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Wanfang
-# 合并来源: luestr/ShuntRules Wanfang
+# 合并来源: blackmatrix7/ios_rule_script Wanfang
 # 规则数: 2
 DOMAIN-SUFFIX,wanfangdata.com.cn
 DOMAIN-SUFFIX,wf.pub

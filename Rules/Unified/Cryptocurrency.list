@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Cryptocurrency
-# 合并来源: luestr/ShuntRules Cryptocurrency
+# 合并来源: blackmatrix7/ios_rule_script Cryptocurrency
 # 规则数: 43
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,aicoin.com

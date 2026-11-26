@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: CKJR
-# 合并来源: luestr/ShuntRules CKJR
+# 合并来源: blackmatrix7/ios_rule_script CKJR
 # 规则数: 13
 DOMAIN-SUFFIX,51ckjr.com
 DOMAIN-SUFFIX,ckjr001.cn

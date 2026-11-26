@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Verizon
-# 合并来源: luestr/ShuntRules Verizon
+# 合并来源: blackmatrix7/ios_rule_script Verizon
 # 规则数: 183
 DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,aol.co.uk

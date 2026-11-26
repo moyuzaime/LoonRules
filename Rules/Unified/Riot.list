@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: Riot
-# 合并来源: luestr/ShuntRules Riot
+# 合并来源: blackmatrix7/ios_rule_script Riot
 # 规则数: 55
 DOMAIN-SUFFIX,championshipseriesleague.com
 DOMAIN-SUFFIX,convrgencegame.com

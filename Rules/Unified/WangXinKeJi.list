@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: WangXinKeJi
-# 合并来源: luestr/ShuntRules WangXinKeJi
+# 合并来源: blackmatrix7/ios_rule_script WangXinKeJi
 # 规则数: 26
 DOMAIN-SUFFIX,0101cdn.com
 DOMAIN-SUFFIX,hiveshared.com

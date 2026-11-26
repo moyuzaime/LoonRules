@@ -1,0 +1,11 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Viki/Viki.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Viki/Viki.list
+# 规则数: 8
+DOMAIN-SUFFIX,kalhlspd-a.akamaihd.net
+DOMAIN-SUFFIX,m-content-viki.s.llnwi.net
+DOMAIN-SUFFIX,twemoji.maxcdn.com
+DOMAIN-SUFFIX,viki.com
+DOMAIN-SUFFIX,viki.io
+DOMAIN-SUFFIX,viki.net
+DOMAIN-SUFFIX,vikidash.akamaized.net
+DOMAIN-SUFFIX,vikiplatform.com

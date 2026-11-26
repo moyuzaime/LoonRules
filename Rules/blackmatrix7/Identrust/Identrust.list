@@ -1,0 +1,6 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Identrust/Identrust.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Identrust/Identrust.list
+# 规则数: 3
+DOMAIN-SUFFIX,identrust.co.uk
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,identrust.net

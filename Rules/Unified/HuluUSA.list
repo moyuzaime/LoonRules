@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: HuluUSA
-# 合并来源: luestr/ShuntRules HuluUSA
+# 合并来源: blackmatrix7/ios_rule_script HuluUSA
 # 规则数: 52
 DOMAIN-SUFFIX,112263.com
 DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net

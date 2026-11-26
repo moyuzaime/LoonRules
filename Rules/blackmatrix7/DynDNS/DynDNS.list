@@ -1,0 +1,11 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/DynDNS/DynDNS.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DynDNS/DynDNS.list
+# 规则数: 8
+DOMAIN-SUFFIX,blogdns.org
+DOMAIN-SUFFIX,dyn.com
+DOMAIN-SUFFIX,dyndns-ip.com
+DOMAIN-SUFFIX,dyndns-pics.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,from-pr.com
+DOMAIN-SUFFIX,from-sd.com
+DOMAIN-SUFFIX,is-a-hunter.com

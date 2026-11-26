@@ -1,0 +1,8 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/XiaoYuanKeJi/XiaoYuanKeJi.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XiaoYuanKeJi/XiaoYuanKeJi.list
+# 规则数: 5
+DOMAIN-SUFFIX,10010mx.com
+DOMAIN-SUFFIX,5gimos.com
+DOMAIN-SUFFIX,bizport.cn
+DOMAIN-SUFFIX,mfexcel.com
+DOMAIN-SUFFIX,microfountain.com

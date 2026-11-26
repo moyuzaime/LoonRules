@@ -1,0 +1,18 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/KakaoTalk/KakaoTalk_Resolve.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KakaoTalk/KakaoTalk_Resolve.list
+# 规则数: 15
+DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,daumcdn.net
+DOMAIN-SUFFIX,daumkakao.io
+DOMAIN-SUFFIX,daumpotplayer.com
+DOMAIN-SUFFIX,kakao.co.kr
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocdn.net
+DOMAIN-SUFFIX,kakaocorp.com
+DOMAIN-SUFFIX,potplayer.tv
+IP-CIDR,1.201.0.0/24
+IP-CIDR,103.246.56.0/22
+IP-CIDR,103.27.148.0/22
+IP-CIDR,110.76.140.0/22
+IP-CIDR,113.61.104.0/22
+IP-CIDR,27.0.236.0/22

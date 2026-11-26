@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: TigerFintech
-# 合并来源: luestr/ShuntRules TigerFintech
+# 合并来源: blackmatrix7/ios_rule_script TigerFintech
 # 规则数: 19
 DOMAIN-SUFFIX,ftfast.com
 DOMAIN-SUFFIX,iotaskyt.com

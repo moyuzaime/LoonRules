@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: PBS
-# 合并来源: luestr/ShuntRules PBS
+# 合并来源: blackmatrix7/ios_rule_script PBS
 # 规则数: 2
 DOMAIN-SUFFIX,pbs.org
 USER-AGENT,PBS*

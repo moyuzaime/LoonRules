@@ -1,0 +1,10 @@
+# 来源: blackmatrix7/ios_rule_script rule/Loon/Anjuke/Anjuke.list
+# 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Anjuke/Anjuke.list
+# 规则数: 7
+DOMAIN-SUFFIX,aifang.com
+DOMAIN-SUFFIX,aifcdn.com
+DOMAIN-SUFFIX,ajkinclude.com
+DOMAIN-SUFFIX,anjuke.cn
+DOMAIN-SUFFIX,anjuke.com
+DOMAIN-SUFFIX,anjukestatic.com
+DOMAIN-SUFFIX,jikejia.cn

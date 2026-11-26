@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: MEGA
-# 合并来源: luestr/ShuntRules MEGA
+# 合并来源: blackmatrix7/ios_rule_script MEGA
 # 规则数: 23
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io

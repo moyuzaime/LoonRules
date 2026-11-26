@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: WeiZhiYunDong
-# 合并来源: luestr/ShuntRules WeiZhiYunDong
+# 合并来源: blackmatrix7/ios_rule_script WeiZhiYunDong
 # 规则数: 4
 DOMAIN-SUFFIX,dicom365.com
 DOMAIN-SUFFIX,dycom365.com

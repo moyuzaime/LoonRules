@@ -1,5 +1,5 @@
 # 统一规则库 | 分类: AppleHardware
-# 合并来源: luestr/ShuntRules AppleHardware
+# 合并来源: blackmatrix7/ios_rule_script AppleHardware
 # 规则数: 226
 DOMAIN-SUFFIX,aplestore.com
 DOMAIN-SUFFIX,aplleipods.com
