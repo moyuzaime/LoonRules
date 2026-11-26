@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/games-cn.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/games-cn.list
+# 说明: 游戏平台、游戏下载在中国大陆可直连的规则列表
 # 规则数: 99
 # 目标: games-cn
 DOMAIN,blzdist-d3.necdn.leihuo.netease.com

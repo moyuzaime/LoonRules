@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: gits
 # 合并来源: QuixoticHeart/rule-set gits
+# 说明: Git仓库规则集合
 # 规则数: 77
 # 目标: gits
 DOMAIN,copilotprodattachments.blob.core.windows.net

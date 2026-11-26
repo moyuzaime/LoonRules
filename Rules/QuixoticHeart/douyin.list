@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/douyin.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/douyin.list
+# 说明: 抖音短视频平台
 # 规则数: 51
 # 目标: douyin
 DOMAIN-SUFFIX,amemv.com

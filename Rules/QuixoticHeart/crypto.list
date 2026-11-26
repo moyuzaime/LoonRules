@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/crypto.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/crypto.list
+# 说明: 加密货币相关规则
 # 规则数: 421
 # 目标: crypto
 DOMAIN,bybit-exchange.github.io

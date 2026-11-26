@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/dazn.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/dazn.list
+# 说明: DAZN 体育流媒体平台
 # 规则数: 21
 # 目标: dazn
 DOMAIN-SUFFIX,control.kochava.com

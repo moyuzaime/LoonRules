@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: cdn
 # 合并来源: QuixoticHeart/rule-set cdn
+# 说明: 常见静态资源 CDN 及软件更新、操作系统等大文件下载规则
 # 规则数: 6840
 # 目标: cdn
 DOMAIN,0x0.st

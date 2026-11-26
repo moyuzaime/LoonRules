@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: iplocation-direct
 # 合并来源: QuixoticHeart/rule-set iplocation-direct
+# 说明: 修改国内软件 IP 归属地的直连规则，直连规则须放置在代理规则之前
 # 规则数: 25
 # 目标: iplocation-direct
 DOMAIN,china-img.soulapp.cn

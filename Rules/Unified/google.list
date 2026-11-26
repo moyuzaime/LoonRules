@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: google
 # 合并来源: QuixoticHeart/rule-set google; blackmatrix7/ios_rule_script Google
+# 说明: Google 谷歌服务
 # 规则数: 7836
 # 目标: google
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com

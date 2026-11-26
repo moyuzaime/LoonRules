@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/microsoft.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/microsoft.list
+# 说明: Microsoft 微软服务
 # 规则数: 769
 # 目标: microsoft
 DOMAIN,github-api.arkoselabs.com

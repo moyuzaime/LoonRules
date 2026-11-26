@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/niconico.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/niconico.list
+# 说明: Niconico 视频网站
 # 规则数: 11
 # 目标: niconico
 DOMAIN-SUFFIX,nico

@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/socialmedia-cn.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/socialmedia-cn.list
+# 说明: 国内社交媒体规则集合
 # 规则数: 60
 # 目标: socialmedia-cn
 DOMAIN-SUFFIX,178.com

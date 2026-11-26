@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: crypto
 # 合并来源: QuixoticHeart/rule-set crypto; blackmatrix7/ios_rule_script Crypto
+# 说明: 加密货币相关规则
 # 规则数: 421
 # 目标: crypto
 DOMAIN,bybit-exchange.github.io

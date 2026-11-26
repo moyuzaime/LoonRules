@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: hulu
 # 合并来源: QuixoticHeart/rule-set hulu; blackmatrix7/ios_rule_script Hulu
+# 说明: Hulu 视频流媒体平台
 # 规则数: 59
 # 目标: hulu
 DOMAIN,live-mediashield-ava-hulustream-com.akamaized.net

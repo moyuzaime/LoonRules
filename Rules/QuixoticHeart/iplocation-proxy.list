@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/iplocation-proxy.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/iplocation-proxy.list
+# 说明: 修改国内软件 IP 归属地的代理规则，直连规则须放置在代理规则之前
 # 规则数: 165
 # 目标: iplocation-proxy
 DOMAIN,ac.dun.163.com

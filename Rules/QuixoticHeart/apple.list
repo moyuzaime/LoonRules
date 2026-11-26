@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/apple.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apple.list
+# 说明: Apple 服务
 # 规则数: 1598
 # 目标: apple
 DOMAIN,apple-events.akamaized.net

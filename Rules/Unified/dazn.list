@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: dazn
 # 合并来源: QuixoticHeart/rule-set dazn; blackmatrix7/ios_rule_script DAZN
+# 说明: DAZN 体育流媒体平台
 # 规则数: 22
 # 目标: dazn
 DOMAIN-SUFFIX,control.kochava.com

@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/primevideo.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/primevideo.list
+# 说明: PrimeVideo 视频流媒体平台
 # 规则数: 31
 # 目标: primevideo
 DOMAIN,atv-ps.amazon.com

@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: proxy
 # 合并来源: QuixoticHeart/rule-set proxy; blackmatrix7/ios_rule_script Proxy
+# 说明: 国外需要代理的域名
 # 规则数: 30456
 # 目标: proxy
 DOMAIN,1password.drift.click

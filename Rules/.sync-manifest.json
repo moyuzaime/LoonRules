@@ -1,574 +1,574 @@
 {
   "files": [
     {
-      "bytes": 1097,
+      "bytes": 1135,
       "filename": "",
       "kind": "rules",
       "name": "abema",
       "path": "Rules/QuixoticHeart/abema.list",
       "rules": 21,
-      "sha256": "df95a9b514fa7674f89c256ab79850c7da4b877d8f963c3c8390f88a15602ddc",
+      "sha256": "87e4b6129b231df55136ebb84c7b3e5a540da2f1f1f37006799b1f23f767ae08",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/abema.list"
     },
     {
-      "bytes": 11437674,
+      "bytes": 11437713,
       "filename": "",
       "kind": "rules",
       "name": "adrules",
       "path": "Rules/QuixoticHeart/adrules.list",
       "rules": 215774,
-      "sha256": "e83751a002a28d890ae5191729395f29372d724abe969e519d629b74785f9522",
+      "sha256": "ed22d99d1918a17b5bf56e85e566f87ac685d682b2d6df5a1f2e3409ad9298b9",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/adrules.list"
     },
     {
-      "bytes": 11458,
+      "bytes": 11484,
       "filename": "",
       "kind": "rules",
       "name": "ai",
       "path": "Rules/QuixoticHeart/ai.list",
       "rules": 260,
-      "sha256": "d883a845aa763e271295ec30eb9711ad09ea1456349155f8dd21b5c2b32690f1",
+      "sha256": "cd5ebcfca86f54f3ce65bfcd49d2a009dbbf86ac0f09eb7402ba79958b40bf7c",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/ai.list"
     },
     {
-      "bytes": 796,
+      "bytes": 857,
       "filename": "",
       "kind": "rules",
       "name": "apns",
       "path": "Rules/QuixoticHeart/apns.list",
       "rules": 13,
-      "sha256": "c1fe105314ada2c18b810ef14994e52fe8896453e843bddbdb95b1da858693de",
+      "sha256": "624dea248f313fd0e22b37ecc67acd1a15612fa4c2e4dae23e73a06671e0f559",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apns.list"
     },
     {
-      "bytes": 9909,
+      "bytes": 9962,
       "filename": "",
       "kind": "rules",
       "name": "apple-cn",
       "path": "Rules/QuixoticHeart/apple-cn.list",
       "rules": 170,
-      "sha256": "2ecd79fb4b9e73fc0a41c9bca998d943cce0080a54f8fefdc4a4c02e4a83430e",
+      "sha256": "6e29a6cbe680af886d2bee1abdfed89954fbbcb70d5f92f9d6690eb76d09d86d",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apple-cn.list"
     },
     {
-      "bytes": 2529,
+      "bytes": 2588,
       "filename": "",
       "kind": "rules",
       "name": "apple-proxy",
       "path": "Rules/QuixoticHeart/apple-proxy.list",
       "rules": 45,
-      "sha256": "0cf9b9cf54702e5f8008fa1801afb4f2d954f99b6e7669658e19c50517f8ee2c",
+      "sha256": "06f76a7792806d36b70ea799d59f7021b5fdda80d7b5bfa31804c1e775cb5cf5",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apple-proxy.list"
     },
     {
-      "bytes": 603,
+      "bytes": 638,
       "filename": "",
       "kind": "rules",
       "name": "apple-tv",
       "path": "Rules/QuixoticHeart/apple-tv.list",
       "rules": 9,
-      "sha256": "d1e70c680ff48240b2414c26793b007bb575fcd389374e03b900935790e07551",
+      "sha256": "6fb3bbb777a38a43953b60f8ab3f0563e07a48966b45e352b1649d2c943d553c",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apple-tv.list"
     },
     {
-      "bytes": 76553,
+      "bytes": 76576,
       "filename": "",
       "kind": "rules",
       "name": "apple",
       "path": "Rules/QuixoticHeart/apple.list",
       "rules": 1598,
-      "sha256": "3310886b9bde2bdf48c4abdf673a6ff1dcc7ee9ef13017ccd80a4e0567aad9f7",
+      "sha256": "27245d92b632be7f36b35b0b2d284f45d25baecdbafa27795ed33514bdf7ef54",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apple.list"
     },
     {
-      "bytes": 485,
+      "bytes": 514,
       "filename": "",
       "kind": "rules",
       "name": "bahamut",
       "path": "Rules/QuixoticHeart/bahamut.list",
       "rules": 7,
-      "sha256": "d2505039d800f41f79a960ac38a83b25e14fbad69f1bea66ca8c2115c185124a",
+      "sha256": "43a3e31f58819298083024cea44b87598f0f52388a2e68ea1585ecd26ca95d96",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/bahamut.list"
     },
     {
-      "bytes": 7290,
+      "bytes": 7319,
       "filename": "",
       "kind": "rules",
       "name": "bilibili",
       "path": "Rules/QuixoticHeart/bilibili.list",
       "rules": 134,
-      "sha256": "b0c6e9a7afcffd60558dcd1f906db3d7d2287210f981422120e7e8cd6f1dd62b",
+      "sha256": "6b9d7ffd56c84b3813e4119a1cbe194d70fb1b51d8a294127d2965d15ad1dffa",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/bilibili.list"
     },
     {
-      "bytes": 293437,
+      "bytes": 293525,
       "filename": "",
       "kind": "rules",
       "name": "cdn",
       "path": "Rules/QuixoticHeart/cdn.list",
       "rules": 6840,
-      "sha256": "5db00863f66b390af93de633e7a2e2336b548fb16234c88f37ef0199aeba2cbd",
+      "sha256": "e87b922f4b8e56b3876e7604b8cb6fca36c2a8cf30c462b07a96ad60556fa68b",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/cdn.list"
     },
     {
-      "bytes": 4273640,
+      "bytes": 4273669,
       "filename": "",
       "kind": "rules",
       "name": "cn",
       "path": "Rules/QuixoticHeart/cn.list",
       "rules": 107783,
-      "sha256": "9b54a82d3bb8070045bb60f2b6fa8fc98dd41a899a6f9d35e38b11bae7f25de0",
+      "sha256": "f0836c3c28d8f69710502c43b6c97c3d0e9904d6f6a724595d17848186f69fd9",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/cn.list"
     },
     {
-      "bytes": 931585,
+      "bytes": 931642,
       "filename": "",
       "kind": "rules",
       "name": "cncidr-resolve",
       "path": "Rules/QuixoticHeart/cncidr-resolve.list",
       "rules": 17958,
-      "sha256": "55ddeef01adb7636416d8f5a9bcff9ae42a62403b9ef791de460ee361c738740",
+      "sha256": "19aa6c10feaf0c6292e697061728694cf6de0d14484726cc6cc5dbf6cd51c0be",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/cncidr-resolve.list"
     },
     {
-      "bytes": 985443,
+      "bytes": 985476,
       "filename": "",
       "kind": "rules",
       "name": "cncidr",
       "path": "Rules/QuixoticHeart/cncidr.list",
       "rules": 17958,
-      "sha256": "24aee6a93dd7a6d8190e1724cbf2cee74e004621b9f19ba8cfd1447f96977b32",
+      "sha256": "ffe0e57b076bf4ea93f5814146e2e4e72d83b8d71e75d4e777956a1d00b391ac",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/cncidr.list"
     },
     {
-      "bytes": 18755,
+      "bytes": 18790,
       "filename": "",
       "kind": "rules",
       "name": "crypto",
       "path": "Rules/QuixoticHeart/crypto.list",
       "rules": 421,
-      "sha256": "0e6ff3f62b845dfb61ce66a15c7f062584b1e8d00ab3ea7012928501c1d3cfa5",
+      "sha256": "b7d3d6a401295c9cbfc367af3dba668c39af4548ffe1d60334a4287a84222e6b",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/crypto.list"
     },
     {
-      "bytes": 1182,
+      "bytes": 1219,
       "filename": "",
       "kind": "rules",
       "name": "dazn",
       "path": "Rules/QuixoticHeart/dazn.list",
       "rules": 21,
-      "sha256": "b7f51cb69243ab0d60204638801f884eeedf5b1284e0ae2eff250975b9dcb37e",
+      "sha256": "c268b88ef7e1e458a7c4d04d2d22f2d901f236486c899547828cb15a763a52b2",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/dazn.list"
     },
     {
-      "bytes": 11390,
+      "bytes": 11432,
       "filename": "",
       "kind": "rules",
       "name": "disney",
       "path": "Rules/QuixoticHeart/disney.list",
       "rules": 236,
-      "sha256": "4ebe83dcba8dc037022540329c4532b12bec5cf4d79e0a11dce267560374d1f5",
+      "sha256": "2068234c8ff590f3c1e17bc61b1106478298de65c8ac4f6be9963718e4b47112",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/disney.list"
     },
     {
-      "bytes": 69265,
+      "bytes": 69293,
       "filename": "",
       "kind": "rules",
       "name": "dmca",
       "path": "Rules/QuixoticHeart/dmca.list",
       "rules": 1509,
-      "sha256": "916b1f5b6ae8442867a729abce926cf8bb2e7387ad475074d9f616b6a6a79a75",
+      "sha256": "763944b8a4da15ddf1ed933f87e50c011469b8b28ddbbf7bd8480e8fd2525cae",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/dmca.list"
     },
     {
-      "bytes": 1442,
+      "bytes": 1478,
       "filename": "",
       "kind": "rules",
       "name": "dmm",
       "path": "Rules/QuixoticHeart/dmm.list",
       "rules": 31,
-      "sha256": "77edebec294f2b1f7174eec94f25632a5b23b4278d24e2b127d925efd7245ec3",
+      "sha256": "64fe2c3bd162dc30f6cefa67a5bffadac4eb8fa159b07c0ca7c021d11691cadb",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/dmm.list"
     },
     {
-      "bytes": 2491,
+      "bytes": 2523,
       "filename": "",
       "kind": "rules",
       "name": "douyin",
       "path": "Rules/QuixoticHeart/douyin.list",
       "rules": 51,
-      "sha256": "b7539a6a15626239f9e5d3de4357dc5e2e2e1ede4cc54ce2e3c4a1d1d0843a94",
+      "sha256": "edff6a4e8c223b523b8cd03bce509855f7c7325a984a364f4e63419737784cdc",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/douyin.list"
     },
     {
-      "bytes": 74518,
+      "bytes": 74547,
       "filename": "",
       "kind": "rules",
       "name": "ecommerce",
       "path": "Rules/QuixoticHeart/ecommerce.list",
       "rules": 1543,
-      "sha256": "9b4fd5a5c10a78e093825c26bbd295ea58fbbd5e79a03f799271c134b1b32e1d",
+      "sha256": "cc7486a52a030ed4830cab81f39ad12a19fd140f138f713de63ffe2696aa2327",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/ecommerce.list"
     },
     {
-      "bytes": 5061,
+      "bytes": 5096,
       "filename": "",
       "kind": "rules",
       "name": "forum",
       "path": "Rules/QuixoticHeart/forum.list",
       "rules": 115,
-      "sha256": "5af3078c5e38b68bf8a3af156fedb142a0e9ced93664e8d1237cd3ee17f19bf7",
+      "sha256": "80452115b54d61424b38222289ce2a41570e7ef354a6e48baa6e3c66993580f7",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/forum.list"
     },
     {
-      "bytes": 5050,
+      "bytes": 5127,
       "filename": "",
       "kind": "rules",
       "name": "games-cn",
       "path": "Rules/QuixoticHeart/games-cn.list",
       "rules": 99,
-      "sha256": "56993e2efbd3ad75d0bedafede5f1d03417d92eb82f8ce4fcac9a02c7a4d4e9b",
+      "sha256": "69e627b11524e7d5701cb1d6d526a60c61a4ccafac3722a00ff99a312ebe9e56",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/games-cn.list"
     },
     {
-      "bytes": 49469,
+      "bytes": 49519,
       "filename": "",
       "kind": "rules",
       "name": "games",
       "path": "Rules/QuixoticHeart/games.list",
       "rules": 1051,
-      "sha256": "f23301982c43074ada726b8ee33c938514c132fb349b69db84bcfcdc5db670f4",
+      "sha256": "43a0b89e7c95f3107184449b7e1b26e95d814dc83e0f3a66f23bf3a6ea867945",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/games.list"
     },
     {
-      "bytes": 310947,
+      "bytes": 310987,
       "filename": "",
       "kind": "rules",
       "name": "gfw",
       "path": "Rules/QuixoticHeart/gfw.list",
       "rules": 7528,
-      "sha256": "4a32d4b515589d067756cdbc1c02ea18727f6a8c2fdd7919d95c7bf33efc6b0b",
+      "sha256": "e3b5a70724905d35c4a3a98521164fc7a20f8a8cf7b6a07aceffc3682a64141a",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/gfw.list"
     },
     {
-      "bytes": 4241,
+      "bytes": 4273,
       "filename": "",
       "kind": "rules",
       "name": "gits",
       "path": "Rules/QuixoticHeart/gits.list",
       "rules": 77,
-      "sha256": "73b1ca52fbdcb29a007b25e494efd6f5a203477ad57f7143a3f0509a61b5b274",
+      "sha256": "2704d483672e1ed81da7ef8b4c43cb9cf6c18c1fb7cffaa7b343997048433eb8",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/gits.list"
     },
     {
-      "bytes": 434445,
+      "bytes": 434475,
       "filename": "",
       "kind": "rules",
       "name": "google",
       "path": "Rules/QuixoticHeart/google.list",
       "rules": 7805,
-      "sha256": "bc6d82520e6e08c87d1b217d7354e4e00d4a8af49cd3f40c0a1dd9de33dda92a",
+      "sha256": "141b0632f22b3e6ea77acc97df55faa0be4425a737e91b2df643f002d2785282",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/google.list"
     },
     {
-      "bytes": 2415,
+      "bytes": 2476,
       "filename": "",
       "kind": "rules",
       "name": "googlefcm",
       "path": "Rules/QuixoticHeart/googlefcm.list",
       "rules": 41,
-      "sha256": "91a0ef9785913c693cae2f95dc713d2d8cd646eb9c9f24a94887e42a8b2b6e66",
+      "sha256": "9785170de18103fd24a92d1d5161566c589ec7486fc13ccff2aa5f9eeb9c0cde",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/googlefcm.list"
     },
     {
-      "bytes": 4057,
+      "bytes": 4093,
       "filename": "",
       "kind": "rules",
       "name": "hbo",
       "path": "Rules/QuixoticHeart/hbo.list",
       "rules": 90,
-      "sha256": "38623b9250d66162c9c655d4326151bd4a494d67dc7d411c41ff2159df53472b",
+      "sha256": "01ff836e8ca7c6bcdd9e7eb3efe850e78d8f211da345e2764d7a59c825d57f3d",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/hbo.list"
     },
     {
-      "bytes": 5678,
+      "bytes": 5774,
       "filename": "",
       "kind": "rules",
       "name": "httpdns",
       "path": "Rules/QuixoticHeart/httpdns.list",
       "rules": 101,
-      "sha256": "1251f4f869f7abc81bd662776772b67d6819ea02bbd23d3b96dbfe98783ec88d",
+      "sha256": "9faedd47f2e049d0bd3e188f985fb2cb070f904c7423d8713b61b2eeec905ed6",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/httpdns.list"
     },
     {
-      "bytes": 2731,
+      "bytes": 2768,
       "filename": "",
       "kind": "rules",
       "name": "hulu",
       "path": "Rules/QuixoticHeart/hulu.list",
       "rules": 59,
-      "sha256": "550b9c701ab49c32efe8e2bbc28c64172cec5e4a7e1c254a2214ee4c93785404",
+      "sha256": "9b5287d61a4be110996471dcbdabd7b14a54c8ebd0429f7ee6b7d491f4c62938",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/hulu.list"
     },
     {
-      "bytes": 1643,
+      "bytes": 1745,
       "filename": "",
       "kind": "rules",
       "name": "iplocation-direct",
       "path": "Rules/QuixoticHeart/iplocation-direct.list",
       "rules": 25,
-      "sha256": "dcb0c77ebaf6f74ea39e67211f57bce201e7425a523646cb035f26f1ec09e8f2",
+      "sha256": "1ad1a924553a01072c606dc3c7967a86dbe8c845a636c8e491b69361ae26c666",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/iplocation-direct.list"
     },
     {
-      "bytes": 9572,
+      "bytes": 9674,
       "filename": "",
       "kind": "rules",
       "name": "iplocation-proxy",
       "path": "Rules/QuixoticHeart/iplocation-proxy.list",
       "rules": 165,
-      "sha256": "7f384845e795f9c46636ccd93bfbe169af47a7f4000fd575a1c266c4c9c6d364",
+      "sha256": "742c77eedbcc030183d47b5c3e1a1c5f568765921937372a884afb959dd35564",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/iplocation-proxy.list"
     },
     {
-      "bytes": 10780,
+      "bytes": 10846,
       "filename": "",
       "kind": "rules",
       "name": "microsoft-cn",
       "path": "Rules/QuixoticHeart/microsoft-cn.list",
       "rules": 189,
-      "sha256": "67d5b37543c403410256420541efce0964dae4059b6dc1f59f1c9d9a67f43db2",
+      "sha256": "ab9ae6b51225e6c2b74a4a814d7c1368b461812d8f424c42ebc0a9d20ee34485",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/microsoft-cn.list"
     },
     {
-      "bytes": 38833,
+      "bytes": 38866,
       "filename": "",
       "kind": "rules",
       "name": "microsoft",
       "path": "Rules/QuixoticHeart/microsoft.list",
       "rules": 769,
-      "sha256": "54ac1d391e58a4ef095d0bb5549f9070c3615245265d8f1c8b35ddd2a67114be",
+      "sha256": "0709594ecbe5efae42589fa9fb5e074c4c0390f68ea5bdd22210f5e629b4e5fa",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/microsoft.list"
     },
     {
-      "bytes": 465,
+      "bytes": 517,
       "filename": "",
       "kind": "rules",
       "name": "mytvsuper",
       "path": "Rules/QuixoticHeart/mytvsuper.list",
       "rules": 6,
-      "sha256": "2fab01f74f35203b6edcd61d14614b47f7458af23747519dea19e6b57fd243d9",
+      "sha256": "7f7a7b823512fcab83f0fc0aa7e0da5c587df819d020c11ab3ef94853d333063",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/mytvsuper.list"
     },
     {
-      "bytes": 61196,
+      "bytes": 61236,
       "filename": "",
       "kind": "rules",
       "name": "netflix",
       "path": "Rules/QuixoticHeart/netflix.list",
       "rules": 1158,
-      "sha256": "202e6c760fa69adf71a2dcbd06a51416c7314d7f5e876e8490e1dedf18eb89c1",
+      "sha256": "7f460dfa5f57ee194c5df7fab9f4391b68e6dce97fb81ba64d0b2b11f66203a4",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/netflix.list"
     },
     {
-      "bytes": 650,
+      "bytes": 682,
       "filename": "",
       "kind": "rules",
       "name": "niconico",
       "path": "Rules/QuixoticHeart/niconico.list",
       "rules": 11,
-      "sha256": "b142c56887d7aa3d1a640871a91467696863b6241b23081ac376c6f013fd178a",
+      "sha256": "7c1f8c6ea7bfa5f05bca047b030389f25de9ad3c276b3c11ecc1edf64f4acd03",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/niconico.list"
     },
     {
-      "bytes": 1188,
+      "bytes": 1214,
       "filename": "",
       "kind": "rules",
       "name": "onedrive",
       "path": "Rules/QuixoticHeart/onedrive.list",
       "rules": 21,
-      "sha256": "08807a3a6dc319fb152d6f9fb224cccd5927cb4eb2417d164db57311a8dba2cd",
+      "sha256": "612fe9af22920e9ab9cfaa762564b98006f317f4e62e3978588fdc1297f119e7",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/onedrive.list"
     },
     {
-      "bytes": 12011,
+      "bytes": 12056,
       "filename": "",
       "kind": "rules",
       "name": "paypal",
       "path": "Rules/QuixoticHeart/paypal.list",
       "rules": 247,
-      "sha256": "52eeac6d33e7a83fd77ecfdc3eed0dd65e73379be6fea5011ea69aa333bd7d8c",
+      "sha256": "de633ac51eca54b7fb18ef032cc4c5b34c08b3550ac387d56420aa385ce07fa1",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/paypal.list"
     },
     {
-      "bytes": 1817,
+      "bytes": 1860,
       "filename": "",
       "kind": "rules",
       "name": "primevideo",
       "path": "Rules/QuixoticHeart/primevideo.list",
       "rules": 31,
-      "sha256": "cec0b508b40ea220eecff178c88cc954feaa3013b28835c41a084c0f681eae78",
+      "sha256": "0a94771a51d8d257e6ab2380f56270fa9b02d800e8936b2f012de89c0ad5f557",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/primevideo.list"
     },
     {
-      "bytes": 8293,
+      "bytes": 8322,
       "filename": "",
       "kind": "rules",
       "name": "private",
       "path": "Rules/QuixoticHeart/private.list",
       "rules": 162,
-      "sha256": "37c07b9ea0678d870fdc4e68caee77e58a794b6bc792d1f25e3fd566e59bdca6",
+      "sha256": "f2ade4010c4a2a4518f9db02456b63c4ee49d2c0769f418eb64a319c468a87dc",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/private.list"
     },
     {
-      "bytes": 1338413,
+      "bytes": 1338451,
       "filename": "",
       "kind": "rules",
       "name": "proxy",
       "path": "Rules/QuixoticHeart/proxy.list",
       "rules": 30119,
-      "sha256": "2bf8424fc4060be2f2976608f110cb9b43411e78c26bcc41c7a096bd988803ef",
+      "sha256": "03edd71c12b30c875c978a3cdecf65a8d0cabb93abc6959938a5f0a7763778dd",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/proxy.list"
     },
     {
-      "bytes": 3282,
+      "bytes": 3323,
       "filename": "",
       "kind": "rules",
       "name": "socialmedia-cn",
       "path": "Rules/QuixoticHeart/socialmedia-cn.list",
       "rules": 60,
-      "sha256": "e9927d1eeee164a6fe55a3f60683dd23b92a529a9e582f5c6f946b08daf601a6",
+      "sha256": "a3efb24268728b903c50579de458e9bb3720058438bcd50197fd28d7051093bf",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/socialmedia-cn.list"
     },
     {
-      "bytes": 44191,
+      "bytes": 44232,
       "filename": "",
       "kind": "rules",
       "name": "socialmedia",
       "path": "Rules/QuixoticHeart/socialmedia.list",
       "rules": 851,
-      "sha256": "5fc9f078ebd43868a298d7b260a7435e2f09c8670e3f56d6e279789edbe1045a",
+      "sha256": "c1e4ddd1ef7ce45d5f946337bfcb6a7bba8e906f854ffea80283f87c61815180",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/socialmedia.list"
     },
     {
-      "bytes": 479269,
+      "bytes": 479318,
       "filename": "",
       "kind": "rules",
       "name": "speedtest",
       "path": "Rules/QuixoticHeart/speedtest.list",
       "rules": 9642,
-      "sha256": "19a10de835b5ff5c38541f51901ccf553b771ccd9ffb685fc5baeace7465a92e",
+      "sha256": "549849a6a37b4da4e6742b820f3bccbcdfed09d097489af5c75d835c7b803452",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/speedtest.list"
     },
     {
-      "bytes": 1853,
+      "bytes": 1893,
       "filename": "",
       "kind": "rules",
       "name": "spotify",
       "path": "Rules/QuixoticHeart/spotify.list",
       "rules": 33,
-      "sha256": "69daefc9d498f3b0039b8b49c8f82fe040a0627ccad9d908e34668373fd387a2",
+      "sha256": "9d49508cee52603e6ed136c080f40329960d20426b40cfa62d07ee50f98fce22",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/spotify.list"
     },
     {
-      "bytes": 996,
+      "bytes": 1053,
       "filename": "",
       "kind": "rules",
       "name": "talkatone",
       "path": "Rules/QuixoticHeart/talkatone.list",
       "rules": 17,
-      "sha256": "6c9c765301e36b3946b0c61f1edd935f03feddcb6eac51835f1c2cd0b3191c71",
+      "sha256": "cdc9c53312e07012307a654f7498dd6800bf15da386b5ef7b38d293a8ec808eb",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/talkatone.list"
     },
     {
-      "bytes": 6749,
+      "bytes": 6782,
       "filename": "",
       "kind": "rules",
       "name": "tiktok",
       "path": "Rules/QuixoticHeart/tiktok.list",
       "rules": 126,
-      "sha256": "299ec4045b5115bd7bb3ea041f0ada2f85f27943d851a2e4a9dffd112bf2e9a0",
+      "sha256": "a7e02d2f497e0fe67b9b68314c95d2bd11ba24f7a433b30bd9878b844a0c84d2",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/tiktok.list"
     },
     {
-      "bytes": 33538,
+      "bytes": 33582,
       "filename": "",
       "kind": "rules",
       "name": "tld-proxy",
       "path": "Rules/QuixoticHeart/tld-proxy.list",
       "rules": 829,
-      "sha256": "c25896099831578aeec2c7b2745544df12fe99bad78ef360840eb1bc5ba66a3b",
+      "sha256": "a6415bf2d3fc250ddf7ffa824f76f25927726ee9e5318cb145d09cab9bf7136d",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/tld-proxy.list"
     },
     {
-      "bytes": 2730,
+      "bytes": 2760,
       "filename": "",
       "kind": "rules",
       "name": "twitch",
       "path": "Rules/QuixoticHeart/twitch.list",
       "rules": 50,
-      "sha256": "a4223f4823b0f54a403d4e3d189ca0aad3d514f5269c57547c120e60866aa88c",
+      "sha256": "8c062ffa2c6b3c80bea6eacbe6a8048944bcf96e74c347a6cda98742da9e9549",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/twitch.list"
     },
     {
-      "bytes": 8534,
+      "bytes": 8565,
       "filename": "",
       "kind": "rules",
       "name": "youtube",
       "path": "Rules/QuixoticHeart/youtube.list",
       "rules": 184,
-      "sha256": "501bfd160efea00b8aba1fac93de6a30f0d667a3c5ee1e4b76842182343d7c2e",
+      "sha256": "8617cb0c138a5cc9012bb6becb9270bc26e131a94fc248d4e1b09d39c391e89b",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/youtube.list"
     },
@@ -15406,7 +15406,7 @@
       ],
       "path": "Rules/Unified/abema.list",
       "rules": 21,
-      "sha256": "221d00beac8cc206c3d0f9a977feddc957107f78594abb422c39eb1365e0c767"
+      "sha256": "60c1b9a9704d134cf7b2e9deb14a24eda3ab50e153aa9261af57d82d82fa15f8"
     },
     {
       "name": "adrules",
@@ -15415,7 +15415,7 @@
       ],
       "path": "Rules/Unified/adrules.list",
       "rules": 215774,
-      "sha256": "9d595d68a2e5581603f7d6089042dd5bc74f040093d8362ad47c4ec41fb6e69e"
+      "sha256": "6924fd80c0624674f08354a75a6db99ced392c1a84eb44b4cb1243ee01399753"
     },
     {
       "name": "ai",
@@ -15424,7 +15424,7 @@
       ],
       "path": "Rules/Unified/ai.list",
       "rules": 260,
-      "sha256": "7360abb4b40e6f4c943f707b8d9d6db71ba80bb1108b1ab32ca6fe9b72f9604f"
+      "sha256": "47a143beda18e18fbc756f3e14595a179534563f0b9ef8b6d8d8e0e1c2646e36"
     },
     {
       "name": "aiXcoder",
@@ -15442,7 +15442,7 @@
       ],
       "path": "Rules/Unified/apns.list",
       "rules": 13,
-      "sha256": "0ce0e7791f293ee2c932cb871de328da9d77d197ad51182376f458ccb1aa0045"
+      "sha256": "fc2b3de5fb245d147d07ec755e4f56dfd7d84f0d869a408060f394e2ab9f0006"
     },
     {
       "name": "apple-cn",
@@ -15451,7 +15451,7 @@
       ],
       "path": "Rules/Unified/apple-cn.list",
       "rules": 170,
-      "sha256": "9e9452d6b3db766cbaab4b1e4e39459e0d9df09a1232fc0ab6efa7c9f4f64409"
+      "sha256": "cbbcaba35f1ffac2c40ef1e75e3e3332c0481befce54c9e8fb2a6ef2f7511093"
     },
     {
       "name": "apple-proxy",
@@ -15461,7 +15461,7 @@
       ],
       "path": "Rules/Unified/apple-proxy.list",
       "rules": 50,
-      "sha256": "265194c722cdb7e101d2db15b9851cada5009fd86e3cb24ea0b129de84b77c3a"
+      "sha256": "6d65d74def2f03e1f2f1f1b58c1e0769fa97248f5e1019d5a1652e4d9b5dea61"
     },
     {
       "name": "apple-tv",
@@ -15471,7 +15471,7 @@
       ],
       "path": "Rules/Unified/apple-tv.list",
       "rules": 11,
-      "sha256": "076e9d6bd61056055b30110d94dd7f506490a5b1223b915569d46b1539175ea4"
+      "sha256": "b43f493b92db357432192aa247779b60bcfad7d0aaddb23fbb4825fddc1e0079"
     },
     {
       "name": "apple",
@@ -15481,7 +15481,7 @@
       ],
       "path": "Rules/Unified/apple.list",
       "rules": 1638,
-      "sha256": "1cf38b1d6f5b489f7a64df2f3cde241f6b84fe9960baddbd6b9e2ee0d84e6c7a"
+      "sha256": "0506d0c9da34883eea2d39086e1a669e6af839dd9902d20cd36264765f3c5428"
     },
     {
       "name": "bahamut",
@@ -15491,7 +15491,7 @@
       ],
       "path": "Rules/Unified/bahamut.list",
       "rules": 9,
-      "sha256": "da100034b46f2afa2eaace68fd956b7fa3234e47de08a365f255948f48604a31"
+      "sha256": "5e2a6c449776ffdc215946a6bbb3973b6bff65e3c989368723c3d8629f5fec65"
     },
     {
       "name": "bilibili",
@@ -15501,7 +15501,7 @@
       ],
       "path": "Rules/Unified/bilibili.list",
       "rules": 146,
-      "sha256": "ecdccc9c36c4376408b48be8b4ab36a5c881e7795a6266c57a4a1f4bafa61be6"
+      "sha256": "392ae567d9dabfe2e80cfb3903976b103ee8051d4f09a545c8b763dc6b2db96e"
     },
     {
       "name": "cdn",
@@ -15510,7 +15510,7 @@
       ],
       "path": "Rules/Unified/cdn.list",
       "rules": 6840,
-      "sha256": "e4a6ddb59134c4fbbe030263c9b3d84645bcae44d82c3d1db697fc51c4280fe7"
+      "sha256": "ba673ce64df2a4d8b314dc32e325bbe0e456d4ca6dacf683297124f71e1e08a4"
     },
     {
       "name": "cn",
@@ -15519,7 +15519,7 @@
       ],
       "path": "Rules/Unified/cn.list",
       "rules": 107783,
-      "sha256": "88e735813f74e605c852cb4b6cf59d1da9a4e2c4786486ea36763be26eecb041"
+      "sha256": "44a5533636dc0519b288ca99d840a9974c460c9110041e56c932528d90626703"
     },
     {
       "name": "cncidr-resolve",
@@ -15528,7 +15528,7 @@
       ],
       "path": "Rules/Unified/cncidr-resolve.list",
       "rules": 17958,
-      "sha256": "0114aa775345130c5241b9f3b854ac73218aa2831588583a7676ca44832f002b"
+      "sha256": "bfc17323bc62062f66d53cec14181b2418e573ff666eedbdba20892c5734f149"
     },
     {
       "name": "cncidr",
@@ -15537,7 +15537,7 @@
       ],
       "path": "Rules/Unified/cncidr.list",
       "rules": 17958,
-      "sha256": "1a35541f46b95ad35b33491285377c122c2483aff28d986188731155d6b8c20e"
+      "sha256": "15a23119fa5c1e2d000f68019926030394882b62b6653f7604e9a96a98491527"
     },
     {
       "name": "crypto",
@@ -15547,7 +15547,7 @@
       ],
       "path": "Rules/Unified/crypto.list",
       "rules": 421,
-      "sha256": "33b75e093fde900ad7b676376520222f42692982a2905d0924be5365c747b0e2"
+      "sha256": "5863b40187a75333a3152fb476e23efae2eb4e51a25336305d0dacc0098ea60e"
     },
     {
       "name": "dazn",
@@ -15557,7 +15557,7 @@
       ],
       "path": "Rules/Unified/dazn.list",
       "rules": 22,
-      "sha256": "4576a4d5aac697911c91a2aa504d3a3eb5742acc62e5055c455371107959b049"
+      "sha256": "7999e2841b66a61536efa6814df76c6ebf20bdff541f90c21373e253cf232be9"
     },
     {
       "name": "disney",
@@ -15567,7 +15567,7 @@
       ],
       "path": "Rules/Unified/disney.list",
       "rules": 237,
-      "sha256": "0664c906888cd9a1baa7c13cbc6df5251278e42a8a5f01bc022a6225fe33a67b"
+      "sha256": "0f07a1403752097495ea609d2f384e745c6a4d337565147bde366fd564575fd0"
     },
     {
       "name": "dmca",
@@ -15576,7 +15576,7 @@
       ],
       "path": "Rules/Unified/dmca.list",
       "rules": 1509,
-      "sha256": "3bb1ca8078c3570d2374cec89268ccdeb0171a64bfc0ac183154bf13a34ab139"
+      "sha256": "19e854a9b596a1701fa83ef2d2ce8f651e9eb52eb1615bd890340b75a0b168d8"
     },
     {
       "name": "dmm",
@@ -15586,7 +15586,7 @@
       ],
       "path": "Rules/Unified/dmm.list",
       "rules": 33,
-      "sha256": "638002ba1056906dc4a12f94bcf4f805e8a2336b93ad26d48b678421804ba995"
+      "sha256": "558e62aeebecb8c81e3be3ee0949671cd575a572b5d921cc19714e751b3f57b3"
     },
     {
       "name": "douyin",
@@ -15596,7 +15596,7 @@
       ],
       "path": "Rules/Unified/douyin.list",
       "rules": 53,
-      "sha256": "70e674b31d5f77b606b01458da8f43a07e351deec70f527cb572b7be3de7954f"
+      "sha256": "d0ec32bd56e57e8192e0bcdb5e295a8356856fdeffc2be174cf52393049b42fe"
     },
     {
       "name": "eBay",
@@ -15614,7 +15614,7 @@
       ],
       "path": "Rules/Unified/ecommerce.list",
       "rules": 1543,
-      "sha256": "a0b540e996614562e20ac2b15c6057fda331438fbbe2b0f2dedc5f1a9fe1ac9d"
+      "sha256": "ea7ecc2fb1a51dc910f816279764449d4e14b3015e9ec6438007e3f0445087bb"
     },
     {
       "name": "forum",
@@ -15623,7 +15623,7 @@
       ],
       "path": "Rules/Unified/forum.list",
       "rules": 115,
-      "sha256": "fe5686614aad48fe3321ffc47d561372932fe6fda2305e9dd2754d46fc2235f3"
+      "sha256": "cd72a4a5ce45ed4655a9030d488b12db5df9a2d862edcad8fc6617e39455b416"
     },
     {
       "name": "friDay",
@@ -15641,7 +15641,7 @@
       ],
       "path": "Rules/Unified/games-cn.list",
       "rules": 99,
-      "sha256": "d1e980fe09ccc1721844decc661ae29f874084f797c4523b683fa2ba37ce771e"
+      "sha256": "6778c96d1dc7aeaafc3109f3055b5474180b9431f1b536479c7e26544f43172f"
     },
     {
       "name": "games",
@@ -15650,7 +15650,7 @@
       ],
       "path": "Rules/Unified/games.list",
       "rules": 1051,
-      "sha256": "a5b7995b8eef8b095c684a1ef6e764b56e80ef7eaab72d0126020ad1bc6df6bd"
+      "sha256": "e6b12cf2b55be169b1fa0ed2daa0185eaf8304d59f4ace68796dc7f54c9d6fb4"
     },
     {
       "name": "gfw",
@@ -15659,7 +15659,7 @@
       ],
       "path": "Rules/Unified/gfw.list",
       "rules": 7528,
-      "sha256": "9cacdea8cd2afe98b07ecc1b5438e1f8baa5798da144653fcaf94db4f0eabdbd"
+      "sha256": "17237fce6d027540ca47aaa5f9aad930850654332c57edfc512e0286ec7b0f57"
     },
     {
       "name": "gits",
@@ -15668,7 +15668,7 @@
       ],
       "path": "Rules/Unified/gits.list",
       "rules": 77,
-      "sha256": "560dd47a239d110e240af36d028cd6f7a37d01f2f24881898826a68946796689"
+      "sha256": "60ced9860f4363bba6357b7d1e91d651d5cdc0c982bdc75d5f1193b5cbfa4a7f"
     },
     {
       "name": "google",
@@ -15678,7 +15678,7 @@
       ],
       "path": "Rules/Unified/google.list",
       "rules": 7836,
-      "sha256": "01b0a39f04fff7af07b447457857418bfda75ccfa6c5eed80a33bac726516716"
+      "sha256": "2c98f5878a92075e581fb39fdfd5e1cbbd53bf0cc78c9f952adddade7e224178"
     },
     {
       "name": "googlefcm",
@@ -15688,7 +15688,7 @@
       ],
       "path": "Rules/Unified/googlefcm.list",
       "rules": 67,
-      "sha256": "ff882fe8829367df07f51cac04950e5579e49a59c1bdbeb386124f2ade7afaad"
+      "sha256": "ed92c70df8c6e74a9f5fa26a99b212d1c709d3516ee18cde49c27219b1b194ed"
     },
     {
       "name": "hbo",
@@ -15698,7 +15698,7 @@
       ],
       "path": "Rules/Unified/hbo.list",
       "rules": 92,
-      "sha256": "54131ae1f11e90c2000de57c958e1e9d6215c8709cb48173b717ac0f400749d9"
+      "sha256": "f77e65d9d6970d18265420c136f7207eff08d9e3ece5fe4922c22e70e49d1d32"
     },
     {
       "name": "httpdns",
@@ -15707,7 +15707,7 @@
       ],
       "path": "Rules/Unified/httpdns.list",
       "rules": 101,
-      "sha256": "56342fb0fe81ca14888dc650436b4a07e2a5607a00b0fc14fd0b4f5a963da8b7"
+      "sha256": "89f66258694892e427676231ba27c8ea368710ddbd1b6efa5cd5094b0fa585f1"
     },
     {
       "name": "hulu",
@@ -15717,7 +15717,7 @@
       ],
       "path": "Rules/Unified/hulu.list",
       "rules": 59,
-      "sha256": "901b4df44a857e9c2487ae15d38569f23db096a500a8466de8d35f56a908acde"
+      "sha256": "c5f32884735f7cf5e864a74599af31f920bec52a1f030eab33d054ea872b1300"
     },
     {
       "name": "iCloud",
@@ -15789,7 +15789,7 @@
       ],
       "path": "Rules/Unified/iplocation-direct.list",
       "rules": 25,
-      "sha256": "84109749d46ba09785644f311279da0a7c5b773c9251802549a381c90e5af6f4"
+      "sha256": "5f14aec04afcb1ee58ce07381a1f8baba42e4e5e5f1056906bbcf2bcec3e135a"
     },
     {
       "name": "iplocation-proxy",
@@ -15798,7 +15798,7 @@
       ],
       "path": "Rules/Unified/iplocation-proxy.list",
       "rules": 165,
-      "sha256": "2c6c191c371279d829e3e89b0e50ccc89056c20ba49b2ad7fd6e212e225fd47a"
+      "sha256": "97dcc4b069ef535db01c90826ce0d4d2e0d03023a3c2154339d305e1a4b13938"
     },
     {
       "name": "microsoft-cn",
@@ -15807,7 +15807,7 @@
       ],
       "path": "Rules/Unified/microsoft-cn.list",
       "rules": 189,
-      "sha256": "2c63175e1cf14ec1443b285ec9a9032d67dc88af26d25ecf22bf3716ad72850d"
+      "sha256": "91658377dc9a9da60feea6de243f2e8de972385e5ef6dba8e53afd431db3e701"
     },
     {
       "name": "microsoft",
@@ -15817,7 +15817,7 @@
       ],
       "path": "Rules/Unified/microsoft.list",
       "rules": 772,
-      "sha256": "af84b21d523d3fbd406296304f2dc1c4ffd0ed8fe46ed05c3e0c11ef67e2b3de"
+      "sha256": "bd7b7e5a6db60bda13a014be6e0aeb5f95cb5f2d7acae1e9bb8cbe2a74873619"
     },
     {
       "name": "mytvsuper",
@@ -15827,7 +15827,7 @@
       ],
       "path": "Rules/Unified/mytvsuper.list",
       "rules": 7,
-      "sha256": "41333d6b8220358a93fe119c5a2469239bd746c971d4f3ac2413d0ab5523427d"
+      "sha256": "eb9d0cb1bf59a0eb11002325f7ec2ca78c110d675a0d24f39a0430a3bcc6f86f"
     },
     {
       "name": "netflix",
@@ -15837,7 +15837,7 @@
       ],
       "path": "Rules/Unified/netflix.list",
       "rules": 2279,
-      "sha256": "22aee9b8c08603f30fe8cb99799770dd590e9ae399876f6048b872d6def9e08c"
+      "sha256": "9cafa1c19056421247abbdbefb5544138acde07de7e2250ebc0dea07a476a35e"
     },
     {
       "name": "niconico",
@@ -15847,7 +15847,7 @@
       ],
       "path": "Rules/Unified/niconico.list",
       "rules": 13,
-      "sha256": "74e045b2da51f2ded8d9d5f5e684d2e97ee1fb5872135bdf84f570d719d57c72"
+      "sha256": "c42641b595afaa8d7b9772609781b9dfdf68bf32b3f26d8e2d289d2567e5f8ee"
     },
     {
       "name": "onedrive",
@@ -15857,7 +15857,7 @@
       ],
       "path": "Rules/Unified/onedrive.list",
       "rules": 21,
-      "sha256": "2834f01bc406f3537b142bfdad0590a586d171bed8d7e091b7f2793d49231710"
+      "sha256": "1cbc9806ccc7483b389b3ebddeca47c223bd91ac7eec2ba99f7e3dc9a0c12927"
     },
     {
       "name": "paypal",
@@ -15867,7 +15867,7 @@
       ],
       "path": "Rules/Unified/paypal.list",
       "rules": 248,
-      "sha256": "59893731a03b7374633ed56f5988c2f1b114d1b1d91b87010a21159b1878019a"
+      "sha256": "89a11d8e42f38c73165137c7b183e20149ea85d2e3e4e6258eb826058eb2a16a"
     },
     {
       "name": "primevideo",
@@ -15877,7 +15877,7 @@
       ],
       "path": "Rules/Unified/primevideo.list",
       "rules": 33,
-      "sha256": "9630817332f347b58c5942affe1ed2456b8a561c4dd91d7dacc8c088a245bbc3"
+      "sha256": "5ce4417f682e988471492559e44b3f19365b9c1f358d13507a966cece55cc637"
     },
     {
       "name": "private",
@@ -15886,7 +15886,7 @@
       ],
       "path": "Rules/Unified/private.list",
       "rules": 162,
-      "sha256": "954b312e8d18d13fabf56ee6b226064b730712e9b1b127e1704ccef98653d89c"
+      "sha256": "37174685539866c1b1580ee18ee03f9ab8fc3cb7d5c361688c48bd64707aa415"
     },
     {
       "name": "proxy",
@@ -15896,7 +15896,7 @@
       ],
       "path": "Rules/Unified/proxy.list",
       "rules": 30456,
-      "sha256": "a98afbecbf545a3a132bf104a1a2a4ae4133c278849038d423fac6672d5a694d"
+      "sha256": "a1cd589d324089d09272a73ff8d584b19a76bee6bea61328206e0e1b605f0455"
     },
     {
       "name": "socialmedia-cn",
@@ -15905,7 +15905,7 @@
       ],
       "path": "Rules/Unified/socialmedia-cn.list",
       "rules": 60,
-      "sha256": "b38da6edaf9c5176ce6e426dc4d69b846796b08a62ec93ec77684bbccd51b172"
+      "sha256": "55314d867e2c37be84ff951f55904ead981cab7cddccc2eb855f079e4dc2b2d2"
     },
     {
       "name": "socialmedia",
@@ -15914,7 +15914,7 @@
       ],
       "path": "Rules/Unified/socialmedia.list",
       "rules": 851,
-      "sha256": "a3de932313a588df8a893e57c9c8744d96065a0fde291ef3f036a2f137c0d974"
+      "sha256": "c73ef51f1492bf40f234530ca1232089385abfeaa27ec6287963d73d611e4ff5"
     },
     {
       "name": "speedtest",
@@ -15924,7 +15924,7 @@
       ],
       "path": "Rules/Unified/speedtest.list",
       "rules": 9643,
-      "sha256": "24b8f897da3d500602727c8aa2120c9a3152902d99283c374401f5c10e2465b2"
+      "sha256": "1e8a19ec11831469b87cc78cbec36e097edfca5157b54570badd787691c21b7b"
     },
     {
       "name": "spotify",
@@ -15934,7 +15934,7 @@
       ],
       "path": "Rules/Unified/spotify.list",
       "rules": 37,
-      "sha256": "a01bfcfd138e4543eb9f1789df722594b911f69fc5baaf3658055873d87b16e1"
+      "sha256": "21b35f350a7ed5962905f2815372d4f0a5508c6c15ad77875a864afed9ffbbfd"
     },
     {
       "name": "talkatone",
@@ -15943,7 +15943,7 @@
       ],
       "path": "Rules/Unified/talkatone.list",
       "rules": 17,
-      "sha256": "5bb6031f1338acbad89ca221f0f93fa8070e30a9d471e086145da40737a476f1"
+      "sha256": "94f8707cc105b37fddbf0f33236eac93aeba8079731df751f26d46558dff3eb7"
     },
     {
       "name": "tiktok",
@@ -15953,7 +15953,7 @@
       ],
       "path": "Rules/Unified/tiktok.list",
       "rules": 128,
-      "sha256": "879d70f2aafbaf2b1fa6b3472fffcd5cfbe398102db213a8004f6b8362ff67ff"
+      "sha256": "c2d2af796438423b09db3c868b14d903fbcb8f90fcf5aa3399bc89b46b9aa1c9"
     },
     {
       "name": "tld-proxy",
@@ -15962,7 +15962,7 @@
       ],
       "path": "Rules/Unified/tld-proxy.list",
       "rules": 829,
-      "sha256": "2532462bc5b8b6fd0fec65ff86f3a2422c5ee6cd286016fdb85fb3af98553797"
+      "sha256": "d39f31767cc6dd9852bb3c712bf4b438ed901807db1b535083eb3adeab090fd4"
     },
     {
       "name": "twitch",
@@ -15972,7 +15972,7 @@
       ],
       "path": "Rules/Unified/twitch.list",
       "rules": 62,
-      "sha256": "3a16dfa3aa5c49f6e478461bb0f57e36dd5d399b8fcff867273c581e02b4968d"
+      "sha256": "36530b376061ceca8be186408268183e45ad7a8ebeccf315b9b5c17b86340946"
     },
     {
       "name": "youtube",
@@ -15982,7 +15982,7 @@
       ],
       "path": "Rules/Unified/youtube.list",
       "rules": 194,
-      "sha256": "0765074f1b1a5a77a4d0f5e01d20786da5842dcd0e85787000266e9dac97c5cf"
+      "sha256": "1ea056ff56cff2665a9517b41a80bcbe80388287da76a8c3cd17d494510e47e7"
     },
     {
       "name": "zhanqi",

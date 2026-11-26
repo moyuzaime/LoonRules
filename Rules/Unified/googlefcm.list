@@ -1,6 +1,6 @@
 # 统一规则库 | 分类: googlefcm
 # 合并来源: QuixoticHeart/rule-set googlefcm; blackmatrix7/ios_rule_script GoogleFCM
-# 说明: 谷歌推送
+# 说明: Google Firebase Cloud Messaging 谷歌推送服务
 # 规则数: 67
 # 目标: googlefcm
 DOMAIN,alt1-mtalk.google.com

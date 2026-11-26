@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: disney
 # 合并来源: QuixoticHeart/rule-set disney; blackmatrix7/ios_rule_script Disney
+# 说明: 迪士尼 视频流媒体平台
 # 规则数: 237
 # 目标: disney
 DOMAIN-SUFFIX,112263.com

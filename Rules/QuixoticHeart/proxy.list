@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/proxy.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/proxy.list
+# 说明: 国外需要代理的域名
 # 规则数: 30119
 # 目标: proxy
 DOMAIN,1password.drift.click

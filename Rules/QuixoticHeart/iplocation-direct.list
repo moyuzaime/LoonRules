@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/iplocation-direct.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/iplocation-direct.list
+# 说明: 修改国内软件 IP 归属地的直连规则，直连规则须放置在代理规则之前
 # 规则数: 25
 # 目标: iplocation-direct
 DOMAIN,china-img.soulapp.cn

@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: hbo
 # 合并来源: QuixoticHeart/rule-set hbo; blackmatrix7/ios_rule_script HBO
+# 说明: HBO 视频流媒体平台
 # 规则数: 92
 # 目标: hbo
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net

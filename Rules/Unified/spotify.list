@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: spotify
 # 合并来源: QuixoticHeart/rule-set spotify; blackmatrix7/ios_rule_script Spotify
+# 说明: Spotify 音乐流媒体平台
 # 规则数: 37
 # 目标: spotify
 DOMAIN,audio4-ak-spotify-com.akamaized.net

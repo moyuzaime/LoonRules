@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/disney.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/disney.list
+# 说明: 迪士尼 视频流媒体平台
 # 规则数: 236
 # 目标: disney
 DOMAIN-SUFFIX,112263.com

@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/gits.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/gits.list
+# 说明: Git仓库规则集合
 # 规则数: 77
 # 目标: gits
 DOMAIN,copilotprodattachments.blob.core.windows.net

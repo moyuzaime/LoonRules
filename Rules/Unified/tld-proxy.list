@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: tld-proxy
 # 合并来源: QuixoticHeart/rule-set tld-proxy
+# 说明: 国外需要代理的顶级域名
 # 规则数: 829
 # 目标: tld-proxy
 DOMAIN-SUFFIX,aaa

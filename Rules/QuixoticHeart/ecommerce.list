@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/ecommerce.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/ecommerce.list
+# 说明: 电子商务平台
 # 规则数: 1543
 # 目标: ecommerce
 DOMAIN,api-p.videomarket.jp

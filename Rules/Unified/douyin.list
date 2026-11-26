@@ -1,6 +1,6 @@
 # 统一规则库 | 分类: douyin
 # 合并来源: QuixoticHeart/rule-set douyin; blackmatrix7/ios_rule_script DouYin
-# 说明: 抖音
+# 说明: 抖音短视频平台
 # 规则数: 53
 # 目标: douyin
 DOMAIN-SUFFIX,amemv.com

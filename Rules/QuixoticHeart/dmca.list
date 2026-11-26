@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/dmca.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/dmca.list
+# 说明: DMCA 敏感域名
 # 规则数: 1509
 # 目标: dmca
 DOMAIN,0123456789nonexistent.com

@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/tld-proxy.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/tld-proxy.list
+# 说明: 国外需要代理的顶级域名
 # 规则数: 829
 # 目标: tld-proxy
 DOMAIN-SUFFIX,aaa

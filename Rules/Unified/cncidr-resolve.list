@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: cncidr-resolve
 # 合并来源: QuixoticHeart/rule-set cncidr-resolve
+# 说明: 中国大陆 IP 地址去除 no-resolve 参数
 # 规则数: 17958
 # 目标: cncidr-resolve
 IP-CIDR,1.0.1.0/24

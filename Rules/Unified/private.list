@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: private
 # 合并来源: QuixoticHeart/rule-set private
+# 说明: 私有网络地址
 # 规则数: 162
 # 目标: private
 DOMAIN,asusrouter.com

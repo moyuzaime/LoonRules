@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: paypal
 # 合并来源: QuixoticHeart/rule-set paypal; blackmatrix7/ios_rule_script PayPal
+# 说明: PayPal 在线支付与转账平台
 # 规则数: 248
 # 目标: paypal
 DOMAIN-SUFFIX,account-paypal.info

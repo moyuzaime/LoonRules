@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/paypal.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/paypal.list
+# 说明: PayPal 在线支付与转账平台
 # 规则数: 247
 # 目标: paypal
 DOMAIN-SUFFIX,account-paypal.info

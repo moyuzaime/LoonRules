@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: talkatone
 # 合并来源: QuixoticHeart/rule-set talkatone
+# 说明: Talkatone 互联网语音通话和短信服务
 # 规则数: 17
 # 目标: talkatone
 DOMAIN-SUFFIX,agkn.com

@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: gfw
 # 合并来源: QuixoticHeart/rule-set gfw
+# 说明: 被 GFW 屏蔽的域名列表
 # 规则数: 7528
 # 目标: gfw
 DOMAIN,api.waqi.info

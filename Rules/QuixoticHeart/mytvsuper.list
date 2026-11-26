@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/mytvsuper.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/mytvsuper.list
+# 说明: MyTV SUPER 在线视频点播服务平台
 # 规则数: 6
 # 目标: mytvsuper
 DOMAIN,mytvsuperlimited.hb.omtrdc.net

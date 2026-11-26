@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/youtube.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/youtube.list
+# 说明: YouTube 视频网站
 # 规则数: 184
 # 目标: youtube
 DOMAIN,yt3.googleusercontent.com

@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/socialmedia.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/socialmedia.list
+# 说明: 国外社交媒体规则集合
 # 规则数: 851
 # 目标: socialmedia
 DOMAIN,api.imem.app

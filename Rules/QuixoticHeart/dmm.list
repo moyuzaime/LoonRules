@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/dmm.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/dmm.list
+# 说明: DMM 在线内容提供商
 # 规则数: 31
 # 目标: dmm
 DOMAIN-SUFFIX,akabeesoft2.com

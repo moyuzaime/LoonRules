@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/netflix.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/netflix.list
+# 说明: Netflix 视频流媒体平台
 # 规则数: 1158
 # 目标: netflix
 DOMAIN,e13252.dscg.akamaiedge.net

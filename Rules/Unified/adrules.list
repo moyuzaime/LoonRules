@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: adrules
 # 合并来源: QuixoticHeart/rule-set adrules
+# 说明: 广告屏蔽规则 + httpdns
 # 规则数: 215774
 # 目标: adrules
 DOMAIN,180.76.76.200

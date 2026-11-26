@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/twitch.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/twitch.list
+# 说明: Twitch 直播平台
 # 规则数: 50
 # 目标: twitch
 DOMAIN,d1g1f25tn8m2e6.cloudfront.net

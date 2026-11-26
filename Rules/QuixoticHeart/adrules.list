@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/adrules.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/adrules.list
+# 说明: 广告屏蔽规则 + httpdns
 # 规则数: 215774
 # 目标: adrules
 DOMAIN,180.76.76.200

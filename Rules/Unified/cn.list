@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: cn
 # 合并来源: QuixoticHeart/rule-set cn
+# 说明: 中国大陆域名
 # 规则数: 107783
 # 目标: cn
 DOMAIN-SUFFIX,0.xn--czrs0t

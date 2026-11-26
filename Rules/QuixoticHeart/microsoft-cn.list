@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/microsoft-cn.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/microsoft-cn.list
+# 说明: Microsoft 微软在中国大陆可直连的规则列表
 # 规则数: 189
 # 目标: microsoft-cn
 DOMAIN,azuremigrate.download.prss.microsoft.com

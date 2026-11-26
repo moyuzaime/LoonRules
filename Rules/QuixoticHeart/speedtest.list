@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/speedtest.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/speedtest.list
+# 说明: 收集到的 Ookla SpeedTest 服务器
 # 规则数: 9642
 # 目标: speedtest
 DOMAIN,07internet.ro

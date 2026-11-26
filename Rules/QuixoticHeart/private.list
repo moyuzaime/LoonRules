@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/private.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/private.list
+# 说明: 私有网络地址
 # 规则数: 162
 # 目标: private
 DOMAIN,asusrouter.com

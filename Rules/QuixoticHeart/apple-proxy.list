@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/apple-proxy.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apple-proxy.list
+# 说明: Apple 在中国大陆需要代理的规则列表
 # 规则数: 45
 # 目标: apple-proxy
 DOMAIN,api-glb-sea.smoot.apple.com

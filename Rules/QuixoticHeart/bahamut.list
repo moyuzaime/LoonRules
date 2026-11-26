@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/bahamut.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/bahamut.list
+# 说明: 巴哈姆特动漫
 # 规则数: 7
 # 目标: bahamut
 DOMAIN-SUFFIX,bahamut.akamaized.net

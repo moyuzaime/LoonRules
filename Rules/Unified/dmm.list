@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: dmm
 # 合并来源: QuixoticHeart/rule-set dmm; blackmatrix7/ios_rule_script DMM
+# 说明: DMM 在线内容提供商
 # 规则数: 33
 # 目标: dmm
 DOMAIN-SUFFIX,akabeesoft2.com

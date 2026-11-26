@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/talkatone.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/talkatone.list
+# 说明: Talkatone 互联网语音通话和短信服务
 # 规则数: 17
 # 目标: talkatone
 DOMAIN-SUFFIX,agkn.com

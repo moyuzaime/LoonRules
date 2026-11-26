@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/apple-tv.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apple-tv.list
+# 说明: Apple TV 流媒体平台
 # 规则数: 9
 # 目标: apple-tv
 DOMAIN,apple-tv-plus-press.apple.com

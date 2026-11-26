@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/onedrive.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/onedrive.list
+# 说明: OneDrive 网盘
 # 规则数: 21
 # 目标: onedrive
 DOMAIN-SUFFIX,1drv.com

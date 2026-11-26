@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: twitch
 # 合并来源: QuixoticHeart/rule-set twitch; blackmatrix7/ios_rule_script Twitch
+# 说明: Twitch 直播平台
 # 规则数: 62
 # 目标: twitch
 DOMAIN,d1g1f25tn8m2e6.cloudfront.net

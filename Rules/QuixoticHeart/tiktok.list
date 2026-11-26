@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/tiktok.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/tiktok.list
+# 说明: TikTok 短视频平台
 # 规则数: 126
 # 目标: tiktok
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com

@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: mytvsuper
 # 合并来源: QuixoticHeart/rule-set mytvsuper; blackmatrix7/ios_rule_script myTVSUPER
+# 说明: MyTV SUPER 在线视频点播服务平台
 # 规则数: 7
 # 目标: mytvsuper
 DOMAIN,mytvsuperlimited.hb.omtrdc.net

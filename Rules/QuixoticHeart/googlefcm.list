@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/googlefcm.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/googlefcm.list
+# 说明: Google Firebase Cloud Messaging 谷歌推送服务
 # 规则数: 41
 # 目标: googlefcm
 DOMAIN,alt1-mtalk.google.com

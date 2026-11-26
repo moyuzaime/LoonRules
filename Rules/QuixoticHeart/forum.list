@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/forum.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/forum.list
+# 说明: 国外常见论坛平台
 # 规则数: 115
 # 目标: forum
 DOMAIN,bbs.boingboing.net

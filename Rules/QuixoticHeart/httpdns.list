@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/httpdns.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/httpdns.list
+# 说明: 需要屏蔽的 HTTPDNS 列表，修改国内软件 IP 归属地建议屏蔽的规则
 # 规则数: 101
 # 目标: httpdns
 DOMAIN,aedns.weixin.qq.com

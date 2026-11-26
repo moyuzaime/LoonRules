@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/games.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/games.list
+# 说明: 游戏平台、游戏下载规则列表
 # 规则数: 1051
 # 目标: games
 DOMAIN,a.ppy.sh

@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/apns.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apns.list
+# 说明: Apple Push Notification Service 苹果推送服务
 # 规则数: 13
 # 目标: apns
 DOMAIN,identity.apple.com

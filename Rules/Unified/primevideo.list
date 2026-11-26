@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: primevideo
 # 合并来源: QuixoticHeart/rule-set primevideo; blackmatrix7/ios_rule_script PrimeVideo
+# 说明: PrimeVideo 视频流媒体平台
 # 规则数: 33
 # 目标: primevideo
 DOMAIN,atv-ps.amazon.com

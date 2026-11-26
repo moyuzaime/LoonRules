@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: speedtest
 # 合并来源: QuixoticHeart/rule-set speedtest; blackmatrix7/ios_rule_script Speedtest
+# 说明: 收集到的 Ookla SpeedTest 服务器
 # 规则数: 9643
 # 目标: speedtest
 DOMAIN,07internet.ro

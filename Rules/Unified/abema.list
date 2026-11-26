@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: abema
 # 合并来源: QuixoticHeart/rule-set abema; blackmatrix7/ios_rule_script Abema
+# 说明: abema 视频流媒体平台
 # 规则数: 21
 # 目标: abema
 DOMAIN,abematv.akamaized.net

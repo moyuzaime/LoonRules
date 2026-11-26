@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/hulu.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/hulu.list
+# 说明: Hulu 视频流媒体平台
 # 规则数: 59
 # 目标: hulu
 DOMAIN,live-mediashield-ava-hulustream-com.akamaized.net

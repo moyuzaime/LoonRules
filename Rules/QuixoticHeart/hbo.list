@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/hbo.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/hbo.list
+# 说明: HBO 视频流媒体平台
 # 规则数: 90
 # 目标: hbo
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net

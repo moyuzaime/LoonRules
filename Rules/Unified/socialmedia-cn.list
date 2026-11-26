@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: socialmedia-cn
 # 合并来源: QuixoticHeart/rule-set socialmedia-cn
+# 说明: 国内社交媒体规则集合
 # 规则数: 60
 # 目标: socialmedia-cn
 DOMAIN-SUFFIX,178.com

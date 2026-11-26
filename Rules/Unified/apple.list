@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: apple
 # 合并来源: QuixoticHeart/rule-set apple; blackmatrix7/ios_rule_script Apple
+# 说明: Apple 服务
 # 规则数: 1638
 # 目标: apple
 DOMAIN,apple-events.akamaized.net

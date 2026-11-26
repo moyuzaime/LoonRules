@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: niconico
 # 合并来源: QuixoticHeart/rule-set niconico; blackmatrix7/ios_rule_script Niconico
+# 说明: Niconico 视频网站
 # 规则数: 13
 # 目标: niconico
 DOMAIN-SUFFIX,nico

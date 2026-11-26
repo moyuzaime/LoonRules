@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/spotify.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/spotify.list
+# 说明: Spotify 音乐流媒体平台
 # 规则数: 33
 # 目标: spotify
 DOMAIN,audio4-ak-spotify-com.akamaized.net

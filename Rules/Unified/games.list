@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: games
 # 合并来源: QuixoticHeart/rule-set games
+# 说明: 游戏平台、游戏下载规则列表
 # 规则数: 1051
 # 目标: games
 DOMAIN,a.ppy.sh

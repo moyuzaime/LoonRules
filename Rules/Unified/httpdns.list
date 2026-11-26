@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: httpdns
 # 合并来源: QuixoticHeart/rule-set httpdns
+# 说明: 需要屏蔽的 HTTPDNS 列表，修改国内软件 IP 归属地建议屏蔽的规则
 # 规则数: 101
 # 目标: httpdns
 DOMAIN,aedns.weixin.qq.com

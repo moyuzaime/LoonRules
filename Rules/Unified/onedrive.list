@@ -1,5 +1,6 @@
 # 统一规则库 | 分类: onedrive
 # 合并来源: QuixoticHeart/rule-set onedrive; blackmatrix7/ios_rule_script OneDrive
+# 说明: OneDrive 网盘
 # 规则数: 21
 # 目标: onedrive
 DOMAIN-SUFFIX,1drv.com

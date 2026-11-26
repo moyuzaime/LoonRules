@@ -1,5 +1,6 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/google.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/google.list
+# 说明: Google 谷歌服务
 # 规则数: 7805
 # 目标: google
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
