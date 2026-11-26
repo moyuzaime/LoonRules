@@ -173,6 +173,14 @@ def fetch_text(
 
 RULE_RE = re.compile(r"^\s*([A-Z][A-Z0-9-]*)\s*,(.*)$")
 COMMENT_PREFIXES = ("#", ";", "//")
+# 只有这些「域名类」规则才存在跨来源同值不同类型的问题
+DOMAIN_RULE_TYPES = {
+    "DOMAIN",
+    "DOMAIN-SUFFIX",
+    "DOMAIN-KEYWORD",
+    "DOMAIN-WILDCARD",
+    "DOMAIN-REGEX",
+}
 
 
 def parse_rule(line: str) -> tuple[str, str, tuple[str, ...]] | None:
@@ -542,7 +550,8 @@ def build_unified(entries: dict[str, dict], priority: list[str]) -> tuple[dict[s
                 category["seen"].add(parsed)
                 category["lines"].append(line)
                 category["count"] += 1
-                category["values"].setdefault(value.lower(), []).append((rule_type, source))
+                if rule_type in DOMAIN_RULE_TYPES:
+                    category["values"].setdefault(value.lower(), []).append((rule_type, source))
 
     unified: dict[str, dict] = {}
     for category in by_category.values():
@@ -565,7 +574,10 @@ def build_unified(entries: dict[str, dict], priority: list[str]) -> tuple[dict[s
         }
         for value, occurrences in category["values"].items():
             types = {item[0] for item in occurrences}
-            if len(types) > 1:
+            sources = {item[1] for item in occurrences}
+            # 只报告「两个来源对同一域名用了不同规则类型」的情况；
+            # 单一来源内部的多类型写法属于上游自身内容，不算合并冲突。
+            if len(types) > 1 and len(sources) > 1:
                 stats["conflicts"].append(
                     {
                         "category": name,
