@@ -1,7 +1,8 @@
 # LoonRules 规则梳理说明
 
 > 仓库：`moyuzaime/LoonRules` — 面向 Loon 的自定义域名远程规则集仓库。
-> 核心定位：**只维护自定义域名规则**，不捆绑大型第三方规则库，也不包含任何订阅 Token / 私有配置 / 证书 / 密码。
+> 核心定位：`Custom/` 只维护自定义域名规则；第三方 Loon 规则以独立目录 `Rules/` 自动镜像，
+> 不混入 `Custom/`，也不包含任何订阅 Token / 私有配置 / 证书 / 密码。
 
 ## 1. 目录结构
 
@@ -108,3 +109,17 @@ MITM 需要的域名：`huangguo.video`、`huangguoai.com`、`2048ai.vip`。
 3. 新增规则前先确认域名归属与匹配范围。
 4. 修改后先在 Loon 更新订阅并核对请求记录再发布。
 5. 引入第三方规则需保留来源、许可与版权说明。
+
+## 8. 第三方 Loon 规则（自动同步）
+
+| 目录 | 来源 | 说明 |
+| --- | --- | --- |
+| `Rules/QuixoticHeart/` | QuixoticHeart/rule-set（ruleset 分支 `loon/`） | 约 52 个规则集镜像 |
+| `Rules/ShuntRules/` | luestr/ShuntRules（`rule.kelee.one/Loon/*.lsr`） | 668 个规则集；直连被拦截时用 blackmatrix7 Loon 三件套重建 |
+| `Rules/Unified/` | 上述两个来源 | 按分类合并去重，来源一优先；冲突见 `Rules/CONFLICTS.md` |
+| `Rules/INDEX.md` | — | 自动生成的索引与一键导入链接 |
+
+- 定时：GitHub Actions `.github/workflows/sync-loon-rules.yml`，每天 08:00（北京时间）。
+- 脚本：`scripts/sync.py`（仅标准库），内容无变化时不产生提交。
+- 细节：见 [docs/THIRD_PARTY_RULES.md](docs/THIRD_PARTY_RULES.md)。
+- 注意：来源一为 GPL-3.0 且声明「禁止转载/发布至中国大陆地区」，对外分发前请自行评估合规性。

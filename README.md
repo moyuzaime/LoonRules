@@ -4,7 +4,7 @@
 
 ## 设计原则
 
-- 只维护自定义域名规则，不默认捆绑大型第三方规则库。
+- `Custom/` 只维护自定义域名规则；第三方 Loon 规则以独立目录镜像（`Rules/`），按需订阅，不混入 `Custom/`。
 - 规则文件使用 Loon 支持的规则语法。
 - DNS 处理遵循 Loon 默认行为；不主动添加 DNS 服务器设置或 `no-resolve` 标记。
 - 不把订阅 Token、私有配置、证书或密码提交到仓库。
@@ -24,8 +24,26 @@
 | [Custom/Hotmanga.list](Custom/Hotmanga.list) | 热辣漫画：精确域名匹配 | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FHotmanga.list) |
 | [Custom/Mangacopy.list](Custom/Mangacopy.list) | 拷贝漫画：精确域名匹配 | [一键导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FCustom%2FMangacopy.list) |
 | [Plugins/AdBlock/huangguo-ad.plugin](Plugins/AdBlock/huangguo-ad.plugin) | 黄果与2048AI去广告插件 | [一键导入](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FPlugins%2FAdBlock%2Fhuangguo-ad.plugin) |
+| [Rules/INDEX.md](Rules/INDEX.md) | 第三方 Loon 规则索引（自动生成，含一键导入） | — | 
 
 已添加 `Custom/18comic.list`，使用 `DOMAIN-KEYWORD,18comic` 匹配包含 `18comic` 的域名；`Custom/Picacomic.list` 使用 `DOMAIN-KEYWORD,picacomic` 和 `DOMAIN-KEYWORD,picaapi` 匹配哔咔相关域名关键字；`Custom/Baozimh.list` 使用 `DOMAIN` 精确匹配包子漫画相关域名（baozimh / webmota / kukuc / twmanga / dinnerku 等，共 20 条）；`Custom/Hotmanga.list` 使用 `DOMAIN-SUFFIX` 与 `DOMAIN` 匹配热辣漫画相关域名（hotmanga / elfgjfghkk / fgjfghkk 系列用后缀匹配覆盖裸域与 mapi 子域，manga2025 等用精确匹配，共 12 条）；`Custom/Mangacopy.list` 使用 `DOMAIN` 精确匹配拷贝漫画相关域名（mangacopy / copy20 / copy3000 / 2026copy 等，共 13 条）。其余模板中的示例仍处于注释状态。
+
+## 第三方 Loon 规则（自动同步）
+
+`Rules/` 下是每天自动整合的第三方 Loon 规则：只收录 Loon 格式，其他工具格式一律忽略。
+来源、抓取回退、去重与冲突策略见 [docs/THIRD_PARTY_RULES.md](docs/THIRD_PARTY_RULES.md)，
+完整清单与一键导入见 [Rules/INDEX.md](Rules/INDEX.md)。
+
+| 目录 | 内容 | 生成方式 |
+| --- | --- | --- |
+| `Rules/QuixoticHeart/` | [QuixoticHeart/rule-set](https://github.com/QuixoticHeart/rule-set/tree/ruleset) 的 `loon/` 规则镜像（约 52 个） | GitHub Actions 每天 08:00（北京时间） |
+| `Rules/ShuntRules/` | [luestr/ShuntRules](https://github.com/luestr/ShuntRules) 的 668 个 Loon 规则镜像 | 同上；直连被拦截时用 blackmatrix7 的 Loon 三件套重建 |
+| `Rules/Unified/` | 两个来源按分类合并去重后的统一规则库 | 同上 |
+
+- 只提取 Loon 规则，不处理 Surge / Clash / Shadowrocket / Quantumult X / Egern / sing-box。
+- 同一分类在两个来源都有时合并为一份：重复规则保留来源一，同域名类型冲突记入 `Rules/CONFLICTS.md`。
+- 想要上游原始粒度，订阅 `Rules/QuixoticHeart/` 或 `Rules/ShuntRules/`；想要合并结果，订阅 `Rules/Unified/`。
+- `Rules/` 由 `scripts/sync.py` 生成，手工修改会在下次同步时被覆盖；`Custom/` 仍用于你自己的规则。
 
 ## 规则写法示例
 

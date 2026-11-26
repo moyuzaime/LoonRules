@@ -1,0 +1,100 @@
+name: Sync Loon rules
+
+# 每天 08:00（北京时间）自动整合两个来源的 Loon 规则：
+#   - QuixoticHeart/rule-set（ruleset 分支 loon/）
+#   - luestr/ShuntRules（rule.kelee.one/Loon/*.lsr，失败时用 blackmatrix7 三件套重建）
+# 只有内容变化时才会提交，避免空提交刷历史。
+on:
+  schedule:
+    - cron: "0 0 * * *" # UTC 00:00 = 北京时间 08:00
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "只抓取并输出统计，不写文件、不提交"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-loon-rules
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Fetch and commit
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync rules
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python scripts/sync.py \
+            --repo-root . \
+            --summary-out "$RUNNER_TEMP/sync-summary.json"
+
+      - name: Write job summary
+        if: always()
+        run: |
+          if [ -f "$RUNNER_TEMP/sync-summary.json" ]; then
+            {
+              echo "## Loon 规则同步结果"
+              echo ""
+              echo '```json'
+              cat "$RUNNER_TEMP/sync-summary.json"
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "没有生成统计文件（同步可能失败）" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Commit and push
+        if: ${{ !inputs.dry_run }}
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain -- Rules)" ]; then
+            echo "规则内容无变化，跳过提交"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Rules
+
+          MSG=$(python - <<'PY'
+          import json, os
+          path = os.path.join(os.environ["RUNNER_TEMP"], "sync-summary.json")
+          s = json.load(open(path, encoding="utf-8"))
+          print(
+              "chore(rules): 自动同步 Loon 规则"
+              f"（统一库 {s['unified_categories']} 类 / {s['unified_rules']} 条；"
+              f"来源一 {s['quixoticheart_files']} 个，来源二 {s['shuntrules_files']} 个，"
+              f"冲突 {s['conflicts']}）"
+          )
+          PY
+          )
+          git commit -m "$MSG"
+
+          for i in 1 2 3; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "已推送到 ${GITHUB_REF_NAME}"
+              exit 0
+            fi
+            echo "第 ${i} 次推送失败，稍后重试"
+            sleep $((i * 10))
+          done
+          echo "推送失败：可能有人同时提交或分支保护开启；下次定时任务会重新生成" >&2
+          exit 1
