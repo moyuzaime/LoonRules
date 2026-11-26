@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: Dailymotion
+# 合并来源: luestr/ShuntRules Dailymotion
+# 规则数: 5
+DOMAIN-SUFFIX,dai.ly
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dm-event.net
+DOMAIN-SUFFIX,dmcdn.net
+DOMAIN-SUFFIX,dmxleo.com

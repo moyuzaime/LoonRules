@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/FlipBoard.lsr
+# 上游: https://rule.kelee.one/Loon/FlipBoard.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,flipchina.cn

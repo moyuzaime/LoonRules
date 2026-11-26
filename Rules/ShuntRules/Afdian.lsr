@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/Afdian.lsr
+# 上游: https://rule.kelee.one/Loon/Afdian.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,afdian.net
+DOMAIN-SUFFIX,afdiancdn.com

@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: CWSeed
+# 合并来源: luestr/ShuntRules CWSeed
+# 规则数: 5
+DOMAIN,cwtv-amd-akamai.akamaized.net
+DOMAIN,edge.cwtv-vod-ext.top.comcast.net
+DOMAIN-SUFFIX,cwseed.com
+DOMAIN-SUFFIX,cwtv.com
+DOMAIN-SUFFIX,thecwvideo.com

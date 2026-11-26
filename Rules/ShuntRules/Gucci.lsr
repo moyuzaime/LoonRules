@@ -1,0 +1,9 @@
+# 来源: luestr/ShuntRules Loon/Gucci.lsr
+# 上游: https://rule.kelee.one/Loon/Gucci.lsr
+# 规则数: 6
+DOMAIN-SUFFIX,chimeforchange.org
+DOMAIN-SUFFIX,gucci.cn
+DOMAIN-SUFFIX,gucci.com
+DOMAIN-SUFFIX,guccimuseo.com
+DOMAIN-SUFFIX,guccitimeless.com
+DOMAIN-SUFFIX,regiongold.com

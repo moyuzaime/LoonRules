@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Deezer
+# 合并来源: luestr/ShuntRules Deezer
+# 规则数: 3
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net
+USER-AGENT,Deezer*

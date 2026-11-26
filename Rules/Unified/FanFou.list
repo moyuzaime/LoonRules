@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: FanFou
+# 合并来源: luestr/ShuntRules FanFou
+# 规则数: 4
+DOMAIN-SUFFIX,comox.cn
+DOMAIN-SUFFIX,comum.cn
+DOMAIN-SUFFIX,ifanfou.cn
+DOMAIN-SUFFIX,mlj130.cn

@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/Peacock.lsr
+# 上游: https://rule.kelee.one/Loon/Peacock.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,peacocktv.com
+USER-AGENT,PeacockMobile*

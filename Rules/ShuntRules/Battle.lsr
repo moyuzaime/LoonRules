@@ -1,0 +1,11 @@
+# 来源: luestr/ShuntRules Loon/Battle.lsr
+# 上游: https://rule.kelee.one/Loon/Battle.lsr
+# 规则数: 8
+DOMAIN,blizzard.nefficient.co.kr
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,bnetproduct-a.akamaihd.net
+DOMAIN,cdn.blz-contentstack.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com.cn
+DOMAIN-SUFFIX,blizzard.com

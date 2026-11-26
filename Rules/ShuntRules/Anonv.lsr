@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/Anonv.lsr
+# 上游: https://rule.kelee.one/Loon/Anonv.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,anon-v.com
+DOMAIN-SUFFIX,anon-v.lol

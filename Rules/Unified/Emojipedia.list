@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Emojipedia
+# 合并来源: luestr/ShuntRules Emojipedia
+# 规则数: 3
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com

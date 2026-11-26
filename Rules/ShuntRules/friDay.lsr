@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/friDay.lsr
+# 上游: https://rule.kelee.one/Loon/friDay.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,fetnet.net
+DOMAIN-SUFFIX,friday.tw

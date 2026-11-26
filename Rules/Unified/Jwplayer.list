@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: Jwplayer
+# 合并来源: luestr/ShuntRules Jwplayer
+# 规则数: 5
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplatform.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com

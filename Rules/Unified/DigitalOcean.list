@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: DigitalOcean
+# 合并来源: luestr/ShuntRules DigitalOcean
+# 规则数: 4
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,do.co
+DOMAIN-SUFFIX,nginxconfig.io

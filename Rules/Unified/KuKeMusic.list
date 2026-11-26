@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: KuKeMusic
+# 合并来源: luestr/ShuntRules KuKeMusic
+# 规则数: 3
+DOMAIN-SUFFIX,kuke.com
+DOMAIN-SUFFIX,kukey.com.cn
+DOMAIN-SUFFIX,naxos.cn

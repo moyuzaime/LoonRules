@@ -1,0 +1,9 @@
+# 来源: luestr/ShuntRules Loon/PotatoChat.lsr
+# 上游: https://rule.kelee.one/Loon/PotatoChat.lsr
+# 规则数: 6
+IP-CIDR,13.251.24.0/24,no-resolve
+IP-CIDR,13.251.41.0/24,no-resolve
+IP-CIDR,17.252.156.0/23,no-resolve
+IP-CIDR,13.251.24.0/24
+IP-CIDR,13.251.41.0/24
+IP-CIDR,17.252.156.0/23

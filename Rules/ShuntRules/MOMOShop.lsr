@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/MOMOShop.lsr
+# 上游: https://rule.kelee.one/Loon/MOMOShop.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,momo.dm
+DOMAIN-SUFFIX,momo5188.com
+DOMAIN-SUFFIX,momomall.com.tw
+DOMAIN-SUFFIX,momoshop.com.tw

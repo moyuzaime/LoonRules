@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/Coolapk.lsr
+# 上游: https://rule.kelee.one/Loon/Coolapk.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,coolapkmarket.net

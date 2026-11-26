@@ -1,0 +1,9 @@
+# 来源: luestr/ShuntRules Loon/KuaiDi100.lsr
+# 上游: https://rule.kelee.one/Loon/KuaiDi100.lsr
+# 规则数: 6
+DOMAIN-SUFFIX,baidiapp.com
+DOMAIN-SUFFIX,baidinet.com
+DOMAIN-SUFFIX,ckd.im
+DOMAIN-SUFFIX,kd100.com
+DOMAIN-SUFFIX,kuaidi100.com
+DOMAIN-SUFFIX,kuaidilab.com

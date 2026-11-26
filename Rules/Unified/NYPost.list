@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: NYPost
+# 合并来源: luestr/ShuntRules NYPost
+# 规则数: 3
+DOMAIN-SUFFIX,nypost.com
+DOMAIN-SUFFIX,nypost.help
+DOMAIN-SUFFIX,nypostreprints.com

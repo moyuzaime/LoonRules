@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/CyberTrust.lsr
+# 上游: https://rule.kelee.one/Loon/CyberTrust.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,cybertrust.co.jp
+DOMAIN-SUFFIX,cybertrust.ne.jp

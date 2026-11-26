@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: VikACG
+# 合并来源: luestr/ShuntRules VikACG
+# 规则数: 2
+DOMAIN-SUFFIX,picjs.xyz
+DOMAIN-SUFFIX,vikacg.com

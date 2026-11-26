@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Addthis
+# 合并来源: luestr/ShuntRules Addthis
+# 规则数: 3
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,addthisedge.com

@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: Peacock
+# 合并来源: luestr/ShuntRules Peacock
+# 规则数: 2
+DOMAIN-SUFFIX,peacocktv.com
+USER-AGENT,PeacockMobile*

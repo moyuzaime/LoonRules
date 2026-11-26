@@ -1,0 +1,10 @@
+# 统一规则库 | 分类: mytvsuper
+# 合并来源: QuixoticHeart/rule-set mytvsuper; luestr/ShuntRules myTVSUPER
+# 规则数: 7
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+USER-AGENT,mytv*

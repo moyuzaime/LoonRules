@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: 36kr
+# 合并来源: luestr/ShuntRules 36kr
+# 规则数: 4
+DOMAIN-SUFFIX,36dianping.com
+DOMAIN-SUFFIX,36kr.com
+DOMAIN-SUFFIX,36krcdn.com
+DOMAIN-SUFFIX,36krcnd.com

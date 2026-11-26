@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: Instagram
+# 合并来源: luestr/ShuntRules Instagram
+# 规则数: 4
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-KEYWORD,instagram

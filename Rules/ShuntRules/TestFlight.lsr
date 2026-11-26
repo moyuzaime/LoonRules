@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/TestFlight.lsr
+# 上游: https://rule.kelee.one/Loon/TestFlight.lsr
+# 规则数: 3
+DOMAIN,beta.apple.com
+DOMAIN,testflight.apple.com
+DOMAIN-KEYWORD,testflight

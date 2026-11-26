@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/Claude.lsr
+# 上游: https://rule.kelee.one/Loon/Claude.lsr
+# 规则数: 3
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai

@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/AOL.lsr
+# 上游: https://rule.kelee.one/Loon/AOL.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,aol.ca
+DOMAIN-SUFFIX,aol.co.uk
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,aolnews.com

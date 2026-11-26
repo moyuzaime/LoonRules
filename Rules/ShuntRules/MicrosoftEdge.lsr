@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/MicrosoftEdge.lsr
+# 上游: https://rule.kelee.one/Loon/MicrosoftEdge.lsr
+# 规则数: 4
+DOMAIN,edge.activity.windows.com
+DOMAIN,edge.microsoft.com
+DOMAIN,iecvlist.microsoft.com
+DOMAIN,msedge.api.cdp.microsoft.com

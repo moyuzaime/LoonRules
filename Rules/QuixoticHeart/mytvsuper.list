@@ -1,0 +1,9 @@
+# 来源: QuixoticHeart/rule-set@ruleset/loon/mytvsuper.list
+# 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/mytvsuper.list
+# 规则数: 6
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive

@@ -1,0 +1,8 @@
+# 来源: luestr/ShuntRules Loon/WoLai.lsr
+# 上游: https://rule.kelee.one/Loon/WoLai.lsr
+# 规则数: 5
+DOMAIN-SUFFIX,wol.tv
+DOMAIN-SUFFIX,wolai.com
+DOMAIN-SUFFIX,wolai.ren
+DOMAIN-SUFFIX,wostatic.cn
+DOMAIN-SUFFIX,woyun.work

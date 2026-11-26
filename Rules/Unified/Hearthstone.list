@@ -1,0 +1,11 @@
+# 统一规则库 | 分类: Hearthstone
+# 合并来源: luestr/ShuntRules Hearthstone
+# 规则数: 8
+IP-CIDR,182.162.132.1/32,no-resolve
+IP-CIDR,185.60.112.157/32,no-resolve
+IP-CIDR,185.60.112.158/32,no-resolve
+IP-CIDR,24.105.30.129/32,no-resolve
+IP-CIDR,182.162.132.1/32
+IP-CIDR,185.60.112.157/32
+IP-CIDR,185.60.112.158/32
+IP-CIDR,24.105.30.129/32

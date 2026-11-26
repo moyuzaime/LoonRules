@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/AirChina.lsr
+# 上游: https://rule.kelee.one/Loon/AirChina.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,airchina.com.cn
+DOMAIN-SUFFIX,airchinacargo.com

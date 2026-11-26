@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: HuluJP
+# 合并来源: luestr/ShuntRules HuluJP
+# 规则数: 5
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,yb.uncn.jp

@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/6park.lsr
+# 上游: https://rule.kelee.one/Loon/6park.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,6park.com
+DOMAIN-SUFFIX,6parkbbs.com
+DOMAIN-SUFFIX,6parknews.com
+DOMAIN-SUFFIX,cool18.com

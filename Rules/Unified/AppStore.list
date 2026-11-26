@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: AppStore
+# 合并来源: luestr/ShuntRules AppStore
+# 规则数: 2
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com

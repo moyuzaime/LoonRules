@@ -1,0 +1,11 @@
+# 来源: luestr/ShuntRules Loon/HashiCorp.lsr
+# 上游: https://rule.kelee.one/Loon/HashiCorp.lsr
+# 规则数: 8
+DOMAIN-SUFFIX,consul.io
+DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,nomadproject.io
+DOMAIN-SUFFIX,packer.io
+DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
+DOMAIN-SUFFIX,vagrantup.com
+DOMAIN-SUFFIX,vaultproject.io

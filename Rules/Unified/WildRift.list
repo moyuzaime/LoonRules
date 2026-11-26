@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: WildRift
+# 合并来源: luestr/ShuntRules WildRift
+# 规则数: 3
+DOMAIN-SUFFIX,pvp.net
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotgames.com

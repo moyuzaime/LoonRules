@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: Anaconda
+# 合并来源: luestr/ShuntRules Anaconda
+# 规则数: 4
+DOMAIN-SUFFIX,anaconda.cloud
+DOMAIN-SUFFIX,anaconda.com
+DOMAIN-SUFFIX,anaconda.org
+DOMAIN-SUFFIX,conda.io

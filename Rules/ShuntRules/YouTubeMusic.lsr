@@ -1,0 +1,8 @@
+# 来源: luestr/ShuntRules Loon/YouTubeMusic.lsr
+# 上游: https://rule.kelee.one/Loon/YouTubeMusic.lsr
+# 规则数: 5
+DOMAIN,music.youtube.com
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*

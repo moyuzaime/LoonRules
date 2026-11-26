@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/AmazonTrust.lsr
+# 上游: https://rule.kelee.one/Loon/AmazonTrust.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,awstrust.com
+DOMAIN-SUFFIX,ss2.us

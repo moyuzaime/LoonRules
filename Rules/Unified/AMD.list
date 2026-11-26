@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: AMD
+# 合并来源: luestr/ShuntRules AMD
+# 规则数: 4
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,radeon.com

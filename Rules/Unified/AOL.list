@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: AOL
+# 合并来源: luestr/ShuntRules AOL
+# 规则数: 4
+DOMAIN-SUFFIX,aol.ca
+DOMAIN-SUFFIX,aol.co.uk
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,aolnews.com

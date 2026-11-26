@@ -1,0 +1,10 @@
+# 统一规则库 | 分类: Entrust
+# 合并来源: luestr/ShuntRules Entrust
+# 规则数: 7
+DOMAIN-SUFFIX,affirmtrust.com
+DOMAIN-SUFFIX,atos.net
+DOMAIN-SUFFIX,certificat2.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN-SUFFIX,myatos.net
+DOMAIN-SUFFIX,trendmicro.com

@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: Gog
+# 合并来源: luestr/ShuntRules Gog
+# 规则数: 4
+DOMAIN,gog.salesmanago.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog.qtlglb.com

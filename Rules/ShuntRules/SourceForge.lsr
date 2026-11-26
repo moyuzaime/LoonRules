@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/SourceForge.lsr
+# 上游: https://rule.kelee.one/Loon/SourceForge.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,fsdn.com
+DOMAIN-SUFFIX,sf.net
+DOMAIN-SUFFIX,sourceforge.com
+DOMAIN-SUFFIX,sourceforge.net

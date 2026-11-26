@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Bootcss
+# 合并来源: luestr/ShuntRules Bootcss
+# 规则数: 3
+DOMAIN-SUFFIX,bootcdn.cn
+DOMAIN-SUFFIX,bootcss.com
+DOMAIN-SUFFIX,phpcomposer.com

@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Identrust
+# 合并来源: luestr/ShuntRules Identrust
+# 规则数: 3
+DOMAIN-SUFFIX,identrust.co.uk
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,identrust.net

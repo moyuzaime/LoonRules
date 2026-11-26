@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: FitnessPlus
+# 合并来源: luestr/ShuntRules FitnessPlus
+# 规则数: 2
+DOMAIN,amp-api.fitness.apple.com
+DOMAIN,hls-svod.itunes.apple.com

@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: Buypass
+# 合并来源: luestr/ShuntRules Buypass
+# 规则数: 5
+DOMAIN-SUFFIX,buypass-ssl.com
+DOMAIN-SUFFIX,buypass.com
+DOMAIN-SUFFIX,buypass.no
+DOMAIN-SUFFIX,buypass.se
+DOMAIN-SUFFIX,minid.no

@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: XiamiMusic
+# 合并来源: luestr/ShuntRules XiamiMusic
+# 规则数: 5
+DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,xiami.fm
+DOMAIN-SUFFIX,xiami.net
+USER-AGENT,walkman*
+USER-AGENT,xiami*

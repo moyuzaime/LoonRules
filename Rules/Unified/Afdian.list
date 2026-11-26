@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: Afdian
+# 合并来源: luestr/ShuntRules Afdian
+# 规则数: 2
+DOMAIN-SUFFIX,afdian.net
+DOMAIN-SUFFIX,afdiancdn.com

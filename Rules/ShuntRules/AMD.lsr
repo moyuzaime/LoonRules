@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/AMD.lsr
+# 上游: https://rule.kelee.one/Loon/AMD.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,radeon.com

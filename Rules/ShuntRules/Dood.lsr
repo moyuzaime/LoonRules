@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/Dood.lsr
+# 上游: https://rule.kelee.one/Loon/Dood.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,dood.so
+DOMAIN-SUFFIX,dood.video
+DOMAIN-SUFFIX,doodcdn.com

@@ -1,0 +1,11 @@
+# 来源: luestr/ShuntRules Loon/HunanTV.lsr
+# 上游: https://rule.kelee.one/Loon/HunanTV.lsr
+# 规则数: 8
+DOMAIN-SUFFIX,hifuntv.com
+DOMAIN-SUFFIX,hitv.com
+DOMAIN-SUFFIX,hunaniptv.com
+DOMAIN-SUFFIX,hunantv.com
+DOMAIN-SUFFIX,imgo.tv
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,tazai.com
+USER-AGENT,MGTV*

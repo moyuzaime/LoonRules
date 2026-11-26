@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/IMDB.lsr
+# 上游: https://rule.kelee.one/Loon/IMDB.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,media-imdb.com

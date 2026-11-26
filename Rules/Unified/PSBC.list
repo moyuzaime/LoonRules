@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: PSBC
+# 合并来源: luestr/ShuntRules PSBC
+# 规则数: 3
+DOMAIN-SUFFIX,95580.net
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,psbcoa.com.cn

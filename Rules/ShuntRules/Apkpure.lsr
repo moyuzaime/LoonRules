@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/Apkpure.lsr
+# 上游: https://rule.kelee.one/Loon/Apkpure.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com

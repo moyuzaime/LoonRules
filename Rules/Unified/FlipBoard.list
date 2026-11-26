@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: FlipBoard
+# 合并来源: luestr/ShuntRules FlipBoard
+# 规则数: 2
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,flipchina.cn

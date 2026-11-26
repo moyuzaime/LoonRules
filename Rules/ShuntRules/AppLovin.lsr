@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/AppLovin.lsr
+# 上游: https://rule.kelee.one/Loon/AppLovin.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com

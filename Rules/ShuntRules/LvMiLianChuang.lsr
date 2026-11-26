@@ -1,0 +1,9 @@
+# 来源: luestr/ShuntRules Loon/LvMiLianChuang.lsr
+# 上游: https://rule.kelee.one/Loon/LvMiLianChuang.lsr
+# 规则数: 6
+DOMAIN-SUFFIX,aqara.cn
+DOMAIN-SUFFIX,aqara.com
+DOMAIN-SUFFIX,aqara.com.cn
+DOMAIN-SUFFIX,lumiunited.cn
+DOMAIN-SUFFIX,lumiunited.com
+DOMAIN-SUFFIX,lumiunited.com.cn

@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/Dynu.lsr
+# 上游: https://rule.kelee.one/Loon/Dynu.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,dynu.com
+DOMAIN-SUFFIX,dynu.net
+DOMAIN-SUFFIX,freeddns.org

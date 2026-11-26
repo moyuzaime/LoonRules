@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/Dubox.lsr
+# 上游: https://rule.kelee.one/Loon/Dubox.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,duboxcdn.com

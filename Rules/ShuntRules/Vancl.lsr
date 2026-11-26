@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/Vancl.lsr
+# 上游: https://rule.kelee.one/Loon/Vancl.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,vancl.com
+DOMAIN-SUFFIX,vanclimg.com
+DOMAIN-SUFFIX,vcimg.com

@@ -1,0 +1,9 @@
+# 统一规则库 | 分类: ATTWatchTV
+# 合并来源: luestr/ShuntRules ATTWatchTV
+# 规则数: 6
+DOMAIN-SUFFIX,att.tv
+DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,attwatchtv.com
+DOMAIN-SUFFIX,directv.com
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,nettyinternet.com

@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: CyberTrust
+# 合并来源: luestr/ShuntRules CyberTrust
+# 规则数: 2
+DOMAIN-SUFFIX,cybertrust.co.jp
+DOMAIN-SUFFIX,cybertrust.ne.jp

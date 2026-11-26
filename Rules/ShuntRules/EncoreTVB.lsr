@@ -1,0 +1,9 @@
+# 来源: luestr/ShuntRules Loon/EncoreTVB.lsr
+# 上游: https://rule.kelee.one/Loon/EncoreTVB.lsr
+# 规则数: 6
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,encoretvb.com
+USER-AGENT,encoreTVB*

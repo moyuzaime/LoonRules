@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: Acer
+# 合并来源: luestr/ShuntRules Acer
+# 规则数: 5
+DOMAIN-SUFFIX,acer-group.com
+DOMAIN-SUFFIX,acer.com
+DOMAIN-SUFFIX,acer.com.cn
+DOMAIN-SUFFIX,founderpc.cn
+DOMAIN-SUFFIX,founderpc.com

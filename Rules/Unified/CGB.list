@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: CGB
+# 合并来源: luestr/ShuntRules CGB
+# 规则数: 4
+DOMAIN-SUFFIX,95508.com
+DOMAIN-SUFFIX,cgbchina.cn
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,gdb.com.cn

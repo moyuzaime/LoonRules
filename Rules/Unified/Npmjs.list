@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Npmjs
+# 合并来源: luestr/ShuntRules Npmjs
+# 规则数: 3
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org

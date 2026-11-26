@@ -1,0 +1,12 @@
+# 统一规则库 | 分类: WeTV
+# 合并来源: luestr/ShuntRules WeTV
+# 规则数: 9
+DOMAIN,wetv.qq.com
+DOMAIN-SUFFIX,iflix-images.akamaized.net
+DOMAIN-SUFFIX,iflix.com
+DOMAIN-SUFFIX,vv.video.qq.com
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+USER-AGENT,WeTV*
+IP-CIDR,150.109.28.51/32,no-resolve
+IP-CIDR,150.109.28.51/32

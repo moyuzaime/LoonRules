@@ -1,0 +1,10 @@
+# 来源: QuixoticHeart/rule-set@ruleset/loon/bahamut.list
+# 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/bahamut.list
+# 规则数: 7
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,viblast.com

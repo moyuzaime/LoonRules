@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/WildRift.lsr
+# 上游: https://rule.kelee.one/Loon/WildRift.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,pvp.net
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotgames.com

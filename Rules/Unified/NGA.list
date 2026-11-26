@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: NGA
+# 合并来源: luestr/ShuntRules NGA
+# 规则数: 4
+DOMAIN-SUFFIX,178.com
+DOMAIN-SUFFIX,nga.cn
+DOMAIN-SUFFIX,ngabbs.com
+DOMAIN-SUFFIX,ngacn.cc

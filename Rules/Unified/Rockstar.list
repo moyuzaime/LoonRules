@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: Rockstar
+# 合并来源: luestr/ShuntRules Rockstar
+# 规则数: 5
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net

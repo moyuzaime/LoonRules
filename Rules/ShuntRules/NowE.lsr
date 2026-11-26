@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/NowE.lsr
+# 上游: https://rule.kelee.one/Loon/NowE.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowestatic.com

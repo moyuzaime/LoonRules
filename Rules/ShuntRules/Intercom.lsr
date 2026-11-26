@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/Intercom.lsr
+# 上游: https://rule.kelee.one/Loon/Intercom.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercomcdn.com

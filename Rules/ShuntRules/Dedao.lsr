@@ -1,0 +1,11 @@
+# 来源: luestr/ShuntRules Loon/Dedao.lsr
+# 上游: https://rule.kelee.one/Loon/Dedao.lsr
+# 规则数: 8
+DOMAIN-SUFFIX,biji.com
+DOMAIN-SUFFIX,ddmogo.com
+DOMAIN-SUFFIX,igetget.cn
+DOMAIN-SUFFIX,igetget.com
+DOMAIN-SUFFIX,luojilab.com
+DOMAIN-SUFFIX,mogoo.com
+DOMAIN-SUFFIX,sao.cn
+DOMAIN-SUFFIX,saolife.com

@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/Identrust.lsr
+# 上游: https://rule.kelee.one/Loon/Identrust.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,identrust.co.uk
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,identrust.net

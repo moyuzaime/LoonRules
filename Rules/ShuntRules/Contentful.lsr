@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/Contentful.lsr
+# 上游: https://rule.kelee.one/Loon/Contentful.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,contentful.com
+DOMAIN-SUFFIX,ctfassets.net

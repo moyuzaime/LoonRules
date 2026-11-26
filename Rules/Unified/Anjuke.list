@@ -1,0 +1,10 @@
+# 统一规则库 | 分类: Anjuke
+# 合并来源: luestr/ShuntRules Anjuke
+# 规则数: 7
+DOMAIN-SUFFIX,aifang.com
+DOMAIN-SUFFIX,aifcdn.com
+DOMAIN-SUFFIX,ajkinclude.com
+DOMAIN-SUFFIX,anjuke.cn
+DOMAIN-SUFFIX,anjuke.com
+DOMAIN-SUFFIX,anjukestatic.com
+DOMAIN-SUFFIX,jikejia.cn

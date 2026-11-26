@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: Weibo
+# 合并来源: luestr/ShuntRules Weibo
+# 规则数: 4
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-KEYWORD,weibo

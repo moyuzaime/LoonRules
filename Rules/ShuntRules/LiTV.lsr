@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/LiTV.lsr
+# 上游: https://rule.kelee.one/Loon/LiTV.lsr
+# 规则数: 2
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,litv.tv

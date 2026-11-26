@@ -1,0 +1,10 @@
+# 来源: luestr/ShuntRules Loon/Embl.lsr
+# 上游: https://rule.kelee.one/Loon/Embl.lsr
+# 规则数: 7
+DOMAIN-SUFFIX,ebi.ac.uk
+DOMAIN-SUFFIX,embl-hamburg.de
+DOMAIN-SUFFIX,embl.de
+DOMAIN-SUFFIX,embl.fr
+DOMAIN-SUFFIX,embl.it
+DOMAIN-SUFFIX,embl.org
+DOMAIN-SUFFIX,emblstatic.net

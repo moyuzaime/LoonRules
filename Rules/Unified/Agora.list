@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Agora
+# 合并来源: luestr/ShuntRules Agora
+# 规则数: 3
+DOMAIN-SUFFIX,agora.io
+DOMAIN-SUFFIX,agoraio.cn
+DOMAIN-SUFFIX,agoralab.co

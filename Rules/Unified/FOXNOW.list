@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: FOXNOW
+# 合并来源: luestr/ShuntRules FOXNOW
+# 规则数: 4
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com
+USER-AGENT,FOX%20NOW*

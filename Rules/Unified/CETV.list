@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: CETV
+# 合并来源: luestr/ShuntRules CETV
+# 规则数: 3
+DOMAIN-SUFFIX,centv.cn
+DOMAIN-SUFFIX,centv.net.cn
+DOMAIN-SUFFIX,cetv.cn

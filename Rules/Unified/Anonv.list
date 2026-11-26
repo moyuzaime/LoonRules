@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: Anonv
+# 合并来源: luestr/ShuntRules Anonv
+# 规则数: 2
+DOMAIN-SUFFIX,anon-v.com
+DOMAIN-SUFFIX,anon-v.lol

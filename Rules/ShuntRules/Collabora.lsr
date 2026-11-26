@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/Collabora.lsr
+# 上游: https://rule.kelee.one/Loon/Collabora.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,collabora.co.uk
+DOMAIN-SUFFIX,collabora.com
+DOMAIN-SUFFIX,collabora.org
+DOMAIN-SUFFIX,collaboraoffice.com

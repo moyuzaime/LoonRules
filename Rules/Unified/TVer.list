@@ -1,0 +1,10 @@
+# 统一规则库 | 分类: TVer
+# 合并来源: luestr/ShuntRules TVer
+# 规则数: 7
+DOMAIN-SUFFIX,dogatch.jp
+DOMAIN-SUFFIX,edge.api.brightcove.com
+DOMAIN-SUFFIX,gorin.jp
+DOMAIN-SUFFIX,screens-lab.jp
+DOMAIN-SUFFIX,tver.co.jp
+DOMAIN-SUFFIX,tver.jp
+USER-AGENT,TVer-Release*

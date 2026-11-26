@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: Zalo
+# 合并来源: luestr/ShuntRules Zalo
+# 规则数: 2
+DOMAIN-SUFFIX,zalo.me
+DOMAIN-SUFFIX,zaloapp.com

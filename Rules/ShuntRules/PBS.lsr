@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/PBS.lsr
+# 上游: https://rule.kelee.one/Loon/PBS.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,pbs.org
+USER-AGENT,PBS*

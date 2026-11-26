@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: HKedcity
+# 合并来源: luestr/ShuntRules HKedcity
+# 规则数: 3
+DOMAIN-SUFFIX,edcity.hk
+DOMAIN-SUFFIX,hkedcity.net
+DOMAIN-SUFFIX,hkreadingcity.net

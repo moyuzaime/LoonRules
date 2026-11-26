@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/CETV.lsr
+# 上游: https://rule.kelee.one/Loon/CETV.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,centv.cn
+DOMAIN-SUFFIX,centv.net.cn
+DOMAIN-SUFFIX,cetv.cn

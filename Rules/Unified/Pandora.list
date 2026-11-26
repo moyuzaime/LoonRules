@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Pandora
+# 合并来源: luestr/ShuntRules Pandora
+# 规则数: 3
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,pandora.com
+USER-AGENT,Pandora*

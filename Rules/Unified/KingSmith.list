@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: KingSmith
+# 合并来源: luestr/ShuntRules KingSmith
+# 规则数: 4
+DOMAIN-SUFFIX,kingsmith.cn
+DOMAIN-SUFFIX,kingsmith.com.cn
+DOMAIN-SUFFIX,walkingpad.cn
+DOMAIN-SUFFIX,walkingpad.com

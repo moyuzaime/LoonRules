@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: ChinaNews
+# 合并来源: luestr/ShuntRules ChinaNews
+# 规则数: 4
+DOMAIN-SUFFIX,chinanews.com
+DOMAIN-SUFFIX,chinanews.com.cn
+DOMAIN-SUFFIX,cns.com.cn
+DOMAIN-SUFFIX,ecns.cn

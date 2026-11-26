@@ -1,0 +1,9 @@
+# 统一规则库 | 分类: BOCOM
+# 合并来源: luestr/ShuntRules BOCOM
+# 规则数: 6
+DOMAIN-SUFFIX,95559.com.cn
+DOMAIN-SUFFIX,95559.sh.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,bankcomm.com.au
+DOMAIN-SUFFIX,bankcomm.com.mo
+DOMAIN-SUFFIX,bankcomm.com.tw

@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/HuYa.lsr
+# 上游: https://rule.kelee.one/Loon/HuYa.lsr
+# 规则数: 4
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,huyagame.cn
+DOMAIN-SUFFIX,peiwanlu.com
+DOMAIN-SUFFIX,snapplay.com

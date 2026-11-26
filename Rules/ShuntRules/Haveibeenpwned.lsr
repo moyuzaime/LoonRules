@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/Haveibeenpwned.lsr
+# 上游: https://rule.kelee.one/Loon/Haveibeenpwned.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,pwnedpasswords.com

@@ -1,0 +1,9 @@
+# 统一规则库 | 分类: HKBN
+# 合并来源: luestr/ShuntRules HKBN
+# 规则数: 6
+DOMAIN-SUFFIX,csifund.org
+DOMAIN-SUFFIX,hkbn.com.hk
+DOMAIN-SUFFIX,hkbn.net
+DOMAIN-SUFFIX,hkbnes.net
+DOMAIN-SUFFIX,jos.com
+DOMAIN-SUFFIX,speedtest.com.hk

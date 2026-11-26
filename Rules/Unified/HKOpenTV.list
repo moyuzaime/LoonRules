@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: HKOpenTV
+# 合并来源: luestr/ShuntRules HKOpenTV
+# 规则数: 2
+DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,hkopentv.com

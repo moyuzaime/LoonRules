@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: Sling
+# 合并来源: luestr/ShuntRules Sling
+# 规则数: 5
+DOMAIN-SUFFIX,dishworld.com
+DOMAIN-SUFFIX,movenetworks.com
+DOMAIN-SUFFIX,movetv.com
+DOMAIN-SUFFIX,sling.com
+DOMAIN-SUFFIX,slinginternational.com

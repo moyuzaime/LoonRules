@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/Nikkei.lsr
+# 上游: https://rule.kelee.one/Loon/Nikkei.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,nikkei.co.jp
+DOMAIN-SUFFIX,nikkei.com
+DOMAIN-SUFFIX,nikkei.jp

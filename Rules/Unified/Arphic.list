@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: Arphic
+# 合并来源: luestr/ShuntRules Arphic
+# 规则数: 4
+DOMAIN-SUFFIX,arphic.com
+DOMAIN-SUFFIX,arphic.com.cn
+DOMAIN-SUFFIX,arphic.com.tw
+DOMAIN-SUFFIX,ifontcloud.com

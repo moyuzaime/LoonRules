@@ -1,0 +1,11 @@
+# 统一规则库 | 分类: EHGallery
+# 合并来源: luestr/ShuntRules EHGallery
+# 规则数: 8
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,hentaiverse.org
+IP-CIDR,178.175.128.0/21,no-resolve
+IP-CIDR,178.175.128.0/21

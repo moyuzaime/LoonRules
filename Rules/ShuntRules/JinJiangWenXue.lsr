@@ -1,0 +1,10 @@
+# 来源: luestr/ShuntRules Loon/JinJiangWenXue.lsr
+# 上游: https://rule.kelee.one/Loon/JinJiangWenXue.lsr
+# 规则数: 7
+DOMAIN-SUFFIX,chaba123.com
+DOMAIN-SUFFIX,jjwxc.cn
+DOMAIN-SUFFIX,jjwxc.com
+DOMAIN-SUFFIX,jjwxc.net
+DOMAIN-SUFFIX,jjwxc.org
+DOMAIN-SUFFIX,jjycw.net
+DOMAIN-SUFFIX,robook.com

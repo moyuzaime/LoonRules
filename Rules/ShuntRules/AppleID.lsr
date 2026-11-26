@@ -1,0 +1,7 @@
+# 来源: luestr/ShuntRules Loon/AppleID.lsr
+# 上游: https://rule.kelee.one/Loon/AppleID.lsr
+# 规则数: 4
+DOMAIN,appleid.apple.com
+DOMAIN,appleid.cdn-apple.com
+DOMAIN,gsa.apple.com
+DOMAIN,idmsa.apple.com

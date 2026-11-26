@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: Razer
+# 合并来源: luestr/ShuntRules Razer
+# 规则数: 2
+DOMAIN-SUFFIX,razer.com
+DOMAIN-SUFFIX,razerzone.com

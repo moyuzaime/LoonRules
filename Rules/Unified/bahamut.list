@@ -1,0 +1,12 @@
+# 统一规则库 | 分类: bahamut
+# 合并来源: QuixoticHeart/rule-set bahamut; luestr/ShuntRules Bahamut
+# 规则数: 9
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,viblast.com
+DOMAIN,bahamut.akamaized.net
+USER-AGENT,Anime*

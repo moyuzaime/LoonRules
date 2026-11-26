@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: XiaoYuanKeJi
+# 合并来源: luestr/ShuntRules XiaoYuanKeJi
+# 规则数: 5
+DOMAIN-SUFFIX,10010mx.com
+DOMAIN-SUFFIX,5gimos.com
+DOMAIN-SUFFIX,bizport.cn
+DOMAIN-SUFFIX,mfexcel.com
+DOMAIN-SUFFIX,microfountain.com

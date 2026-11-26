@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/YouZan.lsr
+# 上游: https://rule.kelee.one/Loon/YouZan.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,youzan.com
+DOMAIN-SUFFIX,youzanyun.com
+DOMAIN-SUFFIX,yzcdn.cn

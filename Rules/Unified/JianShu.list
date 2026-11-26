@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: JianShu
+# 合并来源: luestr/ShuntRules JianShu
+# 规则数: 5
+DOMAIN-SUFFIX,baijii.com
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,jianshuapi.com
+DOMAIN-SUFFIX,shengmingfa.com

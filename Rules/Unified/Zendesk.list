@@ -1,0 +1,9 @@
+# 统一规则库 | 分类: Zendesk
+# 合并来源: luestr/ShuntRules Zendesk
+# 规则数: 6
+DOMAIN-SUFFIX,outbound.io
+DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zdusercontent.com
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zndsk.com
+DOMAIN-SUFFIX,zopim.com

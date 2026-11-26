@@ -1,0 +1,4 @@
+# 统一规则库 | 分类: Electron
+# 合并来源: luestr/ShuntRules Electron
+# 规则数: 1
+DOMAIN-SUFFIX,electronjs.org

@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/FuboTV.lsr
+# 上游: https://rule.kelee.one/Loon/FuboTV.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,fubo.tv
+DOMAIN-SUFFIX,fubotv.com

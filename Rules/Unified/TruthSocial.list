@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: TruthSocial
+# 合并来源: luestr/ShuntRules TruthSocial
+# 规则数: 2
+DOMAIN-SUFFIX,trk.bonsa.net
+DOMAIN-SUFFIX,truthsocial.com

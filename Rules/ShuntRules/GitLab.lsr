@@ -1,0 +1,9 @@
+# 来源: luestr/ShuntRules Loon/GitLab.lsr
+# 上游: https://rule.kelee.one/Loon/GitLab.lsr
+# 规则数: 6
+DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitter-static.net
+DOMAIN-SUFFIX,gitter.im

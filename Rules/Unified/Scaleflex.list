@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Scaleflex
+# 合并来源: luestr/ShuntRules Scaleflex
+# 规则数: 3
+DOMAIN-SUFFIX,cloudimage.io
+DOMAIN-SUFFIX,cloudimg.io
+DOMAIN-SUFFIX,scaleflex.com

@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/KuKeMusic.lsr
+# 上游: https://rule.kelee.one/Loon/KuKeMusic.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,kuke.com
+DOMAIN-SUFFIX,kukey.com.cn
+DOMAIN-SUFFIX,naxos.cn

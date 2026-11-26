@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/OKX.lsr
+# 上游: https://rule.kelee.one/Loon/OKX.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com

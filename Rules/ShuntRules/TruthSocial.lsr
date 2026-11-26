@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/TruthSocial.lsr
+# 上游: https://rule.kelee.one/Loon/TruthSocial.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,trk.bonsa.net
+DOMAIN-SUFFIX,truthsocial.com

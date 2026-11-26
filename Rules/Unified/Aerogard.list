@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Aerogard
+# 合并来源: luestr/ShuntRules Aerogard
+# 规则数: 3
+DOMAIN-SUFFIX,aerogard.com.au
+DOMAIN-SUFFIX,aerogard.com.cn
+DOMAIN-SUFFIX,aerogardcn.com

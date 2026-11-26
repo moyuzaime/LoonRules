@@ -1,0 +1,10 @@
+# 统一规则库 | 分类: Mojitianqi
+# 合并来源: luestr/ShuntRules Mojitianqi
+# 规则数: 7
+DOMAIN-SUFFIX,airnut.com
+DOMAIN-SUFFIX,moji.com
+DOMAIN-SUFFIX,mojicb.com
+DOMAIN-SUFFIX,mojichina.com
+DOMAIN-SUFFIX,mojitest.com
+DOMAIN-SUFFIX,moweather.com
+DOMAIN-SUFFIX,xiaomo.cn

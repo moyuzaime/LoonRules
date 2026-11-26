@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: Olevod
+# 合并来源: luestr/ShuntRules Olevod
+# 规则数: 5
+DOMAIN-SUFFIX,haiwaikan.com
+DOMAIN-SUFFIX,iole.tv
+DOMAIN-SUFFIX,olehd.com
+DOMAIN-SUFFIX,olelive.com
+DOMAIN-KEYWORD,olevod

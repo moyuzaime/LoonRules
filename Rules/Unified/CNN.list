@@ -1,0 +1,9 @@
+# 统一规则库 | 分类: CNN
+# 合并来源: luestr/ShuntRules CNN
+# 规则数: 6
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
+DOMAIN-SUFFIX,cnnarabic.com
+DOMAIN-SUFFIX,cnnlabs.com
+DOMAIN-SUFFIX,cnnmoney.ch

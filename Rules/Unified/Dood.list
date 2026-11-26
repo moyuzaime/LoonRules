@@ -1,0 +1,6 @@
+# 统一规则库 | 分类: Dood
+# 合并来源: luestr/ShuntRules Dood
+# 规则数: 3
+DOMAIN-SUFFIX,dood.so
+DOMAIN-SUFFIX,dood.video
+DOMAIN-SUFFIX,doodcdn.com

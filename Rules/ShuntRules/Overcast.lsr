@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/Overcast.lsr
+# 上游: https://rule.kelee.one/Loon/Overcast.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,overcast.fm
+USER-AGENT,Overcast*

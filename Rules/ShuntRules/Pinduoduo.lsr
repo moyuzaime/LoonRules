@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/Pinduoduo.lsr
+# 上游: https://rule.kelee.one/Loon/Pinduoduo.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com

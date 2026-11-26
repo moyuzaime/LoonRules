@@ -1,0 +1,5 @@
+# 统一规则库 | 分类: Apifox
+# 合并来源: luestr/ShuntRules Apifox
+# 规则数: 2
+DOMAIN-SUFFIX,apifox.cn
+DOMAIN-SUFFIX,apifox.com

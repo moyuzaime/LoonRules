@@ -1,0 +1,10 @@
+# 统一规则库 | 分类: OnePlus
+# 合并来源: luestr/ShuntRules OnePlus
+# 规则数: 7
+DOMAIN-SUFFIX,h2os.com
+DOMAIN-SUFFIX,oneplus.cn
+DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,oneplus.net
+DOMAIN-SUFFIX,oneplusbbs.com
+DOMAIN-SUFFIX,oneplusmobile.com
+DOMAIN-SUFFIX,opstatics.com

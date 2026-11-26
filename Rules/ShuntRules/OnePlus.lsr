@@ -1,0 +1,10 @@
+# 来源: luestr/ShuntRules Loon/OnePlus.lsr
+# 上游: https://rule.kelee.one/Loon/OnePlus.lsr
+# 规则数: 7
+DOMAIN-SUFFIX,h2os.com
+DOMAIN-SUFFIX,oneplus.cn
+DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,oneplus.net
+DOMAIN-SUFFIX,oneplusbbs.com
+DOMAIN-SUFFIX,oneplusmobile.com
+DOMAIN-SUFFIX,opstatics.com

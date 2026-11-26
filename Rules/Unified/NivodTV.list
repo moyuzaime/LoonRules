@@ -1,0 +1,11 @@
+# 统一规则库 | 分类: NivodTV
+# 合并来源: luestr/ShuntRules NivodTV
+# 规则数: 8
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,nbys.tv
+DOMAIN-SUFFIX,nbys1.tv
+DOMAIN-SUFFIX,nbyy.tv
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,vod360.net
+DOMAIN-KEYWORD,nivod

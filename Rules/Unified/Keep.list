@@ -1,0 +1,8 @@
+# 统一规则库 | 分类: Keep
+# 合并来源: luestr/ShuntRules Keep
+# 规则数: 5
+DOMAIN-SUFFIX,calorietech.com
+DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,keep.com
+DOMAIN-SUFFIX,keep.com.cn
+DOMAIN-SUFFIX,keepcdn.com

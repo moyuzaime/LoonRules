@@ -1,0 +1,9 @@
+# 统一规则库 | 分类: Python
+# 合并来源: luestr/ShuntRules Python
+# 规则数: 6
+DOMAIN-SUFFIX,pycon.org
+DOMAIN-SUFFIX,pypa.io
+DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pythonhosted.org

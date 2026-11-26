@@ -1,0 +1,13 @@
+# 统一规则库 | 分类: BaiFenDian
+# 合并来源: luestr/ShuntRules BaiFenDian
+# 规则数: 10
+DOMAIN-SUFFIX,baifendian.com
+DOMAIN-SUFFIX,bfdcdn.com
+DOMAIN-SUFFIX,bfdcloud.com
+DOMAIN-SUFFIX,blingoffice.com
+DOMAIN-SUFFIX,marimall.cn
+DOMAIN-SUFFIX,mediaforce.cn
+DOMAIN-SUFFIX,pdeepmatrix.com
+DOMAIN-SUFFIX,percent.cn
+DOMAIN-SUFFIX,pertalk.cn
+DOMAIN-SUFFIX,xworld.net.cn

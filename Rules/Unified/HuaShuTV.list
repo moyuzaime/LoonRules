@@ -1,0 +1,9 @@
+# 统一规则库 | 分类: HuaShuTV
+# 合并来源: luestr/ShuntRules HuaShuTV
+# 规则数: 6
+DOMAIN-SUFFIX,hzcnc.com
+DOMAIN-SUFFIX,hzdtv.tv
+DOMAIN-SUFFIX,hzman.net
+DOMAIN-SUFFIX,wasu.cn
+DOMAIN-SUFFIX,wasu.tv
+DOMAIN-SUFFIX,wasumedia.cn

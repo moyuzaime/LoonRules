@@ -1,0 +1,13 @@
+# 来源: luestr/ShuntRules Loon/Niconico.lsr
+# 上游: https://rule.kelee.one/Loon/Niconico.lsr
+# 规则数: 10
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp
+DOMAIN-SUFFIX,socdm.com
+USER-AGENT,Niconico*

@@ -1,0 +1,6 @@
+# 来源: luestr/ShuntRules Loon/All4.lsr
+# 上游: https://rule.kelee.one/Loon/All4.lsr
+# 规则数: 3
+DOMAIN-SUFFIX,c4assets.com
+DOMAIN-SUFFIX,channel4.com
+USER-AGENT,All4*

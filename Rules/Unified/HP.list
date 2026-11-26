@@ -1,0 +1,7 @@
+# 统一规则库 | 分类: HP
+# 合并来源: luestr/ShuntRules HP
+# 规则数: 4
+DOMAIN-SUFFIX,hp.com
+DOMAIN-SUFFIX,hpstore-china.com
+DOMAIN-SUFFIX,hpstore.com
+DOMAIN-SUFFIX,hpstore.corpmerchandise.com

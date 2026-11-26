@@ -1,0 +1,8 @@
+# 来源: luestr/ShuntRules Loon/Spark.lsr
+# 上游: https://rule.kelee.one/Loon/Spark.lsr
+# 规则数: 5
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,smartmailcloud.com

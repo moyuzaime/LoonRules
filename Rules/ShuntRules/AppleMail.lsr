@@ -1,0 +1,5 @@
+# 来源: luestr/ShuntRules Loon/AppleMail.lsr
+# 上游: https://rule.kelee.one/Loon/AppleMail.lsr
+# 规则数: 2
+DOMAIN-SUFFIX,mail.icloud.com.cn
+DOMAIN-SUFFIX,mail.me.com
