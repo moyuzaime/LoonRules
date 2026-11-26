@@ -1,6 +1,0 @@
-# 来源: luestr/ShuntRules Loon/NaverTV.lsr
-# 上游: https://rule.kelee.one/Loon/NaverTV.lsr
-# 规则数: 3
-DOMAIN-SUFFIX,naver.com
-DOMAIN-SUFFIX,smartmediarep.com
-USER-AGENT,Naver%20TV*

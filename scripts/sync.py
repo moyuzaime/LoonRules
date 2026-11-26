@@ -8,28 +8,29 @@
    - 分支 ruleset，目录 loon/，共约 52 个 .list 文件。
    - 文件以 GitHub raw 方式逐个下载。
 
-2. luestr/ShuntRules
-   - README 表格中给出 https://rule.kelee.one/Loon/<name>.lsr 共约 668 个规则集。
-   - 优先直连 rule.kelee.one 下载。
-   - rule.kelee.one 被 Cloudflare 拦截（403/挑战页）时，回退为
-     blackmatrix7/ios_rule_script 的 Loon 三件套
-       rule/Loon/<name>/<name>.list
-       rule/Loon/<name>/<name>_Domain.list
-       rule/Loon/<name>/<name>_Resolve.list
-     按顺序合并去重重建，语义与 ShuntRules 的“合并规则”一致。
+2. blackmatrix7/ios_rule_script
+   - 分支 master，目录 rule/Loon/，共 668 个分类目录。
+   - 每个分类通常包含：
+       <Category>.list         规则（DOMAIN-KEYWORD / USER-AGENT / IP-CIDR 等）
+       <Category>_Domain.list  域名列表（.example.com 表示后缀，example.com 表示精确）
+       <Category>_Resolve.list 与 <Category>.list 相同，但 IP 规则不带 no-resolve
+     部分分类只有 <Category>.list。
+   - 镜像时保留上游目录与文件名；统一库则把同一分类的三份内容按
+     <Category>.list → _Domain.list → _Resolve.list 的顺序合并去重。
 
-产物目录（均带静态注释头，不含时间戳，内容不变则文件不变）：
+产物目录（静态注释头，不含时间戳；内容不变则文件不变）：
 
-  Rules/QuixoticHeart/<name>.list   来源一镜像
-  Rules/ShuntRules/<name>.lsr       来源二镜像
-  Rules/Unified/<name>.list         统一规则库（同名分类合并，来源一优先）
-  Rules/INDEX.md                    自动生成的索引与一键导入链接
-  Rules/CONFLICTS.md                冲突与去重报告
-  Rules/.sync-manifest.json         机器可读清单（无时间戳，可复现）
+  Rules/QuixoticHeart/<name>.list                 来源一镜像
+  Rules/blackmatrix7/<Category>/<file>.list       来源二镜像（保留上游目录/文件名）
+  Rules/Unified/<name>.list                       统一规则库（同名分类合并，来源一优先）
+  Rules/INDEX.md                                  自动生成的索引与一键导入链接
+  Rules/CONFLICTS.md                              去重统计、冲突与失败清单
+  Rules/.sync-manifest.json                       机器可读清单（无时间戳，可复现）
 
 去重与冲突规则：
 
-  * 单个文件内：完全相同的 (规则类型, 值, 参数) 只保留第一次出现，顺序不变。
+  * 单个文件内：完全相同的 (规则类型, 值, 参数) 只保留第一次出现，顺序不变；
+    域名列表文件按整行去重。
   * 统一库：分类名归一化（忽略大小写与标点）后合并；先来源一、后来源二，
     重复项保留来源一；同一域名在两边类型不同时记入 CONFLICTS.md，保留来源一。
 
@@ -74,24 +75,24 @@ CONFIG = {
         "raw_base": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/",
         "readme": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/README.md",
     },
-    "shuntrules": {
-        "label": "luestr/ShuntRules",
-        "repo": "luestr/ShuntRules",
-        "branch": "main",
-        "readme": "https://raw.githubusercontent.com/luestr/ShuntRules/main/README.md",
-        "base_url": "https://rule.kelee.one/Loon/",
-        "ext": ".lsr",
-        "out": "Rules/ShuntRules",
-        "fallback_label": "blackmatrix7/ios_rule_script",
-        "fallback_base": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/",
-        # ShuntRules 的合并来源：三个文件按顺序拼接
-        "fallback_parts": ["{name}.list", "{name}_Domain.list", "{name}_Resolve.list"],
+    "blackmatrix7": {
+        "label": "blackmatrix7/ios_rule_script",
+        "repo": "blackmatrix7/ios_rule_script",
+        "branch": "master",
+        "subdir": "rule/Loon",
+        "ext": ".list",
+        "out": "Rules/blackmatrix7",
+        "listing_api": "https://api.github.com/repos/blackmatrix7/ios_rule_script/contents/rule/Loon",
+        "readme": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/README.md",
+        "raw_base": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/",
+        # 分类目录里三个文件的固定后缀，按合并顺序排列
+        "suffixes": ["", "_Domain", "_Resolve"],
     },
     "unified": {
         "label": "统一规则库",
         "out": "Rules/Unified",
         "ext": ".list",
-        "priority": ["quixoticheart", "shuntrules"],
+        "priority": ["quixoticheart", "blackmatrix7"],
         "index": "Rules/INDEX.md",
         "conflicts": "Rules/CONFLICTS.md",
         "manifest": "Rules/.sync-manifest.json",
@@ -103,9 +104,9 @@ ENV_OVERRIDES = {
     "QX_TREE_API": ("quixoticheart", "tree_api"),
     "QX_RAW_BASE": ("quixoticheart", "raw_base"),
     "QX_README": ("quixoticheart", "readme"),
-    "SHUNT_README": ("shuntrules", "readme"),
-    "SHUNT_BASE": ("shuntrules", "base_url"),
-    "BMX_RAW_BASE": ("shuntrules", "fallback_base"),
+    "BMX_LISTING_API": ("blackmatrix7", "listing_api"),
+    "BMX_RAW_BASE": ("blackmatrix7", "raw_base"),
+    "BMX_README": ("blackmatrix7", "readme"),
 }
 
 
@@ -139,9 +140,8 @@ def fetch_text(
     timeout: int = HTTP_TIMEOUT,
     retries: int = HTTP_RETRIES,
     allow_404: bool = False,
-    allow_403: bool = False,
 ) -> str | None:
-    """下载文本。allow_404/allow_403 时对应状态码返回 None 而不是抛异常。"""
+    """下载文本；allow_404 时 404 返回 None 而不是抛异常。"""
     last_error: Exception | None = None
     for attempt in range(retries):
         try:
@@ -151,13 +151,10 @@ def fetch_text(
         except urllib.error.HTTPError as exc:
             if exc.code == 404 and allow_404:
                 return None
-            if exc.code in (403, 401) and allow_403:
-                return None
             last_error = exc
             if exc.code == 429:  # 触发限流时退避更久
                 time.sleep(8 * (attempt + 1))
                 continue
-            # 其余 4xx 重试没有意义
             if 400 <= exc.code < 500 and exc.code != 408:
                 break
         except Exception as exc:  # noqa: BLE001 - 网络错误统一重试
@@ -232,17 +229,35 @@ def clean_rules(text: str) -> CleanResult:
     return result
 
 
+def clean_domain_entries(text: str) -> tuple[list[str], int]:
+    """镜像 blackmatrix7 的 _Domain.list：按整行去重，保留 . 前缀语义。"""
+    seen: set[str] = set()
+    lines: list[str] = []
+    duplicates = 0
+    normalized = text.replace("\r\n", "\n").replace("\r", "\n")
+    for raw_line in normalized.split("\n"):
+        line = raw_line.strip()
+        if not line or line.startswith(COMMENT_PREFIXES):
+            continue
+        if line in seen:
+            duplicates += 1
+            continue
+        seen.add(line)
+        lines.append(line)
+    return lines, duplicates
+
+
 def canon_category(name: str) -> str:
     """分类名归一化：忽略大小写与标点，用于跨来源对齐同名分类。"""
     return re.sub(r"[^a-z0-9]+", "", name.lower())
 
 
 def merge_rule_chunks(chunks: list[str]) -> CleanResult:
-    """合并 ShuntRules 的三个分片。
+    """合并 blackmatrix7 同一分类下的多个分片。
 
-    blackmatrix7 的 Loon 目录里，`<name>_Domain.list` 是「域名列表」而不是规则行：
-    以 `.` 开头的是后缀（对应 DOMAIN-SUFFIX），不带点的是精确域名（对应 DOMAIN）；
-    规则行则原样保留。合并时按上述口径转换，并整体去重。
+    `<name>_Domain.list` 是「域名列表」而不是规则行：以 `.` 开头的是后缀
+    （对应 DOMAIN-SUFFIX），不带点的是精确域名（对应 DOMAIN）；规则行原样保留。
+    合并时按上述口径转换，并整体去重。
     """
     result = CleanResult()
     seen: set[tuple[str, str, tuple[str, ...]]] = set()
@@ -274,7 +289,6 @@ def merge_rule_chunks(chunks: list[str]) -> CleanResult:
             result.lines.append(line)
             result.rules += 1
     return result
-
 
 
 # --------------------------------------------------------------------------
@@ -352,6 +366,7 @@ def fetch_source_quixoticheart(limit: int | None = None) -> tuple[dict, list[str
                 "name": base,
                 "path": f"{out_dir}/{fname}",
                 "text": text,
+                "lines": cleaned.lines,
                 "rules": cleaned.rules,
                 "duplicates": cleaned.duplicates,
                 "unparsed": cleaned.unparsed,
@@ -365,115 +380,140 @@ def fetch_source_quixoticheart(limit: int | None = None) -> tuple[dict, list[str
 
 
 # --------------------------------------------------------------------------
-# 来源二：luestr/ShuntRules（直连 + blackmatrix7 回退）
+# 来源二：blackmatrix7/ios_rule_script
 # --------------------------------------------------------------------------
 
 
-def list_shuntrules_names() -> list[str]:
-    readme = fetch_text(config_value("shuntrules", "readme"))
-    names: list[str] = []
-    seen: set[str] = set()
-    for match in re.finditer(r"rule\.kelee\.one/Loon/([^)\s\"'<>]+?)\.lsr", readme or ""):
-        name = match.group(1).strip()
-        if name and name not in seen:
-            seen.add(name)
-            names.append(name)
+def list_blackmatrix7_categories() -> list[str]:
+    """读取 rule/Loon 下的分类目录；API 失败时回退解析该目录的 README。"""
+    api = config_value("blackmatrix7", "listing_api")
+    try:
+        payload = fetch_text(api)
+        data = json.loads(payload)
+        names = sorted({item["name"] for item in data if item.get("type") == "dir"})
+        if names:
+            return names
+    except Exception as exc:  # noqa: BLE001
+        log(f"[blackmatrix7] API 目录读取失败，回退 README：{exc}")
+
+    readme = fetch_text(config_value("blackmatrix7", "readme"))
+    names = sorted(set(re.findall(r"rule/Loon/([^/\s)\"'<>]+)\)", readme or "")))
     if not names:
-        raise FetchError("ShuntRules：README 中未解析到任何 Loon 规则链接")
+        raise FetchError("blackmatrix7：无法从 API 或 README 取得 rule/Loon 分类列表")
     return names
 
 
-def probe_shuntrules_direct(name: str) -> bool:
-    """用第一个文件探测 rule.kelee.one 是否可直连。"""
-    base = config_value("shuntrules", "base_url").rstrip("/") + "/"
-    url = base + urllib.parse.quote(name) + ".lsr"
-    try:
-        fetch_text(url, timeout=15, retries=1)
-        return True
-    except FetchError as exc:
-        log(f"[shuntrules] 直连不可用（{exc}），改用 blackmatrix7 Loon 三件套重建")
-        return False
-
-
-def fetch_shuntrules_file(name: str, direct_ok: bool) -> tuple[str, str | None, dict]:
-    """返回 (模式, 原始文本, 细节)。模式：direct / fallback / missing。"""
-    base = config_value("shuntrules", "base_url").rstrip("/") + "/"
-    url = base + urllib.parse.quote(name) + ".lsr"
-    if direct_ok:
-        try:
-            text = fetch_text(url)
-            # 有些 CDN 会用 200 返回挑战页/错误页，解析不出规则就当作失败
-            if merge_rule_chunks([text]).rules > 0:
-                return "direct", text, {"upstream": url}
-            log(f"[shuntrules] {name} 直连内容不是有效规则，尝试回退")
-        except FetchError as exc:
-            log(f"[shuntrules] {name} 直连失败，尝试回退：{exc}")
-
-    fallback_base = config_value("shuntrules", "fallback_base").rstrip("/") + "/"
-    chunks: list[str] = []
-    used: list[str] = []
-    for pattern in CONFIG["shuntrules"]["fallback_parts"]:
-        filename = pattern.format(name=name)
-        part_url = f"{fallback_base}{urllib.parse.quote(name)}/{urllib.parse.quote(filename)}"
-        try:
-            text = fetch_text(part_url, allow_404=True)
-        except FetchError as exc:
-            log(f"[shuntrules] {name} 回退文件失败：{exc}")
-            text = None
-        if text:
-            chunks.append(text)
-            used.append(part_url)
-    if not chunks or merge_rule_chunks(chunks).rules == 0:
-        return "missing", None, {"upstream": url}
-    return "fallback", "\n".join(chunks), {"upstream": url, "fallback_files": used}
-
-
-def fetch_source_shuntrules(limit: int | None = None) -> tuple[dict, list[str], dict]:
-    names = list_shuntrules_names()
+def fetch_source_blackmatrix7(limit: int | None = None) -> tuple[dict, list[dict], list[str], dict]:
+    categories = list_blackmatrix7_categories()
     if limit:
-        names = names[:limit]
-    direct_ok = probe_shuntrules_direct(names[0])
-    log(f"[shuntrules] 待处理 {len(names)} 个文件（直连={'是' if direct_ok else '否'}）")
+        categories = categories[:limit]
+    base = config_value("blackmatrix7", "raw_base").rstrip("/") + "/"
+    suffixes = CONFIG["blackmatrix7"]["suffixes"]
+    log(f"[blackmatrix7] 待处理 {len(categories)} 个分类（每个最多 3 个 .list）")
 
-    out_dir = CONFIG["shuntrules"]["out"]
-    ext = CONFIG["shuntrules"]["ext"]
-    results: dict[str, dict] = {}
-    missing: list[str] = []
-    modes = {"direct": 0, "fallback": 0}
+    tasks: list[tuple[str, str]] = []
+    for category in categories:
+        for suffix in suffixes:
+            tasks.append((category, f"{category}{suffix}.list"))
+
+    texts: dict[str, dict[str, str]] = {category: {} for category in categories}
+    failed_categories: set[str] = set()
+
+    def work(category: str, filename: str) -> tuple[str, str, str | None]:
+        url = f"{base}{urllib.parse.quote(category)}/{urllib.parse.quote(filename)}"
+        return category, filename, fetch_text(url, allow_404=True)
 
     with ThreadPoolExecutor(max_workers=HTTP_WORKERS) as pool:
-        futures = {pool.submit(fetch_shuntrules_file, name, direct_ok): name for name in names}
+        futures = {pool.submit(work, category, filename): (category, filename) for category, filename in tasks}
         for future in as_completed(futures):
-            name = futures[future]
-            mode, text, detail = future.result()
-            if mode == "missing" or not text:
-                missing.append(name)
+            category, filename = futures[future]
+            try:
+                _, _, text = future.result()
+            except Exception as exc:  # noqa: BLE001
+                log(f"[blackmatrix7] {category}/{filename} 下载失败：{exc}")
+                failed_categories.add(category)
                 continue
-            modes[mode] += 1
-            cleaned = merge_rule_chunks([text])
-            header = [
-                f"来源: {CONFIG['shuntrules']['label']} Loon/{name}{ext}",
-                f"上游: {detail['upstream']}",
-                f"规则数: {cleaned.rules}",
-            ]
-            results[f"{name}{ext}"] = {
-                "source": "shuntrules",
-                "source_label": CONFIG["shuntrules"]["label"],
-                "name": name,
-                "path": f"{out_dir}/{name}{ext}",
-                "text": render_file(header=header, lines=cleaned.lines),
-                "rules": cleaned.rules,
-                "duplicates": cleaned.duplicates,
-                "unparsed": cleaned.unparsed,
-                "upstream": detail["upstream"],
-                "mode": mode,
-                "shards": detail.get("fallback_files", []),
+            if text and text.strip():
+                texts[category][filename] = text
+
+    missing = [category for category in categories if not texts[category]]
+    for category in sorted(failed_categories):
+        # 有网络错误的分类整组丢弃，保留上一版本，避免只写入一半分片
+        texts[category] = {}
+        if category not in missing:
+            missing.append(category)
+        log(f"[blackmatrix7] {category} 存在网络错误，本次按缺失处理并保留旧文件")
+    missing.sort()
+
+    mirror: dict[str, dict] = {}
+    unified_items: list[dict] = []
+    totals = {"rules": 0, "domain_entries": 0, "files": 0, "duplicates": 0, "unparsed": 0}
+
+    for category in categories:
+        files = texts[category]
+        if not files:
+            continue
+        parts: list[str] = []
+        for suffix in suffixes:
+            filename = f"{category}{suffix}.list"
+            if filename not in files:
+                continue
+            text = files[filename]
+            parts.append(text)
+            url = f"{base}{urllib.parse.quote(category)}/{urllib.parse.quote(filename)}"
+            if suffix == "_Domain":
+                lines, duplicates = clean_domain_entries(text)
+                kind = "domain"
+                count = len(lines)
+                label = "条目数"
+                totals["domain_entries"] += count
+            else:
+                cleaned = clean_rules(text)
+                lines = cleaned.lines
+                duplicates = cleaned.duplicates
+                kind = "rules"
+                count = cleaned.rules
+                label = "规则数"
+                totals["rules"] += count
+                totals["unparsed"] += cleaned.unparsed
+            totals["duplicates"] += duplicates
+            totals["files"] += 1
+            rendered = render_file(
+                header=[
+                    f"来源: {CONFIG['blackmatrix7']['label']} "
+                    f"{CONFIG['blackmatrix7']['subdir']}/{category}/{filename}",
+                    f"上游: {url}",
+                    f"{label}: {count}",
+                ],
+                lines=lines,
+            )
+            mirror[f"{category}/{filename}"] = {
+                "source": "blackmatrix7",
+                "source_label": CONFIG["blackmatrix7"]["label"],
+                "name": category,
+                "filename": filename,
+                "kind": kind,
+                "path": f"{CONFIG['blackmatrix7']['out']}/{category}/{filename}",
+                "text": rendered,
+                "rules": count,
+                "duplicates": duplicates,
+                "upstream": url,
+                "suffix": suffix,
             }
-    return results, missing, modes
+
+        merged = merge_rule_chunks(parts)
+        unified_items.append({"name": category, "lines": merged.lines, "count": merged.rules})
+
+    if failed_categories and len(failed_categories) > max(1, int(len(categories) * 0.2)):
+        raise FetchError(
+            f"blackmatrix7：{len(failed_categories)} / {len(categories)} 个分类网络错误，"
+            "超过 20%，保留现有文件并中止"
+        )
+    return mirror, unified_items, missing, totals
 
 
 # --------------------------------------------------------------------------
-# 文件渲染 / 写入
+# 文件渲染 / 写入 / 清理
 # --------------------------------------------------------------------------
 
 
@@ -496,6 +536,7 @@ def write_if_changed(path: Path, text: str) -> bool:
 
 
 def prune_stale(directory: Path, keep: set[str], extensions: tuple[str, ...]) -> list[str]:
+    """删除目录中不在 keep 里的文件（顶层）。"""
     removed: list[str] = []
     if not directory.is_dir():
         return removed
@@ -508,13 +549,37 @@ def prune_stale(directory: Path, keep: set[str], extensions: tuple[str, ...]) ->
     return removed
 
 
+def prune_tree(directory: Path, keep: set[str], extensions: tuple[str, ...]) -> list[str]:
+    """删除目录树中不在 keep（相对路径）里的文件，并清理空目录。"""
+    removed: list[str] = []
+    if not directory.is_dir():
+        return removed
+    for path in sorted(directory.rglob("*")):
+        if not path.is_file() or path.suffix not in extensions:
+            continue
+        rel = path.relative_to(directory).as_posix()
+        if rel not in keep:
+            path.unlink()
+            removed.append(str(path))
+    for sub in sorted((p for p in directory.rglob("*") if p.is_dir()), key=lambda p: len(p.parts), reverse=True):
+        try:
+            if not any(sub.iterdir()):
+                sub.rmdir()
+        except OSError:
+            pass
+    return removed
+
+
 # --------------------------------------------------------------------------
 # 统一规则库
 # --------------------------------------------------------------------------
 
 
-def build_unified(entries: dict[str, dict], priority: list[str]) -> tuple[dict[str, dict], dict]:
-    """按归一化分类名合并多个来源，来源一优先。"""
+def build_unified(source_items: dict[str, list[dict]], priority: list[str]) -> tuple[dict[str, dict], dict]:
+    """按归一化分类名合并多个来源，来源一优先。
+
+    source_items[source] = [{"name": 分类名, "lines": [规则行, ...]}, ...]
+    """
     by_category: "OrderedDict[str, dict]" = OrderedDict()
     stats = {
         "duplicates_across_sources": 0,
@@ -523,9 +588,9 @@ def build_unified(entries: dict[str, dict], priority: list[str]) -> tuple[dict[s
     }
 
     for source in priority:
-        source_files = [item for item in entries.values() if item["source"] == source]
-        stats["source_files"][source] = len(source_files)
-        for item in sorted(source_files, key=lambda entry: entry["name"].lower()):
+        items = source_items.get(source, [])
+        stats["source_files"][source] = len(items)
+        for item in sorted(items, key=lambda entry: entry["name"].lower()):
             key = canon_category(item["name"])
             category = by_category.setdefault(
                 key,
@@ -539,7 +604,7 @@ def build_unified(entries: dict[str, dict], priority: list[str]) -> tuple[dict[s
                 },
             )
             category["origin"][source] = item["name"]
-            for line in clean_rules(item["text"]).lines:
+            for line in item["lines"]:
                 parsed = parse_rule(line)
                 if parsed is None:
                     continue
@@ -602,8 +667,12 @@ def import_link(url: str) -> str:
     return "https://www.nsloon.com/openloon/import?rules=" + urllib.parse.quote(url, safe="")
 
 
-def build_index(qx: dict, shunt: dict, unified: dict, totals: dict) -> str:
+def build_index(qx: dict, bmx: dict, unified: dict, totals: dict) -> str:
     repo, branch = "moyuzaime/LoonRules", "main"
+    categories: dict[str, dict[str, dict]] = {}
+    for key, item in bmx.items():
+        categories.setdefault(item["name"], {})[item["filename"]] = item
+
     lines = [
         "# Loon 规则索引",
         "",
@@ -615,7 +684,8 @@ def build_index(qx: dict, shunt: dict, unified: dict, totals: dict) -> str:
         "| 目录 | 规则集 | 规则条数 |",
         "| --- | ---: | ---: |",
         f"| `Rules/QuixoticHeart` | {len(qx)} | {totals['quixoticheart']} |",
-        f"| `Rules/ShuntRules` | {len(shunt)} | {totals['shuntrules']} |",
+        f"| `Rules/blackmatrix7` | {len(categories)} 个分类 / {len(bmx)} 个文件 | "
+        f"{totals['blackmatrix7']} 条 + {totals['blackmatrix7_domain']} 域名 |",
         f"| `Rules/Unified` | {len(unified)} | {totals['unified']} |",
         "",
         "## 统一规则库",
@@ -633,25 +703,45 @@ def build_index(qx: dict, shunt: dict, unified: dict, totals: dict) -> str:
             f"| {index} | `{item['name']}` | {item['rules']} | {origins} | [导入]({import_link(url)}) |"
         )
 
-    def mirror_section(title: str, entries: dict, folder: str, ext: str) -> list[str]:
-        section = [
-            "",
-            f"## 来源镜像 · {title}",
-            "",
-            "| # | 文件 | 规则数 | 一键导入 |",
-            "| ---: | --- | ---: | --- |",
-        ]
-        for index, key in enumerate(sorted(entries, key=str.lower), start=1):
-            item = entries[key]
-            url = raw_url(repo, branch, item["path"])
-            section.append(
-                f"| {index} | [`{item['name']}{ext}`]({folder}/{item['name']}{ext}) | {item['rules']} | "
-                f"[导入]({import_link(url)}) |"
-            )
-        return section
+    lines += [
+        "",
+        f"## 来源镜像 · {CONFIG['quixoticheart']['label']}",
+        "",
+        "| # | 文件 | 规则数 | 一键导入 |",
+        "| ---: | --- | ---: | --- |",
+    ]
+    for index, key in enumerate(sorted(qx, key=str.lower), start=1):
+        item = qx[key]
+        url = raw_url(repo, branch, item["path"])
+        lines.append(
+            f"| {index} | [`{item['name']}.list`](QuixoticHeart/{item['name']}.list) | {item['rules']} | "
+            f"[导入]({import_link(url)}) |"
+        )
 
-    lines += mirror_section(CONFIG["quixoticheart"]["label"], qx, "QuixoticHeart", ".list")
-    lines += mirror_section(CONFIG["shuntrules"]["label"], shunt, "ShuntRules", ".lsr")
+    lines += [
+        "",
+        f"## 来源镜像 · {CONFIG['blackmatrix7']['label']}",
+        "",
+        "每个分类最多三个文件：`.list`（规则）、`_Domain.list`（域名列表）、`_Resolve.list`"
+        "（与 `.list` 相同、IP 规则不带 no-resolve）。",
+        "",
+        "| # | 分类 | 文件 | 条目 | 一键导入 |",
+        "| ---: | --- | --- | ---: | --- |",
+    ]
+    for index, category in enumerate(sorted(categories, key=str.lower), start=1):
+        files = categories[category]
+        file_links = []
+        import_links = []
+        total = 0
+        for filename in sorted(files, key=lambda name: (name != f"{category}.list", name)):
+            item = files[filename]
+            total += item["rules"]
+            file_links.append(f"[{filename}](blackmatrix7/{category}/{filename})")
+            import_links.append(f"[{filename}]({import_link(raw_url(repo, branch, item['path']))})")
+        lines.append(
+            f"| {index} | `{category}` | {' · '.join(file_links)} | {total} | {' · '.join(import_links)} |"
+        )
+
     lines.append("")
     return "\n".join(lines)
 
@@ -659,9 +749,9 @@ def build_index(qx: dict, shunt: dict, unified: dict, totals: dict) -> str:
 def build_conflicts(
     unified_stats: dict,
     qx_stats: dict,
-    shunt_stats: dict,
-    missing: list[str],
+    bmx_stats: dict,
     qx_failed: list[str],
+    missing: list[str],
 ) -> str:
     lines = [
         "# 冲突与去重报告",
@@ -673,13 +763,13 @@ def build_conflicts(
         "| 项目 | 数量 |",
         "| --- | ---: |",
         f"| 来源一文件内去重 | {qx_stats['duplicates']} |",
-        f"| 来源二文件内去重 | {shunt_stats['duplicates']} |",
+        f"| 来源二文件内去重 | {bmx_stats['duplicates']} |",
         f"| 来源一无法解析的行 | {qx_stats['unparsed']} |",
-        f"| 来源二无法解析的行 | {shunt_stats['unparsed']} |",
+        f"| 来源二无法解析的行 | {bmx_stats['unparsed']} |",
         f"| 统一库跨来源重复（保留来源一） | {unified_stats['duplicates_across_sources']} |",
         f"| 统一库跨来源类型冲突 | {len(unified_stats['conflicts'])} |",
         f"| 来源一下载失败文件 | {len(qx_failed)} |",
-        f"| 来源二下载失败文件 | {len(missing)} |",
+        f"| 来源二缺失分类 | {len(missing)} |",
         "",
     ]
     if unified_stats["conflicts"]:
@@ -713,9 +803,9 @@ def build_conflicts(
         lines.append("")
     if missing:
         lines += [
-            "## 来源二下载失败",
+            "## 来源二缺失分类",
             "",
-            "以下规则集在直连与 blackmatrix7 回退中均未取到，已保留上一版本文件：",
+            "以下分类在 rule/Loon 下存在，但三个 .list 都未取到（已保留上一版本文件）：",
             "",
         ]
         lines += [f"- `{name}`" for name in missing[:300]]
@@ -727,11 +817,11 @@ def build_conflicts(
 
 def build_manifest(
     qx: dict,
-    shunt: dict,
+    bmx: dict,
     unified: dict,
-    missing: list[str],
     qx_failed: list[str],
-    modes: dict,
+    missing: list[str],
+    totals: dict,
 ) -> str:
     def file_fingerprint(item: dict) -> dict:
         data = item["text"].encode("utf-8")
@@ -739,12 +829,12 @@ def build_manifest(
             "path": item["path"],
             "source": item["source"],
             "name": item["name"],
+            "filename": item.get("filename", ""),
+            "kind": item.get("kind", "rules"),
             "rules": item["rules"],
             "bytes": len(data),
             "sha256": hashlib.sha256(data).hexdigest(),
             "upstream": item.get("upstream", ""),
-            "mode": item.get("mode", "mirror"),
-            "shards": item.get("shards", []),
         }
 
     payload = {
@@ -756,19 +846,20 @@ def build_manifest(
                 "files": len(qx),
                 "failed": sorted(qx_failed),
             },
-            "shuntrules": {
-                "repo": CONFIG["shuntrules"]["repo"],
-                "branch": CONFIG["shuntrules"]["branch"],
-                "files": len(shunt),
-                "direct": modes.get("direct", 0),
-                "fallback": modes.get("fallback", 0),
+            "blackmatrix7": {
+                "repo": CONFIG["blackmatrix7"]["repo"],
+                "branch": CONFIG["blackmatrix7"]["branch"],
+                "categories": len({item["name"] for item in bmx.values()}),
+                "files": len(bmx),
+                "rules": totals["blackmatrix7"],
+                "domain_entries": totals["blackmatrix7_domain"],
                 "missing": sorted(missing),
             },
         },
         "files": [
             file_fingerprint(item)
             for item in sorted(qx.values(), key=lambda entry: entry["path"])
-            + sorted(shunt.values(), key=lambda entry: entry["path"])
+            + sorted(bmx.values(), key=lambda entry: entry["path"])
         ],
         "unified": [
             {
@@ -796,53 +887,58 @@ def log(message: str) -> None:
 def sync(repo_root: Path, *, limit: int | None = None, dry_run: bool = False) -> dict:
     started = time.time()
     qx, qx_failed = fetch_source_quixoticheart(limit=limit)
-    shunt, missing, modes = fetch_source_shuntrules(limit=limit)
+    bmx, bmx_items, bmx_missing, bmx_totals = fetch_source_blackmatrix7(limit=limit)
 
     if limit is None:
         # 防御：来源异常大面积失败时不要删除已有文件
-        if len(shunt) == 0:
-            raise FetchError("ShuntRules：没有任何文件下载成功，保留现有文件并中止")
-        if missing and len(missing) > len(shunt) * 0.2:
-            raise FetchError(
-                f"ShuntRules：失败 {len(missing)} / 成功 {len(shunt)}，超过 20%，"
-                "为避免误删保留现有文件并中止"
-            )
         if len(qx) == 0:
             raise FetchError("QuixoticHeart：没有任何文件下载成功，保留现有文件并中止")
+        if len(bmx) == 0:
+            raise FetchError("blackmatrix7：没有任何文件下载成功，保留现有文件并中止")
+        if bmx_missing and len(bmx_missing) > len({item["name"] for item in bmx.values()}) * 0.2:
+            raise FetchError(
+                f"blackmatrix7：缺失 {len(bmx_missing)} 个分类，超过 20%，"
+                "为避免误删保留现有文件并中止"
+            )
 
-    unified, unified_stats = build_unified(
-        {**qx, **shunt}, CONFIG["unified"]["priority"]
-    )
+    source_items = {
+        "quixoticheart": [
+            {"name": item["name"], "lines": item["lines"]} for item in qx.values()
+        ],
+        "blackmatrix7": bmx_items,
+    }
+    unified, unified_stats = build_unified(source_items, CONFIG["unified"]["priority"])
 
     totals = {
         "quixoticheart": sum(item["rules"] for item in qx.values()),
-        "shuntrules": sum(item["rules"] for item in shunt.values()),
+        "blackmatrix7": bmx_totals["rules"],
+        "blackmatrix7_domain": bmx_totals["domain_entries"],
         "unified": sum(item["rules"] for item in unified.values()),
     }
     qx_dupes = sum(item.get("duplicates", 0) for item in qx.values())
-    shunt_dupes = sum(item.get("duplicates", 0) for item in shunt.values())
     qx_unparsed = sum(item.get("unparsed", 0) for item in qx.values())
-    shunt_unparsed = sum(item.get("unparsed", 0) for item in shunt.values())
+    bmx_dupes = bmx_totals["duplicates"]
+    bmx_unparsed = bmx_totals["unparsed"]
 
-    index_text = build_index(qx, shunt, unified, totals)
+    index_text = build_index(qx, bmx, unified, totals)
     conflicts_text = build_conflicts(
         unified_stats,
         {"duplicates": qx_dupes, "unparsed": qx_unparsed},
-        {"duplicates": shunt_dupes, "unparsed": shunt_unparsed},
-        missing,
+        {"duplicates": bmx_dupes, "unparsed": bmx_unparsed},
         qx_failed,
+        bmx_missing,
     )
-    manifest_text = build_manifest(qx, shunt, unified, missing, qx_failed, modes)
+    manifest_text = build_manifest(qx, bmx, unified, qx_failed, bmx_missing, totals)
 
     summary = {
         "quixoticheart_files": len(qx),
         "quixoticheart_rules": totals["quixoticheart"],
         "quixoticheart_failed": len(qx_failed),
-        "shuntrules_files": len(shunt),
-        "shuntrules_rules": totals["shuntrules"],
-        "shuntrules_direct": modes.get("direct", 0),
-        "shuntrules_fallback": modes.get("fallback", 0),
-        "shuntrules_missing": len(missing),
+        "blackmatrix7_categories": len({item["name"] for item in bmx.values()}),
+        "blackmatrix7_files": len(bmx),
+        "blackmatrix7_rules": totals["blackmatrix7"],
+        "blackmatrix7_domain_entries": totals["blackmatrix7_domain"],
+        "blackmatrix7_missing": len(bmx_missing),
         "unified_categories": len(unified),
         "unified_rules": totals["unified"],
         "conflicts": len(unified_stats["conflicts"]),
@@ -855,36 +951,29 @@ def sync(repo_root: Path, *, limit: int | None = None, dry_run: bool = False) ->
 
     changed: list[str] = []
     for item in qx.values():
-        path = repo_root / item["path"]
-        if write_if_changed(path, item["text"]):
+        if write_if_changed(repo_root / item["path"], item["text"]):
             changed.append(item["path"])
-    for item in shunt.values():
-        path = repo_root / item["path"]
-        if write_if_changed(path, item["text"]):
+    for item in bmx.values():
+        if write_if_changed(repo_root / item["path"], item["text"]):
             changed.append(item["path"])
     for item in unified.values():
-        path = repo_root / item["path"]
-        if write_if_changed(path, item["text"]):
+        if write_if_changed(repo_root / item["path"], item["text"]):
             changed.append(item["path"])
 
-    # 清理上游已删除的规则集（仅清理本次成功覆盖的目录；
-    # --limit 调试模式或有文件下载失败时不做删除，避免误删）
+    # 清理上游已删除的规则集（--limit 调试模式或有失败时不做删除，避免误删）
     if limit is None:
-        for subsection, entries, ext, source in (
-            ("quixoticheart", qx, ".list", "quixoticheart"),
-            ("shuntrules", shunt, ".lsr", "shuntrules"),
-            ("unified", unified, CONFIG["unified"]["ext"], "unified"),
-        ):
-            if source == "unified" and (missing or qx_failed):
-                continue
-            directory = repo_root / CONFIG[subsection]["out"]
-            keep = set(entries)
-            if source == "shuntrules":
-                keep |= {f"{name}{ext}" for name in missing}
-            elif source == "quixoticheart":
-                keep |= set(qx_failed)
-            for removed in prune_stale(directory, keep, (ext,)):
-                changed.append(os.path.relpath(removed, repo_root))
+        removed = prune_stale(repo_root / CONFIG["quixoticheart"]["out"], set(qx), (".list",))
+        if not bmx_missing:
+            removed += prune_tree(
+                repo_root / CONFIG["blackmatrix7"]["out"], set(bmx), (".list",)
+            )
+        if not bmx_missing and not qx_failed:
+            removed += prune_stale(
+                repo_root / CONFIG["unified"]["out"],
+                set(unified),
+                (CONFIG["unified"]["ext"],),
+            )
+        changed.extend(os.path.relpath(path, repo_root) for path in removed)
 
     for rel_path, text in (
         (CONFIG["unified"]["index"], index_text),
@@ -899,9 +988,9 @@ def sync(repo_root: Path, *, limit: int | None = None, dry_run: bool = False) ->
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="整合 QuixoticHeart/ShuntRules 的 Loon 规则")
+    parser = argparse.ArgumentParser(description="整合 QuixoticHeart 与 blackmatrix7 的 Loon 规则")
     parser.add_argument("--repo-root", default=str(Path(__file__).resolve().parent.parent))
-    parser.add_argument("--limit", type=int, default=None, help="只处理前 N 个文件（调试用）")
+    parser.add_argument("--limit", type=int, default=None, help="只处理前 N 个文件/分类（调试用）")
     parser.add_argument("--dry-run", action="store_true", help="只抓取统计，不写文件")
     parser.add_argument("--summary-out", default=None, help="把 JSON 统计写到该路径")
     args = parser.parse_args(argv)

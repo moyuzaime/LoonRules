@@ -37,12 +37,12 @@
 | 目录 | 内容 | 生成方式 |
 | --- | --- | --- |
 | `Rules/QuixoticHeart/` | [QuixoticHeart/rule-set](https://github.com/QuixoticHeart/rule-set/tree/ruleset) 的 `loon/` 规则镜像（约 52 个） | GitHub Actions 每天 08:00（北京时间） |
-| `Rules/ShuntRules/` | [luestr/ShuntRules](https://github.com/luestr/ShuntRules) 的 668 个 Loon 规则镜像 | 同上；直连被拦截时用 blackmatrix7 的 Loon 三件套重建 |
+| `Rules/blackmatrix7/` | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon) 的 `rule/Loon/` 分类镜像（668 个分类，保留上游目录与文件名） | 同上 |
 | `Rules/Unified/` | 两个来源按分类合并去重后的统一规则库 | 同上 |
 
 - 只提取 Loon 规则，不处理 Surge / Clash / Shadowrocket / Quantumult X / Egern / sing-box。
 - 同一分类在两个来源都有时合并为一份：重复规则保留来源一，同域名类型冲突记入 `Rules/CONFLICTS.md`。
-- 想要上游原始粒度，订阅 `Rules/QuixoticHeart/` 或 `Rules/ShuntRules/`；想要合并结果，订阅 `Rules/Unified/`。
+- 想要上游原始粒度，订阅 `Rules/QuixoticHeart/*.list` 或 `Rules/blackmatrix7/<分类>/<分类>.list`（按上游建议与 `_Domain.list` 配合使用）；想要合并结果，订阅 `Rules/Unified/`。
 - `Rules/` 由 `scripts/sync.py` 生成，手工修改会在下次同步时被覆盖；`Custom/` 仍用于你自己的规则。
 
 ## 规则写法示例

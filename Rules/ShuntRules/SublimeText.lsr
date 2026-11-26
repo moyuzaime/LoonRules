@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/SublimeText.lsr
-# 上游: https://rule.kelee.one/Loon/SublimeText.lsr
-# 规则数: 4
-DOMAIN-SUFFIX,packagecontrol.io
-DOMAIN-SUFFIX,sublimehq.com
-DOMAIN-SUFFIX,sublimemerge.com
-DOMAIN-SUFFIX,sublimetext.com

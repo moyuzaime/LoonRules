@@ -1,8 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Clubhouse.lsr
-# 上游: https://rule.kelee.one/Loon/Clubhouse.lsr
-# 规则数: 5
-DOMAIN,clubhouse.pubnub.com
-DOMAIN,clubhouseprod.s3.amazonaws.com
-DOMAIN-SUFFIX,clubhouse.com
-DOMAIN-SUFFIX,clubhouseapi.com
-DOMAIN-SUFFIX,joinclubhouse.com

@@ -1,9 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Python.lsr
-# 上游: https://rule.kelee.one/Loon/Python.lsr
-# 规则数: 6
-DOMAIN-SUFFIX,pycon.org
-DOMAIN-SUFFIX,pypa.io
-DOMAIN-SUFFIX,pypi.io
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,python.org
-DOMAIN-SUFFIX,pythonhosted.org

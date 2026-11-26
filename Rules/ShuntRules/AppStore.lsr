@@ -1,5 +1,0 @@
-# 来源: luestr/ShuntRules Loon/AppStore.lsr
-# 上游: https://rule.kelee.one/Loon/AppStore.lsr
-# 规则数: 2
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com

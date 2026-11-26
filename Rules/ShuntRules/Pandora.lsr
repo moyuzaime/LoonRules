@@ -1,6 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Pandora.lsr
-# 上游: https://rule.kelee.one/Loon/Pandora.lsr
-# 规则数: 3
-DOMAIN-SUFFIX,p-cdn.us
-DOMAIN-SUFFIX,pandora.com
-USER-AGENT,Pandora*

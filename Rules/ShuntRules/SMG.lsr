@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/SMG.lsr
-# 上游: https://rule.kelee.one/Loon/SMG.lsr
-# 规则数: 4
-DOMAIN-SUFFIX,cptn.tv
-DOMAIN-SUFFIX,sava.sh.cn
-DOMAIN-SUFFIX,smg.cn
-DOMAIN-SUFFIX,smg.sh.cn

@@ -2,7 +2,7 @@ name: Sync Loon rules
 
 # 每天 08:00（北京时间）自动整合两个来源的 Loon 规则：
 #   - QuixoticHeart/rule-set（ruleset 分支 loon/）
-#   - luestr/ShuntRules（rule.kelee.one/Loon/*.lsr，失败时用 blackmatrix7 三件套重建）
+#   - blackmatrix7/ios_rule_script（master 分支 rule/Loon/，按分类目录镜像）
 # 只有内容变化时才会提交，避免空提交刷历史。
 on:
   schedule:
@@ -81,7 +81,7 @@ jobs:
           print(
               "chore(rules): 自动同步 Loon 规则"
               f"（统一库 {s['unified_categories']} 类 / {s['unified_rules']} 条；"
-              f"来源一 {s['quixoticheart_files']} 个，来源二 {s['shuntrules_files']} 个，"
+              f"来源一 {s['quixoticheart_files']} 个，来源二 {s['blackmatrix7_categories']} 类，"
               f"冲突 {s['conflicts']}）"
           )
           PY

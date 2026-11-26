@@ -1,8 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Olevod.lsr
-# 上游: https://rule.kelee.one/Loon/Olevod.lsr
-# 规则数: 5
-DOMAIN-SUFFIX,haiwaikan.com
-DOMAIN-SUFFIX,iole.tv
-DOMAIN-SUFFIX,olehd.com
-DOMAIN-SUFFIX,olelive.com
-DOMAIN-KEYWORD,olevod

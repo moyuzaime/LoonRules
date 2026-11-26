@@ -114,8 +114,8 @@ MITM 需要的域名：`huangguo.video`、`huangguoai.com`、`2048ai.vip`。
 
 | 目录 | 来源 | 说明 |
 | --- | --- | --- |
-| `Rules/QuixoticHeart/` | QuixoticHeart/rule-set（ruleset 分支 `loon/`） | 约 52 个规则集镜像 |
-| `Rules/ShuntRules/` | luestr/ShuntRules（`rule.kelee.one/Loon/*.lsr`） | 668 个规则集；直连被拦截时用 blackmatrix7 Loon 三件套重建 |
+| `Rules/QuixoticHeart/` | QuixoticHeart/rule-set（`ruleset` 分支 `loon/`） | 约 52 个规则集镜像 |
+| `Rules/blackmatrix7/` | blackmatrix7/ios_rule_script（`master` 分支 `rule/Loon/`） | 668 个分类，保留上游目录与文件名（`.list` / `_Domain.list` / `_Resolve.list`） |
 | `Rules/Unified/` | 上述两个来源 | 按分类合并去重，来源一优先；冲突见 `Rules/CONFLICTS.md` |
 | `Rules/INDEX.md` | — | 自动生成的索引与一键导入链接 |
 

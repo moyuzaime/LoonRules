@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/FOXNOW.lsr
-# 上游: https://rule.kelee.one/Loon/FOXNOW.lsr
-# 规则数: 4
-DOMAIN-SUFFIX,fox.com
-DOMAIN-SUFFIX,foxdcg.com
-DOMAIN-SUFFIX,uplynk.com
-USER-AGENT,FOX%20NOW*

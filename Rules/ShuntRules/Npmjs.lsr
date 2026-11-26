@@ -1,6 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Npmjs.lsr
-# 上游: https://rule.kelee.one/Loon/Npmjs.lsr
-# 规则数: 3
-DOMAIN-SUFFIX,npm.community
-DOMAIN-SUFFIX,npmjs.com
-DOMAIN-SUFFIX,npmjs.org

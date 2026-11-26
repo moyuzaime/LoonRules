@@ -1,9 +1,0 @@
-# 来源: luestr/ShuntRules Loon/iCloudPrivateRelay.lsr
-# 上游: https://rule.kelee.one/Loon/iCloudPrivateRelay.lsr
-# 规则数: 6
-DOMAIN,mask-api.fe.apple-dns.net
-DOMAIN,mask-api.icloud.com
-DOMAIN,mask-t.apple-dns.net
-DOMAIN,mask.apple-dns.net
-DOMAIN-SUFFIX,mask-h2.icloud.com
-DOMAIN-SUFFIX,mask.icloud.com

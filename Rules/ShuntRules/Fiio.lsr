@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Fiio.lsr
-# 上游: https://rule.kelee.one/Loon/Fiio.lsr
-# 规则数: 4
-DOMAIN-SUFFIX,fiio.cn
-DOMAIN-SUFFIX,fiio.com
-DOMAIN-SUFFIX,fiio.com.cn
-DOMAIN-SUFFIX,fiio.net

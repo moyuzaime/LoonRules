@@ -1,9 +1,0 @@
-# 来源: luestr/ShuntRules Loon/HuaShuTV.lsr
-# 上游: https://rule.kelee.one/Loon/HuaShuTV.lsr
-# 规则数: 6
-DOMAIN-SUFFIX,hzcnc.com
-DOMAIN-SUFFIX,hzdtv.tv
-DOMAIN-SUFFIX,hzman.net
-DOMAIN-SUFFIX,wasu.cn
-DOMAIN-SUFFIX,wasu.tv
-DOMAIN-SUFFIX,wasumedia.cn

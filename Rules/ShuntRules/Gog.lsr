@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Gog.lsr
-# 上游: https://rule.kelee.one/Loon/Gog.lsr
-# 规则数: 4
-DOMAIN,gog.salesmanago.com
-DOMAIN-SUFFIX,gog-statics.com
-DOMAIN-SUFFIX,gog.com
-DOMAIN-SUFFIX,gog.qtlglb.com

@@ -1,8 +1,0 @@
-# 来源: luestr/ShuntRules Loon/8btc.lsr
-# 上游: https://rule.kelee.one/Loon/8btc.lsr
-# 规则数: 5
-DOMAIN-SUFFIX,8btc.com
-DOMAIN-SUFFIX,bystack.com
-DOMAIN-SUFFIX,chainnode.com
-DOMAIN-SUFFIX,matpool.com
-DOMAIN-SUFFIX,matpool.net

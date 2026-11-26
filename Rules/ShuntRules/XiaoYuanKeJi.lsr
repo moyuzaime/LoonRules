@@ -1,8 +1,0 @@
-# 来源: luestr/ShuntRules Loon/XiaoYuanKeJi.lsr
-# 上游: https://rule.kelee.one/Loon/XiaoYuanKeJi.lsr
-# 规则数: 5
-DOMAIN-SUFFIX,10010mx.com
-DOMAIN-SUFFIX,5gimos.com
-DOMAIN-SUFFIX,bizport.cn
-DOMAIN-SUFFIX,mfexcel.com
-DOMAIN-SUFFIX,microfountain.com

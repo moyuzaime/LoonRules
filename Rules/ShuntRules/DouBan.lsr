@@ -1,6 +1,0 @@
-# 来源: luestr/ShuntRules Loon/DouBan.lsr
-# 上游: https://rule.kelee.one/Loon/DouBan.lsr
-# 规则数: 3
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,douban.fm
-DOMAIN-SUFFIX,doubanio.com

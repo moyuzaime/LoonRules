@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/VipShop.lsr
-# 上游: https://rule.kelee.one/Loon/VipShop.lsr
-# 规则数: 4
-DOMAIN-SUFFIX,appsimg.com
-DOMAIN-SUFFIX,appvipshop.com
-DOMAIN-SUFFIX,vip.com
-DOMAIN-SUFFIX,vipstatic.com

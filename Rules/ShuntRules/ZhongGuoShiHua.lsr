@@ -1,8 +1,0 @@
-# 来源: luestr/ShuntRules Loon/ZhongGuoShiHua.lsr
-# 上游: https://rule.kelee.one/Loon/ZhongGuoShiHua.lsr
-# 规则数: 5
-DOMAIN-SUFFIX,sinopec-usa.com
-DOMAIN-SUFFIX,sinopec.com
-DOMAIN-SUFFIX,sinopecgroup.com
-DOMAIN-SUFFIX,sinopecnews.com.cn
-DOMAIN-SUFFIX,sinopecsales.com

@@ -1,6 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Atomdata.lsr
-# 上游: https://rule.kelee.one/Loon/Atomdata.lsr
-# 规则数: 3
-DOMAIN-SUFFIX,analytics-data.io
-DOMAIN-SUFFIX,atom-data.io
-DOMAIN-SUFFIX,ironbeast.io

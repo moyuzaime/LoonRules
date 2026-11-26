@@ -9,59 +9,71 @@
 | 简称 | 上游 | 取用范围 | 许可 |
 | --- | --- | --- | --- |
 | 来源一 | [QuixoticHeart/rule-set](https://github.com/QuixoticHeart/rule-set/tree/ruleset) | `ruleset` 分支 `loon/` 目录，约 52 个 `.list` | GPL-3.0 |
-| 来源二 | [luestr/ShuntRules](https://github.com/luestr/ShuntRules) | README 目录表中的 668 个 Loon 规则（`https://rule.kelee.one/Loon/<name>.lsr`） | 仓库无 LICENSE 文件；数据来自 [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)（GPL-2.0） |
+| 来源二 | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon) | `master` 分支 `rule/Loon/` 下 668 个分类目录中的 `.list` 文件 | GPL-2.0 |
 
 只提取 Loon 规则：来源一里 Surge / Clash / Shadowrocket / Quantumult X / Egern / sing-box 等
-目录一律忽略；来源二只解析 README 中「Loon 规则」列（`.../Loon/*.lsr`），Clash 列不处理。
+目录一律忽略；来源二只取 `rule/Loon/`（其他工具的 `rule/` 子目录不处理）。
 
 ## 2. 目录结构
 
 ```text
 Rules/
-├── QuixoticHeart/            # 来源一镜像，保留上游文件名，如 abema.list
-├── ShuntRules/               # 来源二镜像，保留 .lsr 后缀，如 Apple.lsr
-├── Unified/                  # 统一规则库：同名分类合并去重，来源一优先
-│   ├── abema.list            # 同一分类在两来源都有时命名取来源一
-│   └── Apple.list            # 仅来源二有的分类直接收录
-├── INDEX.md                  # 自动生成的索引 + 一键导入链接
-├── CONFLICTS.md              # 去重统计与跨来源类型冲突
-└── .sync-manifest.json       # 机器可读清单（路径/条数/字节数/sha256/上游地址）
+├── QuixoticHeart/                    # 来源一镜像，保留上游文件名
+│   └── abema.list
+├── blackmatrix7/                     # 来源二镜像，保留上游目录与文件名
+│   └── Apple/
+│       ├── Apple.list                # 规则（DOMAIN-KEYWORD / USER-AGENT / IP-CIDR 等）
+│       ├── Apple_Domain.list         # 域名列表（.example.com = 后缀，example.com = 精确）
+│       └── Apple_Resolve.list        # 与 Apple.list 相同，但 IP 规则不带 no-resolve
+├── Unified/                          # 统一规则库：同名分类合并去重，来源一优先
+│   ├── abema.list
+│   └── Apple.list
+├── INDEX.md                          # 自动生成的索引 + 一键导入链接
+├── CONFLICTS.md                      # 去重统计、跨来源类型冲突、失败清单
+└── .sync-manifest.json               # 机器可读清单（路径/条数/字节/sha256/上游地址）
 ```
 
 命名规则：
 
-- 镜像目录严格沿用上游文件名（来源一 `.list`，来源二 `.lsr`），方便和上游对照、便于 `git diff` 溯源。
+- 镜像目录严格沿用上游目录与文件名，方便和上游对照、便于 `git diff` 溯源。
 - 统一库按「分类」出文件；分类名归一化后（忽略大小写与标点）相同的规则集会合并，
-  例如 `abema` 与 `Abema` 合并为 `Rules/Unified/abema.list`。
-- 每个生成文件顶部有静态注释头（来源、上游地址、规则数），不含时间戳，所以规则没变时文件字节不变。
+  例如来源一的 `apple` 与来源二的 `Apple` 合并为 `Rules/Unified/apple.list`。
+- 每个生成文件顶部有静态注释头（来源、上游地址、规则数），**不含时间戳**，
+  所以规则没变时文件字节不变，不会产生空提交。
 
-## 3. 抓取与回退
+## 3. 抓取与归一化
 
 ```text
 来源一：GitHub API 读取 ruleset 分支 loon/ 文件树
         └─ API 失败 → 解析 ruleset 分支 README 里的 loon 链接
         └─ 逐个 raw 下载
 
-来源二：解析 README 目录表得到 668 个名字
-        ├─ 探测 rule.kelee.one：可直连 → 下载 <name>.lsr
-        └─ 被 Cloudflare 拦截（403/挑战页）→ 回退重建：
-              <name>.list + <name>_Domain.list + <name>_Resolve.list
-              （blackmatrix7 的 Loon 三件套，按该顺序合并去重）
+来源二：GitHub API 读取 rule/Loon/ 下的分类目录
+        └─ API 失败 → 解析 rule/Loon/README.md 里的分类链接
+        └─ 每个分类固定尝试三个文件（404 视为不存在）：
+              <Category>.list
+              <Category>_Domain.list
+              <Category>_Resolve.list
 ```
 
-回退重建的依据：ShuntRules 自己的说明是「把 `Apple.list`、`Apple_Domain.list`、
-`Apple_Resolve.list` 合并为 `Apple.lsr`」。回退时按同样口径合并，因此匹配语义一致；
-文件头会注明本次是直连还是回退、用了哪些分片。
+镜像与统一库对 `_Domain.list` 的处理不同，这是刻意的：
+
+- **镜像**（`Rules/blackmatrix7/Apple/Apple_Domain.list`）保留原始写法（`.example.com`），
+  它本身就是 Loon 的 DOMAIN-SET 资源，可直接单独订阅；
+- **统一库**把 `.example.com` 转成 `DOMAIN-SUFFIX,example.com`、裸域转成 `DOMAIN,example.com`，
+  再按 `<Category>.list` → `_Domain.list` → `_Resolve.list` 的顺序合并去重。
 
 ## 4. 去重、冲突与保护
 
-- **文件内**：完全相同的 `(规则类型, 值, 参数)` 只保留第一次出现，顺序不变。
-- **统一库**：先来源一、后来源二逐条合入；重复项保留来源一（`CONFIG['unified']['priority']` 可调整）。
+- **文件内**：完全相同的 `(规则类型, 值, 参数)` 只保留第一次出现，顺序不变；
+  域名列表文件按整行去重。
+- **统一库**：先来源一、后来源二逐条合入；重复项保留来源一
+  （`CONFIG['unified']['priority']` 可调整）。
 - **类型冲突**：同一域名在两个来源里类型不同（如 `DOMAIN` 与 `DOMAIN-SUFFIX`）时，
   统一库保留来源一的写法，并把冲突写入 `Rules/CONFLICTS.md`。
-- **防误删**：来源二失败超过 20%、或任一来源整体失败时，脚本直接中止且不写文件，保留上一版本；
-  `--limit` 调试模式也不做删除。
-- **上游删除**：上游确实下架的规则集会被清理；下载失败的名字会保留旧文件。
+- **防误删**：分类整体失败（三个文件都取不到或网络错误）、或失败超过 20% 时，
+  脚本中止且不写文件；`--limit` 调试模式也不做删除。
+- **上游删除**：上游确实下架的规则集/分类会被清理；失败的名字会保留旧文件。
 
 ## 5. 定时任务
 
@@ -87,7 +99,7 @@ python scripts/sync.py --repo-root . --dry-run
 # 完整生成
 python scripts/sync.py --repo-root . --summary-out /tmp/sync.json
 
-# 只处理前 3 个文件（调试）
+# 只处理前 3 个文件/分类（调试）
 python scripts/sync.py --repo-root . --limit 3
 ```
 
@@ -95,7 +107,7 @@ python scripts/sync.py --repo-root . --limit 3
 60 次/小时提高到 5000 次/小时（Actions 中自动注入）。
 
 需要换源或换目录时，改 `scripts/sync.py` 顶部的 `CONFIG`；本地联调可用环境变量覆盖地址：
-`QX_TREE_API`、`QX_RAW_BASE`、`QX_README`、`SHUNT_README`、`SHUNT_BASE`、`BMX_RAW_BASE`。
+`QX_TREE_API`、`QX_RAW_BASE`、`QX_README`、`BMX_LISTING_API`、`BMX_RAW_BASE`、`BMX_README`。
 
 ## 6. 在 Loon 中使用
 
@@ -107,24 +119,33 @@ python scripts/sync.py --repo-root . --limit 3
    ```
 
 3. 规则文件只负责「匹配」，**策略在 Loon 的订阅项里单独指定**（直连 / 代理 / 拦截）。
-4. 想用上游原始粒度：订阅 `Rules/QuixoticHeart/*.list` 或 `Rules/ShuntRules/*.lsr`；
-   想要跨来源合并后的结果：订阅 `Rules/Unified/*.list`。
+4. 想用上游原始粒度：
+
+   ```text
+   Rules/QuixoticHeart/<name>.list
+   Rules/blackmatrix7/<Category>/<Category>.list
+   Rules/blackmatrix7/<Category>/<Category>_Domain.list
+   ```
+
+   按 blackmatrix7 的建议，`<Category>.list` 与 `<Category>_Domain.list` 一起使用；
+   想要合并结果则直接用 `Rules/Unified/<name>.list`。
 
 ## 7. 许可与合规
 
-- 来源一为 **GPL-3.0**，来源二的数据上游 blackmatrix7 为 **GPL-2.0**；本仓库若公开分发这些
-  生成文件，应遵守相应许可证（保留来源与许可说明，并按 GPL 要求提供相应授权）。
-  仓库根目录目前没有 LICENSE 文件，对外分发前建议补上（例如 GPL-3.0），或把本目录改为私有。
+- 来源一为 **GPL-3.0**，来源二为 **GPL-2.0**；本仓库若公开分发这些生成文件，应遵守相应
+  许可证（保留来源与许可说明，并按 GPL 要求提供相应授权）。仓库根目录目前没有 LICENSE
+  文件，对外分发前建议补上（例如 GPL-3.0），或把本仓库设为私有。
 - 来源一 README 明确写着「禁止任何形式转载或发布至中国大陆地区」。把规则镜像到公开仓库
-  属于再分发行为，请自行评估合规性；如不接受，可将仓库设为私有，或删除来源一相关内容。
+  属于再分发行为，请自行评估合规性；如不接受，可将仓库设为私有，或从
+  `scripts/sync.py` 的 `CONFIG` 中移除来源一。
 - `Rules/` 全部为脚本生成，手工修改会在下次同步时被覆盖。
 
 ## 8. 排错
 
 | 现象 | 原因与处理 |
 | --- | --- |
-| 日志出现 `直连不可用…改用 blackmatrix7` | `rule.kelee.one` 被 Cloudflare 拦截，属预期回退，不影响结果 |
-| `来源二失败 N 个，超过 20%，中止` | 上游改名或网络异常；查看 `CONFLICTS.md` 的失败清单，修好后重跑 |
-| 生成文件 0 条规则 | 上游文件只有注释或下载到错误页面；检查该文件名是否仍存在于上游 |
+| 生成文件 0 条规则 | 上游文件只有注释或下载到错误页面；检查该分类是否仍存在于上游 |
+| `blackmatrix7 缺失 N 个分类` | 三个 `.list` 都取不到（网络或上游改名）；查看 `CONFLICTS.md` 的清单，修好后重跑 |
 | 提交了但 Loon 不刷新 | Loon 对远程规则有缓存，手动在订阅项里下拉刷新 |
 | Actions 报 `403` 推送失败 | 仓库 Settings → Actions → General 里把 Workflow permissions 设为 Read and write |
+| 定时任务没跑 | 检查 Actions 是否被暂停（仓库 60 天无提交会自动暂停），手动 Run 一次 |

@@ -1,6 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Deezer.lsr
-# 上游: https://rule.kelee.one/Loon/Deezer.lsr
-# 规则数: 3
-DOMAIN-SUFFIX,deezer.com
-DOMAIN-SUFFIX,dzcdn.net
-USER-AGENT,Deezer*

@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Instagram.lsr
-# 上游: https://rule.kelee.one/Loon/Instagram.lsr
-# 规则数: 4
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagr.am
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-KEYWORD,instagram

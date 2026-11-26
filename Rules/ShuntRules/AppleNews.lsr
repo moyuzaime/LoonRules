@@ -1,5 +1,0 @@
-# 来源: luestr/ShuntRules Loon/AppleNews.lsr
-# 上游: https://rule.kelee.one/Loon/AppleNews.lsr
-# 规则数: 2
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,news-client-search.apple.com

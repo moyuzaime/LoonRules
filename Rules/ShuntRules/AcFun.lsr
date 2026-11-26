@@ -1,8 +1,0 @@
-# 来源: luestr/ShuntRules Loon/AcFun.lsr
-# 上游: https://rule.kelee.one/Loon/AcFun.lsr
-# 规则数: 5
-DOMAIN-SUFFIX,acfun.cn
-DOMAIN-SUFFIX,acfun.com
-DOMAIN-SUFFIX,acfun.tv
-DOMAIN-SUFFIX,aixifan.com
-USER-AGENT,AcFun*

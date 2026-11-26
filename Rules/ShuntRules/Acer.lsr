@@ -1,8 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Acer.lsr
-# 上游: https://rule.kelee.one/Loon/Acer.lsr
-# 规则数: 5
-DOMAIN-SUFFIX,acer-group.com
-DOMAIN-SUFFIX,acer.com
-DOMAIN-SUFFIX,acer.com.cn
-DOMAIN-SUFFIX,founderpc.cn
-DOMAIN-SUFFIX,founderpc.com

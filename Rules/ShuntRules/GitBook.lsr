@@ -1,6 +1,0 @@
-# 来源: luestr/ShuntRules Loon/GitBook.lsr
-# 上游: https://rule.kelee.one/Loon/GitBook.lsr
-# 规则数: 3
-DOMAIN-SUFFIX,gitbook.com
-DOMAIN-SUFFIX,gitbook.io
-DOMAIN-SUFFIX,gitbook.zendesk.com

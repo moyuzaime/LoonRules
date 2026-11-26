@@ -1,8 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Jwplayer.lsr
-# 上游: https://rule.kelee.one/Loon/Jwplayer.lsr
-# 规则数: 5
-DOMAIN-SUFFIX,jwpcdn.com
-DOMAIN-SUFFIX,jwplatform.com
-DOMAIN-SUFFIX,jwplayer.com
-DOMAIN-SUFFIX,jwpltx.com
-DOMAIN-SUFFIX,jwpsrv.com

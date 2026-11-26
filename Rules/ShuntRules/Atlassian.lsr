@@ -1,8 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Atlassian.lsr
-# 上游: https://rule.kelee.one/Loon/Atlassian.lsr
-# 规则数: 5
-DOMAIN-SUFFIX,atlassian.com
-DOMAIN-SUFFIX,bitbucket.org
-DOMAIN-SUFFIX,statuspage.io
-DOMAIN-SUFFIX,trello.com
-DOMAIN-SUFFIX,trellocdn.com

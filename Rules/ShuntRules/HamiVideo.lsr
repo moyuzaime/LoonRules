@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/HamiVideo.lsr
-# 上游: https://rule.kelee.one/Loon/HamiVideo.lsr
-# 规则数: 4
-DOMAIN,hls-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,hamivideo.hinet.net
-DOMAIN-SUFFIX,ott.hinet.net
-DOMAIN-KEYWORD,hamivideo.cdn.hinet.net

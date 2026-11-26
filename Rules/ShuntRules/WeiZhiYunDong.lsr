@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/WeiZhiYunDong.lsr
-# 上游: https://rule.kelee.one/Loon/WeiZhiYunDong.lsr
-# 规则数: 4
-DOMAIN-SUFFIX,dicom365.com
-DOMAIN-SUFFIX,dycom365.com
-DOMAIN-SUFFIX,wedcm.com
-DOMAIN-SUFFIX,weiyunyingxiang.com

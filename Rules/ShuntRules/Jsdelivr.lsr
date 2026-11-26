@@ -1,6 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Jsdelivr.lsr
-# 上游: https://rule.kelee.one/Loon/Jsdelivr.lsr
-# 规则数: 3
-DOMAIN-SUFFIX,esm.run
-DOMAIN-SUFFIX,jsdelivr.com
-DOMAIN-SUFFIX,jsdelivr.net

@@ -1,7 +1,0 @@
-# 来源: luestr/ShuntRules Loon/Classic.lsr
-# 上游: https://rule.kelee.one/Loon/Classic.lsr
-# 规则数: 4
-DOMAIN,asia.battle.net
-DOMAIN,europe.battle.net
-DOMAIN,useast.battle.net
-DOMAIN,uswest.battle.net

@@ -1,9 +1,0 @@
-# 来源: luestr/ShuntRules Loon/KKTV.lsr
-# 上游: https://rule.kelee.one/Loon/KKTV.lsr
-# 规则数: 6
-DOMAIN,kktv-theater.kk.stream
-DOMAIN,theater-kktv.cdn.hinet.net
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,kktv.me
-USER-AGENT,KKTV*
-USER-AGENT,com.kktv.ios.kktv*

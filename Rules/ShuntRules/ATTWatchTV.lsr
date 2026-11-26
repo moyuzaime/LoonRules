@@ -1,9 +1,0 @@
-# 来源: luestr/ShuntRules Loon/ATTWatchTV.lsr
-# 上游: https://rule.kelee.one/Loon/ATTWatchTV.lsr
-# 规则数: 6
-DOMAIN-SUFFIX,att.tv
-DOMAIN-SUFFIX,atttvnow.com
-DOMAIN-SUFFIX,attwatchtv.com
-DOMAIN-SUFFIX,directv.com
-DOMAIN-SUFFIX,dtvce.com
-DOMAIN-SUFFIX,nettyinternet.com
