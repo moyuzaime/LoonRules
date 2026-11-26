@@ -1,8 +1,14 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhongGuoShiHua/ZhongGuoShiHua.list
+# 说明: 中国石化
 # 规则数: 5
+# 目标: ZhongGuoShiHua
 DOMAIN-SUFFIX,sinopec-usa.com
+# 目标: ZhongGuoShiHua
 DOMAIN-SUFFIX,sinopec.com
+# 目标: ZhongGuoShiHua
 DOMAIN-SUFFIX,sinopecgroup.com
+# 目标: ZhongGuoShiHua
 DOMAIN-SUFFIX,sinopecnews.com.cn
+# 目标: ZhongGuoShiHua
 DOMAIN-SUFFIX,sinopecsales.com

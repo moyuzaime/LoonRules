@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: Viki
 # 合并来源: blackmatrix7/ios_rule_script Viki
 # 规则数: 8
+# 目标: Viki
 DOMAIN-SUFFIX,kalhlspd-a.akamaihd.net
+# 目标: Viki
 DOMAIN-SUFFIX,m-content-viki.s.llnwi.net
+# 目标: Viki
 DOMAIN-SUFFIX,twemoji.maxcdn.com
+# 目标: Viki
 DOMAIN-SUFFIX,viki.com
+# 目标: Viki
 DOMAIN-SUFFIX,viki.io
+# 目标: Viki
 DOMAIN-SUFFIX,viki.net
+# 目标: Viki
 DOMAIN-SUFFIX,vikidash.akamaized.net
+# 目标: Viki
 DOMAIN-SUFFIX,vikiplatform.com

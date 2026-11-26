@@ -1,41 +1,79 @@
 # 统一规则库 | 分类: AsianMedia
 # 合并来源: blackmatrix7/ios_rule_script AsianMedia
 # 规则数: 38
+# 目标: AsianMedia
 DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
+# 目标: AsianMedia
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
+# 目标: AsianMedia
 DOMAIN,api.biliapi.com
+# 目标: AsianMedia
 DOMAIN,api.biliapi.net
+# 目标: AsianMedia
 DOMAIN,api.bilibili.com
+# 目标: AsianMedia
 DOMAIN,app.biliapi.com
+# 目标: AsianMedia
 DOMAIN,app.biliapi.net
+# 目标: AsianMedia
 DOMAIN,app.bilibili.com
+# 目标: AsianMedia
 DOMAIN,cache.video.iqiyi.com
+# 目标: AsianMedia
 DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com
+# 目标: AsianMedia
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+# 目标: AsianMedia
 DOMAIN,grpc.biliapi.net
+# 目标: AsianMedia
 DOMAIN,intl-rcd.iqiyi.com
+# 目标: AsianMedia
 DOMAIN,intl-subscription.iqiyi.com
+# 目标: AsianMedia
 DOMAIN,intl.iqiyi.com
+# 目标: AsianMedia
 DOMAIN,m.bilibili.com
+# 目标: AsianMedia
 DOMAIN,mobileso.bz.mgtv.com
+# 目标: AsianMedia
 DOMAIN,upos-hz-mirrorakam.akamaized.net
+# 目标: AsianMedia
 DOMAIN,www.bilibili.com
+# 目标: AsianMedia
 DOMAIN-SUFFIX,api.mgtv.com
+# 目标: AsianMedia
 DOMAIN-SUFFIX,iq.com
+# 目标: AsianMedia
 DOMAIN-SUFFIX,wetv.vip
+# 目标: AsianMedia
 DOMAIN-SUFFIX,wetvinfo.com
+# 目标: AsianMedia
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
+# 目标: AsianMedia
 IP-CIDR,103.44.56.0/22,no-resolve
+# 目标: AsianMedia
 IP-CIDR,116.211.202.206/32,no-resolve
+# 目标: AsianMedia
 IP-CIDR,116.211.202.216/32,no-resolve
+# 目标: AsianMedia
 IP-CIDR,118.26.120.0/24,no-resolve
+# 目标: AsianMedia
 IP-CIDR,118.26.32.0/23,no-resolve
+# 目标: AsianMedia
 IP-CIDR,23.40.241.251/32,no-resolve
+# 目标: AsianMedia
 IP-CIDR,23.40.242.10/32,no-resolve
+# 目标: AsianMedia
 IP-CIDR,103.44.56.0/22
+# 目标: AsianMedia
 IP-CIDR,116.211.202.206/32
+# 目标: AsianMedia
 IP-CIDR,116.211.202.216/32
+# 目标: AsianMedia
 IP-CIDR,118.26.120.0/24
+# 目标: AsianMedia
 IP-CIDR,118.26.32.0/23
+# 目标: AsianMedia
 IP-CIDR,23.40.241.251/32
+# 目标: AsianMedia
 IP-CIDR,23.40.242.10/32

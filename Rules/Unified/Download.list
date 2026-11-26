@@ -1,10 +1,17 @@
 # 统一规则库 | 分类: Download
 # 合并来源: blackmatrix7/ios_rule_script Download
 # 规则数: 7
+# 目标: Download
 DOMAIN-SUFFIX,qbittorrent.org
+# 目标: Download
 DOMAIN-KEYWORD,aria2
+# 目标: Download
 DOMAIN-KEYWORD,thunder
+# 目标: Download
 DOMAIN-KEYWORD,xlliveud
+# 目标: Download
 DOMAIN-KEYWORD,xunlei
+# 目标: Download
 DOMAIN-KEYWORD,yunpan
+# 目标: Download
 URL-REGEX,assets\d+\.xboxlive\.(com|cn)

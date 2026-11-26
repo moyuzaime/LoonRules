@@ -1,12 +1,22 @@
 # 统一规则库 | 分类: OuPeng
 # 合并来源: blackmatrix7/ios_rule_script OuPeng
+# 说明: 欧朋浏览器
 # 规则数: 9
+# 目标: OuPeng
 DOMAIN-SUFFIX,adbxb.cn
+# 目标: OuPeng
 DOMAIN-SUFFIX,adbxb.com
+# 目标: OuPeng
 DOMAIN-SUFFIX,opfed.com
+# 目标: OuPeng
 DOMAIN-SUFFIX,opthink.cn
+# 目标: OuPeng
 DOMAIN-SUFFIX,oupeng.com
+# 目标: OuPeng
 DOMAIN-SUFFIX,oupeng.net.cn
+# 目标: OuPeng
 DOMAIN-SUFFIX,oupeng9.com
+# 目标: OuPeng
 DOMAIN-SUFFIX,oupengcloud.cn
+# 目标: OuPeng
 DOMAIN-SUFFIX,oupengcloud.net

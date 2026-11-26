@@ -1,23 +1,44 @@
 # 统一规则库 | 分类: FeiZhu
 # 合并来源: blackmatrix7/ios_rule_script FeiZhu
+# 说明: 飞猪
 # 规则数: 20
+# 目标: FeiZhu
 DOMAIN-SUFFIX,alitrip.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,asczwa.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,asczxcefsv.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,bcvbw.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,dfkhgj.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,edcdfg.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,ereuiib.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,fdfgdf.cn
+# 目标: FeiZhu
 DOMAIN-SUFFIX,feizhu.cn
+# 目标: FeiZhu
 DOMAIN-SUFFIX,feizhu.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,fliggy.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,fliggy.hk
+# 目标: FeiZhu
 DOMAIN-SUFFIX,iuynfg.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,jhgtgb.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,mnbvbqw.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,ujmjk.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,vfvdf.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,xcvvs.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,zxczw.com
+# 目标: FeiZhu
 DOMAIN-SUFFIX,zzxca.com

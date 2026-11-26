@@ -1,19 +1,35 @@
 # 统一规则库 | 分类: JingDongCloud
 # 合并来源: blackmatrix7/ios_rule_script JingDongCloud
 # 规则数: 16
+# 目标: JingDongCloud
 IP-CIDR,101.124.0.0/16,no-resolve
+# 目标: JingDongCloud
 IP-CIDR,103.224.220.0/22,no-resolve
+# 目标: JingDongCloud
 IP-CIDR,114.67.128.0/17,no-resolve
+# 目标: JingDongCloud
 IP-CIDR,117.72.248.0/22,no-resolve
+# 目标: JingDongCloud
 IP-CIDR6,2402:db40::/33,no-resolve
+# 目标: JingDongCloud
 IP-CIDR6,2402:dfc0:50::/44,no-resolve
+# 目标: JingDongCloud
 IP-CIDR6,2402:dfc0::/44,no-resolve
+# 目标: JingDongCloud
 IP-CIDR6,2403:1ec0:1200::/48,no-resolve
+# 目标: JingDongCloud
 IP-CIDR,101.124.0.0/16
+# 目标: JingDongCloud
 IP-CIDR,103.224.220.0/22
+# 目标: JingDongCloud
 IP-CIDR,114.67.128.0/17
+# 目标: JingDongCloud
 IP-CIDR,117.72.248.0/22
+# 目标: JingDongCloud
 IP-CIDR6,2402:db40::/33
+# 目标: JingDongCloud
 IP-CIDR6,2402:dfc0:50::/44
+# 目标: JingDongCloud
 IP-CIDR6,2402:dfc0::/44
+# 目标: JingDongCloud
 IP-CIDR6,2403:1ec0:1200::/48

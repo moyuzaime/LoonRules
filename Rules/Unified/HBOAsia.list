@@ -1,23 +1,43 @@
 # 统一规则库 | 分类: HBOAsia
 # 合并来源: blackmatrix7/ios_rule_script HBOAsia
 # 规则数: 20
+# 目标: HBOAsia
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+# 目标: HBOAsia
 DOMAIN,bcbolthboa-a.akamaihd.net
+# 目标: HBOAsia
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+# 目标: HBOAsia
 DOMAIN,dai3fd1oh325y.cloudfront.net
+# 目标: HBOAsia
 DOMAIN,hboasia1-i.akamaihd.net
+# 目标: HBOAsia
 DOMAIN,hboasia2-i.akamaihd.net
+# 目标: HBOAsia
 DOMAIN,hboasia3-i.akamaihd.net
+# 目标: HBOAsia
 DOMAIN,hboasia4-i.akamaihd.net
+# 目标: HBOAsia
 DOMAIN,hboasia5-i.akamaihd.net
+# 目标: HBOAsia
 DOMAIN,hboasialive.akamaized.net
+# 目标: HBOAsia
 DOMAIN,hbogoprod-vod.akamaized.net
+# 目标: HBOAsia
 DOMAIN,hbolb.onwardsmg.com
+# 目标: HBOAsia
 DOMAIN,hbounify-prod.evergent.com
+# 目标: HBOAsia
 DOMAIN,players.brightcove.net
+# 目标: HBOAsia
 DOMAIN,s3-ap-southeast-1.amazonaws.com
+# 目标: HBOAsia
 DOMAIN,wmff.warnermediacdn.com
+# 目标: HBOAsia
 DOMAIN-SUFFIX,hbogoasia.com
+# 目标: HBOAsia
 DOMAIN-SUFFIX,hbogoasia.hk
+# 目标: HBOAsia
 DOMAIN-KEYWORD,.hbogoasia.
+# 目标: HBOAsia
 USER-AGENT,HBO%20GO%20PROD*

@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: Dandanplay
 # 合并来源: blackmatrix7/ios_rule_script Dandanplay
+# 说明: 弹弹Play
 # 规则数: 3
+# 目标: Dandanplay
 DOMAIN-SUFFIX,acplay.net
+# 目标: Dandanplay
 DOMAIN-SUFFIX,dandanplay.com
+# 目标: Dandanplay
 DOMAIN-SUFFIX,dandanplayer.com

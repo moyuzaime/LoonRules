@@ -1,62 +1,122 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/BaiShanYunKeJi/BaiShanYunKeJi.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BaiShanYunKeJi/BaiShanYunKeJi.list
+# 说明: 白山耘科技
 # 规则数: 59
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,5gcdnx.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baicdnx.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bainsx.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishan-cloud.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishan-cloud.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishan-gateway.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishan.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishancdnx.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishancdnx.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishancdnx.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishancdnx.top
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishancloud.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishandnsx.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishandnsx.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishandnsx.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishandnsx.top
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishangeek.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishangeek.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,baishanyun.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bsccdn.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bsccdn.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bscdns.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bscdns.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bscedge.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bscgslb.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bsclink.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bsclink.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bscstorage.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bscstorage.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bscstorage.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bsgslb.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bsgslb.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bsydns.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bsydns.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,bsydns.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,cncdnx.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,crazyrtc.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,dolfincdnx.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,dolfincdnx.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,dolfincdnx.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,dolfincdnx.top
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,dolfindns.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,dolfindnsx.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,dolfindnsx.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,dolfindnsx.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,dolfindnsx.top
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,eccdnx.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,edgefn.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,fnedge.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,ldgslb.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,qingcdn.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,saxysec.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,scdncloud.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,scdntop.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,solocdn.cn
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,trpcdn.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,trpcdn.net
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,whitecdnx.com
+# 目标: BaiShanYunKeJi
 DOMAIN-SUFFIX,zzcdnx.com

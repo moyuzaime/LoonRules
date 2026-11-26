@@ -1,36 +1,70 @@
 # 统一规则库 | 分类: ShiJiChaoXing
 # 合并来源: blackmatrix7/ios_rule_script ShiJiChaoXing
+# 说明: 世纪超星
 # 规则数: 33
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,16q.cn
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,5read.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,aichaoxing.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,chaoxing.cc
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,chaoxing.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,chaoxingv.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,cxbiji.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,hongbo100.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,jikeiot.cloud
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,lnlib.net
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,mndqlib.net
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,mti100.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,nihaoafrica.org
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,nihaorwanda.cn
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,sslawy.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,sslibrary.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,ssreader.cn
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,ssreader.com.cn
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,ssvideo.cn
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,ssvideo.com.cn
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,study360.com.cn
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,superlib.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,superlib.net
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,uonline-sh.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,uonline-sh.net
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,xuexi365.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,xuexi365.com.cn
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,xuexi365.net
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,xxtmail.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,ylike.net
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,zaifan.com
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,zaifan.com.cn
+# 目标: ShiJiChaoXing
 DOMAIN-SUFFIX,zhihang100.com

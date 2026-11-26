@@ -1,38 +1,73 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/TikTok/TikTok.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TikTok/TikTok.list
 # 规则数: 35
+# 目标: TikTok
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+# 目标: TikTok
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+# 目标: TikTok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
+# 目标: TikTok
 DOMAIN,trae-api-sg.mchost.guru
+# 目标: TikTok
 DOMAIN-SUFFIX,bytedapm.com
+# 目标: TikTok
 DOMAIN-SUFFIX,bytegecko-i18n.com
+# 目标: TikTok
 DOMAIN-SUFFIX,byteintlapi.com
+# 目标: TikTok
 DOMAIN-SUFFIX,byteoversea.com
+# 目标: TikTok
 DOMAIN-SUFFIX,capcut.com
+# 目标: TikTok
 DOMAIN-SUFFIX,capcutapi.com
+# 目标: TikTok
 DOMAIN-SUFFIX,capcutapi.us
+# 目标: TikTok
 DOMAIN-SUFFIX,capcutstatic.com
+# 目标: TikTok
 DOMAIN-SUFFIX,ibytedtos.com
+# 目标: TikTok
 DOMAIN-SUFFIX,ibyteimg.com
+# 目标: TikTok
 DOMAIN-SUFFIX,ipstatp.com
+# 目标: TikTok
 DOMAIN-SUFFIX,isnssdk.com
+# 目标: TikTok
 DOMAIN-SUFFIX,marscode.com
+# 目标: TikTok
 DOMAIN-SUFFIX,muscdn.com
+# 目标: TikTok
 DOMAIN-SUFFIX,musical.ly
+# 目标: TikTok
 DOMAIN-SUFFIX,sgpstatp.com
+# 目标: TikTok
 DOMAIN-SUFFIX,snssdk.com
+# 目标: TikTok
 DOMAIN-SUFFIX,tik-tokapi.com
+# 目标: TikTok
 DOMAIN-SUFFIX,tiktok.com
+# 目标: TikTok
 DOMAIN-SUFFIX,tiktokcdn-us.com
+# 目标: TikTok
 DOMAIN-SUFFIX,tiktokcdn.com
+# 目标: TikTok
 DOMAIN-SUFFIX,tiktokd.net
+# 目标: TikTok
 DOMAIN-SUFFIX,tiktokd.org
+# 目标: TikTok
 DOMAIN-SUFFIX,tiktokmusic.app
+# 目标: TikTok
 DOMAIN-SUFFIX,tiktokv.com
+# 目标: TikTok
 DOMAIN-SUFFIX,tiktokv.us
+# 目标: TikTok
 DOMAIN-SUFFIX,trae.ai
+# 目标: TikTok
 DOMAIN-SUFFIX,ttwebview.com
+# 目标: TikTok
 DOMAIN-KEYWORD,musical.ly
+# 目标: TikTok
 DOMAIN-KEYWORD,tiktok
+# 目标: TikTok
 USER-AGENT,TikTok*

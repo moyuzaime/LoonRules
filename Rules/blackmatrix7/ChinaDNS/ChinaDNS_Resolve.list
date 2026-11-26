@@ -1,7 +1,11 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ChinaDNS/ChinaDNS_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaDNS/ChinaDNS_Resolve.list
 # 规则数: 4
+# 目标: ChinaDNS
 DOMAIN-SUFFIX,dns.alidns.com
+# 目标: ChinaDNS
 DOMAIN-SUFFIX,doh.360.cn
+# 目标: ChinaDNS
 DOMAIN-SUFFIX,doh.pub
+# 目标: ChinaDNS
 IP-CIDR,1.12.12.12/32

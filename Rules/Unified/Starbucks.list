@@ -1,35 +1,67 @@
 # 统一规则库 | 分类: Starbucks
 # 合并来源: blackmatrix7/ios_rule_script Starbucks
 # 规则数: 32
+# 目标: Starbucks
 DOMAIN-SUFFIX,sbux.com.my
+# 目标: Starbucks
 DOMAIN-SUFFIX,sbuxcard.com
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks-stars.com
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.ad
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.at
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.be
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.bg
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.ca
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.ch
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.co.id
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.co.jp
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.co.nz
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.co.th
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.co.uk
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.co.za
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.ar
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.bn
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.cn
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.co
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.cy
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.gr
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.hk
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.kh
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.kz
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.mx
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.com.my
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.de
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.fr
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucks.ie
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucksathome.com
+# 目标: Starbucks
 DOMAIN-SUFFIX,starbucksreserve.com

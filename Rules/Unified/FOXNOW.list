@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: FOXNOW
 # 合并来源: blackmatrix7/ios_rule_script FOXNOW
+# 说明: FOX NOW
 # 规则数: 4
+# 目标: FOXNOW
 DOMAIN-SUFFIX,fox.com
+# 目标: FOXNOW
 DOMAIN-SUFFIX,foxdcg.com
+# 目标: FOXNOW
 DOMAIN-SUFFIX,uplynk.com
+# 目标: FOXNOW
 USER-AGENT,FOX%20NOW*

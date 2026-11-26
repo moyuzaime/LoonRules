@@ -1,23 +1,44 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Privacy/Privacy_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy_Resolve.list
+# 说明: 隐私保护
 # 规则数: 20
+# 目标: Privacy
 DOMAIN-KEYWORD,analytics.
+# 目标: Privacy
 DOMAIN-KEYWORD,app-analytics
+# 目标: Privacy
 DOMAIN-KEYWORD,app-log.
+# 目标: Privacy
 DOMAIN-KEYWORD,applog.
+# 目标: Privacy
 DOMAIN-KEYWORD,fzlm
+# 目标: Privacy
 DOMAIN-KEYWORD,ios-log.
+# 目标: Privacy
 DOMAIN-KEYWORD,ioslog.
+# 目标: Privacy
 DOMAIN-KEYWORD,pc-log.
+# 目标: Privacy
 DOMAIN-KEYWORD,pclog.
+# 目标: Privacy
 IP-CIDR,0.0.0.1/32
+# 目标: Privacy
 IP-CIDR,109.123.233.251/32
+# 目标: Privacy
 IP-CIDR,157.148.47.204/32
+# 目标: Privacy
 IP-CIDR,185.193.38.148/32
+# 目标: Privacy
 IP-CIDR,219.143.187.136/32
+# 目标: Privacy
 IP-CIDR,34.215.155.61/32
+# 目标: Privacy
 IP-CIDR,35.194.26.233/32
+# 目标: Privacy
 IP-CIDR,35.239.57.233/32
+# 目标: Privacy
 IP-CIDR,44.228.85.26/32
+# 目标: Privacy
 IP-CIDR,45.32.105.134/32
+# 目标: Privacy
 IP-CIDR,77.162.125.199/32

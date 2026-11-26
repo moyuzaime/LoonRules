@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Wanfang
 # 合并来源: blackmatrix7/ios_rule_script Wanfang
 # 规则数: 2
+# 目标: Wanfang
 DOMAIN-SUFFIX,wanfangdata.com.cn
+# 目标: Wanfang
 DOMAIN-SUFFIX,wf.pub

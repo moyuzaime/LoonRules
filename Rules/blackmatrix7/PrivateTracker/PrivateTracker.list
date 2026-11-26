@@ -1,251 +1,500 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/PrivateTracker/PrivateTracker.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PrivateTracker/PrivateTracker.list
+# 说明: PT下载
 # 规则数: 248
+# 目标: PrivateTracker
 DOMAIN,004430.xyz
+# 目标: PrivateTracker
 DOMAIN,021912.xyz
+# 目标: PrivateTracker
 DOMAIN,1337.abcvg.info
+# 目标: PrivateTracker
 DOMAIN,6ahddutb1ucc3cp.ru
+# 目标: PrivateTracker
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
+# 目标: PrivateTracker
 DOMAIN,admin.52ywp.com
+# 目标: PrivateTracker
 DOMAIN,anime-tracker.aruku.kro.kr
+# 目标: PrivateTracker
 DOMAIN,archive.torrentonline.cc
+# 目标: PrivateTracker
 DOMAIN,banananetwork.qzz.io
+# 目标: PrivateTracker
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+# 目标: PrivateTracker
 DOMAIN,bt.okmp3.ru
+# 目标: PrivateTracker
 DOMAIN,bt1.archive.org
+# 目标: PrivateTracker
 DOMAIN,bt2.archive.org
+# 目标: PrivateTracker
 DOMAIN,bvarf.tracker.sh
+# 目标: PrivateTracker
 DOMAIN,cerf.cs.umd.edu
+# 目标: PrivateTracker
 DOMAIN,coeus.torrentonline.cc
+# 目标: PrivateTracker
 DOMAIN,evan.im
+# 目标: PrivateTracker
 DOMAIN,exodus.desync.com
+# 目标: PrivateTracker
 DOMAIN,ipv4announce.sktorrent.eu
+# 目标: PrivateTracker
 DOMAIN,leet-tracker.moe
+# 目标: PrivateTracker
 DOMAIN,martin-gebhardt.eu
+# 目标: PrivateTracker
 DOMAIN,ns575949.ip-51-222-82.net
+# 目标: PrivateTracker
 DOMAIN,nyaa.tracker.wf
+# 目标: PrivateTracker
 DOMAIN,obey.torrentonline.cc
+# 目标: PrivateTracker
 DOMAIN,open.demonii.com
+# 目标: PrivateTracker
 DOMAIN,open.demonoid.ch
+# 目标: PrivateTracker
 DOMAIN,open.ftorrent.com
+# 目标: PrivateTracker
 DOMAIN,open.stealth.si
+# 目标: PrivateTracker
 DOMAIN,open.tracker.ink
+# 目标: PrivateTracker
 DOMAIN,opentor.org
+# 目标: PrivateTracker
 DOMAIN,orgtgju.org
+# 目标: PrivateTracker
 DOMAIN,p4p.arenabg.com
+# 目标: PrivateTracker
 DOMAIN,pybittrack.retiolus.net
+# 目标: PrivateTracker
 DOMAIN,rekcart.duckdns.org
+# 目标: PrivateTracker
 DOMAIN,retracker.hotplug.ru
+# 目标: PrivateTracker
 DOMAIN,seedpeer.net
+# 目标: PrivateTracker
 DOMAIN,shahidrazi.online
+# 目标: PrivateTracker
 DOMAIN,t.213891.xyz
+# 目标: PrivateTracker
 DOMAIN,t.overflow.biz
+# 目标: PrivateTracker
 DOMAIN,torrent.tracker.durukanbal.com
+# 目标: PrivateTracker
 DOMAIN,torrentclub.online
+# 目标: PrivateTracker
 DOMAIN,torrents.tmtime.dev
+# 目标: PrivateTracker
 DOMAIN,torrentsmd.com
+# 目标: PrivateTracker
 DOMAIN,tr.abiir.top
+# 目标: PrivateTracker
 DOMAIN,tr.highstar.shop
+# 目标: PrivateTracker
 DOMAIN,tr.kxmp.cf
+# 目标: PrivateTracker
 DOMAIN,tr.nyacat.pw
+# 目标: PrivateTracker
 DOMAIN,tr.zukizuki.org
+# 目标: PrivateTracker
 DOMAIN,tr4ck3r.duckdns.org
+# 目标: PrivateTracker
 DOMAIN,tracker-udp.gbitt.info
+# 目标: PrivateTracker
 DOMAIN,tracker.004430.xyz
+# 目标: PrivateTracker
 DOMAIN,tracker.1h.is
+# 目标: PrivateTracker
 DOMAIN,tracker.7471.top
+# 目标: PrivateTracker
 DOMAIN,tracker.aruku.ovh
+# 目标: PrivateTracker
 DOMAIN,tracker.auctor.tv
+# 目标: PrivateTracker
 DOMAIN,tracker.bittor.pw
+# 目标: PrivateTracker
 DOMAIN,tracker.bluefrog.pw
+# 目标: PrivateTracker
 DOMAIN,tracker.breizh.pm
+# 目标: PrivateTracker
 DOMAIN,tracker.bt4g.com
+# 目标: PrivateTracker
 DOMAIN,tracker.corpscorp.online
+# 目标: PrivateTracker
 DOMAIN,tracker.ddunlimited.net
+# 目标: PrivateTracker
 DOMAIN,tracker.dhitechnical.com
+# 目标: PrivateTracker
 DOMAIN,tracker.dler.com
+# 目标: PrivateTracker
 DOMAIN,tracker.dler.org
+# 目标: PrivateTracker
 DOMAIN,tracker.ducks.party
+# 目标: PrivateTracker
 DOMAIN,tracker.filemail.com
+# 目标: PrivateTracker
 DOMAIN,tracker.flatuslifir.is
+# 目标: PrivateTracker
 DOMAIN,tracker.fnix.net
+# 目标: PrivateTracker
 DOMAIN,tracker.gcrenwp.top
+# 目标: PrivateTracker
 DOMAIN,tracker.gmi.gd
+# 目标: PrivateTracker
 DOMAIN,tracker.hismz.cn
+# 目标: PrivateTracker
 DOMAIN,tracker.iperson.xyz
+# 目标: PrivateTracker
 DOMAIN,tracker.kuroy.me
+# 目标: PrivateTracker
 DOMAIN,tracker.leechshield.link
+# 目标: PrivateTracker
 DOMAIN,tracker.manager.itislove.cz
+# 目标: PrivateTracker
 DOMAIN,tracker.manager.v6.navy
+# 目标: PrivateTracker
 DOMAIN,tracker.mywaifu.best
+# 目标: PrivateTracker
 DOMAIN,tracker.nekomi.cn
+# 目标: PrivateTracker
 DOMAIN,tracker.nyaa.vc
+# 目标: PrivateTracker
 DOMAIN,tracker.opentorrent.top
+# 目标: PrivateTracker
 DOMAIN,tracker.opentrackr.org
+# 目标: PrivateTracker
 DOMAIN,tracker.openwebtorrent.com
+# 目标: PrivateTracker
 DOMAIN,tracker.playground.ru
+# 目标: PrivateTracker
 DOMAIN,tracker.plx.im
+# 目标: PrivateTracker
 DOMAIN,tracker.pmman.tech
+# 目标: PrivateTracker
 DOMAIN,tracker.privateseedbox.xyz
+# 目标: PrivateTracker
 DOMAIN,tracker.publictracker.xyz
+# 目标: PrivateTracker
 DOMAIN,tracker.qingwapt.org
+# 目标: PrivateTracker
 DOMAIN,tracker.qu.ax
+# 目标: PrivateTracker
 DOMAIN,tracker.renfei.net
+# 目标: PrivateTracker
 DOMAIN,tracker.sharebro.in
+# 目标: PrivateTracker
 DOMAIN,tracker.skyts.net
+# 目标: PrivateTracker
 DOMAIN,tracker.startwork.cv
+# 目标: PrivateTracker
 DOMAIN,tracker.t-1.org
+# 目标: PrivateTracker
 DOMAIN,tracker.theoks.net
+# 目标: PrivateTracker
 DOMAIN,tracker.torrent.eu.org
+# 目标: PrivateTracker
 DOMAIN,tracker.tritan.gg
+# 目标: PrivateTracker
 DOMAIN,tracker.tryhackx.org
+# 目标: PrivateTracker
 DOMAIN,tracker.waaa.moe
+# 目标: PrivateTracker
 DOMAIN,tracker.wildkat.net
+# 目标: PrivateTracker
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
+# 目标: PrivateTracker
 DOMAIN,tracker.yemekyedim.com
+# 目标: PrivateTracker
 DOMAIN,tracker.yume-hatsuyuki.moe
+# 目标: PrivateTracker
 DOMAIN,tracker.zhuqiy.com
+# 目标: PrivateTracker
 DOMAIN,tracker.zhuqiy.dgj055.icu
+# 目标: PrivateTracker
 DOMAIN,tracker1.520.jp
+# 目标: PrivateTracker
 DOMAIN,tracker1.itzmx.com
+# 目标: PrivateTracker
 DOMAIN,tracker2.dler.org
+# 目标: PrivateTracker
 DOMAIN,tracker2.itzmx.com
+# 目标: PrivateTracker
 DOMAIN,tracker3.itzmx.com
+# 目标: PrivateTracker
 DOMAIN,tracker4.itzmx.com
+# 目标: PrivateTracker
 DOMAIN,uabits.today
+# 目标: PrivateTracker
 DOMAIN,udp.tracker.projectk.org
+# 目标: PrivateTracker
 DOMAIN,v6.vito-tracker.space
+# 目标: PrivateTracker
 DOMAIN,whybother.torrentonline.cc
+# 目标: PrivateTracker
 DOMAIN,www.wareztorrent.com
+# 目标: PrivateTracker
 DOMAIN,yuptracker-eu.gaijinent.com
+# 目标: PrivateTracker
 DOMAIN,zer0day.ch
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,1ptba.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,2xfree.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,52pt.site
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,aidoru-online.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,alpharatio.cc
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,animebytes.tv
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,animetorrents.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,anthelion.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,asiancinema.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,audiences.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,avgv.cc
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,avistaz.to
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,awesome-hd.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,beitai.pt
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,beyond-hd.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,bibliotik.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,bittorrent.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,blutopia.cc
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,broadcasthe.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,bt.byr.cn
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,bt.neu6.edu.cn
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,btschool.club
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,bwtorrents.tv
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,byr.pt
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,ccfbits.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,cgpeers.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,chdbits.co
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,cinemageddon.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,cinematik.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,cinemaz.to
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,classix-unlimited.co.uk
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,concertos.live
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,creditracker.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,dicmusic.club
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,discfan.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,dxdhd.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,eastgame.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,empornium.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,et8.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,exoticaz.to
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,extremlymtorrents.ws
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,filelist.io
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,gainbound.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,gazellegames.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,gfxpeers.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hd-space.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hd-torrents.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hd4.xyz
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hd4fans.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdarea.co
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdatmos.club
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdbd.us
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdbits.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdchina.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdcity.city
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hddolby.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdfans.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdhome.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdpost.top
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdroute.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdsky.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdstreet.club
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdtime.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdupt.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hdzone.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hhanclub.top
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hitpt.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hitpt.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,icetorrent.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,iptorrents.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,j99.info
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,joyhd.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,jpopsuki.eu
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,kamept.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,karagarga.in
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,keepfrds.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,landof.tv
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,leaguehd.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,lemonhd.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,lztr.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,m-team.cc
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,madsrevolution.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,moecat.best
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,morethan.tv
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,msg.vg
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,myanonamouse.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,nanyangpt.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,ncore.cc
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,nebulance.io
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,nicept.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,npupt.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,nwsuaf6.edu.cn
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,open.cd
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,oppaiti.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,orpheus.network
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,ourbits.club
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,passthepopcorn.me
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,pornbits.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,privatehd.to
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,pterclub.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,pthome.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,ptsbao.club
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,pttime.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,pussytorrents.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,qingwa.pro
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,redacted.ch
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,sdbits.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,sharkpt.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,sjtu.edu.cn
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,skyey2.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,soulvoice.club
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,springsunday.net
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,tju.pt
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,tjupt.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,torrentday.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,torrentleech.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,torrentseeds.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,totheglory.im
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,trontv.com
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,u2.dmhy.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,uhdbits.org
+# 目标: PrivateTracker
 DOMAIN-SUFFIX,xauat6.edu.cn
+# 目标: PrivateTracker
 DOMAIN-KEYWORD,announce
+# 目标: PrivateTracker
 DOMAIN-KEYWORD,chdbits
+# 目标: PrivateTracker
 DOMAIN-KEYWORD,m-team
+# 目标: PrivateTracker
 DOMAIN-KEYWORD,torrent
+# 目标: PrivateTracker
 IP-CIDR,207.241.226.111/32,no-resolve
+# 目标: PrivateTracker
 IP-CIDR,207.241.231.226/32,no-resolve
+# 目标: PrivateTracker
 IP-CIDR,52.58.128.163/32,no-resolve

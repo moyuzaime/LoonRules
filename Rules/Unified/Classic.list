@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Classic
 # 合并来源: blackmatrix7/ios_rule_script Classic
 # 规则数: 4
+# 目标: Classic
 DOMAIN,asia.battle.net
+# 目标: Classic
 DOMAIN,europe.battle.net
+# 目标: Classic
 DOMAIN,useast.battle.net
+# 目标: Classic
 DOMAIN,uswest.battle.net

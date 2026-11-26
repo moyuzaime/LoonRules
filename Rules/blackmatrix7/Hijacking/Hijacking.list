@@ -1,231 +1,460 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Hijacking/Hijacking.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hijacking/Hijacking.list
+# 说明: 反劫持
 # 规则数: 228
+# 目标: Hijacking
 DOMAIN,geo2.adobe.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,17gouwuba.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,186078.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,189key.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,189zj.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,285680.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,3721zh.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,4009997658.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,4336wang.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,51chumoping.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,51mld.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,51mypc.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,58mingri.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,58mingtian.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,5vl58stm.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,6d63d3.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,7gg.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,91veg.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,9s6q.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,abbyychina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,adsame.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,akuai.top
+# 目标: Hijacking
 DOMAIN-SUFFIX,alienskins.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,anydeskchina.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,atplay.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,baiwanchuangyi.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,bartender.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,beerto.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,beilamusi.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,benshiw.net
+# 目标: Hijacking
 DOMAIN-SUFFIX,betterzip.net
+# 目标: Hijacking
 DOMAIN-SUFFIX,betterzipcn.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,beyondcompare.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,bianxianmao.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,bingdianhuanyuan.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,bkyhq.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,bryonypie.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,chemdraw.com.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,cishantao.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,cjmakeding.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,cjmkt.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,codesoftchina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,coreldrawchina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,crossoverchina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,cszlks.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,cudaojia.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,dafapromo.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,daitdai.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,dongmansoft.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,dsaeerf.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,dugesheying.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,dv8c1t.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,earmasterchina.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,easyrecoverychina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,echatu.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,ediuschina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,erdoscs.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,fan-yong.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,feih.com.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,fjlqqc.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,fkku194.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,flash.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,flstudiochina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,folxchina.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,formysql.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,freedrive.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,gclick.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,goufanli100.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,goupaoerdai.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,gouwubang.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,gscxs.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,guitarpro.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,gzxnlk.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,haoshengtoys.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,hbssjd.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,huishenghuiying.com.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,hypeapp.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,hypersnap.net
+# 目标: Hijacking
 DOMAIN-SUFFIX,hyunke.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,ichaosheng.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,iconworkshop.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,idmchina.net
+# 目标: Hijacking
 DOMAIN-SUFFIX,imazingchina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,imindmap.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,ishop789.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,jdkic.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,jihehuaban.com.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,jiubuhua.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,jsncke.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,junkucm.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,jwg365.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,kawo77.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,keyshot.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,kingdeecn.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,kuaizip.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,kualianyingxiao.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,kumihua.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,logoshejishi.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,ltheanine.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,luping.net.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,lvehaisen.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,mackeeper.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,maipinshangmao.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,mairuan.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,mairuan.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,mairuan.com.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,mairuan.net
+# 目标: Hijacking
 DOMAIN-SUFFIX,mairuanwang.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,makeding.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,mathtype.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,mindmanager.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,mindmanager.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,mindmapper.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,minisplat.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,mkitgfs.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,mlnbike.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,mobjump.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,mycleanmymac.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,nbkbgd.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,newapi.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,nicelabel.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,ntfsformac.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,ntfsformac.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,officesoftcn.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,overturechina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,passwordrecovery.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,pdfexpert.cc
+# 目标: Hijacking
 DOMAIN-SUFFIX,photozoomchina.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,pinzhitmall.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,poppyta.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,qianchuanghr.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,qichexin.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,qinchugudao.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,quanliyouxi.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,qutaobi.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,ry51w.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sg536.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,shankejingling.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifubo.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifuce.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifuda.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifufu.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifuge.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifugu.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifuhe.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifuhu.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifuji.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,sifuka.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,smgru.net
+# 目标: Hijacking
 DOMAIN-SUFFIX,taoggou.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,tcxshop.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,tjqonline.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,topitme.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,tt114.net
+# 目标: Hijacking
 DOMAIN-SUFFIX,tt3sm4.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,tuia.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,tuipenguin.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,tuitiger.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,ultraiso.net
+# 目标: Hijacking
 DOMAIN-SUFFIX,urlaw.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,urlet.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,vegaschina.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,websd8.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,wsgblw.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,wx16999.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,xchmai.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,xiaohuau.xyz
+# 目标: Hijacking
 DOMAIN-SUFFIX,xitongqingli.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,xmindchina.net
+# 目标: Hijacking
 DOMAIN-SUFFIX,xshellcn.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,ygyzx.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,yihuifu.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,yinmong.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,yitaopt.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,yjqiqi.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,yuanchengxiezuo.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,yukhj.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,zbrushcn.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,zhaozecheng.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,zhenxinet.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,zhzzx.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,zlne800.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,zmlled.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,zryydi.com
+# 目标: Hijacking
 DOMAIN-SUFFIX,zunmi.cn
+# 目标: Hijacking
 DOMAIN-SUFFIX,zzd6.com
+# 目标: Hijacking
 IP-CIDR,103.49.209.27/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,106.75.231.48/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,111.175.220.163/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,111.175.220.164/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,114.119.160.0/21,no-resolve
+# 目标: Hijacking
 IP-CIDR,114.247.28.96/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,115.182.16.79/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,118.144.88.126/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,118.144.88.215/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,118.144.88.216/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,119.4.249.166/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,120.240.95.37/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,120.76.189.132/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,122.229.29.89/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,122.229.8.47/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,123.56.152.96/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,124.14.21.147/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,124.14.21.151/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,124.232.160.178/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,175.6.223.15/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,180.166.52.24/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,183.59.53.237/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,211.161.101.106/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,211.161.101.110/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,218.93.127.37/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,220.115.251.25/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,220.196.52.141/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,221.179.131.72/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,221.179.140.145/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,221.228.17.152/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,221.231.6.79/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,221.6.4.148/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,222.186.61.91/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,222.186.61.95/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,222.186.61.96/31,no-resolve
+# 目标: Hijacking
 IP-CIDR,222.73.156.235/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,39.107.15.115/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,47.89.59.182/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,61.160.200.223/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,61.160.200.242/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,61.160.200.252/32,no-resolve
+# 目标: Hijacking
 IP-CIDR,61.174.50.214/32,no-resolve

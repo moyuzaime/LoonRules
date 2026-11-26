@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: TelegramSG
 # 合并来源: blackmatrix7/ios_rule_script TelegramSG
 # 规则数: 6
+# 目标: TelegramSG
 IP-CIDR,91.108.16.0/22,no-resolve
+# 目标: TelegramSG
 IP-CIDR,91.108.56.0/22,no-resolve
+# 目标: TelegramSG
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
+# 目标: TelegramSG
 IP-CIDR,91.108.16.0/22
+# 目标: TelegramSG
 IP-CIDR,91.108.56.0/22
+# 目标: TelegramSG
 IP-CIDR6,2001:b28:f23f::/48

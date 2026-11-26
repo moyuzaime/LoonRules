@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: ChengTongWangPan
 # 合并来源: blackmatrix7/ios_rule_script ChengTongWangPan
+# 说明: 城通网盘
 # 规则数: 4
+# 目标: ChengTongWangPan
 DOMAIN-SUFFIX,ctfile.com
+# 目标: ChengTongWangPan
 DOMAIN-SUFFIX,ctfile.net
+# 目标: ChengTongWangPan
 DOMAIN-SUFFIX,n802.com
+# 目标: ChengTongWangPan
 DOMAIN-SUFFIX,tv002.com

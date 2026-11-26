@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: 36kr
 # 合并来源: blackmatrix7/ios_rule_script 36kr
+# 说明: 36氪
 # 规则数: 4
+# 目标: 36kr
 DOMAIN-SUFFIX,36dianping.com
+# 目标: 36kr
 DOMAIN-SUFFIX,36kr.com
+# 目标: 36kr
 DOMAIN-SUFFIX,36krcdn.com
+# 目标: 36kr
 DOMAIN-SUFFIX,36krcnd.com

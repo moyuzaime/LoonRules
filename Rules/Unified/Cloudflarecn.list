@@ -1,17 +1,31 @@
 # 统一规则库 | 分类: Cloudflarecn
 # 合并来源: blackmatrix7/ios_rule_script Cloudflarecn
 # 规则数: 14
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cf-ns.com
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cf-ns.net
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cf-ns.site
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cf-ns.tech
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cftest5.cn
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cftest6.cn
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cftest7.com
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cftest8.com
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cloudflare-cn.com
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cloudflarecn.net
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cloudflareprod.com
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cloudflarestaging.com
+# 目标: Cloudflarecn
 DOMAIN-SUFFIX,cloudflarestoragegw.com

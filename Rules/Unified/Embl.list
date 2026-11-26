@@ -1,10 +1,17 @@
 # 统一规则库 | 分类: Embl
 # 合并来源: blackmatrix7/ios_rule_script Embl
 # 规则数: 7
+# 目标: Embl
 DOMAIN-SUFFIX,ebi.ac.uk
+# 目标: Embl
 DOMAIN-SUFFIX,embl-hamburg.de
+# 目标: Embl
 DOMAIN-SUFFIX,embl.de
+# 目标: Embl
 DOMAIN-SUFFIX,embl.fr
+# 目标: Embl
 DOMAIN-SUFFIX,embl.it
+# 目标: Embl
 DOMAIN-SUFFIX,embl.org
+# 目标: Embl
 DOMAIN-SUFFIX,emblstatic.net

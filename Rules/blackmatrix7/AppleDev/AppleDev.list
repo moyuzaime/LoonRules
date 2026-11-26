@@ -1,43 +1,83 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AppleDev/AppleDev.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleDev/AppleDev.list
 # 规则数: 40
+# 目标: AppleDev
 DOMAIN-SUFFIX,apple-cloudkit.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,apple-mapkit.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,apple.com.akadns.net
+# 目标: AppleDev
 DOMAIN-SUFFIX,appleswift.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,appleworldwidedeveloper.hb-api.omtrdc.net
+# 目标: AppleDev
 DOMAIN-SUFFIX,appleworldwidedeveloper.sc.omtrdc.net
+# 目标: AppleDev
 DOMAIN-SUFFIX,calendarserver.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,carekit.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+# 目标: AppleDev
 DOMAIN-SUFFIX,cups.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,developer.apple.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,developerservices2.apple.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,devimages-cdn.apple.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,foundationdb.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,macosforge.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,macruby.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,macruby.net
+# 目标: AppleDev
 DOMAIN-SUFFIX,macruby.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,p-events-delivery.akamaized.net
+# 目标: AppleDev
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,push-apple.com.akadns.net
+# 目标: AppleDev
 DOMAIN-SUFFIX,researchandcare.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,researchkit.cn
+# 目标: AppleDev
 DOMAIN-SUFFIX,researchkit.com.cn
+# 目标: AppleDev
 DOMAIN-SUFFIX,researchkit.hk
+# 目标: AppleDev
 DOMAIN-SUFFIX,researchkit.net
+# 目标: AppleDev
 DOMAIN-SUFFIX,researchkit.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,researchkit.tv
+# 目标: AppleDev
 DOMAIN-SUFFIX,servicetalk.io
+# 目标: AppleDev
 DOMAIN-SUFFIX,swift.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,swiftui.cn
+# 目标: AppleDev
 DOMAIN-SUFFIX,swiftui.com.cn
+# 目标: AppleDev
 DOMAIN-SUFFIX,timestamp.apple.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,webkit.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,webkitgtk.org
+# 目标: AppleDev
 DOMAIN-SUFFIX,webobjects.com
+# 目标: AppleDev
 DOMAIN-SUFFIX,wpewebkit.org

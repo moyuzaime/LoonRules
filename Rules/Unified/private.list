@@ -1,165 +1,327 @@
 # 统一规则库 | 分类: private
 # 合并来源: QuixoticHeart/rule-set private
 # 规则数: 162
+# 目标: private
 DOMAIN,asusrouter.com
+# 目标: private
 DOMAIN,instant.arubanetworks.com
+# 目标: private
 DOMAIN,local.adguard.org
+# 目标: private
 DOMAIN,localhost.weixin.qq.com
+# 目标: private
 DOMAIN,localhost.work.weixin.qq.com
+# 目标: private
 DOMAIN,miwifi.com
+# 目标: private
 DOMAIN,oasisauth.h3c.com
+# 目标: private
 DOMAIN,router.asus.com
+# 目标: private
 DOMAIN,setmeup.arubanetworks.com
+# 目标: private
 DOMAIN,www.asusrouter.com
+# 目标: private
 DOMAIN,www.miwifi.com
+# 目标: private
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+# 目标: private
 DOMAIN-SUFFIX,10.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,100.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,100.51.198.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,101.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,102.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,103.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,104.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,105.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,106.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,107.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,108.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,109.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,110.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,111.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,112.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,113.0.203.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,113.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,114.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,115.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,116.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,117.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,118.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,119.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,120.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,121.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,122.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,123.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,124.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,125.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,126.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,127.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,127.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,16.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,168.192.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,17.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,18.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,19.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,2.0.192.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,20.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,21.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,22.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,23.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,24.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,25.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,254.169.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,255.255.255.255.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,26.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,27.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,28.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,29.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,30.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,31.172.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,64.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,65.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,66.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,67.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,68.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,69.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,70.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,71.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,72.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,73.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,74.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,75.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,76.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,77.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,78.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,79.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa
+# 目标: private
 DOMAIN-SUFFIX,8.e.f.ip6.arpa
+# 目标: private
 DOMAIN-SUFFIX,80.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,81.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,82.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,83.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,84.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,85.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,86.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,87.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,88.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,89.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,9.e.f.ip6.arpa
+# 目标: private
 DOMAIN-SUFFIX,90.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,91.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,92.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,93.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,94.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,95.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,96.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,97.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,98.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,99.100.in-addr.arpa
+# 目标: private
 DOMAIN-SUFFIX,a.e.f.ip6.arpa
+# 目标: private
 DOMAIN-SUFFIX,acl4.ssr
+# 目标: private
 DOMAIN-SUFFIX,b.e.f.ip6.arpa
+# 目标: private
 DOMAIN-SUFFIX,d.f.ip6.arpa
+# 目标: private
 DOMAIN-SUFFIX,example
+# 目标: private
 DOMAIN-SUFFIX,hiwifi.com
+# 目标: private
 DOMAIN-SUFFIX,home.arpa
+# 目标: private
 DOMAIN-SUFFIX,internal
+# 目标: private
 DOMAIN-SUFFIX,invalid
+# 目标: private
 DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
+# 目标: private
 DOMAIN-SUFFIX,lan
+# 目标: private
 DOMAIN-SUFFIX,leike.cc
+# 目标: private
 DOMAIN-SUFFIX,local
+# 目标: private
 DOMAIN-SUFFIX,localdomain
+# 目标: private
 DOMAIN-SUFFIX,localhost
+# 目标: private
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+# 目标: private
 DOMAIN-SUFFIX,localhost.sec.qq.com
+# 目标: private
 DOMAIN-SUFFIX,my.router
+# 目标: private
 DOMAIN-SUFFIX,p.to
+# 目标: private
 DOMAIN-SUFFIX,peiluyou.com
+# 目标: private
 DOMAIN-SUFFIX,phicomm.me
+# 目标: private
 DOMAIN-SUFFIX,plex.direct
+# 目标: private
 DOMAIN-SUFFIX,router.ctc
+# 目标: private
 DOMAIN-SUFFIX,routerlogin.com
+# 目标: private
 DOMAIN-SUFFIX,tendawifi.com
+# 目标: private
 DOMAIN-SUFFIX,test
+# 目标: private
 DOMAIN-SUFFIX,tplinkwifi.net
+# 目标: private
 DOMAIN-SUFFIX,tplogin.cn
+# 目标: private
 DOMAIN-SUFFIX,ts.net
+# 目标: private
 DOMAIN-SUFFIX,wifi.cmcc
+# 目标: private
 DOMAIN-SUFFIX,zte.home
+# 目标: private
 IP-CIDR,0.0.0.0/8,no-resolve
+# 目标: private
 IP-CIDR,10.0.0.0/8,no-resolve
+# 目标: private
 IP-CIDR,100.64.0.0/10,no-resolve
+# 目标: private
 IP-CIDR,127.0.0.0/8,no-resolve
+# 目标: private
 IP-CIDR,169.254.0.0/16,no-resolve
+# 目标: private
 IP-CIDR,172.16.0.0/12,no-resolve
+# 目标: private
 IP-CIDR,192.0.0.0/24,no-resolve
+# 目标: private
 IP-CIDR,192.0.2.0/24,no-resolve
+# 目标: private
 IP-CIDR,192.168.0.0/16,no-resolve
+# 目标: private
 IP-CIDR,192.31.196.0/24,no-resolve
+# 目标: private
 IP-CIDR,192.52.193.0/24,no-resolve
+# 目标: private
 IP-CIDR,192.88.99.0/24,no-resolve
+# 目标: private
 IP-CIDR,198.18.0.0/15,no-resolve
+# 目标: private
 IP-CIDR,198.51.100.0/24,no-resolve
+# 目标: private
 IP-CIDR,203.0.113.0/24,no-resolve
+# 目标: private
 IP-CIDR,224.0.0.0/3,no-resolve
+# 目标: private
 IP-CIDR6,100::/64,no-resolve
+# 目标: private
 IP-CIDR6,2001::/23,no-resolve
+# 目标: private
 IP-CIDR6,2001:db8::/32,no-resolve
+# 目标: private
 IP-CIDR6,2620:4f:8000::/48,no-resolve
+# 目标: private
 IP-CIDR6,3fff::/20,no-resolve
+# 目标: private
 IP-CIDR6,5f00::/16,no-resolve
+# 目标: private
 IP-CIDR6,64:ff9b:1::/48,no-resolve
+# 目标: private
 IP-CIDR6,64:ff9b::/96,no-resolve
+# 目标: private
 IP-CIDR6,::/127,no-resolve
+# 目标: private
 IP-CIDR6,fc00::/7,no-resolve
+# 目标: private
 IP-CIDR6,fe80::/10,no-resolve
+# 目标: private
 IP-CIDR6,ff00::/8,no-resolve

@@ -1,9 +1,15 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Notion/Notion.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Notion/Notion.list
 # 规则数: 6
+# 目标: Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
+# 目标: Notion
 DOMAIN-SUFFIX,notion-static.com
+# 目标: Notion
 DOMAIN-SUFFIX,notion.com
+# 目标: Notion
 DOMAIN-SUFFIX,notion.new
+# 目标: Notion
 DOMAIN-SUFFIX,notion.site
+# 目标: Notion
 DOMAIN-SUFFIX,notion.so

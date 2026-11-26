@@ -1,17 +1,31 @@
 # 统一规则库 | 分类: 9News
 # 合并来源: blackmatrix7/ios_rule_script 9News
 # 规则数: 14
+# 目标: 9News
 DOMAIN-SUFFIX,9cdn.net
+# 目标: 9News
 DOMAIN-SUFFIX,9nation.com.au
+# 目标: 9News
 DOMAIN-SUFFIX,9news.com.au
+# 目标: 9News
 DOMAIN-SUFFIX,9now.com.au
+# 目标: 9News
 DOMAIN-SUFFIX,freeviewplus.net.au
+# 目标: 9News
 DOMAIN-SUFFIX,mi9.com.au
+# 目标: 9News
 DOMAIN-SUFFIX,mi9cdn.com
+# 目标: 9News
 DOMAIN-SUFFIX,nine.com.au
+# 目标: 9News
 DOMAIN-SUFFIX,nineentertainment.com.au
+# 目标: 9News
 DOMAIN-SUFFIX,nineentertainmentco.com.au
+# 目标: 9News
 DOMAIN-SUFFIX,ninemediaroom.com.au
+# 目标: 9News
 DOMAIN-SUFFIX,ninemsn.com.au
+# 目标: 9News
 DOMAIN-SUFFIX,static9.net.au
+# 目标: 9News
 DOMAIN-SUFFIX,yourtv.com.au

@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: TapTap
 # 合并来源: blackmatrix7/ios_rule_script TapTap
 # 规则数: 2
+# 目标: TapTap
 DOMAIN-SUFFIX,tap.io
+# 目标: TapTap
 DOMAIN-SUFFIX,taptap.tw

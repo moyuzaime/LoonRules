@@ -1,5 +1,8 @@
 # 统一规则库 | 分类: DangDang
 # 合并来源: blackmatrix7/ios_rule_script DangDang
+# 说明: 当当
 # 规则数: 2
+# 目标: DangDang
 DOMAIN-SUFFIX,dangdang.com
+# 目标: DangDang
 DOMAIN-SUFFIX,ddimg.cn

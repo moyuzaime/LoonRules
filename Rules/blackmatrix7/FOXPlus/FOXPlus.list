@@ -1,10 +1,17 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/FOXPlus/FOXPlus.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FOXPlus/FOXPlus.list
 # 规则数: 7
+# 目标: FOXPlus
 DOMAIN,cdn-fox-networks-group-green.akamaized.net
+# 目标: FOXPlus
 DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
+# 目标: FOXPlus
 DOMAIN,foxsports01-i.akamaihd.net
+# 目标: FOXPlus
 DOMAIN,foxsports02-i.akamaihd.net
+# 目标: FOXPlus
 DOMAIN,foxsports03-i.akamaihd.net
+# 目标: FOXPlus
 DOMAIN,staticasiafox.akamaized.net
+# 目标: FOXPlus
 DOMAIN-SUFFIX,foxplus.com

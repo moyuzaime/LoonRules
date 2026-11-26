@@ -1,35 +1,68 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/YunFanJiaSu/YunFanJiaSu.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YunFanJiaSu/YunFanJiaSu.list
+# 说明: 云帆加速
 # 规则数: 32
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,cdndns2.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,cdndns2.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,cdnnodedns.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,mogecloud.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,mogecloud.com
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,mogecloud.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,mogengyun.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,mogengyun.com
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,mogengyun.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,wertalk.com
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfcache.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfcache.com
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfcalc.com
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfcdn.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfcdn.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfcloud.com
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfcloud.io
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfcloud.work
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfdns.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfdns.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfdts.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yflive.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yflive.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfp2p.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfscdn.com
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yfscdn.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yunfancdn.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yunfancdn.com
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yunfancdn.com.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yunfancdn.net
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yunfandns.cn
+# 目标: YunFanJiaSu
 DOMAIN-SUFFIX,yunfandns.com

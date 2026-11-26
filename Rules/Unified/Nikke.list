@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: Nikke
 # 合并来源: blackmatrix7/ios_rule_script Nikke
 # 规则数: 8
+# 目标: Nikke
 DOMAIN-SUFFIX,anticheatexpert.com
+# 目标: Nikke
 DOMAIN-SUFFIX,centauriglobal.com
+# 目标: Nikke
 DOMAIN-SUFFIX,gamepass.com
+# 目标: Nikke
 DOMAIN-SUFFIX,iegcom.com
+# 目标: Nikke
 DOMAIN-SUFFIX,intlgame.com
+# 目标: Nikke
 DOMAIN-SUFFIX,nikke-kr.com
+# 目标: Nikke
 IP-CIDR,43.152.114.31/32,no-resolve
+# 目标: Nikke
 IP-CIDR,43.152.114.31/32

@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Overcast/Overcast.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Overcast/Overcast.list
 # 规则数: 2
+# 目标: Overcast
 DOMAIN-SUFFIX,overcast.fm
+# 目标: Overcast
 USER-AGENT,Overcast*

@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: Dailymotion
 # 合并来源: blackmatrix7/ios_rule_script Dailymotion
 # 规则数: 5
+# 目标: Dailymotion
 DOMAIN-SUFFIX,dai.ly
+# 目标: Dailymotion
 DOMAIN-SUFFIX,dailymotion.com
+# 目标: Dailymotion
 DOMAIN-SUFFIX,dm-event.net
+# 目标: Dailymotion
 DOMAIN-SUFFIX,dmcdn.net
+# 目标: Dailymotion
 DOMAIN-SUFFIX,dmxleo.com

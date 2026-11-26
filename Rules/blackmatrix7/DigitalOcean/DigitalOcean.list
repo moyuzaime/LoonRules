@@ -1,7 +1,11 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DigitalOcean/DigitalOcean.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DigitalOcean/DigitalOcean.list
 # 规则数: 4
+# 目标: DigitalOcean
 DOMAIN-SUFFIX,digitalocean.com
+# 目标: DigitalOcean
 DOMAIN-SUFFIX,digitaloceanspaces.com
+# 目标: DigitalOcean
 DOMAIN-SUFFIX,do.co
+# 目标: DigitalOcean
 DOMAIN-SUFFIX,nginxconfig.io

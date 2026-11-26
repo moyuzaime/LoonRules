@@ -1,18 +1,33 @@
 # 统一规则库 | 分类: 12306
 # 合并来源: blackmatrix7/ios_rule_script 12306
 # 规则数: 15
+# 目标: 12306
 DOMAIN-SUFFIX,12306.cn
+# 目标: 12306
 DOMAIN-SUFFIX,95306.cn
+# 目标: 12306
 DOMAIN-SUFFIX,95572.com
+# 目标: 12306
 DOMAIN-SUFFIX,china-railway.com.cn
+# 目标: 12306
 DOMAIN-SUFFIX,china-ric.com
+# 目标: 12306
 DOMAIN-SUFFIX,crct.com
+# 目标: 12306
 DOMAIN-SUFFIX,cre.cn
+# 目标: 12306
 DOMAIN-SUFFIX,crecc.com.cn
+# 目标: 12306
 DOMAIN-SUFFIX,creip.cn
+# 目标: 12306
 DOMAIN-SUFFIX,crscl.com.cn
+# 目标: 12306
 DOMAIN-SUFFIX,gzrailway.com.cn
+# 目标: 12306
 DOMAIN-SUFFIX,nntlj.com
+# 目标: 12306
 DOMAIN-SUFFIX,peoplerail.com
+# 目标: 12306
 DOMAIN-SUFFIX,rails.cn
+# 目标: 12306
 DOMAIN-SUFFIX,tdpress.com

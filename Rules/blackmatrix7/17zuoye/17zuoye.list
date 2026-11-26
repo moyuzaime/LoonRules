@@ -1,36 +1,70 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/17zuoye/17zuoye.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/17zuoye/17zuoye.list
+# 说明: 一起作业
 # 规则数: 33
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17beijiang.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17huayuan.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17jzt.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17tiku.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17xueaoshu.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17xueba.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17xueshe.cn
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17xueshe.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17yunzhijiao.cn
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17yunzhijiao.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17yunzhijiao.net
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17zuoye.cn
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17zuoye.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17zuoye.net
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17zyw.cn
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17zyxy.cn
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17zyxy.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,17zyxy.net
+# 目标: 17zuoye
 DOMAIN-SUFFIX,1j1x.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,happystudy.cc
+# 目标: 17zuoye
 DOMAIN-SUFFIX,kuailexue.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,langkoo.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,oaloft.cn
+# 目标: 17zuoye
 DOMAIN-SUFFIX,oaloft.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,oaloft.com.cn
+# 目标: 17zuoye
 DOMAIN-SUFFIX,oaloft.net
+# 目标: 17zuoye
 DOMAIN-SUFFIX,taomingshi.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,ustalk.cn
+# 目标: 17zuoye
 DOMAIN-SUFFIX,ustalk.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,voxlearning.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,woshi100.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,zuoyebao.com
+# 目标: 17zuoye
 DOMAIN-SUFFIX,zuoyebao.net

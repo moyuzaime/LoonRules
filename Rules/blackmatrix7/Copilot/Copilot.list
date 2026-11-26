@@ -1,54 +1,105 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Copilot/Copilot.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Copilot/Copilot.list
 # 规则数: 51
+# 目标: Copilot
 DOMAIN,api.msn.com
+# 目标: Copilot
 DOMAIN,api.statsig.com
+# 目标: Copilot
 DOMAIN,assets.msn.com
+# 目标: Copilot
 DOMAIN,browser-intake-datadoghq.com
+# 目标: Copilot
 DOMAIN,chat.openai.com.cdn.cloudflare.net
+# 目标: Copilot
 DOMAIN,copilot.microsoft.com
+# 目标: Copilot
 DOMAIN,gateway.bingviz.microsoft.net
+# 目标: Copilot
 DOMAIN,gateway.bingviz.microsoftapp.net
+# 目标: Copilot
 DOMAIN,in.appcenter.ms
+# 目标: Copilot
 DOMAIN,location.microsoft.com
+# 目标: Copilot
 DOMAIN,odc.officeapps.live.com
+# 目标: Copilot
 DOMAIN,openai-api.arkoselabs.com
+# 目标: Copilot
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
+# 目标: Copilot
 DOMAIN,production-openaicom-storage.azureedge.net
+# 目标: Copilot
 DOMAIN,r.bing.com
+# 目标: Copilot
 DOMAIN,self.events.data.microsoft.com
+# 目标: Copilot
 DOMAIN,services.bingapis.com
+# 目标: Copilot
 DOMAIN,static.cloudflareinsights.com
+# 目标: Copilot
 DOMAIN,sydney.bing.com
+# 目标: Copilot
 DOMAIN,www.bing.com
+# 目标: Copilot
 DOMAIN-SUFFIX,algolia.net
+# 目标: Copilot
 DOMAIN-SUFFIX,api.microsoftapp.net
+# 目标: Copilot
 DOMAIN-SUFFIX,auth0.com
+# 目标: Copilot
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
+# 目标: Copilot
 DOMAIN-SUFFIX,challenges.cloudflare.com
+# 目标: Copilot
 DOMAIN-SUFFIX,chatgpt.com
+# 目标: Copilot
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
+# 目标: Copilot
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+# 目标: Copilot
 DOMAIN-SUFFIX,edgeservices.bing.com
+# 目标: Copilot
 DOMAIN-SUFFIX,events.statsigapi.net
+# 目标: Copilot
 DOMAIN-SUFFIX,featuregates.org
+# 目标: Copilot
 DOMAIN-SUFFIX,host.livekit.cloud
+# 目标: Copilot
 DOMAIN-SUFFIX,identrust.com
+# 目标: Copilot
 DOMAIN-SUFFIX,intercom.io
+# 目标: Copilot
 DOMAIN-SUFFIX,intercomcdn.com
+# 目标: Copilot
 DOMAIN-SUFFIX,launchdarkly.com
+# 目标: Copilot
 DOMAIN-SUFFIX,oaistatic.com
+# 目标: Copilot
 DOMAIN-SUFFIX,oaiusercontent.com
+# 目标: Copilot
 DOMAIN-SUFFIX,observeit.net
+# 目标: Copilot
 DOMAIN-SUFFIX,openai.com
+# 目标: Copilot
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+# 目标: Copilot
 DOMAIN-SUFFIX,openaicom.imgix.net
+# 目标: Copilot
 DOMAIN-SUFFIX,segment.io
+# 目标: Copilot
 DOMAIN-SUFFIX,sentry.io
+# 目标: Copilot
 DOMAIN-SUFFIX,stripe.com
+# 目标: Copilot
 DOMAIN-SUFFIX,turn.livekit.cloud
+# 目标: Copilot
 DOMAIN-KEYWORD,openaicom-api
+# 目标: Copilot
 IP-ASN,14061,no-resolve
+# 目标: Copilot
 IP-ASN,20473,no-resolve
+# 目标: Copilot
 IP-CIDR,24.199.123.28/32,no-resolve
+# 目标: Copilot
 IP-CIDR,64.23.132.171/32,no-resolve

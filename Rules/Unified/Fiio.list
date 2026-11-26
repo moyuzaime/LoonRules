@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: Fiio
 # 合并来源: blackmatrix7/ios_rule_script Fiio
+# 说明: 飞傲
 # 规则数: 4
+# 目标: Fiio
 DOMAIN-SUFFIX,fiio.cn
+# 目标: Fiio
 DOMAIN-SUFFIX,fiio.com
+# 目标: Fiio
 DOMAIN-SUFFIX,fiio.com.cn
+# 目标: Fiio
 DOMAIN-SUFFIX,fiio.net

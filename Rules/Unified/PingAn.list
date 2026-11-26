@@ -1,30 +1,58 @@
 # 统一规则库 | 分类: PingAn
 # 合并来源: blackmatrix7/ios_rule_script PingAn
+# 说明: 平安
 # 规则数: 27
+# 目标: PingAn
 DOMAIN-SUFFIX,1010-0000.com
+# 目标: PingAn
 DOMAIN-SUFFIX,18ebank.com
+# 目标: PingAn
 DOMAIN-SUFFIX,1qianbao.cn
+# 目标: PingAn
 DOMAIN-SUFFIX,1qianbao.com
+# 目标: PingAn
 DOMAIN-SUFFIX,1qianbao.com.cn
+# 目标: PingAn
 DOMAIN-SUFFIX,1qianbao.net
+# 目标: PingAn
 DOMAIN-SUFFIX,4008000000.com
+# 目标: PingAn
 DOMAIN-SUFFIX,4008824365.com
+# 目标: PingAn
 DOMAIN-SUFFIX,4008880999.cn
+# 目标: PingAn
 DOMAIN-SUFFIX,4008880999.com
+# 目标: PingAn
 DOMAIN-SUFFIX,4008880999.net
+# 目标: PingAn
 DOMAIN-SUFFIX,eka.cn
+# 目标: PingAn
 DOMAIN-SUFFIX,ekapay.cn
+# 目标: PingAn
 DOMAIN-SUFFIX,mingyuanfund.com
+# 目标: PingAn
 DOMAIN-SUFFIX,olatop.cn
+# 目标: PingAn
 DOMAIN-SUFFIX,olatop.com
+# 目标: PingAn
 DOMAIN-SUFFIX,olatop.net
+# 目标: PingAn
 DOMAIN-SUFFIX,pingan.com
+# 目标: PingAn
 DOMAIN-SUFFIX,pingan.com.cn
+# 目标: PingAn
 DOMAIN-SUFFIX,pingan.com.hk
+# 目标: PingAn
 DOMAIN-SUFFIX,pinganonline.com.cn
+# 目标: PingAn
 DOMAIN-SUFFIX,pinganventures.com
+# 目标: PingAn
 DOMAIN-SUFFIX,yiqianbao.com.cn
+# 目标: PingAn
 DOMAIN-SUFFIX,yiqianbao.net
+# 目标: PingAn
 DOMAIN-SUFFIX,yqb.com
+# 目标: PingAn
 DOMAIN-SUFFIX,yqbimg.com
+# 目标: PingAn
 DOMAIN-SUFFIX,yqbimg.net

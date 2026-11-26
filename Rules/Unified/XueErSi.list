@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: XueErSi
 # 合并来源: blackmatrix7/ios_rule_script XueErSi
+# 说明: 学而思
 # 规则数: 3
+# 目标: XueErSi
 DOMAIN-SUFFIX,speiyou.com
+# 目标: XueErSi
 DOMAIN-SUFFIX,xesimg.com
+# 目标: XueErSi
 DOMAIN-SUFFIX,xueersi.com

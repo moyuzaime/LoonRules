@@ -1,10 +1,18 @@
 # 统一规则库 | 分类: Anjuke
 # 合并来源: blackmatrix7/ios_rule_script Anjuke
+# 说明: 安居客
 # 规则数: 7
+# 目标: Anjuke
 DOMAIN-SUFFIX,aifang.com
+# 目标: Anjuke
 DOMAIN-SUFFIX,aifcdn.com
+# 目标: Anjuke
 DOMAIN-SUFFIX,ajkinclude.com
+# 目标: Anjuke
 DOMAIN-SUFFIX,anjuke.cn
+# 目标: Anjuke
 DOMAIN-SUFFIX,anjuke.com
+# 目标: Anjuke
 DOMAIN-SUFFIX,anjukestatic.com
+# 目标: Anjuke
 DOMAIN-SUFFIX,jikejia.cn

@@ -1,7 +1,12 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/FanFou/FanFou.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FanFou/FanFou.list
+# 说明: 饭否科技
 # 规则数: 4
+# 目标: FanFou
 DOMAIN-SUFFIX,comox.cn
+# 目标: FanFou
 DOMAIN-SUFFIX,comum.cn
+# 目标: FanFou
 DOMAIN-SUFFIX,ifanfou.cn
+# 目标: FanFou
 DOMAIN-SUFFIX,mlj130.cn

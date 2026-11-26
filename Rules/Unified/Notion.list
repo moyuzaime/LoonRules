@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: Notion
 # 合并来源: blackmatrix7/ios_rule_script Notion
 # 规则数: 6
+# 目标: Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
+# 目标: Notion
 DOMAIN-SUFFIX,notion-static.com
+# 目标: Notion
 DOMAIN-SUFFIX,notion.com
+# 目标: Notion
 DOMAIN-SUFFIX,notion.new
+# 目标: Notion
 DOMAIN-SUFFIX,notion.site
+# 目标: Notion
 DOMAIN-SUFFIX,notion.so

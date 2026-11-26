@@ -1,24 +1,45 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/onedrive.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/onedrive.list
 # 规则数: 21
+# 目标: onedrive
 DOMAIN-SUFFIX,1drv.com
+# 目标: onedrive
 DOMAIN-SUFFIX,livefilestore.com
+# 目标: onedrive
 DOMAIN-SUFFIX,microsoftpersonalcontent.com
+# 目标: onedrive
 DOMAIN-SUFFIX,oneclient.sfx.ms
+# 目标: onedrive
 DOMAIN-SUFFIX,onedrive
+# 目标: onedrive
 DOMAIN-SUFFIX,onedrive.com
+# 目标: onedrive
 DOMAIN-SUFFIX,onedrive.live.com
+# 目标: onedrive
 DOMAIN-SUFFIX,onedriveupdater
+# 目标: onedrive
 DOMAIN-SUFFIX,photos.live.com
+# 目标: onedrive
 DOMAIN-SUFFIX,sharepoint.cn
+# 目标: onedrive
 DOMAIN-SUFFIX,sharepoint.com
+# 目标: onedrive
 DOMAIN-SUFFIX,sharepointonline.com
+# 目标: onedrive
 DOMAIN-SUFFIX,skydrive.wns.windows.com
+# 目标: onedrive
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+# 目标: onedrive
 DOMAIN-SUFFIX,storage.live.com
+# 目标: onedrive
 DOMAIN-SUFFIX,storage.msn.com
+# 目标: onedrive
 DOMAIN-KEYWORD,1drv
+# 目标: onedrive
 DOMAIN-KEYWORD,onedrive
+# 目标: onedrive
 DOMAIN-KEYWORD,skydrive
+# 目标: onedrive
 PROCESS-NAME,OneDrive
+# 目标: onedrive
 PROCESS-NAME,OneDriveUpdater

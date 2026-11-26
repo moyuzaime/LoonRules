@@ -1,13 +1,24 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/BaiFenDian/BaiFenDian.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BaiFenDian/BaiFenDian.list
+# 说明: 百分点
 # 规则数: 10
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,baifendian.com
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,bfdcdn.com
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,bfdcloud.com
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,blingoffice.com
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,marimall.cn
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,mediaforce.cn
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,pdeepmatrix.com
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,percent.cn
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,pertalk.cn
+# 目标: BaiFenDian
 DOMAIN-SUFFIX,xworld.net.cn

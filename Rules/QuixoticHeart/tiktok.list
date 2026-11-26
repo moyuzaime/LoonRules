@@ -1,129 +1,255 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/tiktok.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/tiktok.list
 # 规则数: 126
+# 目标: tiktok
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+# 目标: tiktok
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+# 目标: tiktok
 DOMAIN,roovza-launches.appsflyersdk.com
+# 目标: tiktok
 DOMAIN,roovza.inapps.appsflyersdk.com
+# 目标: tiktok
 DOMAIN,roovza.launches.appsflyersdk.com
+# 目标: tiktok
 DOMAIN,roovza.skadsdk.appsflyersdk.com
+# 目标: tiktok
 DOMAIN,trae-api-sg.mchost.guru
+# 目标: tiktok
 DOMAIN-SUFFIX,bytedapm.com
+# 目标: tiktok
 DOMAIN-SUFFIX,bytegecko-i18n.com
+# 目标: tiktok
 DOMAIN-SUFFIX,byteglb.com
+# 目标: tiktok
 DOMAIN-SUFFIX,byteintlapi.com
+# 目标: tiktok
 DOMAIN-SUFFIX,byteoversea.com
+# 目标: tiktok
 DOMAIN-SUFFIX,capcut.com
+# 目标: tiktok
 DOMAIN-SUFFIX,capcutapi.com
+# 目标: tiktok
 DOMAIN-SUFFIX,capcutapi.us
+# 目标: tiktok
 DOMAIN-SUFFIX,capcutstatic.com
+# 目标: tiktok
 DOMAIN-SUFFIX,dm.bytedance.com
+# 目标: tiktok
 DOMAIN-SUFFIX,gts.byteoversea.net
+# 目标: tiktok
 DOMAIN-SUFFIX,ibytedtos.com
+# 目标: tiktok
 DOMAIN-SUFFIX,ibyteimg.com
+# 目标: tiktok
 DOMAIN-SUFFIX,ipstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,isnssdk.com
+# 目标: tiktok
 DOMAIN-SUFFIX,lf1-ttcdn-tos.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,marscode.com
+# 目标: tiktok
 DOMAIN-SUFFIX,muscdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,musemuse.cn
+# 目标: tiktok
 DOMAIN-SUFFIX,musical.ly
+# 目标: tiktok
 DOMAIN-SUFFIX,musically.ly
+# 目标: tiktok
 DOMAIN-SUFFIX,p1-tt-ipv6.byteimg.com
+# 目标: tiktok
 DOMAIN-SUFFIX,p1-tt.byteimg.com
+# 目标: tiktok
 DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net
+# 目标: tiktok
 DOMAIN-SUFFIX,p16.hypstarcdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,p26-tt.byteimg.com
+# 目标: tiktok
 DOMAIN-SUFFIX,p3-tt-ipv6.byteimg.com
+# 目标: tiktok
 DOMAIN-SUFFIX,p9-tt.byteimg.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-f3-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-f5-hs.flive.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-f5-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-f5-mus.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-flv-f1-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-flv-f6-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-flv-l1-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-flv-l1-mus.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-flv-l6-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-hls-l1-mus.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-l3-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-rtmp-f1-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-rtmp-f6-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-rtmp-l1-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-rtmp-l1-mus.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,pull-rtmp-l6-hs.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,quic-tiktok-core-proxy-i18n-gcpva.byteoversea.net
+# 目标: tiktok
 DOMAIN-SUFFIX,quic-tiktok-proxy-i18n-gcpva.byteoversea.net
+# 目标: tiktok
 DOMAIN-SUFFIX,sf1-ttcdn-tos.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,sgali3.l.byteoversea.net
+# 目标: tiktok
 DOMAIN-SUFFIX,sgpstatp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,sgsnssdk.com
+# 目标: tiktok
 DOMAIN-SUFFIX,snssdk.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tik-tokapi.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok-lb-alisg.byteoversea.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok-lb-maliva.byteoversea.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok-lb-texas.useast5.byteoversea.net.byteigtm.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok-minis.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok-platform-lb-alisg.byteoversea.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok-platform-lb-maliva.byteoversea.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok-row.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok.in
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktok.org
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn-com.akamaized.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn-eu.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn-eu.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn-in.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn-us.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn-us.com.atomile.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn-us.com.c.worldfcdn2.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.atomile.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.c.bytefcdn-oversea.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.c.bytefcdn-ttpeu.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.c.bytetcdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.c.worldfcdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.qlivecdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.rocket-cdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokcdn.com.tlivepush.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokd.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokd.org
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokeu-cdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokglobalshop.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokglobalshopv.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokminis.us
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokmusic.app
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokrow-cdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokshop.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokstaticb.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokv.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokv.com.c.bytefcdn-oversea.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokv.com.c.worldfcdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokv.com.c.worldfcdn2.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokv.eu
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokv.us
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokvapp.com
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokw.eu
+# 目标: tiktok
 DOMAIN-SUFFIX,tiktokw.us
+# 目标: tiktok
 DOMAIN-SUFFIX,tlivecdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,trae.ai
+# 目标: tiktok
 DOMAIN-SUFFIX,ttapis.com
+# 目标: tiktok
 DOMAIN-SUFFIX,ttcdn-us.com
+# 目标: tiktok
 DOMAIN-SUFFIX,ttdns2.com
+# 目标: tiktok
 DOMAIN-SUFFIX,ttlivecdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,ttlivecdn.com.c.bytefcdn-oversea.com
+# 目标: tiktok
 DOMAIN-SUFFIX,ttlivecdn.com.c.worldfcdn.com
+# 目标: tiktok
 DOMAIN-SUFFIX,ttoversea.net
+# 目标: tiktok
 DOMAIN-SUFFIX,ttoverseaus.net
+# 目标: tiktok
 DOMAIN-SUFFIX,ttwebview.com
+# 目标: tiktok
 DOMAIN-SUFFIX,ttwstatic.com
+# 目标: tiktok
 DOMAIN-SUFFIX,v16-tiktokcdn-com.akamaized.net
+# 目标: tiktok
 DOMAIN-KEYWORD,musical.ly
+# 目标: tiktok
 DOMAIN-KEYWORD,tiktok
+# 目标: tiktok
 PROCESS-NAME,com.zhiliaoapp.musically

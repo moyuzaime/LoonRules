@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: KuKeMusic
 # 合并来源: blackmatrix7/ios_rule_script KuKeMusic
+# 说明: 库客音乐
 # 规则数: 3
+# 目标: KuKeMusic
 DOMAIN-SUFFIX,kuke.com
+# 目标: KuKeMusic
 DOMAIN-SUFFIX,kukey.com.cn
+# 目标: KuKeMusic
 DOMAIN-SUFFIX,naxos.cn

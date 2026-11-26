@@ -1,34 +1,65 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/dmm.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/dmm.list
 # 规则数: 31
+# 目标: dmm
 DOMAIN-SUFFIX,akabeesoft2.com
+# 目标: dmm
 DOMAIN-SUFFIX,akabeesoft3.com
+# 目标: dmm
 DOMAIN-SUFFIX,akatsukiworks.com
+# 目标: dmm
 DOMAIN-SUFFIX,alicesoft.com
+# 目标: dmm
 DOMAIN-SUFFIX,api-p.videomarket.jp
+# 目标: dmm
 DOMAIN-SUFFIX,bluekai.com
+# 目标: dmm
 DOMAIN-SUFFIX,cosmiccute.com
+# 目标: dmm
 DOMAIN-SUFFIX,ddo.jp
+# 目标: dmm
 DOMAIN-SUFFIX,dmm-extension.com
+# 目标: dmm
 DOMAIN-SUFFIX,dmm.co.jp
+# 目标: dmm
 DOMAIN-SUFFIX,dmm.com
+# 目标: dmm
 DOMAIN-SUFFIX,dmm.hk
+# 目标: dmm
 DOMAIN-SUFFIX,dmmapis.com
+# 目标: dmm
 DOMAIN-SUFFIX,dmmrex.com
+# 目标: dmm
 DOMAIN-SUFFIX,fanza.jp
+# 目标: dmm
 DOMAIN-SUFFIX,fout.jp
+# 目标: dmm
 DOMAIN-SUFFIX,gmossp-sp.jp
+# 目标: dmm
 DOMAIN-SUFFIX,hibiki-site.com
+# 目标: dmm
 DOMAIN-SUFFIX,i-mobile.co.jp
+# 目标: dmm
 DOMAIN-SUFFIX,im-apps.net
+# 目标: dmm
 DOMAIN-SUFFIX,impact-ad.jp
+# 目标: dmm
 DOMAIN-SUFFIX,ladsp.com
+# 目标: dmm
 DOMAIN-SUFFIX,microad.co.jp
+# 目标: dmm
 DOMAIN-SUFFIX,microad.jp
+# 目标: dmm
 DOMAIN-SUFFIX,minori.ph
+# 目标: dmm
 DOMAIN-SUFFIX,navismithapis-cdn.com
+# 目标: dmm
 DOMAIN-SUFFIX,socdm.com
+# 目标: dmm
 DOMAIN-SUFFIX,tenco.cc
+# 目标: dmm
 DOMAIN-SUFFIX,wheel-soft.com
+# 目标: dmm
 IP-CIDR,125.6.189.7/32,no-resolve
+# 目标: dmm
 IP-CIDR,203.104.209.7/32,no-resolve

@@ -1,13 +1,24 @@
 # 统一规则库 | 分类: SouFang
 # 合并来源: blackmatrix7/ios_rule_script SouFang
+# 说明: 搜房
 # 规则数: 10
+# 目标: SouFang
 DOMAIN-SUFFIX,fang.com
+# 目标: SouFang
 DOMAIN-SUFFIX,hkproperty.com
+# 目标: SouFang
 DOMAIN-SUFFIX,houselight.cn
+# 目标: SouFang
 DOMAIN-SUFFIX,nree.cn
+# 目标: SouFang
 DOMAIN-SUFFIX,soufun.com
+# 目标: SouFang
 DOMAIN-SUFFIX,soufun.com.cn
+# 目标: SouFang
 DOMAIN-SUFFIX,soufunimg.com
+# 目标: SouFang
 DOMAIN-SUFFIX,txsf.com
+# 目标: SouFang
 DOMAIN-SUFFIX,villachina.com
+# 目标: SouFang
 DOMAIN-SUFFIX,villachina.com.cn

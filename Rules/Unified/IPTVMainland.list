@@ -1,3607 +1,7212 @@
 # 统一规则库 | 分类: IPTVMainland
 # 合并来源: blackmatrix7/ios_rule_script IPTVMainland
+# 说明: IPTV大陆
 # 规则数: 3604
+# 目标: IPTVMainland
 DOMAIN,1-fss24-s0.streamhoster.com
+# 目标: IPTVMainland
 DOMAIN,1.cache.applinzi.com
+# 目标: IPTVMainland
 DOMAIN,12371alic.v.myalicdn.com
+# 目标: IPTVMainland
 DOMAIN,14033.live.streamtheworld.com
+# 目标: IPTVMainland
 DOMAIN,156zy.suyunbo.tv
+# 目标: IPTVMainland
 DOMAIN,19183.live.streamtheworld.com
+# 目标: IPTVMainland
 DOMAIN,1b6467f415.iok.la
+# 目标: IPTVMainland
 DOMAIN,1hdru-hls-otcnet.cdnvideo.ru
+# 目标: IPTVMainland
 DOMAIN,1yp7hc5p.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,20573.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,21084.liveplay.myqcloud.com
+# 目标: IPTVMainland
 DOMAIN,22283.live.streamtheworld.com
+# 目标: IPTVMainland
 DOMAIN,22393.live.streamtheworld.com
+# 目标: IPTVMainland
 DOMAIN,24tl.qingk.cn
+# 目标: IPTVMainland
 DOMAIN,3017ugjo.live2.danghongyun.com
+# 目标: IPTVMainland
 DOMAIN,30515.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,30539.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,30814.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,31022.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,31182.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,32004.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,32553.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,33058.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,33789.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,33809.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,34253.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,34540.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,34766.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,34911.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,35848.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,35908.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,36009.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,36133.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,36221.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,36476.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,36514.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,36526.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,36941.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,36979.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,38472.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,3g.dzsm.com
+# 目标: IPTVMainland
 DOMAIN,3gvod.zjgonline.com.cn
+# 目标: IPTVMainland
 DOMAIN,4521.hlsplay.aodianyun.com
+# 目标: IPTVMainland
 DOMAIN,568slnjf.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,59ec5453559f0.streamlock.net
+# 目标: IPTVMainland
 DOMAIN,5c3639aa99149.streamlock.net
+# 目标: IPTVMainland
 DOMAIN,6.mms.vlog.xuite.net
+# 目标: IPTVMainland
 DOMAIN,7sycrzf7.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,83awgyp5.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,a.live.hnradio.com
+# 目标: IPTVMainland
 DOMAIN,a.xttv.top
+# 目标: IPTVMainland
 DOMAIN,abclive2-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,ablive.abatv.com.cn
+# 目标: IPTVMainland
 DOMAIN,agsj.appcoo.com
+# 目标: IPTVMainland
 DOMAIN,ahhs.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,ahhsdb.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,aka-amd-njpwworld-hls-enlive.akamaized.net
+# 目标: IPTVMainland
 DOMAIN,al.hls.huya.com
+# 目标: IPTVMainland
 DOMAIN,aldirect.hls.huya.com
+# 目标: IPTVMainland
 DOMAIN,aljazeera-eng-hd-live.hls.adaptive.level3.net
+# 目标: IPTVMainland
 DOMAIN,amdlive-ch01.ctnd.com.edgesuite.net
+# 目标: IPTVMainland
 DOMAIN,amdlive-ch03-ctnd-com.akamaized.net
+# 目标: IPTVMainland
 DOMAIN,amdlive-ch03.ctnd.com.edgesuite.net
+# 目标: IPTVMainland
 DOMAIN,amdlive.ctnd.com.edgesuite.net
+# 目标: IPTVMainland
 DOMAIN,antvlive.ab5c6921.cdnviet.com
+# 目标: IPTVMainland
 DOMAIN,aod.xjbs.com.cn
+# 目标: IPTVMainland
 DOMAIN,aplay.gztv.com
+# 目标: IPTVMainland
 DOMAIN,app.qatv.cn
+# 目标: IPTVMainland
 DOMAIN,app.xygdcm.com
+# 目标: IPTVMainland
 DOMAIN,app.yixianfabu.com
+# 目标: IPTVMainland
 DOMAIN,as-hls-ww-live.akamaized.net
+# 目标: IPTVMainland
 DOMAIN,astro1.rastream.com
+# 目标: IPTVMainland
 DOMAIN,audio-live.radio.cn
+# 目标: IPTVMainland
 DOMAIN,audiolive.rbc.cn
+# 目标: IPTVMainland
 DOMAIN,b.ds.ch.dingtoo.com
+# 目标: IPTVMainland
 DOMAIN,badong-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,baidu.live.cqccn.com
+# 目标: IPTVMainland
 DOMAIN,bananlive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,bbstv.clouducs.com
+# 目标: IPTVMainland
 DOMAIN,bililive.kksmg.com
+# 目标: IPTVMainland
 DOMAIN,bktvplay.gdnewmedia.cc
+# 目标: IPTVMainland
 DOMAIN,bl.ainaxi.cn
+# 目标: IPTVMainland
 DOMAIN,bst.broadcast.live.bestvcdn.com.cn
+# 目标: IPTVMainland
 DOMAIN,bsyll.qingk.cn
+# 目标: IPTVMainland
 DOMAIN,cast.news98.com.tw
+# 目标: IPTVMainland
 DOMAIN,cast.uforadio.com.tw
+# 目标: IPTVMainland
 DOMAIN,cbsnewshd-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,cclive.aniu.tv
+# 目标: IPTVMainland
 DOMAIN,cclive2.aniu.tv
+# 目标: IPTVMainland
 DOMAIN,cctv1.vtime.cntv.dnion.com
+# 目标: IPTVMainland
 DOMAIN,cctv13.vtime.cntv.dnion.com
+# 目标: IPTVMainland
 DOMAIN,cctvalih5ca.v.myalicdn.com
+# 目标: IPTVMainland
 DOMAIN,cctvtxyh5ca.liveplay.myqcloud.com
+# 目标: IPTVMainland
 DOMAIN,cdn-out.iqy.sc96655.com
+# 目标: IPTVMainland
 DOMAIN,cdn-videos.akamaized.net
+# 目标: IPTVMainland
 DOMAIN,cdn.gdlive.gdmain.com
+# 目标: IPTVMainland
 DOMAIN,cdn.hkdtmb.com
+# 目标: IPTVMainland
 DOMAIN,cdnpull.0471tv.org.cn
+# 目标: IPTVMainland
 DOMAIN,cgntv-glive.ofsdelivery.net
+# 目标: IPTVMainland
 DOMAIN,changyang.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,channellive.leshantv.net
+# 目标: IPTVMainland
 DOMAIN,chaoan.chaoantv.com
+# 目标: IPTVMainland
 DOMAIN,chengkoulive2.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,chibi-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,chyd-wsvod.wasu.tv
+# 目标: IPTVMainland
 DOMAIN,cinb1.peoplevideo.cn
+# 目标: IPTVMainland
 DOMAIN,cm.wshls.homecdn.com
+# 目标: IPTVMainland
 DOMAIN,cnpull.sccnfb.com
+# 目标: IPTVMainland
 DOMAIN,cstv.live.wscdns.com
+# 目标: IPTVMainland
 DOMAIN,cstvpull.live.wscdns.com
+# 目标: IPTVMainland
 DOMAIN,ctt.rgd.com.cn
+# 目标: IPTVMainland
 DOMAIN,czlive.czgd.tv
+# 目标: IPTVMainland
 DOMAIN,cztv.wshls.homecdn.com
+# 目标: IPTVMainland
 DOMAIN,d9af5a60.edmonst.net
+# 目标: IPTVMainland
 DOMAIN,dafeng-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,dayeyun-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,dayeyun.live.tempsource.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,dazulive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,dbiptv.sn.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,devlivepull.migucloud.com
+# 目标: IPTVMainland
 DOMAIN,devpgclive.cmc.dyrmt.com
+# 目标: IPTVMainland
 DOMAIN,dianjianglive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,dlhls-cdn-mp.zhanqi.tv
+# 目标: IPTVMainland
 DOMAIN,dlhls.cdn.zhanqi.tv
+# 目标: IPTVMainland
 DOMAIN,dlhls.live.cnlive.com
+# 目标: IPTVMainland
 DOMAIN,donghai-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,dongtai-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,dslive.grtn.cn
+# 目标: IPTVMainland
 DOMAIN,dstpush1.retalltech.com
+# 目标: IPTVMainland
 DOMAIN,dtrmlive.qhdtrm.cn
+# 目标: IPTVMainland
 DOMAIN,dxplay.scwy.cn
+# 目标: IPTVMainland
 DOMAIN,dyscdnali1.douyucdn.cn
+# 目标: IPTVMainland
 DOMAIN,e1.vdowowza.vip.hk1.tvb.com
+# 目标: IPTVMainland
 DOMAIN,edge.music-choice-play-chaina1.top.comcast.net
+# 目标: IPTVMainland
 DOMAIN,edge2.yntv.cn
+# 目标: IPTVMainland
 DOMAIN,embl.emsyd.jrem.cn
+# 目标: IPTVMainland
 DOMAIN,encoder3.ywcity.cn
+# 目标: IPTVMainland
 DOMAIN,enshi-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,enshi.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,ezhou.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,f24hls-i.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,fash1043.cloudycdn.services
+# 目标: IPTVMainland
 DOMAIN,file.hhtv.cc
+# 目标: IPTVMainland
 DOMAIN,file.lasatv.cn
+# 目标: IPTVMainland
 DOMAIN,file.mb.leshantv.net
+# 目标: IPTVMainland
 DOMAIN,file.ncntv.com.cn
+# 目标: IPTVMainland
 DOMAIN,file.pebtv.cn
+# 目标: IPTVMainland
 DOMAIN,file.qmxrmt.com
+# 目标: IPTVMainland
 DOMAIN,file.xsbnrtv.cn
+# 目标: IPTVMainland
 DOMAIN,file.yizu.tv
+# 目标: IPTVMainland
 DOMAIN,file.ysxtv.cn
+# 目标: IPTVMainland
 DOMAIN,fjnh.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,fjnhdb.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,fjpc.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,fjsh.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,flv.drs.tv.yatv.tv
+# 目标: IPTVMainland
 DOMAIN,fm901.cityfm.tw
+# 目标: IPTVMainland
 DOMAIN,fm929.cityfm.tw
+# 目标: IPTVMainland
 DOMAIN,fm971.cityfm.tw
+# 目标: IPTVMainland
 DOMAIN,fm983.cityfm.tw
+# 目标: IPTVMainland
 DOMAIN,fmcdn.jin10.com
+# 目标: IPTVMainland
 DOMAIN,fms.yyrtv.com
+# 目标: IPTVMainland
 DOMAIN,fvsln5ps.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,ganyu-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,gaoyou-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,gayotv.net
+# 目标: IPTVMainland
 DOMAIN,gcalic.v.myalicdn.com
+# 目标: IPTVMainland
 DOMAIN,gcbsc.v.live.baishancdnx.cn
+# 目标: IPTVMainland
 DOMAIN,gccncc.v.wscdns.com
+# 目标: IPTVMainland
 DOMAIN,gctxyc.liveplay.myqcloud.com
+# 目标: IPTVMainland
 DOMAIN,gddb.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,gdhj.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,ggpagerl.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,glive.grtn.cn
+# 目标: IPTVMainland
 DOMAIN,gpb-hls.streamguys1.com
+# 目标: IPTVMainland
 DOMAIN,gs.hdp.ds.lunbocl.ott.cibntv.net
+# 目标: IPTVMainland
 DOMAIN,gslbmeiah.cdn.hk.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,gslbserv.itv.cmvideo.cn
+# 目标: IPTVMainland
 DOMAIN,guangshui-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,guangshui.live.tempsource.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,gztr.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,h5.baojinews.com
+# 目标: IPTVMainland
 DOMAIN,haian-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,haiyan.liveyun.hoge.cn
+# 目标: IPTVMainland
 DOMAIN,hb2stream1.baoxinwen.com
+# 目标: IPTVMainland
 DOMAIN,hbbz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbca.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbcb.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbcx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbdg.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbfc.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbgt.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbhh.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbjx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hblc.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hblh.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hblq.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hblxx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hblz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbnq.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbpx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbry.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbsh.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbsx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbsz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbwq.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbxx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbyn.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbzq.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbzqdb.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbzx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hbzz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hebcx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hefeng.live.tempsource.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,hellotv-iptv.uwp.ac.cn
+# 目标: IPTVMainland
 DOMAIN,henanxx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hgwfkx5eb6j8bf3pd0c.exp.bcelive.com
+# 目标: IPTVMainland
 DOMAIN,hhab.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hindiabp-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,hljwc.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hls-1.wamu.org
+# 目标: IPTVMainland
 DOMAIN,hls-ott-zhibo.wasu.tv
+# 目标: IPTVMainland
 DOMAIN,hls-video01.cdnvideo.ru
+# 目标: IPTVMainland
 DOMAIN,hls.cdn.ua
+# 目标: IPTVMainland
 DOMAIN,hls.dhtv.cn
+# 目标: IPTVMainland
 DOMAIN,hls.hkbtv.cn
+# 目标: IPTVMainland
 DOMAIN,hls.hsrtv.cn
+# 目标: IPTVMainland
 DOMAIN,hls.kqed.org
+# 目标: IPTVMainland
 DOMAIN,hls.liveshow.bdstatic.com
+# 目标: IPTVMainland
 DOMAIN,hls.mlink.tv
+# 目标: IPTVMainland
 DOMAIN,hls.ningxiahuangheyun.com
+# 目标: IPTVMainland
 DOMAIN,hls.nntv.cn
+# 目标: IPTVMainland
 DOMAIN,hls.qguiyang.com
+# 目标: IPTVMainland
 DOMAIN,hls.quklive.com
+# 目标: IPTVMainland
 DOMAIN,hls.qxtv0763.com
+# 目标: IPTVMainland
 DOMAIN,hls.weathertv.cn
+# 目标: IPTVMainland
 DOMAIN,hls.wiseqx.com
+# 目标: IPTVMainland
 DOMAIN,hls.wlrn.mobi
+# 目标: IPTVMainland
 DOMAIN,hlsv2.quklive.com
+# 目标: IPTVMainland
 DOMAIN,hms24nc1972679559.live.aikan.miguvideo.com
+# 目标: IPTVMainland
 DOMAIN,hms363nc1880172761.live.aikan.miguvideo.com
+# 目标: IPTVMainland
 DOMAIN,hndc.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnhs.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnhx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnmc.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnmq.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnnz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnqf.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnsd.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnsf.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnsy.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hntj.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hntk.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hntvpull.8686c.com
+# 目标: IPTVMainland
 DOMAIN,hnyc.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnyx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hnyz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,hongan-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,hongan.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,honghu-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,hpull.kktv8.com
+# 目标: IPTVMainland
 DOMAIN,hslive.hsnewsnet.com
+# 目标: IPTVMainland
 DOMAIN,httpdvb.slave.bfgd.com.cn
+# 目标: IPTVMainland
 DOMAIN,httpdvb.slave.homed.hrtn.net
+# 目标: IPTVMainland
 DOMAIN,httpdvb.slave.nx96200.cn
+# 目标: IPTVMainland
 DOMAIN,httpdvb.slave.ttcatv.tv
+# 目标: IPTVMainland
 DOMAIN,httpdvb.slave.yqdtv.com
+# 目标: IPTVMainland
 DOMAIN,huaiyin-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,huanggang-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,huanggang.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,huaweicdn.hb.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,hw-m-l.cztv.com
+# 目标: IPTVMainland
 DOMAIN,hw-play.lezhibo.com
+# 目标: IPTVMainland
 DOMAIN,hwapi.yunshicloud.com
+# 目标: IPTVMainland
 DOMAIN,hwltc.tv.cdn.zj.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,hwottcdn.ln.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,hwrr.jx.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,icecast-ruvr.cdnvideo.ru
+# 目标: IPTVMainland
 DOMAIN,ihzlh.linker.cc
+# 目标: IPTVMainland
 DOMAIN,iptv.ac.cn
+# 目标: IPTVMainland
 DOMAIN,iptv.pdsu.edu.cn
+# 目标: IPTVMainland
 DOMAIN,itv.ahau.edu.cn
+# 目标: IPTVMainland
 DOMAIN,ivi.bupt.edu.cn
+# 目标: IPTVMainland
 DOMAIN,jc-qlive-play.jingchangkan.cn
+# 目标: IPTVMainland
 DOMAIN,jiangjinlive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,jiangling-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,jiawang-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,jiayu-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,jiayu.live.tempsource.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,jingmen-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,jingzhou-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,jintan-tv-ori-hls.jstv.com
+# 目标: IPTVMainland
 DOMAIN,jpts.sinovision.net
+# 目标: IPTVMainland
 DOMAIN,jrlive.jrntv.com
+# 目标: IPTVMainland
 DOMAIN,js.hls.huya.com
+# 目标: IPTVMainland
 DOMAIN,jsbh.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,jsby.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,jssn.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,jsylivealone302.iqilu.com
+# 目标: IPTVMainland
 DOMAIN,juyunlive.juyun.tv
+# 目标: IPTVMainland
 DOMAIN,jvc.flashapp.cn
+# 目标: IPTVMainland
 DOMAIN,jwcdnqx.hebyun.com.cn
+# 目标: IPTVMainland
 DOMAIN,jwliveqxzb.hebyun.com.cn
+# 目标: IPTVMainland
 DOMAIN,jwplay.hebyun.com.cn
+# 目标: IPTVMainland
 DOMAIN,jxay.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,jxlive.jxrmtzx.com
+# 目标: IPTVMainland
 DOMAIN,jxsg.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,jxwz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,jxyx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,jxyz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,jzdb.jztvnews.com
+# 目标: IPTVMainland
 DOMAIN,jzlive.jztvnews.com
+# 目标: IPTVMainland
 DOMAIN,kaixianlive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,kcrw.streamguys1.com
+# 目标: IPTVMainland
 DOMAIN,keonline.shanghai.liveplay.qq.com
+# 目标: IPTVMainland
 DOMAIN,kid.hfcatv.com.cn
+# 目标: IPTVMainland
 DOMAIN,kjzz.streamguys1.com
+# 目标: IPTVMainland
 DOMAIN,klmyyun.chinavas.com
+# 目标: IPTVMainland
 DOMAIN,klmyzb.rcsxzx.com
+# 目标: IPTVMainland
 DOMAIN,kpbs-wowza.streamguys1.com
+# 目标: IPTVMainland
 DOMAIN,ksdlive.gwpd.iqilu.com
+# 目标: IPTVMainland
 DOMAIN,kut-hls.streamguys1.com
+# 目标: IPTVMainland
 DOMAIN,kwmu-flash.streamguys1.com
+# 目标: IPTVMainland
 DOMAIN,l.cztvcloud.com
+# 目标: IPTVMainland
 DOMAIN,l2.weihai.tv
+# 目标: IPTVMainland
 DOMAIN,l2fpdktp.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,l2yx82zv.live2.danghongyun.com
+# 目标: IPTVMainland
 DOMAIN,laifeng.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,lb.streaming.sk
+# 目标: IPTVMainland
 DOMAIN,lbyzztfe.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,lbzb.yd-data.com
+# 目标: IPTVMainland
 DOMAIN,lglivepull.sznews.com
+# 目标: IPTVMainland
 DOMAIN,lianshui-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,lichuan-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,lichuan.live.tempsource.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,linxinbf.fst1994.cn
+# 目标: IPTVMainland
 DOMAIN,live-350k.streamingfast.net
+# 目标: IPTVMainland
 DOMAIN,live-cdn.gxxw.com
+# 目标: IPTVMainland
 DOMAIN,live-dft-hls-yf.jstv.com
+# 目标: IPTVMainland
 DOMAIN,live-echotv.cdnvideo.ru
+# 目标: IPTVMainland
 DOMAIN,live-hls.ihzlh.linker.cc
+# 目标: IPTVMainland
 DOMAIN,live-stream.lsxrmtzx.com
+# 目标: IPTVMainland
 DOMAIN,live-wx.wifiwx.com
+# 目标: IPTVMainland
 DOMAIN,live.0359tv.com
+# 目标: IPTVMainland
 DOMAIN,live.0793.tv
+# 目标: IPTVMainland
 DOMAIN,live.ahsz.tv
+# 目标: IPTVMainland
 DOMAIN,live.aikan.miguvideo.com
+# 目标: IPTVMainland
 DOMAIN,live.aiyicheng.com.cn
+# 目标: IPTVMainland
 DOMAIN,live.appwuhan.com
+# 目标: IPTVMainland
 DOMAIN,live.aqbtv.cn
+# 目标: IPTVMainland
 DOMAIN,live.bcrmtzx.com
+# 目标: IPTVMainland
 DOMAIN,live.bhtv.cc
+# 目标: IPTVMainland
 DOMAIN,live.btgdt.com
+# 目标: IPTVMainland
 DOMAIN,live.bygd.cn
+# 目标: IPTVMainland
 DOMAIN,live.cgtn.com
+# 目标: IPTVMainland
 DOMAIN,live.china-latv.com
+# 目标: IPTVMainland
 DOMAIN,live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,live.cloud.yanews.cn
+# 目标: IPTVMainland
 DOMAIN,live.cms.anhuinews.com
+# 目标: IPTVMainland
 DOMAIN,live.czmarathon.net
+# 目标: IPTVMainland
 DOMAIN,live.cztv.cc
+# 目标: IPTVMainland
 DOMAIN,live.daningtv.com
+# 目标: IPTVMainland
 DOMAIN,live.dxhmt.cn
+# 目标: IPTVMainland
 DOMAIN,live.erdszs.org.cn
+# 目标: IPTVMainland
 DOMAIN,live.funhillmedia.com
+# 目标: IPTVMainland
 DOMAIN,live.funhillrm.com
+# 目标: IPTVMainland
 DOMAIN,live.g3proxy.lecloud.com
+# 目标: IPTVMainland
 DOMAIN,live.gnrtv.com
+# 目标: IPTVMainland
 DOMAIN,live.gprmt.cn
+# 目标: IPTVMainland
 DOMAIN,live.gslb.letv.com
+# 目标: IPTVMainland
 DOMAIN,live.gxqztv.com
+# 目标: IPTVMainland
 DOMAIN,live.hannews.com.cn
+# 目标: IPTVMainland
 DOMAIN,live.hd.hdbs.cn
+# 目标: IPTVMainland
 DOMAIN,live.hhtv.cc
+# 目标: IPTVMainland
 DOMAIN,live.hn0746.com
+# 目标: IPTVMainland
 DOMAIN,live.hndachao.cn
+# 目标: IPTVMainland
 DOMAIN,live.hnxttv.com
+# 目标: IPTVMainland
 DOMAIN,live.hnzzzzzdst.com
+# 目标: IPTVMainland
 DOMAIN,live.hrtonline.cn
+# 目标: IPTVMainland
 DOMAIN,live.huairtv.com
+# 目标: IPTVMainland
 DOMAIN,live.hyxrmt.com
+# 目标: IPTVMainland
 DOMAIN,live.hznet.tv
+# 目标: IPTVMainland
 DOMAIN,live.ilinyi.net
+# 目标: IPTVMainland
 DOMAIN,live.iwcmt.cn
+# 目标: IPTVMainland
 DOMAIN,live.jiaodong.net
+# 目标: IPTVMainland
 DOMAIN,live.jinchuanrmt.com
+# 目标: IPTVMainland
 DOMAIN,live.jinnews.com.cn
+# 目标: IPTVMainland
 DOMAIN,live.jmtv.com.cn
+# 目标: IPTVMainland
 DOMAIN,live.jyrmtzx.com
+# 目标: IPTVMainland
 DOMAIN,live.kanwz.net
+# 目标: IPTVMainland
 DOMAIN,live.lsrmw.cn
+# 目标: IPTVMainland
 DOMAIN,live.lxzc.net
+# 目标: IPTVMainland
 DOMAIN,live.lyg1.com
+# 目标: IPTVMainland
 DOMAIN,live.massp.cn
+# 目标: IPTVMainland
 DOMAIN,live.mudu.tv
+# 目标: IPTVMainland
 DOMAIN,live.nbs.cn
+# 目标: IPTVMainland
 DOMAIN,live.newslqy.com
+# 目标: IPTVMainland
 DOMAIN,live.ntdimg.com
+# 目标: IPTVMainland
 DOMAIN,live.plus.hugd.com
+# 目标: IPTVMainland
 DOMAIN,live.plus.jinhua.com.cn
+# 目标: IPTVMainland
 DOMAIN,live.pybtv.cn
+# 目标: IPTVMainland
 DOMAIN,live.qinyangtv.com
+# 目标: IPTVMainland
 DOMAIN,live.qxndt.com
+# 目标: IPTVMainland
 DOMAIN,live.qztvxwgj.com
+# 目标: IPTVMainland
 DOMAIN,live.rdxmt.com
+# 目标: IPTVMainland
 DOMAIN,live.rzw.com.cn
+# 目标: IPTVMainland
 DOMAIN,live.scbtv.cn
+# 目标: IPTVMainland
 DOMAIN,live.sccxtv.com
+# 目标: IPTVMainland
 DOMAIN,live.schdxww.com
+# 目标: IPTVMainland
 DOMAIN,live.schstv.com
+# 目标: IPTVMainland
 DOMAIN,live.sctvcloud.com
+# 目标: IPTVMainland
 DOMAIN,live.sdetv.com.cn
+# 目标: IPTVMainland
 DOMAIN,live.sfrmt.com
+# 目标: IPTVMainland
 DOMAIN,live.shaoxing.com.cn
+# 目标: IPTVMainland
 DOMAIN,live.sichuanmianning.com
+# 目标: IPTVMainland
 DOMAIN,live.sjsgdzx.com
+# 目标: IPTVMainland
 DOMAIN,live.sjsrm.com
+# 目标: IPTVMainland
 DOMAIN,live.spccmc.com
+# 目标: IPTVMainland
 DOMAIN,live.streamingfast.net
+# 目标: IPTVMainland
 DOMAIN,live.strmtzx.cn
+# 目标: IPTVMainland
 DOMAIN,live.todaydunhuang.com
+# 目标: IPTVMainland
 DOMAIN,live.tongdaotv.com
+# 目标: IPTVMainland
 DOMAIN,live.tvbaoji.com
+# 目标: IPTVMainland
 DOMAIN,live.txcmapp.com
+# 目标: IPTVMainland
 DOMAIN,live.ugratv.cdnvideo.ru
+# 目标: IPTVMainland
 DOMAIN,live.wanyuannews.com
+# 目标: IPTVMainland
 DOMAIN,live.wifizs.cn
+# 目标: IPTVMainland
 DOMAIN,live.wjyanghu.com
+# 目标: IPTVMainland
 DOMAIN,live.wxjy.com.cn
+# 目标: IPTVMainland
 DOMAIN,live.xmcdn.com
+# 目标: IPTVMainland
 DOMAIN,live.xn--kprp9vt3co1csxbnw2bdmep13c3h9a.xn--55qw42g.cn
+# 目标: IPTVMainland
 DOMAIN,live.xtgdw.cn
+# 目标: IPTVMainland
 DOMAIN,live.xysrmt.cn
+# 目标: IPTVMainland
 DOMAIN,live.yantaitv.cn
+# 目标: IPTVMainland
 DOMAIN,live.ybtvyun.com
+# 目标: IPTVMainland
 DOMAIN,live.yichuntv.com
+# 目标: IPTVMainland
 DOMAIN,live.yingxi.tv
+# 目标: IPTVMainland
 DOMAIN,live.yjtvw.com
+# 目标: IPTVMainland
 DOMAIN,live.ylwltv.com
+# 目标: IPTVMainland
 DOMAIN,live.ynbit.com
+# 目标: IPTVMainland
 DOMAIN,live.ynurl.com
+# 目标: IPTVMainland
 DOMAIN,live.yqrtv.com
+# 目标: IPTVMainland
 DOMAIN,live.ysxtv.cn
+# 目标: IPTVMainland
 DOMAIN,live.zgthxw.org.cn
+# 目标: IPTVMainland
 DOMAIN,live.zhihuizq.com
+# 目标: IPTVMainland
 DOMAIN,live.zjmc.tv
+# 目标: IPTVMainland
 DOMAIN,live.zmmek.com
+# 目标: IPTVMainland
 DOMAIN,live.zohi.tv
+# 目标: IPTVMainland
 DOMAIN,live.zscz0768.com
+# 目标: IPTVMainland
 DOMAIN,live.zzbtv.com
+# 目标: IPTVMainland
 DOMAIN,live.zzyxxw.com
+# 目标: IPTVMainland
 DOMAIN,live02.jxtvcn.com.cn
+# 目标: IPTVMainland
 DOMAIN,live02.rfi.fr
+# 目标: IPTVMainland
 DOMAIN,live1.cloud.nbtv.cn
+# 目标: IPTVMainland
 DOMAIN,live1.fhtv.net.cn
+# 目标: IPTVMainland
 DOMAIN,live1.fzntv.cn
+# 目标: IPTVMainland
 DOMAIN,live1.gatv.com.cn
+# 目标: IPTVMainland
 DOMAIN,live1.habctv.com
+# 目标: IPTVMainland
 DOMAIN,live1.jcbctv.com
+# 目标: IPTVMainland
 DOMAIN,live1.kxm.xmtv.cn
+# 目标: IPTVMainland
 DOMAIN,live1.lytv.com.cn
+# 目标: IPTVMainland
 DOMAIN,live1.nty.tv189.com
+# 目标: IPTVMainland
 DOMAIN,live1.plus.hugd.com
+# 目标: IPTVMainland
 DOMAIN,live1.plus.wifizs.cn
+# 目标: IPTVMainland
 DOMAIN,live1.rdxmt.com
+# 目标: IPTVMainland
 DOMAIN,live1.scmstv.cn
+# 目标: IPTVMainland
 DOMAIN,live1.wuhubtv.com
+# 目标: IPTVMainland
 DOMAIN,live2.asbctv.com
+# 目标: IPTVMainland
 DOMAIN,live2.gatv.com.cn
+# 目标: IPTVMainland
 DOMAIN,live2.hzitv.cn
+# 目标: IPTVMainland
 DOMAIN,live2.lytv.com.cn
+# 目标: IPTVMainland
 DOMAIN,live2.ntdimg.com
+# 目标: IPTVMainland
 DOMAIN,live2.plus.hebtv.com
+# 目标: IPTVMainland
 DOMAIN,live2.plus.jinhua.com.cn
+# 目标: IPTVMainland
 DOMAIN,live2.qxndt.com
+# 目标: IPTVMainland
 DOMAIN,live2.scmstv.cn
+# 目标: IPTVMainland
 DOMAIN,live2018.wuhunews.cn
+# 目标: IPTVMainland
 DOMAIN,live3.nty.tv189.com
+# 目标: IPTVMainland
 DOMAIN,live3.plus.hebtv.com
+# 目标: IPTVMainland
 DOMAIN,live5.plus.hebtv.com
+# 目标: IPTVMainland
 DOMAIN,live6.plus.hebtv.com
+# 目标: IPTVMainland
 DOMAIN,live7.hbtv.com.cn
+# 目标: IPTVMainland
 DOMAIN,live7.plus.hebtv.com
+# 目标: IPTVMainland
 DOMAIN,livealone302.iqilu.com
+# 目标: IPTVMainland
 DOMAIN,liveanevia.mncnow.id
+# 目标: IPTVMainland
 DOMAIN,livear.cgtn.com
+# 目标: IPTVMainland
 DOMAIN,livebroadcast.ccwb.cn
+# 目标: IPTVMainland
 DOMAIN,livebroadcastys.ccwb.cn
+# 目标: IPTVMainland
 DOMAIN,livecdn.dmqhyadmin.com
+# 目标: IPTVMainland
 DOMAIN,livecdn.fptplay.net
+# 目标: IPTVMainland
 DOMAIN,livecdn.pull.cdbs.com.cn
+# 目标: IPTVMainland
 DOMAIN,livecdnh2.tvanywhere.ae
+# 目标: IPTVMainland
 DOMAIN,livechina.cntv.wscdns.com
+# 目标: IPTVMainland
 DOMAIN,lived.dmqhyadmin.com
+# 目标: IPTVMainland
 DOMAIN,livees.cgtn.com
+# 目标: IPTVMainland
 DOMAIN,liveetkqq.sobeycache.com
+# 目标: IPTVMainland
 DOMAIN,liveflash.sxrtv.com
+# 目标: IPTVMainland
 DOMAIN,livefr.cgtn.com
+# 目标: IPTVMainland
 DOMAIN,livehqy.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,livehuiz.sobeycache.com
+# 目标: IPTVMainland
 DOMAIN,livejdrmt.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,livejieyang.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,livejnedu.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,liveop.cctv.cn
+# 目标: IPTVMainland
 DOMAIN,liveout.xntv.tv
+# 目标: IPTVMainland
 DOMAIN,liveout.ycxrmt.cn
+# 目标: IPTVMainland
 DOMAIN,livepgc.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,livepgc.cmc.ningxiahuangheyun.com
+# 目标: IPTVMainland
 DOMAIN,liveplay-kk.rtxapp.com
+# 目标: IPTVMainland
 DOMAIN,liveplay.lztvnet.com
+# 目标: IPTVMainland
 DOMAIN,liveplay.rednet.cn
+# 目标: IPTVMainland
 DOMAIN,lives.jnnews.tv
+# 目标: IPTVMainland
 DOMAIN,livesdong.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,liveshowbak2.kan0512.com
+# 目标: IPTVMainland
 DOMAIN,livesydst.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,livetongl.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,livewai.sdetv.com.cn
+# 目标: IPTVMainland
 DOMAIN,liveyc.cmc.yuechirmt.cn
+# 目标: IPTVMainland
 DOMAIN,liveynbsdst.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,livezzutv.chinamcache.com
+# 目标: IPTVMainland
 DOMAIN,living.muzhifm.com
+# 目标: IPTVMainland
 DOMAIN,lms.csytv.com
+# 目标: IPTVMainland
 DOMAIN,lmt.kjzx.net
+# 目标: IPTVMainland
 DOMAIN,lmt.scqstv.com
+# 目标: IPTVMainland
 DOMAIN,local.live.jxtvcn.com.cn
+# 目标: IPTVMainland
 DOMAIN,ls.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,luotian.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,luzhi.xuyongrongmei.com
+# 目标: IPTVMainland
 DOMAIN,lxfile.lxxcb.cn
+# 目标: IPTVMainland
 DOMAIN,lzlive.vojs.cn
+# 目标: IPTVMainland
 DOMAIN,m-tvlmedia.public.bcs.ysten.com
+# 目标: IPTVMainland
 DOMAIN,m.567it.com
+# 目标: IPTVMainland
 DOMAIN,m.m3u8.wifiwx.com
+# 目标: IPTVMainland
 DOMAIN,m3u8-kd.channel.ganzitv.com
+# 目标: IPTVMainland
 DOMAIN,m3u8.channel.dzsm.com
+# 目标: IPTVMainland
 DOMAIN,m3u8.channel.ganzitv.com
+# 目标: IPTVMainland
 DOMAIN,m3u8.channel.i0834.cn
+# 目标: IPTVMainland
 DOMAIN,m3u8.channel.luzhoubs.com
+# 目标: IPTVMainland
 DOMAIN,m3u8.channel.wsrtv.com.cn
+# 目标: IPTVMainland
 DOMAIN,m3u8.channel.yatv.tv
+# 目标: IPTVMainland
 DOMAIN,m3u8.channellive.lcbtv.com
+# 目标: IPTVMainland
 DOMAIN,m3u8.file.leshantv.net
+# 目标: IPTVMainland
 DOMAIN,m3u8.lschannel.yatv.tv
+# 目标: IPTVMainland
 DOMAIN,m3u8.mschannel.yatv.tv
+# 目标: IPTVMainland
 DOMAIN,m3u8.smchannel.yatv.tv
+# 目标: IPTVMainland
 DOMAIN,m3u8.ycchannel.yatv.tv
+# 目标: IPTVMainland
 DOMAIN,m3u8.yjchannel.yatv.tv
+# 目标: IPTVMainland
 DOMAIN,m3u8channel-bx.wuxianyaan.com
+# 目标: IPTVMainland
 DOMAIN,m3u8channel-ms.wuxianyaan.com
+# 目标: IPTVMainland
 DOMAIN,m3u8channel-sm.wuxianyaan.com
+# 目标: IPTVMainland
 DOMAIN,m3u8channel-yc.wuxianyaan.com
+# 目标: IPTVMainland
 DOMAIN,m3u8channel-yj.wuxianyaan.com
+# 目标: IPTVMainland
 DOMAIN,m3u8channel.wuxianyaan.com
+# 目标: IPTVMainland
 DOMAIN,media.bbrtv.com
+# 目标: IPTVMainland
 DOMAIN,media.fantv.hk
+# 目标: IPTVMainland
 DOMAIN,media.hndyjyfw.gov.cn
+# 目标: IPTVMainland
 DOMAIN,media.joycorp.co.kr
+# 目标: IPTVMainland
 DOMAIN,media.trrtv.com
+# 目标: IPTVMainland
 DOMAIN,media.vtibet.com
+# 目标: IPTVMainland
 DOMAIN,mediaprima.rastream.com
+# 目标: IPTVMainland
 DOMAIN,mgugaklive.nowcdn.co.kr
+# 目标: IPTVMainland
 DOMAIN,mms.ldntv.cn
+# 目标: IPTVMainland
 DOMAIN,mobile.ccdntech.com
+# 目标: IPTVMainland
 DOMAIN,movie.mcas.jp
+# 目标: IPTVMainland
 DOMAIN,ms3.yichuntv.com
+# 目标: IPTVMainland
 DOMAIN,muspz2pi.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,n18.rcs.revma.com
+# 目标: IPTVMainland
 DOMAIN,nanchuanlive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,nclive.grtn.cn
+# 目标: IPTVMainland
 DOMAIN,nczbpull.ncntv.com.cn
+# 目标: IPTVMainland
 DOMAIN,necgokr2-724.acs.wecandeo.com
+# 目标: IPTVMainland
 DOMAIN,nettvpro.live
+# 目标: IPTVMainland
 DOMAIN,newvideo.dangtutv.cn
+# 目标: IPTVMainland
 DOMAIN,newvod.ahbbtv.com
+# 目标: IPTVMainland
 DOMAIN,ngcdn001.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn002.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn003.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn004.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn005.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn006.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn007.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn008.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn009.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn010.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn011.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn012.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn013.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn014.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn016.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn017.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,ngcdn025.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,nhkw-zh-hlscomp.akamaized.net
+# 目标: IPTVMainland
 DOMAIN,nhkwlive-xjp.akamaized.net
+# 目标: IPTVMainland
 DOMAIN,nis.stream.publicradio.org
+# 目标: IPTVMainland
 DOMAIN,njgdmm-wshls.homecdn.com
+# 目标: IPTVMainland
 DOMAIN,njzb.scnj.tv
+# 目标: IPTVMainland
 DOMAIN,nlive.zjkgdcs.com
+# 目标: IPTVMainland
 DOMAIN,nprnat-i.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,nsszds.f3322.net
+# 目标: IPTVMainland
 DOMAIN,ocj2.kksmg.com
+# 目标: IPTVMainland
 DOMAIN,onsitecdn.cbgcloud.com
+# 目标: IPTVMainland
 DOMAIN,open.live-web.timetv.cn
+# 目标: IPTVMainland
 DOMAIN,ott-live.olympicchannel.com
+# 目标: IPTVMainland
 DOMAIN,ott.fj.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,ott.js.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,ott.mobaibox.com
+# 目标: IPTVMainland
 DOMAIN,ott3.ysbn.cn
+# 目标: IPTVMainland
 DOMAIN,ottrrs.hl.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,p2.weizan.cn
+# 目标: IPTVMainland
 DOMAIN,p2bj.weizan.cn
+# 目标: IPTVMainland
 DOMAIN,p4.weizan.cn
+# 目标: IPTVMainland
 DOMAIN,palive.patv123.com
+# 目标: IPTVMainland
 DOMAIN,pdlive.lyuncloud.com
+# 目标: IPTVMainland
 DOMAIN,peixian-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,pengshuilive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hdl.hsyapp.sobeylingyun.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hdl.zhdd.tianma3600.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls-cqgx.tianma3600.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls-qhnqapp2020.sobeylive.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.140.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.171.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.212.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.217.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.221.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.66.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.ahtc.tianma3600.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.blnews.com.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.cyyapp2019.sobeylive.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.guangde.ahxmgk.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.hebitv.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.hfmt.net
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.jhh.ddcpc.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.jnbctv.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.jrts.tianma3600.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.js-news.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.jxxw.com.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.livekpdst.sobeycache.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.livelztlj.sobeycache.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.livewafangd.sobeycache.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.lyzx.live.chinacici.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.lzxrmtzx.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.nanxunfb.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.nmgapp12019.sobeylive.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.panews.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.poyang.jxxw.com.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.qnlive.appwuhan.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.szttkk.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.ttcmzx.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.wzpy.cn
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.ybcxjd.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-hls.yldst.sobeylive.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-rtmp.143.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-rtmp.207.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-rtmp.210.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-rtmp.212.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-rtmp.56.i2863.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-rtmp.luan2.hfmt.net
+# 目标: IPTVMainland
 DOMAIN,pili-live-rtmp.scmxtv.com
+# 目标: IPTVMainland
 DOMAIN,pili-live-rtmp.tvliving.gdmztv.com
+# 目标: IPTVMainland
 DOMAIN,pili-publish.living.ksrmtzx.com
+# 目标: IPTVMainland
 DOMAIN,pili-publish.yzxw.newaircloud.com
+# 目标: IPTVMainland
 DOMAIN,pl1.cloud.dayang.com.cn
+# 目标: IPTVMainland
 DOMAIN,play-dgv-xhncloud.voc.com.cn
+# 目标: IPTVMainland
 DOMAIN,play-live.21cs.cn
+# 目标: IPTVMainland
 DOMAIN,play-sh.quklive.com
+# 目标: IPTVMainland
 DOMAIN,play.cec-tv.com.cn
+# 目标: IPTVMainland
 DOMAIN,play.cxsm.com
+# 目标: IPTVMainland
 DOMAIN,play.cytv01.cygbdst.com
+# 目标: IPTVMainland
 DOMAIN,play.hhnynews.com
+# 目标: IPTVMainland
 DOMAIN,play.jinnantv.top
+# 目标: IPTVMainland
 DOMAIN,play.kankanlive.com
+# 目标: IPTVMainland
 DOMAIN,play.scrstv.com
+# 目标: IPTVMainland
 DOMAIN,play.sngdxsn.com
+# 目标: IPTVMainland
 DOMAIN,play.wuhunews.cn
+# 目标: IPTVMainland
 DOMAIN,player.200877926.top
+# 目标: IPTVMainland
 DOMAIN,player.521fanli.cn
+# 目标: IPTVMainland
 DOMAIN,player.ioioz.com
+# 目标: IPTVMainland
 DOMAIN,player.juyun.tv
+# 目标: IPTVMainland
 DOMAIN,player2.juyun.tv
+# 目标: IPTVMainland
 DOMAIN,playfmaliyun.3xgd.com
+# 目标: IPTVMainland
 DOMAIN,pluslive.jiaxingren.com
+# 目标: IPTVMainland
 DOMAIN,pluslive.wrbtv.cn
+# 目标: IPTVMainland
 DOMAIN,pluslive.zhxww.net
+# 目标: IPTVMainland
 DOMAIN,pluslive1.sjzntv.cn
+# 目标: IPTVMainland
 DOMAIN,pull.dayuntongzhou.com
+# 目标: IPTVMainland
 DOMAIN,pull.hnedutv.com
+# 目标: IPTVMainland
 DOMAIN,pull.hrbtv.net
+# 目标: IPTVMainland
 DOMAIN,qdxmtlive.qwmedia.cn
+# 目标: IPTVMainland
 DOMAIN,qianjianglive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,qichun.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,qkqxzb.qingk.cn
+# 目标: IPTVMainland
 DOMAIN,qmmqvzoz.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,qqlivepull.seedata.top
+# 目标: IPTVMainland
 DOMAIN,quehuamtyoutlive.ijntv.cn
+# 目标: IPTVMainland
 DOMAIN,qxlmlive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,qxlmlive9.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,r.gslb.lecloud.com
+# 目标: IPTVMainland
 DOMAIN,radiolive.sxrtv.com
+# 目标: IPTVMainland
 DOMAIN,rfcmedia.streamguys1.com
+# 目标: IPTVMainland
 DOMAIN,rfimonde-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,rmlive.lzxrmtzx.com
+# 目标: IPTVMainland
 DOMAIN,rmtv24hweblive-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,rthklive1-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,rthklive2-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,rtsp.zmgdcm.cn
+# 目标: IPTVMainland
 DOMAIN,rtvcdn.com.au
+# 目标: IPTVMainland
 DOMAIN,rudong-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,satellitepull.cnr.cn
+# 目标: IPTVMainland
 DOMAIN,sc.rrs.169ol.com
+# 目标: IPTVMainland
 DOMAIN,scdytv.cn
+# 目标: IPTVMainland
 DOMAIN,scdytv.com
+# 目标: IPTVMainland
 DOMAIN,scgctvshow.sctv.com
+# 目标: IPTVMainland
 DOMAIN,sdbz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sddc.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sdjx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sdlq.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sdlqx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
+# 目标: IPTVMainland
 DOMAIN,sdpl.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sdqz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sdwd.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,seb.sason.top
+# 目标: IPTVMainland
 DOMAIN,sfy2011.hj0758.cn
+# 目标: IPTVMainland
 DOMAIN,shbu.live.bestvcdn.com.cn
+# 目标: IPTVMainland
 DOMAIN,shou.city1000.cn
+# 目标: IPTVMainland
 DOMAIN,shuyang-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,sihong-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,siyang-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,sj.smarttaixing.com
+# 目标: IPTVMainland
 DOMAIN,sk.cri.cn
+# 目标: IPTVMainland
 DOMAIN,slive.ytn.co.kr
+# 目标: IPTVMainland
 DOMAIN,slvedio.slradio.cn
+# 目标: IPTVMainland
 DOMAIN,snlive.scsntv.com
+# 目标: IPTVMainland
 DOMAIN,sobeylingyun02pull.sobeylive.com
+# 目标: IPTVMainland
 DOMAIN,sohucao.duapp.com
+# 目标: IPTVMainland
 DOMAIN,ssdyapp.cn
+# 目标: IPTVMainland
 DOMAIN,starfish.bj.aliyun.001.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,starfish.bj.aliyun.002.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,starfish.bj.aliyun.005.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,starfish.bj.aliyun.006.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,starfish.bj.aliyun.007.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,starfish.hz.aliyun.005.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,starfish.hz.aliyun.006.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,starfish.hz.aliyun.007.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,starfish.qd.aliyun.001.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,starfish.qd.aliyun.005.qingting.fm
+# 目标: IPTVMainland
 DOMAIN,store.ovp.wsrtv.com.cn
+# 目标: IPTVMainland
 DOMAIN,stream.0515yc.cn
+# 目标: IPTVMainland
 DOMAIN,stream.0554news.com
+# 目标: IPTVMainland
 DOMAIN,stream.ahrtv.cn
+# 目标: IPTVMainland
 DOMAIN,stream.ahwanyun.cn
+# 目标: IPTVMainland
 DOMAIN,stream.appwuhan.com
+# 目标: IPTVMainland
 DOMAIN,stream.baoxinwen.com
+# 目标: IPTVMainland
 DOMAIN,stream.bzcm.net
+# 目标: IPTVMainland
 DOMAIN,stream.chinactv.com
+# 目标: IPTVMainland
 DOMAIN,stream.cqbntv.com
+# 目标: IPTVMainland
 DOMAIN,stream.dybtv.com
+# 目标: IPTVMainland
 DOMAIN,stream.fhtv.net.cn
+# 目标: IPTVMainland
 DOMAIN,stream.gsjqtv.com
+# 目标: IPTVMainland
 DOMAIN,stream.gsqytv.com.cn
+# 目标: IPTVMainland
 DOMAIN,stream.gstv.com.cn
+# 目标: IPTVMainland
 DOMAIN,stream.guihet.com
+# 目标: IPTVMainland
 DOMAIN,stream.gxqztv.com
+# 目标: IPTVMainland
 DOMAIN,stream.haining.tv
+# 目标: IPTVMainland
 DOMAIN,stream.haixitv.cn
+# 目标: IPTVMainland
 DOMAIN,stream.hhek.cn
+# 目标: IPTVMainland
 DOMAIN,stream.hmgbtv.com
+# 目标: IPTVMainland
 DOMAIN,stream.hndt.com
+# 目标: IPTVMainland
 DOMAIN,stream.houstonpublicmedia.org
+# 目标: IPTVMainland
 DOMAIN,stream.hrbtv.net
+# 目标: IPTVMainland
 DOMAIN,stream.hsqtv.cn
+# 目标: IPTVMainland
 DOMAIN,stream.icelook.cn
+# 目标: IPTVMainland
 DOMAIN,stream.ihytv.com
+# 目标: IPTVMainland
 DOMAIN,stream.ijatv.com
+# 目标: IPTVMainland
 DOMAIN,stream.jinhua.com.cn
+# 目标: IPTVMainland
 DOMAIN,stream.jinjiang.tv
+# 目标: IPTVMainland
 DOMAIN,stream.jmtv.com.cn
+# 目标: IPTVMainland
 DOMAIN,stream.jzgbdst.cn
+# 目标: IPTVMainland
 DOMAIN,stream.lytv.net.cn
+# 目标: IPTVMainland
 DOMAIN,stream.lyxltv.com
+# 目标: IPTVMainland
 DOMAIN,stream.mastvnet.com
+# 目标: IPTVMainland
 DOMAIN,stream.nbbltv.com
+# 目标: IPTVMainland
 DOMAIN,stream.pznews.com
+# 目标: IPTVMainland
 DOMAIN,stream.qhbtv.com
+# 目标: IPTVMainland
 DOMAIN,stream.rcs.revma.com
+# 目标: IPTVMainland
 DOMAIN,stream.rzw.com.cn
+# 目标: IPTVMainland
 DOMAIN,stream.slave.jxtvnet.tv
+# 目标: IPTVMainland
 DOMAIN,stream.smntv.cn
+# 目标: IPTVMainland
 DOMAIN,stream.snrtv.com
+# 目标: IPTVMainland
 DOMAIN,stream.superfm99-1.com.tw
+# 目标: IPTVMainland
 DOMAIN,stream.sxsztv.com
+# 目标: IPTVMainland
 DOMAIN,stream.thmz.com
+# 目标: IPTVMainland
 DOMAIN,stream.tstv.cn
+# 目标: IPTVMainland
 DOMAIN,stream.tstvxmt.com
+# 目标: IPTVMainland
 DOMAIN,stream.wbez.org
+# 目标: IPTVMainland
 DOMAIN,stream.wfcmw.cn
+# 目标: IPTVMainland
 DOMAIN,stream.wifizs.cn
+# 目标: IPTVMainland
 DOMAIN,stream.xctv.news
+# 目标: IPTVMainland
 DOMAIN,stream.ycgbtv.com.cn
+# 目标: IPTVMainland
 DOMAIN,stream.yishuweb.cn
+# 目标: IPTVMainland
 DOMAIN,stream.ysbtv.net
+# 目标: IPTVMainland
 DOMAIN,stream.zhxwzx.com
+# 目标: IPTVMainland
 DOMAIN,stream.zhystv.com
+# 目标: IPTVMainland
 DOMAIN,stream.zjjrtv.com
+# 目标: IPTVMainland
 DOMAIN,stream.zzgd.tv
+# 目标: IPTVMainland
 DOMAIN,stream.zztvzd.com
+# 目标: IPTVMainland
 DOMAIN,stream0.tv41.ru
+# 目标: IPTVMainland
 DOMAIN,stream01.dqtv123.com
+# 目标: IPTVMainland
 DOMAIN,stream1.0763f.com
+# 目标: IPTVMainland
 DOMAIN,stream1.ahrtv.cn
+# 目标: IPTVMainland
 DOMAIN,stream1.huaihai.tv
+# 目标: IPTVMainland
 DOMAIN,stream1.jletv.cn
+# 目标: IPTVMainland
 DOMAIN,stream1.jlntv.cn
+# 目标: IPTVMainland
 DOMAIN,stream1.shopch.jp
+# 目标: IPTVMainland
 DOMAIN,stream10.jlntv.cn
+# 目标: IPTVMainland
 DOMAIN,stream11.jlntv.cn
+# 目标: IPTVMainland
 DOMAIN,stream2.ahrtv.cn
+# 目标: IPTVMainland
 DOMAIN,stream2.cprnetwork.org
+# 目标: IPTVMainland
 DOMAIN,stream2.hndt.com
+# 目标: IPTVMainland
 DOMAIN,stream2.jinhua.com.cn
+# 目标: IPTVMainland
 DOMAIN,stream2.jlntv.cn
+# 目标: IPTVMainland
 DOMAIN,stream2.liveyun.hoge.cn
+# 目标: IPTVMainland
 DOMAIN,stream2.xiancity.cn
+# 目标: IPTVMainland
 DOMAIN,stream3.hljtv.com
+# 目标: IPTVMainland
 DOMAIN,stream3.hndt.com
+# 目标: IPTVMainland
 DOMAIN,stream3.xiancity.cn
+# 目标: IPTVMainland
 DOMAIN,stream4.jlntv.cn
+# 目标: IPTVMainland
 DOMAIN,stream4.liveyun.hoge.cn
+# 目标: IPTVMainland
 DOMAIN,stream5.jlntv.cn
+# 目标: IPTVMainland
 DOMAIN,stream8.jlntv.cn
+# 目标: IPTVMainland
 DOMAIN,streamer.ksntv.com.cn
+# 目标: IPTVMainland
 DOMAIN,streaming.czgd.cn
+# 目标: IPTVMainland
 DOMAIN,streaming.sltv.net
+# 目标: IPTVMainland
 DOMAIN,streamipcf.akamaized.net
+# 目标: IPTVMainland
 DOMAIN,suining-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,suizhou.source.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,sxjc.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sxll.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sxlx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sxty.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sxws.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,sxxx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,taishun.news01.yunshanit.com
+# 目标: IPTVMainland
 DOMAIN,test5.btzx.com.cn
+# 目标: IPTVMainland
 DOMAIN,tl.gscm.tv
+# 目标: IPTVMainland
 DOMAIN,tmpstream.hyrtv.cn
+# 目标: IPTVMainland
 DOMAIN,tp01.videocc.net
+# 目标: IPTVMainland
 DOMAIN,traffic.jbh.tjbh.com
+# 目标: IPTVMainland
 DOMAIN,trtcanlitv-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,ts1.ijntv.cn
+# 目标: IPTVMainland
 DOMAIN,ts2.ijntv.cn
+# 目标: IPTVMainland
 DOMAIN,ts4.ijntv.cn
+# 目标: IPTVMainland
 DOMAIN,tv-hls.juyun.tv
+# 目标: IPTVMainland
 DOMAIN,tv-live.ynkmit.com
+# 目标: IPTVMainland
 DOMAIN,tv.cctbn.com
+# 目标: IPTVMainland
 DOMAIN,tv.cnbeijing.xyz
+# 目标: IPTVMainland
 DOMAIN,tv.drs.dzxw.net
+# 目标: IPTVMainland
 DOMAIN,tv.drs.ganzitv.com
+# 目标: IPTVMainland
 DOMAIN,tv.drs.hhtv.cc
+# 目标: IPTVMainland
 DOMAIN,tv.drs.lzgbdst.com
+# 目标: IPTVMainland
 DOMAIN,tv.dzsm.com
+# 目标: IPTVMainland
 DOMAIN,tv.jlu.edu.cn
+# 目标: IPTVMainland
 DOMAIN,tv.jrsncn.com
+# 目标: IPTVMainland
 DOMAIN,tv.lanjingfm.com
+# 目标: IPTVMainland
 DOMAIN,tv.nknews.org
+# 目标: IPTVMainland
 DOMAIN,tv.pull.hebtv.com
+# 目标: IPTVMainland
 DOMAIN,tv.scwlqw.cn
+# 目标: IPTVMainland
 DOMAIN,tv.uwp.ac.cn
+# 目标: IPTVMainland
 DOMAIN,tv.zkxww.com
+# 目标: IPTVMainland
 DOMAIN,tvdrs.wsrtv.com.cn
+# 目标: IPTVMainland
 DOMAIN,tvfile.jjrm.org.cn
+# 目标: IPTVMainland
 DOMAIN,tvfile.jy.lsrm.org.cn
+# 目标: IPTVMainland
 DOMAIN,tvfile.lzgbdst.com
+# 目标: IPTVMainland
 DOMAIN,tvfile.mb.lsrm.org.cn
+# 目标: IPTVMainland
 DOMAIN,tvfile.mcrm.org.cn
+# 目标: IPTVMainland
 DOMAIN,tvfile.sw.lsrm.org.cn
+# 目标: IPTVMainland
 DOMAIN,tvlive.siqiangame.com
+# 目标: IPTVMainland
 DOMAIN,tvlive.zmdtvw.cn
+# 目标: IPTVMainland
 DOMAIN,tvpull.dxhmt.cn
+# 目标: IPTVMainland
 DOMAIN,tvpull.smartwq.cn
+# 目标: IPTVMainland
 DOMAIN,tx.hls.huya.com
+# 目标: IPTVMainland
 DOMAIN,tx.liveplay.live.kugou.com
+# 目标: IPTVMainland
 DOMAIN,txdirect.hls.huya.com
+# 目标: IPTVMainland
 DOMAIN,ucdn.sd.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,uni6rtmp.tulix.tv
+# 目标: IPTVMainland
 DOMAIN,v.btzx.com.cn
+# 目标: IPTVMainland
 DOMAIN,v.xstv.net
+# 目标: IPTVMainland
 DOMAIN,v1.one-tv.com
+# 目标: IPTVMainland
 DOMAIN,vfile.cfrtv.cn
+# 目标: IPTVMainland
 DOMAIN,video.dztv.tv
+# 目标: IPTVMainland
 DOMAIN,video.hannews.com.cn
+# 目标: IPTVMainland
 DOMAIN,video.xyxrmt.com
+# 目标: IPTVMainland
 DOMAIN,vip888.kuyun99.com
+# 目标: IPTVMainland
 DOMAIN,visit.jjbctv.com
+# 目标: IPTVMainland
 DOMAIN,voa-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,vod.lsiptv.cn
+# 目标: IPTVMainland
 DOMAIN,vod.qhdcm.com
+# 目标: IPTVMainland
 DOMAIN,vod.scjygd.com
+# 目标: IPTVMainland
 DOMAIN,vod.zzlknews.cn
+# 目标: IPTVMainland
 DOMAIN,vss.cbnmtv.com
+# 目标: IPTVMainland
 DOMAIN,w1.livecdn.yicai.com
+# 目标: IPTVMainland
 DOMAIN,w3.wifijiangyin.com
+# 目标: IPTVMainland
 DOMAIN,wanzhoulive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,wcnc-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,weather-lh.akamaihd.net
+# 目标: IPTVMainland
 DOMAIN,web-play.pptv.com
+# 目标: IPTVMainland
 DOMAIN,weblive.hebtv.com
+# 目标: IPTVMainland
 DOMAIN,womlive.cloud.wo.cn
+# 目标: IPTVMainland
 DOMAIN,wosu.streamguys1.com
+# 目标: IPTVMainland
 DOMAIN,wowza-stream.wbur.org
+# 目标: IPTVMainland
 DOMAIN,wowza.montevideo.com.uy
+# 目标: IPTVMainland
 DOMAIN,wowza.ner.gov.tw
+# 目标: IPTVMainland
 DOMAIN,wpc.124ce.sigmacdn.net
+# 目标: IPTVMainland
 DOMAIN,wshdl.load.cdn.zhanqi.tv
+# 目标: IPTVMainland
 DOMAIN,wshls.live.migucloud.com
+# 目标: IPTVMainland
 DOMAIN,wtmtylive.yunshicloud.com
+# 目标: IPTVMainland
 DOMAIN,wuqiao.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,wuwm.streamguys1.com
+# 目标: IPTVMainland
 DOMAIN,wuxue.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,www.cbsnews.com
+# 目标: IPTVMainland
 DOMAIN,www.filmon.com
+# 目标: IPTVMainland
 DOMAIN,www.guzhenm.com
+# 目标: IPTVMainland
 DOMAIN,www.nxtv.com.cn
+# 目标: IPTVMainland
 DOMAIN,www.pxitv.com
+# 目标: IPTVMainland
 DOMAIN,www.sgmsw.cn
+# 目标: IPTVMainland
 DOMAIN,www.soundvideostar.com
+# 目标: IPTVMainland
 DOMAIN,www.szmgiptv.com
+# 目标: IPTVMainland
 DOMAIN,www.thtv.org.cn
+# 目标: IPTVMainland
 DOMAIN,www.wxhcgbds.com
+# 目标: IPTVMainland
 DOMAIN,www.ycen.com.cn
+# 目标: IPTVMainland
 DOMAIN,www.ynbit.com
+# 目标: IPTVMainland
 DOMAIN,www.zlnews.cn
+# 目标: IPTVMainland
 DOMAIN,xhalive.qwmedia.cn
+# 目标: IPTVMainland
 DOMAIN,xianfeng-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,xiangyang-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,xiangyang.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,xianning-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,xianning.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,xiaochang-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,xiaochang.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,xiaogan-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,xiaogan.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,xinl.live.maxtv.cn
+# 目标: IPTVMainland
 DOMAIN,xjlive.xjsc.gov.cn
+# 目标: IPTVMainland
 DOMAIN,xkmspyxn.live.sxmty.com
+# 目标: IPTVMainland
 DOMAIN,xuanen.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,yandu-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,yangxin-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,yangzhong-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,yd-m-l.cztv.com
+# 目标: IPTVMainland
 DOMAIN,yf-m-l.cztv.com
+# 目标: IPTVMainland
 DOMAIN,yf.m.l.cztv.com
+# 目标: IPTVMainland
 DOMAIN,yichang-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,yidushi-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,yiling.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,yingcheng.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,yixing-tv-ori-hls.jstv.com
+# 目标: IPTVMainland
 DOMAIN,yizheng-tv-hls.cm.jstv.com
+# 目标: IPTVMainland
 DOMAIN,youku.cdn2-youku.com
+# 目标: IPTVMainland
 DOMAIN,yslk.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,ytrmtzx.com
+# 目标: IPTVMainland
 DOMAIN,yuanan-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,yubeilive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,yunshangdawu-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,yunshangdawu.live.tempsource.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,yunshangyunmeng.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,ywotttv.bj.chinamobile.com
+# 目标: IPTVMainland
 DOMAIN,zb-live.ynurl.com
+# 目标: IPTVMainland
 DOMAIN,zb.dehua.tv
+# 目标: IPTVMainland
 DOMAIN,zb.hezegd.com
+# 目标: IPTVMainland
 DOMAIN,zb.pzhgd.com
+# 目标: IPTVMainland
 DOMAIN,zbbf2.ahbztv.com
+# 目标: IPTVMainland
 DOMAIN,zbxclive.cbg.cn
+# 目标: IPTVMainland
 DOMAIN,zhibo.ajbtv.com
+# 目标: IPTVMainland
 DOMAIN,zhibo.hkstv.tv
+# 目标: IPTVMainland
 DOMAIN,zhjz.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,zhongxiang.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,zhpull.dxhmt.cn
+# 目标: IPTVMainland
 DOMAIN,zhxx.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,zhz.gxhzxw.com
+# 目标: IPTVMainland
 DOMAIN,zigui-live21.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,zigui.live.cjyun.org
+# 目标: IPTVMainland
 DOMAIN,zjstyhls.tianma3600.com
+# 目标: IPTVMainland
 DOMAIN,zqy-live.nanyuecloud.com
+# 目标: IPTVMainland
 DOMAIN,zsxj.chinashadt.com
+# 目标: IPTVMainland
 DOMAIN,zuikzy.win7i.com
+# 目标: IPTVMainland
 DOMAIN,zv.3gv.ifeng.com
+# 目标: IPTVMainland
 DOMAIN,zycfcdn.gdwlcloud.com
+# 目标: IPTVMainland
 DOMAIN,zzlive.zzc-media.com
+# 目标: IPTVMainland
 DOMAIN,zzq12345.gearhostpreview.com
+# 目标: IPTVMainland
 IP-CIDR,0.0.0.0/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,1.180.237.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,1.197.88.197/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,1.245.74.5/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,1.31.80.38/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,101.71.255.229/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,101.72.196.41/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,103.140.229.13/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,103.198.18.1/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,103.252.251.199/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,109.71.162.112/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,110.153.180.106/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,110.189.153.160/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,110.19.181.138/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.0.27.27/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.11.123.33/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.12.102.79/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.12.110.81/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.12.75.177/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.13.111.167/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.13.111.242/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.17.214.12/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.17.214.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.20.33.93/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.225.205.64/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.231.194.231/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.231.197.215/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.29.9.37/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.38.103.210/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.38.104.24/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.39.175.241/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.39.71.77/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.40.196.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.40.205.76/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.40.205.87/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.53.105.2/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.53.96.67/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.6.126.218/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.63.117.13/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,111.75.179.195/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.113.134.36/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.15.230.55/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.17.0.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.17.40.140/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.17.40.145/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.17.40.200/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.17.40.247/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.25.48.70/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.26.80.214/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.27.139.242/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.27.89.235/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.30.194.221/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.45.133.129/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.45.139.3/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.5.223.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.5.223.58/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.50.243.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.50.243.8/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,112.74.200.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,113.207.29.195/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,113.214.24.158/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,114.104.147.15/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,115.238.238.218/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,116.199.5.51/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,116.199.5.52/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,116.199.5.58/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,116.62.31.234/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.132/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.136/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.139/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.141/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.145/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.146/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.15/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.150/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.152/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.160/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.169/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.17/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.172/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.175/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.176/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.179/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.182/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.37/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.187.37/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.148.187.83/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.149.150.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.156.28.119/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.158.206.60/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.169.120.138/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.169.120.140/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.169.120.223/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.169.72.6/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.172.215.250/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.190.118.175/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,117.190.130.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,118.122.224.176/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,118.122.239.157/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,118.122.78.172/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,118.123.60.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,118.123.60.12/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,118.123.60.17/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,118.163.88.61/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,118.24.227.124/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,119.164.216.162/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,119.184.188.117/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,119.200.131.11/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,119.36.30.199/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,119.39.128.12/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,119.39.242.52/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,119.77.96.184/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,120.194.173.75/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,120.198.235.68/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,120.210.216.73/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,121.12.115.162/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,121.31.30.90/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,121.60.207.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,122.194.12.119/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,123.146.162.24/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,123.163.119.21/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,123.56.16.201/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,123.6.9.146/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.112.228.134/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.132.96.20/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.152.34.102/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.152.39.138/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.161.224.22/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.166.252.222/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.232.231.246/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.232.233.15/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.47.33.200/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.88.144.73/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,124.90.32.171/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.210.152.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.210.152.18/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.210.152.20/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.39.177.227/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.62.24.185/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.62.25.129/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.62.25.201/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.62.60.253/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.65.94.91/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,125.74.200.110/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,140.207.241.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,149.129.100.78/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,150.138.8.143/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,157.255.30.97/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,159.75.85.63/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,171.221.250.130/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,172.16.1.254/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,175.153.153.53/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,175.155.106.72/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,177.20.208.58/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,182.151.211.171/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,182.245.29.132/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.110.27.87/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.167.193.45/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.167.250.225/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.2.230.133/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.103/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.104/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.11/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.112/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.133/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.134/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.136/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.139/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.141/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.15/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.167/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.171/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.174/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.71/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.101/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.102/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.104/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.106/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.11/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.110/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.12/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.136/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.138/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.14/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.143/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.144/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.16/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.165/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.167/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.169/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.172/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.174/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.176/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.199/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.203/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.207/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.229/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.235/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.238/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.255.188/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.207.255.190/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.223.157.33/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.224.43.183/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.230.1.208/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.230.184.51/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.237.246.14/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.238.96.37/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.251.61.207/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.251.61.224/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.64.174.171/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,183.64.181.25/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,184.154.28.210/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,185.228.135.48/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,186.155.200.118/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,192.168.10.1/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,192.168.119.253/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,192.240.127.34/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,194.116.150.47/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,202.107.188.139/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,202.107.188.140/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,202.168.164.38/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,202.175.127.77/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,202.195.240.8/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,202.69.67.66/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,202.98.156.91/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,203.162.235.41/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,204.11.235.251/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,205.234.238.46/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,210.14.139.210/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,210.210.155.35/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,211.137.115.110/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,213.151.233.20/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,216.246.39.189/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,217.20.164.181/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.10.43.24/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.106.152.196/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.17.99.211/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.201.85.71/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.202.220.2/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.204.153.158/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.206.193.210/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.207.213.143/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.23.114.19/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.26.97.12/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.28.111.98/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.28.177.199/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.29.171.2/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.29.208.43/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.29.55.44/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.29.90.216/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.3.92.100/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.31.201.189/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.5.112.180/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.6.224.15/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.63.199.20/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.64.168.174/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.75.139.74/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.77.102.118/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.84.12.186/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.84.127.245/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.89.69.211/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,218.92.209.33/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,219.149.47.15/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,219.150.204.176/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,219.153.252.50/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,220.161.247.82/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,220.161.87.62/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,220.178.172.47/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,220.180.110.101/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,220.180.24.62/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.179.217.70/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.179.217.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.209.44.174/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.230.141.225/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.230.141.252/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.233.242.239/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.238.209.44/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.3.215.43/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.3.215.44/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.5.213.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.6.85.150/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,221.7.232.46/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.143.133.157/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.178.181.121/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.178.228.154/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.179.155.21/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.179.42.129/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.179.44.89/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.180.119.78/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.186.61.82/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.208.224.227/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.218.142.198/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,222.81.61.37/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.235.13/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.235.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.236.13/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.236.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.236.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.241.139/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.241.203/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.241.204/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.241.206/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.242.130/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.139/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.140/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.142/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.145/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.146/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.148/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.150/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.152/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.157/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.158/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.160/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.162/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.164/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.167/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.173/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.134/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.140/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.142/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.145/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.146/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.151/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.152/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.154/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.156/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.160/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.164/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.167/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.170/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.110.246.80/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.241.197.199/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.247.33.124/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.255.28.42/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.82.250.72/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.82.75.3/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,223.99.186.132/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.102/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.108/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.110/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.112/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.116/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.119/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.120/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.128/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.138/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.140/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.144/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.152/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.156/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.158/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.170/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.172/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.176/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.192/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.194/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.196/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.198/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.200/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.202/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.204/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.208/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.210/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.213/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.214/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.216/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.22/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.223/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.224/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.236/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.24/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.240/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.244/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.26/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.30/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.32/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.35/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.38/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.41/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.50/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.54/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.56/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.61/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.62/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.65/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.77/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.82/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.86/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.96/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.18/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.2/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.25/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.26/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.28/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.61/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.8/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.81/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.82/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.1/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.101/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.102/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.104/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.107/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.109/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.110/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.112/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.116/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.12/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.121/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.122/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.124/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.128/27,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.14/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.160/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.165/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.166/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.169/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.170/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.190/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.193/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.194/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.2/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.20/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.201/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.202/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.204/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.208/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.225/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.227/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.228/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.232/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.240/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.248/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.252/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.254/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.31/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.32/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.36/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.38/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.41/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.42/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.44/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.48/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.52/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.61/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.63/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.68/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.71/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.72/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.74/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.80/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.84/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.88/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.101/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.12/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.128/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.138/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.140/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.144/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.199/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.204/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.206/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.208/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.216/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.220/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.223/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.224/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.231/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.232/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.236/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.239/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.240/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.244/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.246/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.249/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.1/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.100/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.102/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.108/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.110/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.112/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.120/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.122/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.127/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.128/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.13/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.133/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.14/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.141/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.142/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.144/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.147/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.148/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.150/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.152/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.16/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.160/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.175/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.176/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.184/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.32/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.37/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.38/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.4/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.40/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.48/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.64/27,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.8/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.96/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.100/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.105/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.106/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.108/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.11/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.116/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.12/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.121/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.122/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.124/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.128/27,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.16/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.160/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.176/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.180/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.182/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.184/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.192/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.200/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.208/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.210/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.214/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.216/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.221/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.223/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.224/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.232/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.236/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.29/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.33/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.34/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.10/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.100/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.107/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.108/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.112/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.120/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.127/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.129/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.130/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.132/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.134/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.136/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.144/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.152/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.170/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.172/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.176/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.192/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.194/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.203/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.204/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.206/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.208/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.22/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.225/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.226/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.228/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.232/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.24/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.240/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.26/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.31/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.32/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.35/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.36/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.41/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.42/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.44/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.48/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.51/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.52/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.56/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.58/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.63/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.64/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.66/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.68/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.70/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.73/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.74/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.76/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.78/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.16.178/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.16.74/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.101/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.102/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.104/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.109/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.11/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.110/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.112/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.114/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.116/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.119/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.12/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.120/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.124/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.139/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.140/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.142/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.144/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.152/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.157/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.158/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.16/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.160/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.164/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.166/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.168/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.174/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.18/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.183/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.184/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.186/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.188/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.190/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.20/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.202/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.204/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.208/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.217/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.225/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.226/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.228/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.243/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.247/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.248/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.27/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.29/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.30/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.32/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.48/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.56/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.68/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.80/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.82/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.84/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.88/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.96/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.12/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.120/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.15/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.16/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.20/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.78/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.80/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.82/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.100/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.104/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.110/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.113/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.115/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.116/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.119/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.121/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.124/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.151/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.152/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.156/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.158/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.16/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.160/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.164/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.166/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.188/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.20/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.201/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.204/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.206/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.208/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.216/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.23/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.24/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.28/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.30/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.33/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.34/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.36/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.4/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.41/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.42/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.45/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.47/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.49/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.50/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.52/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.54/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.56/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.6/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.61/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.65/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.66/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.68/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.72/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.75/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.76/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.78/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.8/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.81/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.83/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.84/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.86/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.94/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.96/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.1/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.101/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.102/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.104/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.107/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.108/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.11/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.110/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.113/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.115/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.13/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.136/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.14/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.144/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.154/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.156/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.16/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.160/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.175/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.177/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.178/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.180/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.184/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.188/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.191/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.192/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.194/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.196/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.199/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.201/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.203/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.206/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.208/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.210/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.213/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.214/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.216/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.220/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.222/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.228/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.234/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.251/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.252/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.32/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.36/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.38/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.40/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.43/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.44/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.47/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.48/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.50/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.87/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.88/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.90/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.92/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.96/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.99/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.1/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.10/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.104/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.107/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.108/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.112/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.114/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.12/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.120/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.122/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.124/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.129/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.130/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.132/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.136/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.144/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.146/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.148/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.152/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.16/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.161/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.163/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.164/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.172/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.178/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.18/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.180/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.184/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.188/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.193/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.194/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.196/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.2/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.20/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.201/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.209/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.210/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.212/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.216/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.225/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.226/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.228/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.23/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.232/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.236/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.238/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.24/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.240/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.248/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.253/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.32/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.48/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.51/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.52/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.56/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.58/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.60/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.64/27,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.96/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.1/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.104/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.109/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.110/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.112/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.116/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.12/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.121/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.123/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.124/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.128/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.136/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.140/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.143/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.144/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.146/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.148/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.151/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.152/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.16/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.160/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.176/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.179/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.180/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.184/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.188/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.193/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.194/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.200/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.205/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.217/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.218/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.22/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.220/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.224/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.229/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.230/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.232/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.24/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.240/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.248/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.252/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.254/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.28/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.30/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.34/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.36/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.39/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.4/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.45/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.46/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.50/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.53/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.54/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.57/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.59/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.60/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.63/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.64/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.69/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.70/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.73/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.74/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.76/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.80/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.84/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.87/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.88/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.90/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.92/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.95/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.96/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.37.1.21/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.0.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.0.4/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.0.6/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.0.8/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.109/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.114/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.116/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.120/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.124/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.127/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.14/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.194/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.196/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.198/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.200/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.213/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.229/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.230/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.232/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.234/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.238/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.251/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.253/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.42/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.44/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.48/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.50/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.52/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.68/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.80/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.84/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.107/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.118/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.122/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.131/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.132/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.134/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.136/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.139/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.145/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.146/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.177/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.178/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.185/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.196/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.207/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.208/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.212/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.214/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.228/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.23/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.232/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.236/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.248/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.253/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.49/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.50/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.52/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.56/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.61/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.74/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.79/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.8/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.0.11/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.0.13/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.0.15/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.0.177/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.10/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.107/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.108/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.110/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.112/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.117/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.118/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.12/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.120/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.122/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.126/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.16/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.20/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.29/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.32/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.35/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.38/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.48/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.56/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.74/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.76/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.8/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.80/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.82/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.84/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.88/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.92/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.94/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.102/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.104/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.108/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.110/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.116/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.122/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.124/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.138/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.141/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.142/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.144/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.149/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.150/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.152/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.156/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.168/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.176/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.178/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.183/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.186/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.189/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.190/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.192/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.204/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.208/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.24/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.28/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.30/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.4/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.40/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.57/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.6/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.60/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.65/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.68/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.74/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.79/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.81/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.83/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.84/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.89/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.90/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.98/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.245.208/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.245.25/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.246.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.246.8/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.248.1/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.248.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.248.8/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.103/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.104/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.112/28,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.133/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.134/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.136/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.18/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.187/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.189/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.190/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.192/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.194/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.196/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.200/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.204/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.212/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.214/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.216/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.225/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.23/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.230/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.232/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.236/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.238/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.241/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.242/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.244/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.251/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.252/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.26/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.32/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.35/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.61/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.63/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.65/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.66/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.87/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.91/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.94/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.96/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.10/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.100/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.104/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.108/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.110/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.112/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.12/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.121/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.122/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.14/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.151/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.152/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.16/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.160/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.162/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.164/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.168/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.18/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.181/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.182/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.184/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.186/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.188/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.193/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.195/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.2/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.200/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.21/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.39/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.4/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.51/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.52/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.59/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.6/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.60/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.72/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.9/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.10/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.12/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.4/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.6/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.96/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.93.42.49/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.93.42.50/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,239.93.42.52/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,27.223.123.247/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,36.159.12.236/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,37.48.83.34/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.106.225.170/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.130.215.166/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.115.163/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.115.191/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.115.221/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.116.30/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.13.35/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.134.85/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.134.88/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.135.125/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.135.80/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.18.65/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.18.66/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.19.57/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.32.103/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.39.31/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.39.39/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.153/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.157/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.159/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.165/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.172/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.180/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.184/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.50/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.52/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.75/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.76/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.80/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.83/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.84/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.86/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.88/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.90/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.92/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.141/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.143/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.149/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.151/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.164/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.166/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.173/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.175/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.177/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.179/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.181/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.183/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.2/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.4/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.64/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.72/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.74/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.76/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.8/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.80/29,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.88/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.134.66.66/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.21/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.22/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.27/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.28/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.35/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.36/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.39/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.45/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.50/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.60/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.62/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.65/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.67/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.70/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.79/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.81/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.138.58/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.138.60/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.15.93/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.253.7/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.32.25/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.32.26/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.138/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.140/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.145/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.146/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.150/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.152/30,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.156/31,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.158/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.136.18.76/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.2/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.21/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.23/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.5/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.53/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.8/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.99/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,39.137.76.32/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,42.176.185.28/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,42.236.91.206/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,47.104.173.199/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,50.7.161.82/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,51.15.0.141/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,58.19.198.159/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,58.20.64.92/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,58.211.172.37/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,58.222.151.43/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,58.243.4.22/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,58.99.33.16/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,59.120.88.155/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,59.175.226.142/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,59.46.18.134/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,59.47.133.234/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,59.48.244.99/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,59.48.42.6/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,59.51.68.40/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.10.167.88/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.10.185.184/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.10.203.69/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.160.23.32/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.168.145.236/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.169.39.215/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.171.171.101/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.171.238.200/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.175.115.119/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.213.23.98/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.220.198.84/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.221.42.151/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.222.246.220/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.255.120.30/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.255.137.43/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.255.149.208/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.255.230.66/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.255.77.232/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,60.30.52.41/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,61.153.68.139/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,61.157.168.66/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,61.161.120.60/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,61.162.225.122/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,61.178.129.74/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,61.216.177.73/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,61.244.22.4/32,no-resolve
+# 目标: IPTVMainland
 IP-CIDR,0.0.0.0/32
+# 目标: IPTVMainland
 IP-CIDR,1.180.237.9/32
+# 目标: IPTVMainland
 IP-CIDR,1.197.88.197/32
+# 目标: IPTVMainland
 IP-CIDR,1.245.74.5/32
+# 目标: IPTVMainland
 IP-CIDR,1.31.80.38/32
+# 目标: IPTVMainland
 IP-CIDR,101.71.255.229/32
+# 目标: IPTVMainland
 IP-CIDR,101.72.196.41/32
+# 目标: IPTVMainland
 IP-CIDR,103.140.229.13/32
+# 目标: IPTVMainland
 IP-CIDR,103.198.18.1/32
+# 目标: IPTVMainland
 IP-CIDR,103.252.251.199/32
+# 目标: IPTVMainland
 IP-CIDR,109.71.162.112/32
+# 目标: IPTVMainland
 IP-CIDR,110.153.180.106/32
+# 目标: IPTVMainland
 IP-CIDR,110.189.153.160/32
+# 目标: IPTVMainland
 IP-CIDR,110.19.181.138/32
+# 目标: IPTVMainland
 IP-CIDR,111.0.27.27/32
+# 目标: IPTVMainland
 IP-CIDR,111.11.123.33/32
+# 目标: IPTVMainland
 IP-CIDR,111.12.102.79/32
+# 目标: IPTVMainland
 IP-CIDR,111.12.110.81/32
+# 目标: IPTVMainland
 IP-CIDR,111.12.75.177/32
+# 目标: IPTVMainland
 IP-CIDR,111.13.111.167/32
+# 目标: IPTVMainland
 IP-CIDR,111.13.111.242/32
+# 目标: IPTVMainland
 IP-CIDR,111.17.214.12/32
+# 目标: IPTVMainland
 IP-CIDR,111.17.214.4/32
+# 目标: IPTVMainland
 IP-CIDR,111.20.33.93/32
+# 目标: IPTVMainland
 IP-CIDR,111.225.205.64/32
+# 目标: IPTVMainland
 IP-CIDR,111.231.194.231/32
+# 目标: IPTVMainland
 IP-CIDR,111.231.197.215/32
+# 目标: IPTVMainland
 IP-CIDR,111.29.9.37/32
+# 目标: IPTVMainland
 IP-CIDR,111.38.103.210/32
+# 目标: IPTVMainland
 IP-CIDR,111.38.104.24/32
+# 目标: IPTVMainland
 IP-CIDR,111.39.175.241/32
+# 目标: IPTVMainland
 IP-CIDR,111.39.71.77/32
+# 目标: IPTVMainland
 IP-CIDR,111.40.196.9/32
+# 目标: IPTVMainland
 IP-CIDR,111.40.205.76/32
+# 目标: IPTVMainland
 IP-CIDR,111.40.205.87/32
+# 目标: IPTVMainland
 IP-CIDR,111.53.105.2/32
+# 目标: IPTVMainland
 IP-CIDR,111.53.96.67/32
+# 目标: IPTVMainland
 IP-CIDR,111.6.126.218/32
+# 目标: IPTVMainland
 IP-CIDR,111.63.117.13/32
+# 目标: IPTVMainland
 IP-CIDR,111.75.179.195/32
+# 目标: IPTVMainland
 IP-CIDR,112.113.134.36/32
+# 目标: IPTVMainland
 IP-CIDR,112.15.230.55/32
+# 目标: IPTVMainland
 IP-CIDR,112.17.0.10/32
+# 目标: IPTVMainland
 IP-CIDR,112.17.40.140/32
+# 目标: IPTVMainland
 IP-CIDR,112.17.40.145/32
+# 目标: IPTVMainland
 IP-CIDR,112.17.40.200/32
+# 目标: IPTVMainland
 IP-CIDR,112.17.40.247/32
+# 目标: IPTVMainland
 IP-CIDR,112.25.48.70/32
+# 目标: IPTVMainland
 IP-CIDR,112.26.80.214/32
+# 目标: IPTVMainland
 IP-CIDR,112.27.139.242/32
+# 目标: IPTVMainland
 IP-CIDR,112.27.89.235/32
+# 目标: IPTVMainland
 IP-CIDR,112.30.194.221/32
+# 目标: IPTVMainland
 IP-CIDR,112.45.133.129/32
+# 目标: IPTVMainland
 IP-CIDR,112.45.139.3/32
+# 目标: IPTVMainland
 IP-CIDR,112.5.223.10/32
+# 目标: IPTVMainland
 IP-CIDR,112.5.223.58/32
+# 目标: IPTVMainland
 IP-CIDR,112.50.243.7/32
+# 目标: IPTVMainland
 IP-CIDR,112.50.243.8/32
+# 目标: IPTVMainland
 IP-CIDR,112.74.200.9/32
+# 目标: IPTVMainland
 IP-CIDR,113.207.29.195/32
+# 目标: IPTVMainland
 IP-CIDR,113.214.24.158/32
+# 目标: IPTVMainland
 IP-CIDR,114.104.147.15/32
+# 目标: IPTVMainland
 IP-CIDR,115.238.238.218/32
+# 目标: IPTVMainland
 IP-CIDR,116.199.5.51/32
+# 目标: IPTVMainland
 IP-CIDR,116.199.5.52/32
+# 目标: IPTVMainland
 IP-CIDR,116.199.5.58/32
+# 目标: IPTVMainland
 IP-CIDR,116.62.31.234/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.132/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.136/31
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.139/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.141/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.145/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.146/31
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.15/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.150/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.152/29
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.160/29
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.169/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.17/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.172/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.175/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.176/31
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.179/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.182/31
+# 目标: IPTVMainland
 IP-CIDR,117.148.179.37/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.187.37/32
+# 目标: IPTVMainland
 IP-CIDR,117.148.187.83/32
+# 目标: IPTVMainland
 IP-CIDR,117.149.150.4/32
+# 目标: IPTVMainland
 IP-CIDR,117.156.28.119/32
+# 目标: IPTVMainland
 IP-CIDR,117.158.206.60/32
+# 目标: IPTVMainland
 IP-CIDR,117.169.120.138/32
+# 目标: IPTVMainland
 IP-CIDR,117.169.120.140/32
+# 目标: IPTVMainland
 IP-CIDR,117.169.120.223/32
+# 目标: IPTVMainland
 IP-CIDR,117.169.72.6/32
+# 目标: IPTVMainland
 IP-CIDR,117.172.215.250/32
+# 目标: IPTVMainland
 IP-CIDR,117.190.118.175/32
+# 目标: IPTVMainland
 IP-CIDR,117.190.130.4/32
+# 目标: IPTVMainland
 IP-CIDR,118.122.224.176/32
+# 目标: IPTVMainland
 IP-CIDR,118.122.239.157/32
+# 目标: IPTVMainland
 IP-CIDR,118.122.78.172/32
+# 目标: IPTVMainland
 IP-CIDR,118.123.60.10/32
+# 目标: IPTVMainland
 IP-CIDR,118.123.60.12/32
+# 目标: IPTVMainland
 IP-CIDR,118.123.60.17/32
+# 目标: IPTVMainland
 IP-CIDR,118.163.88.61/32
+# 目标: IPTVMainland
 IP-CIDR,118.24.227.124/32
+# 目标: IPTVMainland
 IP-CIDR,119.164.216.162/32
+# 目标: IPTVMainland
 IP-CIDR,119.184.188.117/32
+# 目标: IPTVMainland
 IP-CIDR,119.200.131.11/32
+# 目标: IPTVMainland
 IP-CIDR,119.36.30.199/32
+# 目标: IPTVMainland
 IP-CIDR,119.39.128.12/32
+# 目标: IPTVMainland
 IP-CIDR,119.39.242.52/32
+# 目标: IPTVMainland
 IP-CIDR,119.77.96.184/32
+# 目标: IPTVMainland
 IP-CIDR,120.194.173.75/32
+# 目标: IPTVMainland
 IP-CIDR,120.198.235.68/32
+# 目标: IPTVMainland
 IP-CIDR,120.210.216.73/32
+# 目标: IPTVMainland
 IP-CIDR,121.12.115.162/32
+# 目标: IPTVMainland
 IP-CIDR,121.31.30.90/32
+# 目标: IPTVMainland
 IP-CIDR,121.60.207.7/32
+# 目标: IPTVMainland
 IP-CIDR,122.194.12.119/32
+# 目标: IPTVMainland
 IP-CIDR,123.146.162.24/32
+# 目标: IPTVMainland
 IP-CIDR,123.163.119.21/32
+# 目标: IPTVMainland
 IP-CIDR,123.56.16.201/32
+# 目标: IPTVMainland
 IP-CIDR,123.6.9.146/32
+# 目标: IPTVMainland
 IP-CIDR,124.112.228.134/32
+# 目标: IPTVMainland
 IP-CIDR,124.132.96.20/32
+# 目标: IPTVMainland
 IP-CIDR,124.152.34.102/32
+# 目标: IPTVMainland
 IP-CIDR,124.152.39.138/32
+# 目标: IPTVMainland
 IP-CIDR,124.161.224.22/32
+# 目标: IPTVMainland
 IP-CIDR,124.166.252.222/32
+# 目标: IPTVMainland
 IP-CIDR,124.232.231.246/32
+# 目标: IPTVMainland
 IP-CIDR,124.232.233.15/32
+# 目标: IPTVMainland
 IP-CIDR,124.47.33.200/32
+# 目标: IPTVMainland
 IP-CIDR,124.88.144.73/32
+# 目标: IPTVMainland
 IP-CIDR,124.90.32.171/32
+# 目标: IPTVMainland
 IP-CIDR,125.210.152.10/32
+# 目标: IPTVMainland
 IP-CIDR,125.210.152.18/31
+# 目标: IPTVMainland
 IP-CIDR,125.210.152.20/31
+# 目标: IPTVMainland
 IP-CIDR,125.39.177.227/32
+# 目标: IPTVMainland
 IP-CIDR,125.62.24.185/32
+# 目标: IPTVMainland
 IP-CIDR,125.62.25.129/32
+# 目标: IPTVMainland
 IP-CIDR,125.62.25.201/32
+# 目标: IPTVMainland
 IP-CIDR,125.62.60.253/32
+# 目标: IPTVMainland
 IP-CIDR,125.65.94.91/32
+# 目标: IPTVMainland
 IP-CIDR,125.74.200.110/32
+# 目标: IPTVMainland
 IP-CIDR,140.207.241.2/31
+# 目标: IPTVMainland
 IP-CIDR,149.129.100.78/32
+# 目标: IPTVMainland
 IP-CIDR,150.138.8.143/32
+# 目标: IPTVMainland
 IP-CIDR,157.255.30.97/32
+# 目标: IPTVMainland
 IP-CIDR,159.75.85.63/32
+# 目标: IPTVMainland
 IP-CIDR,171.221.250.130/32
+# 目标: IPTVMainland
 IP-CIDR,172.16.1.254/32
+# 目标: IPTVMainland
 IP-CIDR,175.153.153.53/32
+# 目标: IPTVMainland
 IP-CIDR,175.155.106.72/32
+# 目标: IPTVMainland
 IP-CIDR,177.20.208.58/32
+# 目标: IPTVMainland
 IP-CIDR,182.151.211.171/32
+# 目标: IPTVMainland
 IP-CIDR,182.245.29.132/32
+# 目标: IPTVMainland
 IP-CIDR,183.110.27.87/32
+# 目标: IPTVMainland
 IP-CIDR,183.167.193.45/32
+# 目标: IPTVMainland
 IP-CIDR,183.167.250.225/32
+# 目标: IPTVMainland
 IP-CIDR,183.2.230.133/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.103/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.104/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.11/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.112/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.133/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.134/31
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.136/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.139/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.141/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.15/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.167/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.171/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.174/31
+# 目标: IPTVMainland
 IP-CIDR,183.207.248.71/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.101/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.102/31
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.104/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.106/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.11/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.110/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.12/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.136/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.138/31
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.14/31
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.143/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.144/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.16/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.165/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.167/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.169/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.172/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.174/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.176/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.199/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.203/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.207/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.229/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.235/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.238/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.7/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.249.9/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.255.188/32
+# 目标: IPTVMainland
 IP-CIDR,183.207.255.190/32
+# 目标: IPTVMainland
 IP-CIDR,183.223.157.33/32
+# 目标: IPTVMainland
 IP-CIDR,183.224.43.183/32
+# 目标: IPTVMainland
 IP-CIDR,183.230.1.208/32
+# 目标: IPTVMainland
 IP-CIDR,183.230.184.51/32
+# 目标: IPTVMainland
 IP-CIDR,183.237.246.14/32
+# 目标: IPTVMainland
 IP-CIDR,183.238.96.37/32
+# 目标: IPTVMainland
 IP-CIDR,183.251.61.207/32
+# 目标: IPTVMainland
 IP-CIDR,183.251.61.224/32
+# 目标: IPTVMainland
 IP-CIDR,183.64.174.171/32
+# 目标: IPTVMainland
 IP-CIDR,183.64.181.25/32
+# 目标: IPTVMainland
 IP-CIDR,184.154.28.210/32
+# 目标: IPTVMainland
 IP-CIDR,185.228.135.48/32
+# 目标: IPTVMainland
 IP-CIDR,186.155.200.118/32
+# 目标: IPTVMainland
 IP-CIDR,192.168.10.1/32
+# 目标: IPTVMainland
 IP-CIDR,192.168.119.253/32
+# 目标: IPTVMainland
 IP-CIDR,192.240.127.34/32
+# 目标: IPTVMainland
 IP-CIDR,194.116.150.47/32
+# 目标: IPTVMainland
 IP-CIDR,202.107.188.139/32
+# 目标: IPTVMainland
 IP-CIDR,202.107.188.140/31
+# 目标: IPTVMainland
 IP-CIDR,202.168.164.38/32
+# 目标: IPTVMainland
 IP-CIDR,202.175.127.77/32
+# 目标: IPTVMainland
 IP-CIDR,202.195.240.8/32
+# 目标: IPTVMainland
 IP-CIDR,202.69.67.66/32
+# 目标: IPTVMainland
 IP-CIDR,202.98.156.91/32
+# 目标: IPTVMainland
 IP-CIDR,203.162.235.41/32
+# 目标: IPTVMainland
 IP-CIDR,204.11.235.251/32
+# 目标: IPTVMainland
 IP-CIDR,205.234.238.46/32
+# 目标: IPTVMainland
 IP-CIDR,210.14.139.210/32
+# 目标: IPTVMainland
 IP-CIDR,210.210.155.35/32
+# 目标: IPTVMainland
 IP-CIDR,211.137.115.110/32
+# 目标: IPTVMainland
 IP-CIDR,213.151.233.20/32
+# 目标: IPTVMainland
 IP-CIDR,216.246.39.189/32
+# 目标: IPTVMainland
 IP-CIDR,217.20.164.181/32
+# 目标: IPTVMainland
 IP-CIDR,218.10.43.24/32
+# 目标: IPTVMainland
 IP-CIDR,218.106.152.196/32
+# 目标: IPTVMainland
 IP-CIDR,218.17.99.211/32
+# 目标: IPTVMainland
 IP-CIDR,218.201.85.71/32
+# 目标: IPTVMainland
 IP-CIDR,218.202.220.2/32
+# 目标: IPTVMainland
 IP-CIDR,218.204.153.158/32
+# 目标: IPTVMainland
 IP-CIDR,218.206.193.210/32
+# 目标: IPTVMainland
 IP-CIDR,218.207.213.143/32
+# 目标: IPTVMainland
 IP-CIDR,218.23.114.19/32
+# 目标: IPTVMainland
 IP-CIDR,218.26.97.12/32
+# 目标: IPTVMainland
 IP-CIDR,218.28.111.98/32
+# 目标: IPTVMainland
 IP-CIDR,218.28.177.199/32
+# 目标: IPTVMainland
 IP-CIDR,218.29.171.2/32
+# 目标: IPTVMainland
 IP-CIDR,218.29.208.43/32
+# 目标: IPTVMainland
 IP-CIDR,218.29.55.44/32
+# 目标: IPTVMainland
 IP-CIDR,218.29.90.216/32
+# 目标: IPTVMainland
 IP-CIDR,218.3.92.100/32
+# 目标: IPTVMainland
 IP-CIDR,218.31.201.189/32
+# 目标: IPTVMainland
 IP-CIDR,218.5.112.180/32
+# 目标: IPTVMainland
 IP-CIDR,218.6.224.15/32
+# 目标: IPTVMainland
 IP-CIDR,218.63.199.20/32
+# 目标: IPTVMainland
 IP-CIDR,218.64.168.174/32
+# 目标: IPTVMainland
 IP-CIDR,218.75.139.74/32
+# 目标: IPTVMainland
 IP-CIDR,218.77.102.118/32
+# 目标: IPTVMainland
 IP-CIDR,218.84.12.186/32
+# 目标: IPTVMainland
 IP-CIDR,218.84.127.245/32
+# 目标: IPTVMainland
 IP-CIDR,218.89.69.211/32
+# 目标: IPTVMainland
 IP-CIDR,218.92.209.33/32
+# 目标: IPTVMainland
 IP-CIDR,219.149.47.15/32
+# 目标: IPTVMainland
 IP-CIDR,219.150.204.176/32
+# 目标: IPTVMainland
 IP-CIDR,219.153.252.50/32
+# 目标: IPTVMainland
 IP-CIDR,220.161.247.82/32
+# 目标: IPTVMainland
 IP-CIDR,220.161.87.62/32
+# 目标: IPTVMainland
 IP-CIDR,220.178.172.47/32
+# 目标: IPTVMainland
 IP-CIDR,220.180.110.101/32
+# 目标: IPTVMainland
 IP-CIDR,220.180.24.62/32
+# 目标: IPTVMainland
 IP-CIDR,221.179.217.70/32
+# 目标: IPTVMainland
 IP-CIDR,221.179.217.9/32
+# 目标: IPTVMainland
 IP-CIDR,221.209.44.174/32
+# 目标: IPTVMainland
 IP-CIDR,221.230.141.225/32
+# 目标: IPTVMainland
 IP-CIDR,221.230.141.252/32
+# 目标: IPTVMainland
 IP-CIDR,221.233.242.239/32
+# 目标: IPTVMainland
 IP-CIDR,221.238.209.44/32
+# 目标: IPTVMainland
 IP-CIDR,221.3.215.43/32
+# 目标: IPTVMainland
 IP-CIDR,221.3.215.44/32
+# 目标: IPTVMainland
 IP-CIDR,221.5.213.4/32
+# 目标: IPTVMainland
 IP-CIDR,221.6.85.150/32
+# 目标: IPTVMainland
 IP-CIDR,221.7.232.46/32
+# 目标: IPTVMainland
 IP-CIDR,222.143.133.157/32
+# 目标: IPTVMainland
 IP-CIDR,222.178.181.121/32
+# 目标: IPTVMainland
 IP-CIDR,222.178.228.154/32
+# 目标: IPTVMainland
 IP-CIDR,222.179.155.21/32
+# 目标: IPTVMainland
 IP-CIDR,222.179.42.129/32
+# 目标: IPTVMainland
 IP-CIDR,222.179.44.89/32
+# 目标: IPTVMainland
 IP-CIDR,222.180.119.78/32
+# 目标: IPTVMainland
 IP-CIDR,222.186.61.82/32
+# 目标: IPTVMainland
 IP-CIDR,222.208.224.227/32
+# 目标: IPTVMainland
 IP-CIDR,222.218.142.198/32
+# 目标: IPTVMainland
 IP-CIDR,222.81.61.37/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.235.13/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.235.2/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.236.13/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.236.2/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.236.7/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.241.139/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.241.203/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.241.204/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.241.206/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.242.130/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.139/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.140/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.142/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.145/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.146/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.148/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.150/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.152/30
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.157/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.158/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.160/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.162/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.164/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.167/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.243.173/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.134/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.140/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.142/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.145/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.146/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.151/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.152/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.154/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.156/30
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.160/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.164/31
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.167/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.245.170/32
+# 目标: IPTVMainland
 IP-CIDR,223.110.246.80/32
+# 目标: IPTVMainland
 IP-CIDR,223.241.197.199/32
+# 目标: IPTVMainland
 IP-CIDR,223.247.33.124/32
+# 目标: IPTVMainland
 IP-CIDR,223.255.28.42/32
+# 目标: IPTVMainland
 IP-CIDR,223.82.250.72/32
+# 目标: IPTVMainland
 IP-CIDR,223.82.75.3/32
+# 目标: IPTVMainland
 IP-CIDR,223.99.186.132/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.10/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.102/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.108/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.110/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.112/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.116/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.119/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.120/29
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.128/29
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.138/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.140/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.144/29
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.152/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.156/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.158/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.170/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.172/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.176/28
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.192/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.194/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.196/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.198/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.200/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.202/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.204/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.208/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.210/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.213/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.214/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.216/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.22/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.223/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.224/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.236/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.24/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.240/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.244/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.26/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.30/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.32/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.35/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.38/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.41/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.50/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.54/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.56/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.61/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.62/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.65/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.77/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.82/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.86/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.1.96/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.18/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.2/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.25/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.26/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.28/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.4/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.61/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.7/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.8/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.81/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.2.82/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.1/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.10/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.101/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.102/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.104/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.107/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.109/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.110/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.112/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.116/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.12/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.121/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.122/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.124/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.128/27
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.14/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.160/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.165/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.166/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.169/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.170/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.190/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.193/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.194/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.2/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.20/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.201/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.202/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.204/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.208/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.225/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.227/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.228/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.232/29
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.240/29
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.248/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.252/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.254/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.31/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.32/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.36/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.38/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.4/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.41/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.42/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.44/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.48/30
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.52/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.61/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.63/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.68/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.7/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.71/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.72/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.74/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.80/32
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.84/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.88/31
+# 目标: IPTVMainland
 IP-CIDR,225.1.8.9/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.101/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.12/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.128/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.138/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.140/30
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.144/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.199/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.204/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.206/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.208/29
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.216/30
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.220/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.223/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.224/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.231/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.232/30
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.236/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.239/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.240/30
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.244/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.246/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.196.249/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.1/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.100/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.102/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.108/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.110/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.112/29
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.120/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.122/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.127/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.128/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.13/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.133/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.14/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.141/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.142/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.144/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.147/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.148/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.150/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.152/29
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.16/28
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.160/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.175/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.176/29
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.184/30
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.2/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.32/30
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.37/32
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.38/31
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.4/30
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.40/29
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.48/28
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.64/27
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.8/30
+# 目标: IPTVMainland
 IP-CIDR,235.254.198.96/30
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.100/30
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.105/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.106/31
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.108/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.11/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.116/30
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.12/30
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.121/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.122/31
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.124/30
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.128/27
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.16/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.160/28
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.176/30
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.180/31
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.182/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.184/29
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.192/30
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.200/29
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.208/31
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.210/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.214/31
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.216/30
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.221/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.223/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.224/29
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.232/30
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.236/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.29/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.33/32
+# 目标: IPTVMainland
 IP-CIDR,239.10.0.34/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.10/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.100/30
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.107/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.108/30
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.112/29
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.120/30
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.127/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.129/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.130/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.132/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.134/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.136/29
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.144/29
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.152/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.170/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.172/30
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.176/28
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.192/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.194/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.203/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.204/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.206/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.208/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.22/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.225/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.226/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.228/30
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.232/29
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.24/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.240/29
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.26/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.31/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.32/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.35/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.36/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.41/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.42/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.44/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.48/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.51/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.52/30
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.56/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.58/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.63/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.64/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.66/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.68/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.70/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.73/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.74/32
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.76/31
+# 目标: IPTVMainland
 IP-CIDR,239.11.0.78/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.16.178/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.16.74/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.101/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.102/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.104/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.109/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.11/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.110/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.112/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.114/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.116/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.119/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.12/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.120/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.124/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.139/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.140/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.142/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.144/29
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.152/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.157/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.158/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.16/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.160/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.164/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.166/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.168/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.174/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.18/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.183/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.184/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.186/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.188/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.190/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.20/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.202/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.204/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.208/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.217/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.225/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.226/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.228/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.243/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.247/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.248/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.27/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.29/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.30/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.32/28
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.48/29
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.56/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.68/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.7/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.80/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.82/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.84/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.88/29
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.9/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.200.96/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.12/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.120/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.15/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.16/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.20/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.78/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.80/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.201.82/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.10/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.100/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.104/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.110/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.113/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.115/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.116/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.119/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.121/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.124/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.151/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.152/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.156/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.158/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.16/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.160/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.164/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.166/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.188/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.2/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.20/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.201/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.204/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.206/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.208/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.216/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.23/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.24/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.28/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.30/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.33/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.34/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.36/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.4/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.41/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.42/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.45/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.47/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.49/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.50/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.52/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.54/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.56/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.6/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.61/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.65/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.66/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.68/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.72/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.75/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.76/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.78/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.8/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.81/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.83/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.84/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.86/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.94/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.22.96/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.1/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.101/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.102/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.104/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.107/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.108/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.11/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.110/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.113/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.115/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.13/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.136/29
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.14/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.144/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.154/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.156/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.16/28
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.160/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.175/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.177/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.178/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.180/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.184/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.188/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.191/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.192/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.194/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.196/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.199/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.2/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.201/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.203/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.206/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.208/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.210/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.213/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.214/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.216/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.220/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.222/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.228/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.234/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.251/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.252/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.32/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.36/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.38/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.40/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.43/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.44/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.47/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.48/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.50/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.7/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.87/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.88/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.9/32
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.90/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.92/30
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.96/31
+# 目标: IPTVMainland
 IP-CIDR,239.254.96.99/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.1/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.10/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.104/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.107/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.108/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.112/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.114/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.12/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.120/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.122/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.124/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.129/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.130/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.132/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.136/29
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.144/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.146/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.148/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.152/29
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.16/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.161/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.163/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.164/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.172/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.178/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.18/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.180/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.184/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.188/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.193/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.194/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.196/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.2/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.20/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.201/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.209/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.210/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.212/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.216/29
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.225/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.226/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.228/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.23/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.232/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.236/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.238/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.24/29
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.240/29
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.248/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.253/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.32/28
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.4/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.48/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.51/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.52/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.56/31
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.58/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.60/30
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.64/27
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.7/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.9/32
+# 目标: IPTVMainland
 IP-CIDR,239.3.1.96/29
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.1/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.10/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.104/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.109/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.110/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.112/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.116/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.12/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.121/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.123/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.124/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.128/29
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.136/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.140/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.143/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.144/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.146/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.148/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.151/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.152/29
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.16/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.160/28
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.176/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.179/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.180/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.184/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.188/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.193/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.194/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.2/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.200/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.205/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.217/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.218/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.22/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.220/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.224/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.229/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.230/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.232/29
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.24/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.240/29
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.248/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.252/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.254/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.28/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.30/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.34/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.36/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.39/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.4/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.45/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.46/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.50/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.53/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.54/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.57/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.59/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.60/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.63/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.64/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.69/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.70/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.73/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.74/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.76/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.80/30
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.84/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.87/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.88/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.9/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.90/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.92/31
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.95/32
+# 目标: IPTVMainland
 IP-CIDR,239.37.0.96/29
+# 目标: IPTVMainland
 IP-CIDR,239.37.1.21/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.0.2/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.0.4/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.0.6/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.0.8/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.109/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.114/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.116/30
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.120/30
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.124/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.127/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.14/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.194/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.196/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.198/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.200/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.213/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.229/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.230/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.232/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.234/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.238/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.251/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.253/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.4/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.42/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.44/30
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.48/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.50/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.52/30
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.68/30
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.80/30
+# 目标: IPTVMainland
 IP-CIDR,239.45.1.84/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.10/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.107/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.118/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.122/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.131/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.132/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.134/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.136/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.139/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.145/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.146/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.177/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.178/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.185/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.196/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.207/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.208/30
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.212/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.214/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.228/30
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.23/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.232/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.236/30
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.248/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.253/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.4/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.49/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.50/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.52/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.56/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.61/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.74/31
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.79/32
+# 目标: IPTVMainland
 IP-CIDR,239.45.3.8/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.0.11/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.0.13/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.0.15/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.0.177/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.10/31
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.107/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.108/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.110/31
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.112/30
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.117/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.118/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.12/30
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.120/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.122/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.126/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.16/30
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.20/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.29/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.32/31
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.35/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.38/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.48/29
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.56/31
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.7/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.74/31
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.76/31
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.8/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.80/32
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.82/31
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.84/30
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.88/30
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.92/31
+# 目标: IPTVMainland
 IP-CIDR,239.49.8.94/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.102/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.104/30
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.108/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.110/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.116/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.122/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.124/30
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.138/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.141/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.142/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.144/30
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.149/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.150/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.152/30
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.156/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.168/29
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.176/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.178/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.183/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.186/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.189/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.190/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.192/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.2/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.204/30
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.208/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.24/30
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.28/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.30/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.4/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.40/30
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.57/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.6/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.60/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.65/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.68/30
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.74/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.79/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.81/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.83/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.84/30
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.89/32
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.90/31
+# 目标: IPTVMainland
 IP-CIDR,239.69.1.98/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.245.208/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.245.25/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.246.7/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.246.8/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.248.1/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.248.7/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.248.8/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.103/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.104/29
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.112/28
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.133/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.134/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.136/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.18/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.187/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.189/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.190/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.192/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.194/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.196/30
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.200/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.204/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.212/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.214/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.216/29
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.225/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.23/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.230/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.232/30
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.236/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.238/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.241/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.242/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.244/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.251/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.252/30
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.26/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.32/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.35/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.61/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.63/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.65/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.66/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.87/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.91/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.94/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.252.96/30
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.10/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.100/30
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.104/30
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.108/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.110/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.112/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.12/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.121/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.122/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.14/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.151/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.152/29
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.16/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.160/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.162/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.164/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.168/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.18/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.181/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.182/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.184/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.186/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.188/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.193/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.195/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.2/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.200/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.21/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.39/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.4/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.51/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.52/30
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.59/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.6/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.60/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.72/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.253.9/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.10/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.12/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.4/31
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.6/32
+# 目标: IPTVMainland
 IP-CIDR,239.76.255.96/32
+# 目标: IPTVMainland
 IP-CIDR,239.93.42.49/32
+# 目标: IPTVMainland
 IP-CIDR,239.93.42.50/31
+# 目标: IPTVMainland
 IP-CIDR,239.93.42.52/32
+# 目标: IPTVMainland
 IP-CIDR,27.223.123.247/32
+# 目标: IPTVMainland
 IP-CIDR,36.159.12.236/32
+# 目标: IPTVMainland
 IP-CIDR,37.48.83.34/32
+# 目标: IPTVMainland
 IP-CIDR,39.106.225.170/32
+# 目标: IPTVMainland
 IP-CIDR,39.130.215.166/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.115.163/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.115.191/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.115.221/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.116.30/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.13.35/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.134.85/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.134.88/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.135.125/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.135.80/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.18.65/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.18.66/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.19.57/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.32.103/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.39.31/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.39.39/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.153/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.157/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.159/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.165/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.172/31
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.180/30
+# 目标: IPTVMainland
 IP-CIDR,39.134.52.184/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.50/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.52/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.75/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.76/30
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.80/31
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.83/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.84/31
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.86/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.88/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.90/31
+# 目标: IPTVMainland
 IP-CIDR,39.134.62.92/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.141/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.143/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.149/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.151/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.164/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.166/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.173/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.175/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.177/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.179/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.181/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.183/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.2/31
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.4/30
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.64/29
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.72/32
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.74/31
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.76/30
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.8/31
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.80/29
+# 目标: IPTVMainland
 IP-CIDR,39.134.65.88/31
+# 目标: IPTVMainland
 IP-CIDR,39.134.66.66/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.21/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.22/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.27/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.28/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.35/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.36/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.39/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.45/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.50/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.60/31
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.62/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.65/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.67/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.7/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.70/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.79/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.135.81/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.138.58/31
+# 目标: IPTVMainland
 IP-CIDR,39.135.138.60/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.15.93/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.253.7/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.32.25/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.32.26/31
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.138/31
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.140/30
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.145/32
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.146/31
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.150/31
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.152/30
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.156/31
+# 目标: IPTVMainland
 IP-CIDR,39.135.36.158/32
+# 目标: IPTVMainland
 IP-CIDR,39.136.18.76/32
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.2/32
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.21/32
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.23/32
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.5/32
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.53/32
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.8/32
+# 目标: IPTVMainland
 IP-CIDR,39.136.48.99/32
+# 目标: IPTVMainland
 IP-CIDR,39.137.76.32/32
+# 目标: IPTVMainland
 IP-CIDR,42.176.185.28/32
+# 目标: IPTVMainland
 IP-CIDR,42.236.91.206/32
+# 目标: IPTVMainland
 IP-CIDR,47.104.173.199/32
+# 目标: IPTVMainland
 IP-CIDR,50.7.161.82/32
+# 目标: IPTVMainland
 IP-CIDR,51.15.0.141/32
+# 目标: IPTVMainland
 IP-CIDR,58.19.198.159/32
+# 目标: IPTVMainland
 IP-CIDR,58.20.64.92/32
+# 目标: IPTVMainland
 IP-CIDR,58.211.172.37/32
+# 目标: IPTVMainland
 IP-CIDR,58.222.151.43/32
+# 目标: IPTVMainland
 IP-CIDR,58.243.4.22/32
+# 目标: IPTVMainland
 IP-CIDR,58.99.33.16/32
+# 目标: IPTVMainland
 IP-CIDR,59.120.88.155/32
+# 目标: IPTVMainland
 IP-CIDR,59.175.226.142/32
+# 目标: IPTVMainland
 IP-CIDR,59.46.18.134/32
+# 目标: IPTVMainland
 IP-CIDR,59.47.133.234/32
+# 目标: IPTVMainland
 IP-CIDR,59.48.244.99/32
+# 目标: IPTVMainland
 IP-CIDR,59.48.42.6/32
+# 目标: IPTVMainland
 IP-CIDR,59.51.68.40/32
+# 目标: IPTVMainland
 IP-CIDR,60.10.167.88/32
+# 目标: IPTVMainland
 IP-CIDR,60.10.185.184/32
+# 目标: IPTVMainland
 IP-CIDR,60.10.203.69/32
+# 目标: IPTVMainland
 IP-CIDR,60.160.23.32/32
+# 目标: IPTVMainland
 IP-CIDR,60.168.145.236/32
+# 目标: IPTVMainland
 IP-CIDR,60.169.39.215/32
+# 目标: IPTVMainland
 IP-CIDR,60.171.171.101/32
+# 目标: IPTVMainland
 IP-CIDR,60.171.238.200/32
+# 目标: IPTVMainland
 IP-CIDR,60.175.115.119/32
+# 目标: IPTVMainland
 IP-CIDR,60.213.23.98/32
+# 目标: IPTVMainland
 IP-CIDR,60.220.198.84/32
+# 目标: IPTVMainland
 IP-CIDR,60.221.42.151/32
+# 目标: IPTVMainland
 IP-CIDR,60.222.246.220/32
+# 目标: IPTVMainland
 IP-CIDR,60.255.120.30/32
+# 目标: IPTVMainland
 IP-CIDR,60.255.137.43/32
+# 目标: IPTVMainland
 IP-CIDR,60.255.149.208/32
+# 目标: IPTVMainland
 IP-CIDR,60.255.230.66/32
+# 目标: IPTVMainland
 IP-CIDR,60.255.77.232/32
+# 目标: IPTVMainland
 IP-CIDR,60.30.52.41/32
+# 目标: IPTVMainland
 IP-CIDR,61.153.68.139/32
+# 目标: IPTVMainland
 IP-CIDR,61.157.168.66/32
+# 目标: IPTVMainland
 IP-CIDR,61.161.120.60/32
+# 目标: IPTVMainland
 IP-CIDR,61.162.225.122/32
+# 目标: IPTVMainland
 IP-CIDR,61.178.129.74/32
+# 目标: IPTVMainland
 IP-CIDR,61.216.177.73/32
+# 目标: IPTVMainland
 IP-CIDR,61.244.22.4/32

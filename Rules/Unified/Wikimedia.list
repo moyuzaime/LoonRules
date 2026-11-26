@@ -1,23 +1,43 @@
 # 统一规则库 | 分类: Wikimedia
 # 合并来源: blackmatrix7/ios_rule_script Wikimedia
 # 规则数: 20
+# 目标: Wikimedia
 DOMAIN-SUFFIX,mediawiki.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,toolforge.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,w.wiki
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikibooks.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikidata.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikileaks.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikimedia.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikimediacloud.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikimediafoundation.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikinews.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikipedia.com
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikipedia.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikiquote.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikisource.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikiversity.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wikivoyage.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wiktionary.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wmcloud.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wmflabs.org
+# 目标: Wikimedia
 DOMAIN-SUFFIX,wmfusercontent.org

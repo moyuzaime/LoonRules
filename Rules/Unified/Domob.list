@@ -1,29 +1,56 @@
 # 统一规则库 | 分类: Domob
 # 合并来源: blackmatrix7/ios_rule_script Domob
+# 说明: 多盟
 # 规则数: 26
+# 目标: Domob
 DOMAIN-SUFFIX,dmaow.com
+# 目标: Domob
 DOMAIN-SUFFIX,dmrta.com
+# 目标: Domob
 DOMAIN-SUFFIX,dmrtb.cn
+# 目标: Domob
 DOMAIN-SUFFIX,dmrtb.com
+# 目标: Domob
 DOMAIN-SUFFIX,dmvideo.cn
+# 目标: Domob
 DOMAIN-SUFFIX,dmvideo.mobi
+# 目标: Domob
 DOMAIN-SUFFIX,dmvideo.net
+# 目标: Domob
 DOMAIN-SUFFIX,dmvideo.org
+# 目标: Domob
 DOMAIN-SUFFIX,dmyouxi.com
+# 目标: Domob
 DOMAIN-SUFFIX,domob-inc.cn
+# 目标: Domob
 DOMAIN-SUFFIX,domob-inc.com
+# 目标: Domob
 DOMAIN-SUFFIX,domob.cn
+# 目标: Domob
 DOMAIN-SUFFIX,domob.com.cn
+# 目标: Domob
 DOMAIN-SUFFIX,domob.org
+# 目标: Domob
 DOMAIN-SUFFIX,domobcdn.cn
+# 目标: Domob
 DOMAIN-SUFFIX,domobcdn.com
+# 目标: Domob
 DOMAIN-SUFFIX,domobnetwork.com
+# 目标: Domob
 DOMAIN-SUFFIX,duomeng.cn
+# 目标: Domob
 DOMAIN-SUFFIX,duomeng.net
+# 目标: Domob
 DOMAIN-SUFFIX,duomeng.org
+# 目标: Domob
 DOMAIN-SUFFIX,modh.cn
+# 目标: Domob
 DOMAIN-SUFFIX,modh.com.cn
+# 目标: Domob
 DOMAIN-SUFFIX,moxz.cn
+# 目标: Domob
 DOMAIN-SUFFIX,moxz.net
+# 目标: Domob
 DOMAIN-SUFFIX,ugdesk.cn
+# 目标: Domob
 DOMAIN-SUFFIX,ugdesk.com

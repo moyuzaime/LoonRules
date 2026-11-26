@@ -1,23 +1,43 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DMM/DMM.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DMM/DMM.list
 # 规则数: 20
+# 目标: DMM
 DOMAIN-SUFFIX,akabeesoft2.com
+# 目标: DMM
 DOMAIN-SUFFIX,akabeesoft3.com
+# 目标: DMM
 DOMAIN-SUFFIX,akatsukiworks.com
+# 目标: DMM
 DOMAIN-SUFFIX,alicesoft.com
+# 目标: DMM
 DOMAIN-SUFFIX,api-p.videomarket.jp
+# 目标: DMM
 DOMAIN-SUFFIX,cosmiccute.com
+# 目标: DMM
 DOMAIN-SUFFIX,ddo.jp
+# 目标: DMM
 DOMAIN-SUFFIX,dmm-extension.com
+# 目标: DMM
 DOMAIN-SUFFIX,dmm.co.jp
+# 目标: DMM
 DOMAIN-SUFFIX,dmm.com
+# 目标: DMM
 DOMAIN-SUFFIX,dmm.hk
+# 目标: DMM
 DOMAIN-SUFFIX,dmmapis.com
+# 目标: DMM
 DOMAIN-SUFFIX,dmmrex.com
+# 目标: DMM
 DOMAIN-SUFFIX,hibiki-site.com
+# 目标: DMM
 DOMAIN-SUFFIX,minori.ph
+# 目标: DMM
 DOMAIN-SUFFIX,navismithapis-cdn.com
+# 目标: DMM
 DOMAIN-SUFFIX,tenco.cc
+# 目标: DMM
 DOMAIN-SUFFIX,wheel-soft.com
+# 目标: DMM
 IP-CIDR,125.6.189.7/32,no-resolve
+# 目标: DMM
 IP-CIDR,203.104.209.7/32,no-resolve

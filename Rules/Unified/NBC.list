@@ -1,25 +1,47 @@
 # 统一规则库 | 分类: NBC
 # 合并来源: blackmatrix7/ios_rule_script NBC
 # 规则数: 22
+# 目标: NBC
 DOMAIN,nbcstreaming.sc.omtrdc.net
+# 目标: NBC
 DOMAIN-SUFFIX,bravotv.com
+# 目标: NBC
 DOMAIN-SUFFIX,cnbc.com
+# 目标: NBC
 DOMAIN-SUFFIX,cnbcfm.com
+# 目标: NBC
 DOMAIN-SUFFIX,eluniverso.com
+# 目标: NBC
 DOMAIN-SUFFIX,eonline.com
+# 目标: NBC
 DOMAIN-SUFFIX,msnbc.com
+# 目标: NBC
 DOMAIN-SUFFIX,nbc-sports.go-vip.net
+# 目标: NBC
 DOMAIN-SUFFIX,nbc.co
+# 目标: NBC
 DOMAIN-SUFFIX,nbc.com
+# 目标: NBC
 DOMAIN-SUFFIX,nbcnews.com
+# 目标: NBC
 DOMAIN-SUFFIX,nbcsports.com
+# 目标: NBC
 DOMAIN-SUFFIX,nbcsports.h-cdn.com
+# 目标: NBC
 DOMAIN-SUFFIX,nbcudigitaladops.com
+# 目标: NBC
 DOMAIN-SUFFIX,nbcuni.com
+# 目标: NBC
 DOMAIN-SUFFIX,oxygen.com
+# 目标: NBC
 DOMAIN-SUFFIX,peacocktv.com
+# 目标: NBC
 DOMAIN-SUFFIX,s-nbcnews.com
+# 目标: NBC
 DOMAIN-SUFFIX,syfy.com
+# 目标: NBC
 DOMAIN-SUFFIX,telemundo.com
+# 目标: NBC
 DOMAIN-SUFFIX,universalkids.com
+# 目标: NBC
 DOMAIN-SUFFIX,usanetwork.com

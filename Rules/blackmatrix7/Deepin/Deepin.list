@@ -1,10 +1,18 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Deepin/Deepin.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Deepin/Deepin.list
+# 说明: 深度科技
 # 规则数: 7
+# 目标: Deepin
 DOMAIN-SUFFIX,chinauos.com
+# 目标: Deepin
 DOMAIN-SUFFIX,deepin.cn
+# 目标: Deepin
 DOMAIN-SUFFIX,deepin.com
+# 目标: Deepin
 DOMAIN-SUFFIX,deepin.io
+# 目标: Deepin
 DOMAIN-SUFFIX,deepin.org
+# 目标: Deepin
 DOMAIN-SUFFIX,linglong.dev
+# 目标: Deepin
 DOMAIN-SUFFIX,uniontech.com

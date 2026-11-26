@@ -1,33 +1,63 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Spotify/Spotify.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list
 # 规则数: 30
+# 目标: Spotify
 DOMAIN,audio4-ak-spotify-com.akamaized.net
+# 目标: Spotify
 DOMAIN,cdn-spotify-experiments.conductrics.com
+# 目标: Spotify
 DOMAIN,heads-ak-spotify-com.akamaized.net
+# 目标: Spotify
 DOMAIN,spotify.com.edgesuite.net
+# 目标: Spotify
 DOMAIN,spotify.map.fastly.net
+# 目标: Spotify
 DOMAIN,spotify.map.fastlylb.net
+# 目标: Spotify
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+# 目标: Spotify
 DOMAIN-SUFFIX,byspotify.com
+# 目标: Spotify
 DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+# 目标: Spotify
 DOMAIN-SUFFIX,pscdn.co
+# 目标: Spotify
 DOMAIN-SUFFIX,scdn.co
+# 目标: Spotify
 DOMAIN-SUFFIX,spoti.fi
+# 目标: Spotify
 DOMAIN-SUFFIX,spotify-com.akamaized.net
+# 目标: Spotify
 DOMAIN-SUFFIX,spotify-everywhere.com
+# 目标: Spotify
 DOMAIN-SUFFIX,spotify.app.link
+# 目标: Spotify
 DOMAIN-SUFFIX,spotify.com
+# 目标: Spotify
 DOMAIN-SUFFIX,spotify.design
+# 目标: Spotify
 DOMAIN-SUFFIX,spotifycdn.com
+# 目标: Spotify
 DOMAIN-SUFFIX,spotifycdn.net
+# 目标: Spotify
 DOMAIN-SUFFIX,spotifycharts.com
+# 目标: Spotify
 DOMAIN-SUFFIX,spotifycodes.com
+# 目标: Spotify
 DOMAIN-SUFFIX,spotifyforbrands.com
+# 目标: Spotify
 DOMAIN-SUFFIX,spotifyjobs.com
+# 目标: Spotify
 DOMAIN-SUFFIX,spotifynewsroom.jp
+# 目标: Spotify
 DOMAIN-SUFFIX,spotilocal.com
+# 目标: Spotify
 DOMAIN-SUFFIX,tospotify.com
+# 目标: Spotify
 DOMAIN-KEYWORD,spotify
+# 目标: Spotify
 USER-AGENT,Spotify*
+# 目标: Spotify
 IP-CIDR,104.154.127.126/32,no-resolve
+# 目标: Spotify
 IP-CIDR,35.186.224.47/32,no-resolve

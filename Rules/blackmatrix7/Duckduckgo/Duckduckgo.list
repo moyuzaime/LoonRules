@@ -1,46 +1,89 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Duckduckgo/Duckduckgo.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Duckduckgo/Duckduckgo.list
 # 规则数: 43
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,cispaletter.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,cispaletter.org
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,cometotheduckside.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,ddg.co
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,ddg.gg
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,ddh.gg
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,dgg.gg
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,dontbubble.us
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,donttrack.us
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duck.co
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duck.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckco.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckco.de
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.ca
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.co
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.co.uk
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.com.mx
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.com.tw
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.de
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.dk
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.in
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.jp
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.ke
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.mx
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.nl
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.org
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.pl
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.sg
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckgo.uk
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckduckhack.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckgo.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,ducksear.ch
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,duckside.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,dukgo.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,enteentegeh.de
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,fixtracking.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,goduckgo.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,hacksear.ch
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,justduckit.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,privacysimplified.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,privatebrowsingmyths.com
+# 目标: Duckduckgo
 DOMAIN-SUFFIX,spreadprivacy.com

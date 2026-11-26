@@ -1,9 +1,16 @@
 # 统一规则库 | 分类: HaiNanHangKong
 # 合并来源: blackmatrix7/ios_rule_script HaiNanHangKong
+# 说明: 海南航空
 # 规则数: 6
+# 目标: HaiNanHangKong
 DOMAIN-SUFFIX,10044.cn
+# 目标: HaiNanHangKong
 DOMAIN-SUFFIX,hainanairlines.com
+# 目标: HaiNanHangKong
 DOMAIN-SUFFIX,hnacargo.com
+# 目标: HaiNanHangKong
 DOMAIN-SUFFIX,hnair.com
+# 目标: HaiNanHangKong
 DOMAIN-SUFFIX,hnair.net
+# 目标: HaiNanHangKong
 DOMAIN-KEYWORD,hnagroup

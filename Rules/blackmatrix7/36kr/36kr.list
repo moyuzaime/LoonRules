@@ -1,7 +1,12 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/36kr/36kr.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/36kr/36kr.list
+# 说明: 36氪
 # 规则数: 4
+# 目标: 36kr
 DOMAIN-SUFFIX,36dianping.com
+# 目标: 36kr
 DOMAIN-SUFFIX,36kr.com
+# 目标: 36kr
 DOMAIN-SUFFIX,36krcdn.com
+# 目标: 36kr
 DOMAIN-SUFFIX,36krcnd.com

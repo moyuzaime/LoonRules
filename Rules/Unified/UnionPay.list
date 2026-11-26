@@ -1,19 +1,36 @@
 # 统一规则库 | 分类: UnionPay
 # 合并来源: blackmatrix7/ios_rule_script UnionPay
+# 说明: 中国银联
 # 规则数: 16
+# 目标: UnionPay
 DOMAIN-SUFFIX,95516.com
+# 目标: UnionPay
 DOMAIN-SUFFIX,95516.net
+# 目标: UnionPay
 DOMAIN-SUFFIX,airepay.net
+# 目标: UnionPay
 DOMAIN-SUFFIX,chinapay.cn
+# 目标: UnionPay
 DOMAIN-SUFFIX,chinapay.com
+# 目标: UnionPay
 DOMAIN-SUFFIX,chinapayhongkong.com
+# 目标: UnionPay
 DOMAIN-SUFFIX,chinaunionpay.com
+# 目标: UnionPay
 DOMAIN-SUFFIX,chinaunionpay.com.cn
+# 目标: UnionPay
 DOMAIN-SUFFIX,chinaunionpay.net
+# 目标: UnionPay
 DOMAIN-SUFFIX,cup.com.cn
+# 目标: UnionPay
 DOMAIN-SUFFIX,cup62.cn
+# 目标: UnionPay
 DOMAIN-SUFFIX,unionpay.com
+# 目标: UnionPay
 DOMAIN-SUFFIX,unionpay.net
+# 目标: UnionPay
 DOMAIN-SUFFIX,unionpayintl.cn
+# 目标: UnionPay
 DOMAIN-SUFFIX,unionpayintl.com
+# 目标: UnionPay
 DOMAIN-SUFFIX,unionpaysecure.com

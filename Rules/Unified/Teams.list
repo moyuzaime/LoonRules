@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Teams
 # 合并来源: blackmatrix7/ios_rule_script Teams
 # 规则数: 4
+# 目标: Teams
 DOMAIN,teams.events.data.microsoft.com
+# 目标: Teams
 DOMAIN-SUFFIX,teams.cdn.live.net
+# 目标: Teams
 DOMAIN-SUFFIX,teams.live.com
+# 目标: Teams
 DOMAIN-SUFFIX,teams.microsoft.com

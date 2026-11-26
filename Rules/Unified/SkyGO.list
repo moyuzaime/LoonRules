@@ -1,19 +1,35 @@
 # 统一规则库 | 分类: SkyGO
 # 合并来源: blackmatrix7/ios_rule_script SkyGO
 # 规则数: 16
+# 目标: SkyGO
 DOMAIN,7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com
+# 目标: SkyGO
 DOMAIN,clientstream.launchdarkly.com
+# 目标: SkyGO
 DOMAIN,sky.com.ssl.d1.sc.omtrdc.net
+# 目标: SkyGO
 DOMAIN-SUFFIX,2cnt.net
+# 目标: SkyGO
 DOMAIN-SUFFIX,epgsky.com
+# 目标: SkyGO
 DOMAIN-SUFFIX,eu.ems.eos.comcast.com
+# 目标: SkyGO
 DOMAIN-SUFFIX,sky.com
+# 目标: SkyGO
 DOMAIN-SUFFIX,skyanywhere.com
+# 目标: SkyGO
 DOMAIN-SUFFIX,skycdp.com
+# 目标: SkyGO
 DOMAIN-SUFFIX,skygo.co.nz
+# 目标: SkyGO
 DOMAIN-SUFFIX,skysports.com
+# 目标: SkyGO
 DOMAIN-SUFFIX,xcal.tv
+# 目标: SkyGO
 DOMAIN-SUFFIX,xmidt-eu.comcast.net
+# 目标: SkyGO
 DOMAIN-KEYWORD,bskyb
+# 目标: SkyGO
 DOMAIN-KEYWORD,skygo
+# 目标: SkyGO
 DOMAIN-KEYWORD,skyliveuk

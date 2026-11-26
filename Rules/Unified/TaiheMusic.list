@@ -1,12 +1,22 @@
 # 统一规则库 | 分类: TaiheMusic
 # 合并来源: blackmatrix7/ios_rule_script TaiheMusic
+# 说明: 太合音乐
 # 规则数: 9
+# 目标: TaiheMusic
 DOMAIN-SUFFIX,91q.com
+# 目标: TaiheMusic
 DOMAIN-SUFFIX,dmhmusic.com
+# 目标: TaiheMusic
 DOMAIN-SUFFIX,qianqian.com
+# 目标: TaiheMusic
 DOMAIN-SUFFIX,submusic.cn
+# 目标: TaiheMusic
 DOMAIN-SUFFIX,taihe.com
+# 目标: TaiheMusic
 DOMAIN-SUFFIX,ttplayer.com
+# 目标: TaiheMusic
 DOMAIN-SUFFIX,youyou.com
+# 目标: TaiheMusic
 DOMAIN-SUFFIX,youyou001.com
+# 目标: TaiheMusic
 USER-AGENT,baiduyinyue

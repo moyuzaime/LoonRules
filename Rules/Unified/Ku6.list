@@ -1,14 +1,26 @@
 # 统一规则库 | 分类: Ku6
 # 合并来源: blackmatrix7/ios_rule_script Ku6
+# 说明: 酷6
 # 规则数: 11
+# 目标: Ku6
 DOMAIN-SUFFIX,feedsp.com
+# 目标: Ku6
 DOMAIN-SUFFIX,juchang.cn
+# 目标: Ku6
 DOMAIN-SUFFIX,juchang.com.cn
+# 目标: Ku6
 DOMAIN-SUFFIX,ku6.cn
+# 目标: Ku6
 DOMAIN-SUFFIX,ku6.com
+# 目标: Ku6
 DOMAIN-SUFFIX,ku6.com.cn
+# 目标: Ku6
 DOMAIN-SUFFIX,ku6.net
+# 目标: Ku6
 DOMAIN-SUFFIX,ku6cdn.com
+# 目标: Ku6
 DOMAIN-SUFFIX,ku6img.com
+# 目标: Ku6
 DOMAIN-SUFFIX,ku6vms.com
+# 目标: Ku6
 DOMAIN-SUFFIX,weiguan.com

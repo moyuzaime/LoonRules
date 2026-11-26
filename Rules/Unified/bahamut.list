@@ -1,12 +1,21 @@
 # 统一规则库 | 分类: bahamut
 # 合并来源: QuixoticHeart/rule-set bahamut; blackmatrix7/ios_rule_script Bahamut
 # 规则数: 9
+# 目标: bahamut
 DOMAIN-SUFFIX,bahamut.akamaized.net
+# 目标: bahamut
 DOMAIN-SUFFIX,bahamut.com.tw
+# 目标: bahamut
 DOMAIN-SUFFIX,digicert.com
+# 目标: bahamut
 DOMAIN-SUFFIX,gamer.com.tw
+# 目标: bahamut
 DOMAIN-SUFFIX,gvt1.com
+# 目标: bahamut
 DOMAIN-SUFFIX,hinet.net
+# 目标: bahamut
 DOMAIN-SUFFIX,viblast.com
+# 目标: bahamut
 DOMAIN,bahamut.akamaized.net
+# 目标: bahamut
 USER-AGENT,Anime*

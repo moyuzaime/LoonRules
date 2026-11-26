@@ -1,4 +1,5 @@
 # 统一规则库 | 分类: AdColony
 # 合并来源: blackmatrix7/ios_rule_script AdColony
 # 规则数: 1
+# 目标: AdColony
 DOMAIN-SUFFIX,adcolony.com

@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: CableTV
 # 合并来源: blackmatrix7/ios_rule_script CableTV
 # 规则数: 2
+# 目标: CableTV
 DOMAIN-SUFFIX,cabletv.com.hk
+# 目标: CableTV
 DOMAIN-SUFFIX,i-cable.com

@@ -1,4 +1,5 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/4Paradigm/4Paradigm.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/4Paradigm/4Paradigm.list
 # 规则数: 1
+# 目标: 4Paradigm
 DOMAIN-SUFFIX,4paradigm.com

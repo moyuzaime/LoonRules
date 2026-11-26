@@ -1,6 +1,10 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/CETV/CETV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CETV/CETV.list
+# 说明: 中国教育电视台
 # 规则数: 3
+# 目标: CETV
 DOMAIN-SUFFIX,centv.cn
+# 目标: CETV
 DOMAIN-SUFFIX,centv.net.cn
+# 目标: CETV
 DOMAIN-SUFFIX,cetv.cn

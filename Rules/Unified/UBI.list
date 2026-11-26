@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: UBI
 # 合并来源: blackmatrix7/ios_rule_script UBI
 # 规则数: 5
+# 目标: UBI
 DOMAIN-SUFFIX,ubi.com
+# 目标: UBI
 DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
+# 目标: UBI
 DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
+# 目标: UBI
 DOMAIN-SUFFIX,ubisoft.com
+# 目标: UBI
 DOMAIN-SUFFIX,uplay.com

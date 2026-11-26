@@ -1,13 +1,23 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/BardAI/BardAI.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BardAI/BardAI.list
 # 规则数: 10
+# 目标: BardAI
 DOMAIN,ai.google.dev
+# 目标: BardAI
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+# 目标: BardAI
 DOMAIN,generativelanguage.googleapis.com
+# 目标: BardAI
 DOMAIN,makersuite.google.com
+# 目标: BardAI
 DOMAIN-SUFFIX,bard.google.com
+# 目标: BardAI
 DOMAIN-SUFFIX,deepmind.com
+# 目标: BardAI
 DOMAIN-SUFFIX,deepmind.google
+# 目标: BardAI
 DOMAIN-SUFFIX,gemini.google.com
+# 目标: BardAI
 DOMAIN-SUFFIX,generativeai.google
+# 目标: BardAI
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com

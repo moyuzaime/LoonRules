@@ -1,15 +1,28 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Hupu/Hupu.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hupu/Hupu.list
+# 说明: 虎扑
 # 规则数: 12
+# 目标: Hupu
 DOMAIN-SUFFIX,afpchinesesports.com
+# 目标: Hupu
 DOMAIN-SUFFIX,goalhi.cn
+# 目标: Hupu
 DOMAIN-SUFFIX,hellof1.com
+# 目标: Hupu
 DOMAIN-SUFFIX,hoopchina.com
+# 目标: Hupu
 DOMAIN-SUFFIX,hoopchina.com.cn
+# 目标: Hupu
 DOMAIN-SUFFIX,hupu.com
+# 目标: Hupu
 DOMAIN-SUFFIX,hupu.gg
+# 目标: Hupu
 DOMAIN-SUFFIX,hupu.io
+# 目标: Hupu
 DOMAIN-SUFFIX,hupucdn.com
+# 目标: Hupu
 DOMAIN-SUFFIX,hupujrs.com
+# 目标: Hupu
 DOMAIN-SUFFIX,shihuo.cn
+# 目标: Hupu
 DOMAIN-SUFFIX,vwanjia.com

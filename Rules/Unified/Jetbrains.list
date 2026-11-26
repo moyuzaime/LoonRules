@@ -1,17 +1,31 @@
 # 统一规则库 | 分类: Jetbrains
 # 合并来源: blackmatrix7/ios_rule_script Jetbrains
 # 规则数: 14
+# 目标: Jetbrains
 DOMAIN-SUFFIX,datalore.io
+# 目标: Jetbrains
 DOMAIN-SUFFIX,grazie.ai
+# 目标: Jetbrains
 DOMAIN-SUFFIX,intellij.com
+# 目标: Jetbrains
 DOMAIN-SUFFIX,intellij.net
+# 目标: Jetbrains
 DOMAIN-SUFFIX,intellij.org
+# 目标: Jetbrains
 DOMAIN-SUFFIX,jetbrains.ai
+# 目标: Jetbrains
 DOMAIN-SUFFIX,jetbrains.com
+# 目标: Jetbrains
 DOMAIN-SUFFIX,jetbrains.io
+# 目标: Jetbrains
 DOMAIN-SUFFIX,jetbrains.net
+# 目标: Jetbrains
 DOMAIN-SUFFIX,jetbrains.org
+# 目标: Jetbrains
 DOMAIN-SUFFIX,jetbrains.space
+# 目标: Jetbrains
 DOMAIN-SUFFIX,jetbrains.team
+# 目标: Jetbrains
 DOMAIN-SUFFIX,kotlinconf.com
+# 目标: Jetbrains
 DOMAIN-SUFFIX,kotlinlang.org

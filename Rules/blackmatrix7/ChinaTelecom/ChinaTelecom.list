@@ -1,86 +1,170 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ChinaTelecom/ChinaTelecom.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaTelecom/ChinaTelecom.list
+# 说明: 中国电信
 # 规则数: 83
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,01058511989.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,10000.gd.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,189.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,189jk.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,189qas.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,21cn.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,21cn.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,21cnentmail.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,21cnimg.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,21cnsales.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,360sides.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,360sides.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,360sides.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,4008100800.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,8009900800.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,bnet.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,chinabnet.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,chinatelecom-h.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,chinatelecom.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,chinatelecom.com.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,chinatelecom.net.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,chinatelecom.org.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,chinatelecomglobal.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,chntel.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctcdn.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctcdn.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctcdn.com.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctcdn.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctcdn.org
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctdns.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctdns.com.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctdns.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctdns.org
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctexcel.ca
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctexcel.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctexcel.com.hk
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctexcel.fr
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctexcel.us
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,cthcdn.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,cthcdn.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,cthcdn.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctid.com.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctlcdn.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctlcdn.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctlcdn.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctmcdn.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctmcdn.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctmcdn.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctrdc.com.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctxcdn.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctxcdn.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctxcdn.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctycdn.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctycdn.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctycdn.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctycdn.net.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctycdn.org
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctyun.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctyun.com.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctyunapi.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctyunbdcsc.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctyuncdn.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctyuncdn.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctyuncdn.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctzcdn.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctzcdn.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ctzcdn.net
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,gd12349.com.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,gdbnet.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,gddc.com.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,gdtel.com.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,guangzhou.gd.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,id6.me
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,iptv.gd.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,iwuyou189.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,iwuyou189.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,pzclub.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,szny189.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,vnet.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,wuyou189.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,wuyou189.com
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,ycy100.cn
+# 目标: ChinaTelecom
 DOMAIN-SUFFIX,yichuangyun.com.cn

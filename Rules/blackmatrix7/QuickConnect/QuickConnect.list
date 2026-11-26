@@ -1,9 +1,15 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/QuickConnect/QuickConnect.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/QuickConnect/QuickConnect.list
 # 规则数: 6
+# 目标: QuickConnect
 DOMAIN,account.synology.com
+# 目标: QuickConnect
 DOMAIN,global.quickconnect.cn
+# 目标: QuickConnect
 DOMAIN,sns.synology.com
+# 目标: QuickConnect
 DOMAIN-SUFFIX,download.synology.com
+# 目标: QuickConnect
 DOMAIN-SUFFIX,quickconnect.com
+# 目标: QuickConnect
 DOMAIN-SUFFIX,quickconnect.to

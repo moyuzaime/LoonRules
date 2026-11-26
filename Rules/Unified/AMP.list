@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: AMP
 # 合并来源: blackmatrix7/ios_rule_script AMP
 # 规则数: 5
+# 目标: AMP
 DOMAIN,amp.akamaized.net
+# 目标: AMP
 DOMAIN-SUFFIX,amp.dev
+# 目标: AMP
 DOMAIN-SUFFIX,ampproject.com
+# 目标: AMP
 DOMAIN-SUFFIX,ampproject.net
+# 目标: AMP
 DOMAIN-SUFFIX,ampproject.org

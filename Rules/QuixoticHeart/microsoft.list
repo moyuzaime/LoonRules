@@ -1,772 +1,1541 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/microsoft.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/microsoft.list
 # 规则数: 769
+# 目标: microsoft
 DOMAIN,github-api.arkoselabs.com
+# 目标: microsoft
 DOMAIN,github-cloud.s3.amazonaws.com
+# 目标: microsoft
 DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+# 目标: microsoft
 DOMAIN,github-production-repository-file-5c1aeb.s3.amazonaws.com
+# 目标: microsoft
 DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
+# 目标: microsoft
 DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+# 目标: microsoft
 DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
+# 目标: microsoft
 DOMAIN,vsmarketplacebadge.apphb.com
+# 目标: microsoft
 DOMAIN-SUFFIX,1drv.com
+# 目标: microsoft
 DOMAIN-SUFFIX,1drv.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,21vbc.com
+# 目标: microsoft
 DOMAIN-SUFFIX,21vbluecloud.com
+# 目标: microsoft
 DOMAIN-SUFFIX,21vbluecloud.net
+# 目标: microsoft
 DOMAIN-SUFFIX,a-msedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,a1158.g.akamai.net
+# 目标: microsoft
 DOMAIN-SUFFIX,a122.dscg3.akamai.net
+# 目标: microsoft
 DOMAIN-SUFFIX,a767.dscg3.akamai.net
+# 目标: microsoft
 DOMAIN-SUFFIX,aadrm.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,aadrm.com
+# 目标: microsoft
 DOMAIN-SUFFIX,acompli.com
+# 目标: microsoft
 DOMAIN-SUFFIX,acompli.net
+# 目标: microsoft
 DOMAIN-SUFFIX,adaptivecards.io
+# 目标: microsoft
 DOMAIN-SUFFIX,aggresmart.com
+# 目标: microsoft
 DOMAIN-SUFFIX,aicscience.com
+# 目标: microsoft
 DOMAIN-SUFFIX,aka.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,akadns.net
+# 目标: microsoft
 DOMAIN-SUFFIX,ankarazirvesi2018.com
+# 目标: microsoft
 DOMAIN-SUFFIX,api-extractor.com
+# 目标: microsoft
 DOMAIN-SUFFIX,apihub-internal.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,apisof.net
+# 目标: microsoft
 DOMAIN-SUFFIX,appcenter.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,applicationinsights.io
+# 目标: microsoft
 DOMAIN-SUFFIX,applicationinsights.net
+# 目标: microsoft
 DOMAIN-SUFFIX,appserviceenvironment.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,aria.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,asp.net
+# 目标: microsoft
 DOMAIN-SUFFIX,aspnetcdn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,assets-yammer.com
+# 目标: microsoft
 DOMAIN-SUFFIX,atom.io
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdna.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnb.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnc.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnd.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdne.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnf.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdng.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnh.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdni.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnj.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnk.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnl.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnm.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdno.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnp.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnq.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdnr.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azchcdns.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azcrmc-test.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azcrmc.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azk8s.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,aznbcontent.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,aztask.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-api.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-api.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-apihub.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-apim.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-automation.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-connectedvehicles.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-devices-int.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-devices-provisioning.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-devices.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-devices.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-1.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-10.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-2.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-3.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-4.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-5.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-6.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-7.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-8.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns-9.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns.info
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-dns.org
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-mobile.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-mobile.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-sphere.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azure-test.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azure.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azure.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azure.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azurecomcdn.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azurecomm.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azurecontainer.io
+# 目标: microsoft
 DOMAIN-SUFFIX,azurecosmos.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azurecosmosdb.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azurecosmosdb.info
+# 目标: microsoft
 DOMAIN-SUFFIX,azurecosmosdb.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azurecr-test.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azurecr.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azuredatabricks.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azuredevopslaunch.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azuredigitaltwin.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azuredigitaltwins.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azuredigitaltwins.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azuredns-prd.info
+# 目标: microsoft
 DOMAIN-SUFFIX,azuredns-prd.org
+# 目标: microsoft
 DOMAIN-SUFFIX,azureedge-test.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azureedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azureedge.us
+# 目标: microsoft
 DOMAIN-SUFFIX,azurefd.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azurefd.us
+# 目标: microsoft
 DOMAIN-SUFFIX,azurehdinsight.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azureiotcentral.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azureiotsolutions.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azureiotsuite.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azureiotsuite.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azuremresolver.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azureplanetscale.info
+# 目标: microsoft
 DOMAIN-SUFFIX,azureplanetscale.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azureprivatedns.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azurerms.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azurerms.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azuresandbox.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,azureserviceprofiler.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azuresmartspaces.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azurestackvalidation.com
+# 目标: microsoft
 DOMAIN-SUFFIX,azurestaticapps.net
+# 目标: microsoft
 DOMAIN-SUFFIX,azurewebsites.net
+# 目标: microsoft
 DOMAIN-SUFFIX,b.akamaiedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,b2clogin.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,b3itech.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,bbing.com
+# 目标: microsoft
 DOMAIN-SUFFIX,beth.games
+# 目标: microsoft
 DOMAIN-SUFFIX,bethesda.net
+# 目标: microsoft
 DOMAIN-SUFFIX,bethesdagamestudios.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bethsoft.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bibg.com
+# 目标: microsoft
 DOMAIN-SUFFIX,biing.com
+# 目标: microsoft
 DOMAIN-SUFFIX,binads.com
+# 目标: microsoft
 DOMAIN-SUFFIX,binb.com
+# 目标: microsoft
 DOMAIN-SUFFIX,binf.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bing
+# 目标: microsoft
 DOMAIN-SUFFIX,bing.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bing.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,bing.net
+# 目标: microsoft
 DOMAIN-SUFFIX,bing123.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bing135.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bing4.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingads.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingagencyawards.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingapis.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingapistatistics.com
+# 目标: microsoft
 DOMAIN-SUFFIX,binginternal.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingit.net
+# 目标: microsoft
 DOMAIN-SUFFIX,bingiton.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingj.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingparachute.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingpix.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingpk.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bings.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingsandbox.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingstatic.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingtoolbar.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingtranslator.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingvisualsearch.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bingworld.com
+# 目标: microsoft
 DOMAIN-SUFFIX,biying.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,biying.com
+# 目标: microsoft
 DOMAIN-SUFFIX,biying.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,blazor.net
+# 目标: microsoft
 DOMAIN-SUFFIX,blueaggrestore.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bluecloudprod.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bluehatil.com
+# 目标: microsoft
 DOMAIN-SUFFIX,bluehatnights.com
+# 目标: microsoft
 DOMAIN-SUFFIX,boswp.com
+# 目标: microsoft
 DOMAIN-SUFFIX,botframework.com
+# 目标: microsoft
 DOMAIN-SUFFIX,brazilpartneruniversity.com
+# 目标: microsoft
 DOMAIN-SUFFIX,breakdown.me
+# 目标: microsoft
 DOMAIN-SUFFIX,c-msedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,callersbane.com
+# 目标: microsoft
 DOMAIN-SUFFIX,cegid-cloud.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,centralvalidation.com
+# 目标: microsoft
 DOMAIN-SUFFIX,ch9.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,charticulator.com
+# 目标: microsoft
 DOMAIN-SUFFIX,chinacloud-mobile.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,chinacloudapi.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,chinacloudapp.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,chinacloudsites.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,clarity.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,cloudapp.net
+# 目标: microsoft
 DOMAIN-SUFFIX,cloudappsecurity.com
+# 目标: microsoft
 DOMAIN-SUFFIX,codethemicrobit.com
+# 目标: microsoft
 DOMAIN-SUFFIX,copilot-stg.com
+# 目标: microsoft
 DOMAIN-SUFFIX,copilot.com
+# 目标: microsoft
 DOMAIN-SUFFIX,cortana.ai
+# 目标: microsoft
 DOMAIN-SUFFIX,cortanaanalytics.com
+# 目标: microsoft
 DOMAIN-SUFFIX,cortanaskills.com
+# 目标: microsoft
 DOMAIN-SUFFIX,cosmosdb.info
+# 目标: microsoft
 DOMAIN-SUFFIX,cosmosdb.net
+# 目标: microsoft
 DOMAIN-SUFFIX,crmdynint-gcc.com
+# 目标: microsoft
 DOMAIN-SUFFIX,crmdynint.com
+# 目标: microsoft
 DOMAIN-SUFFIX,crossborderexpansion.com
+# 目标: microsoft
 DOMAIN-SUFFIX,cs11.wpc.v0cdn.net
+# 目标: microsoft
 DOMAIN-SUFFIX,cs9.wac.phicdn.net
+# 目标: microsoft
 DOMAIN-SUFFIX,dependabot.com
+# 目标: microsoft
 DOMAIN-SUFFIX,devopsassessment.net
+# 目标: microsoft
 DOMAIN-SUFFIX,devopsms.com
+# 目标: microsoft
 DOMAIN-SUFFIX,dictate.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,discoverbing.com
+# 目标: microsoft
 DOMAIN-SUFFIX,docs.com
+# 目标: microsoft
 DOMAIN-SUFFIX,doom.com
+# 目标: microsoft
 DOMAIN-SUFFIX,dot.net
+# 目标: microsoft
 DOMAIN-SUFFIX,dwh5.com
+# 目标: microsoft
 DOMAIN-SUFFIX,dynamics.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,dynamics.com
+# 目标: microsoft
 DOMAIN-SUFFIX,e-msedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,edgesuite.net
+# 目标: microsoft
 DOMAIN-SUFFIX,efproject.net
+# 目标: microsoft
 DOMAIN-SUFFIX,elderscrolls.com
+# 目标: microsoft
 DOMAIN-SUFFIX,engkoo.com
+# 目标: microsoft
 DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
+# 目标: microsoft
 DOMAIN-SUFFIX,exp-tas.com
+# 目标: microsoft
 DOMAIN-SUFFIX,explorebing.com
+# 目标: microsoft
 DOMAIN-SUFFIX,fabric.io
+# 目标: microsoft
 DOMAIN-SUFFIX,fasttrackreadysupport.com
+# 目标: microsoft
 DOMAIN-SUFFIX,femalefounderscomp.com
+# 目标: microsoft
 DOMAIN-SUFFIX,flipwithsurface.com
+# 目标: microsoft
 DOMAIN-SUFFIX,fluidpreview.com
+# 目标: microsoft
 DOMAIN-SUFFIX,footprintdns.com
+# 目标: microsoft
 DOMAIN-SUFFIX,forza.net
+# 目标: microsoft
 DOMAIN-SUFFIX,forzamotorsport.net
+# 目标: microsoft
 DOMAIN-SUFFIX,forzaracingchampionship.com
+# 目标: microsoft
 DOMAIN-SUFFIX,forzarc.com
+# 目标: microsoft
 DOMAIN-SUFFIX,g.akamaiedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,gamepass.com
+# 目标: microsoft
 DOMAIN-SUFFIX,gamesstack.com
+# 目标: microsoft
 DOMAIN-SUFFIX,gameuxmasterguide.com
+# 目标: microsoft
 DOMAIN-SUFFIX,gears5.com
+# 目标: microsoft
 DOMAIN-SUFFIX,gearspop.com
+# 目标: microsoft
 DOMAIN-SUFFIX,gearstactics.com
+# 目标: microsoft
 DOMAIN-SUFFIX,getmicrosoftkey.com
+# 目标: microsoft
 DOMAIN-SUFFIX,gfx.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,gh.io
+# 目标: microsoft
 DOMAIN-SUFFIX,ghcr.io
+# 目标: microsoft
 DOMAIN-SUFFIX,ghe.com
+# 目标: microsoft
 DOMAIN-SUFFIX,gigjam.com
+# 目标: microsoft
 DOMAIN-SUFFIX,git.io
+# 目标: microsoft
 DOMAIN-SUFFIX,github.ai
+# 目标: microsoft
 DOMAIN-SUFFIX,github.blog
+# 目标: microsoft
 DOMAIN-SUFFIX,github.career
+# 目标: microsoft
 DOMAIN-SUFFIX,github.com
+# 目标: microsoft
 DOMAIN-SUFFIX,github.community
+# 目标: microsoft
 DOMAIN-SUFFIX,github.dev
+# 目标: microsoft
 DOMAIN-SUFFIX,github.io
+# 目标: microsoft
 DOMAIN-SUFFIX,githubapp.com
+# 目标: microsoft
 DOMAIN-SUFFIX,githubassets.com
+# 目标: microsoft
 DOMAIN-SUFFIX,githubcopilot.com
+# 目标: microsoft
 DOMAIN-SUFFIX,githubhackathon.com
+# 目标: microsoft
 DOMAIN-SUFFIX,githubnext.com
+# 目标: microsoft
 DOMAIN-SUFFIX,githubpreview.dev
+# 目标: microsoft
 DOMAIN-SUFFIX,githubstatus.com
+# 目标: microsoft
 DOMAIN-SUFFIX,githubsupport.com
+# 目标: microsoft
 DOMAIN-SUFFIX,githubuniverse.com
+# 目标: microsoft
 DOMAIN-SUFFIX,githubusercontent.com
+# 目标: microsoft
 DOMAIN-SUFFIX,gotcosmos.com
+# 目标: microsoft
 DOMAIN-SUFFIX,graphengine.io
+# 目标: microsoft
 DOMAIN-SUFFIX,groupme.com
+# 目标: microsoft
 DOMAIN-SUFFIX,hdinsightservices.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,helpshift.com
+# 目标: microsoft
 DOMAIN-SUFFIX,here.com
+# 目标: microsoft
 DOMAIN-SUFFIX,here.net
+# 目标: microsoft
 DOMAIN-SUFFIX,heremaps.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,hockeyapp.net
+# 目标: microsoft
 DOMAIN-SUFFIX,hololens.com
+# 目标: microsoft
 DOMAIN-SUFFIX,hotmail
+# 目标: microsoft
 DOMAIN-SUFFIX,hotmail.co
+# 目标: microsoft
 DOMAIN-SUFFIX,hotmail.com
+# 目标: microsoft
 DOMAIN-SUFFIX,hotmail.eu
+# 目标: microsoft
 DOMAIN-SUFFIX,hotmail.net
+# 目标: microsoft
 DOMAIN-SUFFIX,hotmail.org
+# 目标: microsoft
 DOMAIN-SUFFIX,hummingbird.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,ie10.com
+# 目标: microsoft
 DOMAIN-SUFFIX,ie11.com
+# 目标: microsoft
 DOMAIN-SUFFIX,ie8.co
+# 目标: microsoft
 DOMAIN-SUFFIX,ie9.com
+# 目标: microsoft
 DOMAIN-SUFFIX,imaginecup.pl
+# 目标: microsoft
 DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
+# 目标: microsoft
 DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
+# 目标: microsoft
 DOMAIN-SUFFIX,ingads.com
+# 目标: microsoft
 DOMAIN-SUFFIX,insiderdevtour.com
+# 目标: microsoft
 DOMAIN-SUFFIX,internetexplorer.co
+# 目标: microsoft
 DOMAIN-SUFFIX,internetexplorer.com
+# 目标: microsoft
 DOMAIN-SUFFIX,intunewiki.com
+# 目标: microsoft
 DOMAIN-SUFFIX,iotinactionevents.com
+# 目标: microsoft
 DOMAIN-SUFFIX,joinms.com
+# 目标: microsoft
 DOMAIN-SUFFIX,joinms.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,joinmva.com
+# 目标: microsoft
 DOMAIN-SUFFIX,jwt.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,kidgrid.tv
+# 目标: microsoft
 DOMAIN-SUFFIX,kumo.com
+# 目标: microsoft
 DOMAIN-SUFFIX,l-msedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,latampartneruniversity.com
+# 目标: microsoft
 DOMAIN-SUFFIX,live.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,live.com
+# 目标: microsoft
 DOMAIN-SUFFIX,live.com.au
+# 目标: microsoft
 DOMAIN-SUFFIX,live.eu
+# 目标: microsoft
 DOMAIN-SUFFIX,live.net
+# 目标: microsoft
 DOMAIN-SUFFIX,livefilestore.com
+# 目标: microsoft
 DOMAIN-SUFFIX,livetileedge.dsx.mp.microsoft.com.edgekey.net
+# 目标: microsoft
 DOMAIN-SUFFIX,livingyourambition.com
+# 目标: microsoft
 DOMAIN-SUFFIX,localytics.com
+# 目标: microsoft
 DOMAIN-SUFFIX,lync.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,lync.com
+# 目标: microsoft
 DOMAIN-SUFFIX,m12.vc
+# 目标: microsoft
 DOMAIN-SUFFIX,makecode.org
+# 目标: microsoft
 DOMAIN-SUFFIX,managedmeetingrooms.com
+# 目标: microsoft
 DOMAIN-SUFFIX,management-azure-devices-int.net
+# 目标: microsoft
 DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,management-azure-devices.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,management-azure-devices.net
+# 目标: microsoft
 DOMAIN-SUFFIX,mapblast.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mappoint.com
+# 目标: microsoft
 DOMAIN-SUFFIX,masalladeloslimites.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mcchcdn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,meetfasttrack.com
+# 目标: microsoft
 DOMAIN-SUFFIX,meetyourdevices.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mepn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mesh.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mgmt-azure-api.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microbit.org
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-falcon.io
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-give.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-int.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-online.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-online.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-ppe.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-sap-events.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-sbs-domains.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-smb.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft-tst.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.az
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.be
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.by
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.ca
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.cat
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.ch
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.cl
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.com.nsatc.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.cz
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.de
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.dk
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.ee
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.es
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.eu
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.fi
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.ge
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.hu
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.io
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.is
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.it
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.jp
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.lt
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.lu
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.lv
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.md
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.pl
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.pt
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.red
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.ro
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.rs
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.ru
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.se
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.si
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.tv
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.ua
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.uz
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft.vn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoft365.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftaccountguard.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftadc.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftads.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftadvertising.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftaffiliates.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftapp.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftazuread-sso.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftazuresponsorships.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftazurestatus.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftcloud.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftcloudsummit.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftcloudworkshop.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftcommunitytraining.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftdiplomados.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsofteca.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftedge.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftedgeinsider.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftemail.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftestore.com.hk
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftgamestack.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsofthouse.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsofthouse.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftinternetsafety.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftiotcentral.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftlatamaitour.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftlatamholiday.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftlinc.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftmetrics.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftmxfilantropia.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnews.cc
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnews.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnews.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnews.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnews.org
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnewsforkids.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnewsforkids.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnewsforkids.org
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnewskids.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnewskids.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftnewskids.org
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftol.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftol.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline-i.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline-m-i.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline-m.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline-p-i.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline-p-i.net.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline-p.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline-p.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline-p.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline-p.net.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftonline.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftpartnercommunity.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftpartnersolutions.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftpersonalcontent.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftreactor.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftreactor.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftreactor.info
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftreactor.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftreactor.org
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftready.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftsilverlight.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftsilverlight.net
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftsilverlight.org
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftsiteselection.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftsqlserver.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftstart.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftstore.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftstore.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftstore.com.hk
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftstream.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftteams.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsofttradein.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsofttranslator-int.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,microsofttranslator.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftusercontent.com
+# 目标: microsoft
 DOMAIN-SUFFIX,microsoftuwp.com
+# 目标: microsoft
 DOMAIN-SUFFIX,minecraft-services.net
+# 目标: microsoft
 DOMAIN-SUFFIX,minecraft.net
+# 目标: microsoft
 DOMAIN-SUFFIX,minecraftservices.com
+# 目标: microsoft
 DOMAIN-SUFFIX,minecraftshop.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mmais.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,mmdnn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mncmsidlab1.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,mojang.com
+# 目标: microsoft
 DOMAIN-SUFFIX,momentumms.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mono-project.com
+# 目标: microsoft
 DOMAIN-SUFFIX,morphcharts.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mpnevolution.com
+# 目标: microsoft
 DOMAIN-SUFFIX,ms-studiosmedia.com
+# 目标: microsoft
 DOMAIN-SUFFIX,ms365surfaceoffer.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msa.akadns6.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msads.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msappproxy.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msappproxy.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msauth.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msauth.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msauthimages.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msauthimages.net
+# 目标: microsoft
 DOMAIN-SUFFIX,mschallenge2018.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mschcdn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msdn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msecnd.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msft.info
+# 目标: microsoft
 DOMAIN-SUFFIX,msft.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msftauth.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msftauth.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msftauthimages.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msftauthimages.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msftcenterone.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msftcloudes.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msftconnecttest.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msfteducation.ca
+# 目标: microsoft
 DOMAIN-SUFFIX,msftidentity.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msftncsi.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msftnet.org
+# 目标: microsoft
 DOMAIN-SUFFIX,msftstatic.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msgamesresearch.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msgamestudios.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mshome.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msidentity.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msidentity.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msidlabpbmc.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msignitechina.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msinnovationchallenge.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msminico.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msminico.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msn.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msn.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msn.com.nsatc.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msn.com.tw
+# 目标: microsoft
 DOMAIN-SUFFIX,msn.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msnewskids.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msnewskids.net
+# 目标: microsoft
 DOMAIN-SUFFIX,msnewskids.org
+# 目标: microsoft
 DOMAIN-SUFFIX,msnkids.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msnmaps.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msocdn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msocsp.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msopentech.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,mspairlift.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mspil.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msra.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,msropendata.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mstea.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,msturing.org
+# 目标: microsoft
 DOMAIN-SUFFIX,msudalosti.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msunlimitedcloudsummit.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msvevent.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msxiaobing.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msxiaoice.com
+# 目标: microsoft
 DOMAIN-SUFFIX,msxiaona.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,mwf-service.akamaized.net
+# 目标: microsoft
 DOMAIN-SUFFIX,myhomemsn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,mymicrosoft.com
+# 目标: microsoft
 DOMAIN-SUFFIX,myoctocat.com
+# 目标: microsoft
 DOMAIN-SUFFIX,nelreports.net
+# 目标: microsoft
 DOMAIN-SUFFIX,nextechafrica.net
+# 目标: microsoft
 DOMAIN-SUFFIX,npm.community
+# 目标: microsoft
 DOMAIN-SUFFIX,npmjs.com
+# 目标: microsoft
 DOMAIN-SUFFIX,npmjs.org
+# 目标: microsoft
 DOMAIN-SUFFIX,nuget.org
+# 目标: microsoft
 DOMAIN-SUFFIX,nugettest.org
+# 目标: microsoft
 DOMAIN-SUFFIX,nxta.org
+# 目标: microsoft
 DOMAIN-SUFFIX,o365cn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,o365files.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,o365weve-dev.com
+# 目标: microsoft
 DOMAIN-SUFFIX,o365weve-ppe.com
+# 目标: microsoft
 DOMAIN-SUFFIX,o365weve.com
+# 目标: microsoft
 DOMAIN-SUFFIX,oaspapps.com
+# 目标: microsoft
 DOMAIN-SUFFIX,octocaptcha.com
+# 目标: microsoft
 DOMAIN-SUFFIX,office
+# 目标: microsoft
 DOMAIN-SUFFIX,office.com
+# 目标: microsoft
 DOMAIN-SUFFIX,office.net
+# 目标: microsoft
 DOMAIN-SUFFIX,office365-net.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,office365.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,office365.com
+# 目标: microsoft
 DOMAIN-SUFFIX,office365love.com
+# 目标: microsoft
 DOMAIN-SUFFIX,office365tw.com
+# 目标: microsoft
 DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
+# 目标: microsoft
 DOMAIN-SUFFIX,officedev.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,officeplus.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,officeppe.net
+# 目标: microsoft
 DOMAIN-SUFFIX,officewebapps.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,omniroot.com
+# 目标: microsoft
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
+# 目标: microsoft
 DOMAIN-SUFFIX,onedrive
+# 目标: microsoft
 DOMAIN-SUFFIX,onedrive.co
+# 目标: microsoft
 DOMAIN-SUFFIX,onedrive.co.uk
+# 目标: microsoft
 DOMAIN-SUFFIX,onedrive.com
+# 目标: microsoft
 DOMAIN-SUFFIX,onedrive.eu
+# 目标: microsoft
 DOMAIN-SUFFIX,onedrive.net
+# 目标: microsoft
 DOMAIN-SUFFIX,onedrive.org
+# 目标: microsoft
 DOMAIN-SUFFIX,onedriveupdater
+# 目标: microsoft
 DOMAIN-SUFFIX,onenote.com
+# 目标: microsoft
 DOMAIN-SUFFIX,onenote.net
+# 目标: microsoft
 DOMAIN-SUFFIX,onestore.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,onmicrosoft.com
+# 目标: microsoft
 DOMAIN-SUFFIX,onmschina.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,opensource.guide
+# 目标: microsoft
 DOMAIN-SUFFIX,opentranslatorstothings.org
+# 目标: microsoft
 DOMAIN-SUFFIX,opticsforthecloud.net
+# 目标: microsoft
 DOMAIN-SUFFIX,optimizely.com
+# 目标: microsoft
 DOMAIN-SUFFIX,orithegame.com
+# 目标: microsoft
 DOMAIN-SUFFIX,osdinfra.net
+# 目标: microsoft
 DOMAIN-SUFFIX,outingsapp.com
+# 目标: microsoft
 DOMAIN-SUFFIX,outlook.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,outlook.com
+# 目标: microsoft
 DOMAIN-SUFFIX,outlookgroups.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,outlookmobile.com
+# 目标: microsoft
 DOMAIN-SUFFIX,ovi.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,passport.net
+# 目标: microsoft
 DOMAIN-SUFFIX,pbiwebcontent.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,phonefactor.net
+# 目标: microsoft
 DOMAIN-SUFFIX,pixapp.net
+# 目标: microsoft
 DOMAIN-SUFFIX,playfab.com
+# 目标: microsoft
 DOMAIN-SUFFIX,playfabapi.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,playfabapi.com
+# 目标: microsoft
 DOMAIN-SUFFIX,playfabcn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,poshtestgallery.com
+# 目标: microsoft
 DOMAIN-SUFFIX,powerapps.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,powerapps.com
+# 目标: microsoft
 DOMAIN-SUFFIX,powerappscdn.net
+# 目标: microsoft
 DOMAIN-SUFFIX,powerappsportals.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,powerautomate.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,powerautomate.com
+# 目标: microsoft
 DOMAIN-SUFFIX,powerbi.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,powerbi.com
+# 目标: microsoft
 DOMAIN-SUFFIX,powershellgallery.com
+# 目标: microsoft
 DOMAIN-SUFFIX,prod-video-cms-rt-microsoft-com.akamaized.net
+# 目标: microsoft
 DOMAIN-SUFFIX,projectmurphy.net
+# 目标: microsoft
 DOMAIN-SUFFIX,projectsangam.com
+# 目标: microsoft
 DOMAIN-SUFFIX,public-trust.com
+# 目标: microsoft
 DOMAIN-SUFFIX,pwabuilder.com
+# 目标: microsoft
 DOMAIN-SUFFIX,pxt.io
+# 目标: microsoft
 DOMAIN-SUFFIX,reactorms.com.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,renlifang.com
+# 目标: microsoft
 DOMAIN-SUFFIX,renovacionoffice.com
+# 目标: microsoft
 DOMAIN-SUFFIX,renovacionxboxlive.com
+# 目标: microsoft
 DOMAIN-SUFFIX,repo.new
+# 目标: microsoft
 DOMAIN-SUFFIX,s-dc-msedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,s-microsoft.com
+# 目标: microsoft
 DOMAIN-SUFFIX,s-msedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,s-msft.com
+# 目标: microsoft
 DOMAIN-SUFFIX,s-msn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,sankie.net
+# 目标: microsoft
 DOMAIN-SUFFIX,sclive.net
+# 目标: microsoft
 DOMAIN-SUFFIX,serverlesslibrary.net
+# 目标: microsoft
 DOMAIN-SUFFIX,sfbassets.com
+# 目标: microsoft
 DOMAIN-SUFFIX,sfbassets.net
+# 目标: microsoft
 DOMAIN-SUFFIX,sfx.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,sharepoint.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,sharepoint.com
+# 目标: microsoft
 DOMAIN-SUFFIX,sharepointonline.com
+# 目标: microsoft
 DOMAIN-SUFFIX,signalr.net
+# 目标: microsoft
 DOMAIN-SUFFIX,skype
+# 目标: microsoft
 DOMAIN-SUFFIX,skype.com
+# 目标: microsoft
 DOMAIN-SUFFIX,skype.net
+# 目标: microsoft
 DOMAIN-SUFFIX,skypeassets.com
+# 目标: microsoft
 DOMAIN-SUFFIX,skypeassets.net
+# 目标: microsoft
 DOMAIN-SUFFIX,skypeforbusiness.com
+# 目标: microsoft
 DOMAIN-SUFFIX,sovcloud-mx.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,sovcloud-static.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,sovcloud-usercontent.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,sovcloud.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,spo-msedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+# 目标: microsoft
 DOMAIN-SUFFIX,sprinklesapp.com
+# 目标: microsoft
 DOMAIN-SUFFIX,sqlserveronlinux.com
+# 目标: microsoft
 DOMAIN-SUFFIX,staffhub.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,start.com
+# 目标: microsoft
 DOMAIN-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
+# 目标: microsoft
 DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
+# 目标: microsoft
 DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
+# 目标: microsoft
 DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
+# 目标: microsoft
 DOMAIN-SUFFIX,successwithteams.com
+# 目标: microsoft
 DOMAIN-SUFFIX,surface.com
+# 目标: microsoft
 DOMAIN-SUFFIX,svc.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,sway-cdn.com
+# 目标: microsoft
 DOMAIN-SUFFIX,sway-extensions.com
+# 目标: microsoft
 DOMAIN-SUFFIX,sway.com
+# 目标: microsoft
 DOMAIN-SUFFIX,syncshop.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,sysinternals.com
+# 目标: microsoft
 DOMAIN-SUFFIX,t-msedge.net
+# 目标: microsoft
 DOMAIN-SUFFIX,tailwindtraders.com
+# 目标: microsoft
 DOMAIN-SUFFIX,techhub.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,tellmewhygame.com
+# 目标: microsoft
 DOMAIN-SUFFIX,tenor.com
+# 目标: microsoft
 DOMAIN-SUFFIX,tfsallin.net
+# 目标: microsoft
 DOMAIN-SUFFIX,thegithubshop.com
+# 目标: microsoft
 DOMAIN-SUFFIX,timelinestoryteller.com
+# 目标: microsoft
 DOMAIN-SUFFIX,trafficmanager.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,trafficmanager.net
+# 目标: microsoft
 DOMAIN-SUFFIX,translatetheweb.com
+# 目标: microsoft
 DOMAIN-SUFFIX,trustcenter.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,tryfunctions.com
+# 目标: microsoft
 DOMAIN-SUFFIX,unity3dcloud.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,unlocklimitlesslearning.com
+# 目标: microsoft
 DOMAIN-SUFFIX,userpxt.io
+# 目标: microsoft
 DOMAIN-SUFFIX,uservoice.com
+# 目标: microsoft
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
+# 目标: microsoft
 DOMAIN-SUFFIX,vfsforgit.com
+# 目标: microsoft
 DOMAIN-SUFFIX,vfsforgit.org
+# 目标: microsoft
 DOMAIN-SUFFIX,videobreakdown.com
+# 目标: microsoft
 DOMAIN-SUFFIX,videoindexer.ai
+# 目标: microsoft
 DOMAIN-SUFFIX,vip5.afdorigin-prod-am02.afdogw.com
+# 目标: microsoft
 DOMAIN-SUFFIX,virtualearth.net
+# 目标: microsoft
 DOMAIN-SUFFIX,visualstudio-staging.com
+# 目标: microsoft
 DOMAIN-SUFFIX,visualstudio.co
+# 目标: microsoft
 DOMAIN-SUFFIX,visualstudio.co.uk
+# 目标: microsoft
 DOMAIN-SUFFIX,visualstudio.com
+# 目标: microsoft
 DOMAIN-SUFFIX,visualstudio.eu
+# 目标: microsoft
 DOMAIN-SUFFIX,visualstudio.net
+# 目标: microsoft
 DOMAIN-SUFFIX,vsallin.net
+# 目标: microsoft
 DOMAIN-SUFFIX,vsassets.io
+# 目标: microsoft
 DOMAIN-SUFFIX,vscode-cdn.net
+# 目标: microsoft
 DOMAIN-SUFFIX,vscode-unpkg.net
+# 目标: microsoft
 DOMAIN-SUFFIX,vscode-webview.net
+# 目标: microsoft
 DOMAIN-SUFFIX,vscode.dev
+# 目标: microsoft
 DOMAIN-SUFFIX,vscodeedu.app
+# 目标: microsoft
 DOMAIN-SUFFIX,vscodeedu.com
+# 目标: microsoft
 DOMAIN-SUFFIX,wbd.ms
+# 目标: microsoft
 DOMAIN-SUFFIX,what-fan.net
+# 目标: microsoft
 DOMAIN-SUFFIX,windows
+# 目标: microsoft
 DOMAIN-SUFFIX,windows-int.net
+# 目标: microsoft
 DOMAIN-SUFFIX,windows-ppe.net
+# 目标: microsoft
 DOMAIN-SUFFIX,windows.com
+# 目标: microsoft
 DOMAIN-SUFFIX,windows.net
+# 目标: microsoft
 DOMAIN-SUFFIX,windows.nl
+# 目标: microsoft
 DOMAIN-SUFFIX,windows8.hk
+# 目标: microsoft
 DOMAIN-SUFFIX,windowsazure.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,windowsazure.com
+# 目标: microsoft
 DOMAIN-SUFFIX,windowsazurestatus.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,windowscommunity.net
+# 目标: microsoft
 DOMAIN-SUFFIX,windowslive.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,windowsmarketplace.com
+# 目标: microsoft
 DOMAIN-SUFFIX,windowsphone-int.com
+# 目标: microsoft
 DOMAIN-SUFFIX,windowsphone.com
+# 目标: microsoft
 DOMAIN-SUFFIX,windowssearch.com
+# 目标: microsoft
 DOMAIN-SUFFIX,windowsupdate.com
+# 目标: microsoft
 DOMAIN-SUFFIX,winhec.com
+# 目标: microsoft
 DOMAIN-SUFFIX,winhec.net
+# 目标: microsoft
 DOMAIN-SUFFIX,winmp.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,wlxrs.com
+# 目标: microsoft
 DOMAIN-SUFFIX,working-bing-int.com
+# 目标: microsoft
 DOMAIN-SUFFIX,wunderlist.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xamarin.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xbox
+# 目标: microsoft
 DOMAIN-SUFFIX,xbox.co
+# 目标: microsoft
 DOMAIN-SUFFIX,xbox.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xbox.eu
+# 目标: microsoft
 DOMAIN-SUFFIX,xbox.org
+# 目标: microsoft
 DOMAIN-SUFFIX,xbox360.co
+# 目标: microsoft
 DOMAIN-SUFFIX,xbox360.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xbox360.eu
+# 目标: microsoft
 DOMAIN-SUFFIX,xbox360.org
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxab.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxgamepass.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxgamestudios.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxlive.cn
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxlive.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxone.co
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxone.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxone.eu
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxplayanywhere.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxservices.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xboxstudios.com
+# 目标: microsoft
 DOMAIN-SUFFIX,xbx.lv
+# 目标: microsoft
 DOMAIN-SUFFIX,yammer.com
+# 目标: microsoft
 DOMAIN-SUFFIX,yammerusercontent.com
+# 目标: microsoft
 DOMAIN-KEYWORD,1drv
+# 目标: microsoft
 DOMAIN-KEYWORD,microsoft
+# 目标: microsoft
 DOMAIN-KEYWORD,onedrive
+# 目标: microsoft
 DOMAIN-KEYWORD,skydrive
+# 目标: microsoft
 PROCESS-NAME,OneDrive
+# 目标: microsoft
 PROCESS-NAME,OneDriveUpdater

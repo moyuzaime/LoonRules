@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: Snap
 # 合并来源: blackmatrix7/ios_rule_script Snap
 # 规则数: 6
+# 目标: Snap
 DOMAIN-SUFFIX,sc-cdn.net
+# 目标: Snap
 DOMAIN-SUFFIX,snap-dev.net
+# 目标: Snap
 DOMAIN-SUFFIX,snap.com
+# 目标: Snap
 DOMAIN-SUFFIX,snapads.com
+# 目标: Snap
 DOMAIN-SUFFIX,snapchat.com
+# 目标: Snap
 DOMAIN-SUFFIX,snapkit.co

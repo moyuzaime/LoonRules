@@ -1,12 +1,21 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Logitech/Logitech.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Logitech/Logitech.list
 # 规则数: 9
+# 目标: Logitech
 DOMAIN-SUFFIX,logi.com
+# 目标: Logitech
 DOMAIN-SUFFIX,logicool.co.jp
+# 目标: Logitech
 DOMAIN-SUFFIX,logicoolg.com
+# 目标: Logitech
 DOMAIN-SUFFIX,logitech.biz
+# 目标: Logitech
 DOMAIN-SUFFIX,logitech.com
+# 目标: Logitech
 DOMAIN-SUFFIX,logitech.fr
+# 目标: Logitech
 DOMAIN-SUFFIX,logitechg.com
+# 目标: Logitech
 DOMAIN-SUFFIX,logitechg.fr
+# 目标: Logitech
 DOMAIN-SUFFIX,worldsfastestgamer.net

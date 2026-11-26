@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: HuYa
 # 合并来源: blackmatrix7/ios_rule_script HuYa
+# 说明: 虎牙
 # 规则数: 4
+# 目标: HuYa
 DOMAIN-SUFFIX,huya.com
+# 目标: HuYa
 DOMAIN-SUFFIX,huyagame.cn
+# 目标: HuYa
 DOMAIN-SUFFIX,peiwanlu.com
+# 目标: HuYa
 DOMAIN-SUFFIX,snapplay.com

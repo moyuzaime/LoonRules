@@ -1,11 +1,20 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/HunanTV/HunanTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HunanTV/HunanTV.list
+# 说明: 湖南TV
 # 规则数: 8
+# 目标: HunanTV
 DOMAIN-SUFFIX,hifuntv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,hitv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,hunaniptv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,hunantv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,imgo.tv
+# 目标: HunanTV
 DOMAIN-SUFFIX,mgtv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,tazai.com
+# 目标: HunanTV
 USER-AGENT,MGTV*

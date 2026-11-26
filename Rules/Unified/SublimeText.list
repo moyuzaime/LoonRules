@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: SublimeText
 # 合并来源: blackmatrix7/ios_rule_script SublimeText
 # 规则数: 4
+# 目标: SublimeText
 DOMAIN-SUFFIX,packagecontrol.io
+# 目标: SublimeText
 DOMAIN-SUFFIX,sublimehq.com
+# 目标: SublimeText
 DOMAIN-SUFFIX,sublimemerge.com
+# 目标: SublimeText
 DOMAIN-SUFFIX,sublimetext.com

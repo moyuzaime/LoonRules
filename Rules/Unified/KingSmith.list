@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: KingSmith
 # 合并来源: blackmatrix7/ios_rule_script KingSmith
+# 说明: 金史密斯
 # 规则数: 4
+# 目标: KingSmith
 DOMAIN-SUFFIX,kingsmith.cn
+# 目标: KingSmith
 DOMAIN-SUFFIX,kingsmith.com.cn
+# 目标: KingSmith
 DOMAIN-SUFFIX,walkingpad.cn
+# 目标: KingSmith
 DOMAIN-SUFFIX,walkingpad.com

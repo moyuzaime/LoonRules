@@ -1,11 +1,20 @@
 # 统一规则库 | 分类: TongCheng
 # 合并来源: blackmatrix7/ios_rule_script TongCheng
+# 说明: 同程
 # 规则数: 8
+# 目标: TongCheng
 DOMAIN-SUFFIX,17u.cn
+# 目标: TongCheng
 DOMAIN-SUFFIX,17u.net
+# 目标: TongCheng
 DOMAIN-SUFFIX,17usoft.com
+# 目标: TongCheng
 DOMAIN-SUFFIX,17usoft.net
+# 目标: TongCheng
 DOMAIN-SUFFIX,40017.cn
+# 目标: TongCheng
 DOMAIN-SUFFIX,elong.com
+# 目标: TongCheng
 DOMAIN-SUFFIX,elongstatic.com
+# 目标: TongCheng
 DOMAIN-SUFFIX,ly.com

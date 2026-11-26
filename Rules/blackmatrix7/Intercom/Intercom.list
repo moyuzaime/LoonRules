@@ -1,7 +1,11 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Intercom/Intercom.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Intercom/Intercom.list
 # 规则数: 4
+# 目标: Intercom
 DOMAIN-SUFFIX,intercom.com
+# 目标: Intercom
 DOMAIN-SUFFIX,intercom.io
+# 目标: Intercom
 DOMAIN-SUFFIX,intercomassets.com
+# 目标: Intercom
 DOMAIN-SUFFIX,intercomcdn.com

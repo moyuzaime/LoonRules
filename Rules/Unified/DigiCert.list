@@ -1,17 +1,31 @@
 # 统一规则库 | 分类: DigiCert
 # 合并来源: blackmatrix7/ios_rule_script DigiCert
 # 规则数: 14
+# 目标: DigiCert
 DOMAIN-SUFFIX,dcocsp.cn
+# 目标: DigiCert
 DOMAIN-SUFFIX,digicert-cn.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,digicert-validation.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,digicert.cn
+# 目标: DigiCert
 DOMAIN-SUFFIX,digicert.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,digitalcertvalidation.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,freessl.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,geotrust.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,public-trust.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,quovadisglobal.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,rapidssl.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,thawte.com
+# 目标: DigiCert
 DOMAIN-SUFFIX,thawte.de
+# 目标: DigiCert
 DOMAIN-SUFFIX,thawte.fr

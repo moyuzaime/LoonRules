@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: Migu
 # 合并来源: blackmatrix7/ios_rule_script Migu
+# 说明: 咪咕
 # 规则数: 5
+# 目标: Migu
 DOMAIN-SUFFIX,cmvideo.cn
+# 目标: Migu
 DOMAIN-SUFFIX,migu.cn
+# 目标: Migu
 DOMAIN-SUFFIX,miguvideo.com
+# 目标: Migu
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+# 目标: Migu
 USER-AGENT,MiguVideo*

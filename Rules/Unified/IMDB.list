@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: IMDB
 # 合并来源: blackmatrix7/ios_rule_script IMDB
 # 规则数: 4
+# 目标: IMDB
 DOMAIN-SUFFIX,boxofficemojo.com
+# 目标: IMDB
 DOMAIN-SUFFIX,imdb.com
+# 目标: IMDB
 DOMAIN-SUFFIX,imdb.to
+# 目标: IMDB
 DOMAIN-SUFFIX,media-imdb.com

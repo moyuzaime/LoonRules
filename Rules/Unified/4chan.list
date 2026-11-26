@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: 4chan
 # 合并来源: blackmatrix7/ios_rule_script 4chan
 # 规则数: 3
+# 目标: 4chan
 DOMAIN-SUFFIX,4cdn.org
+# 目标: 4chan
 DOMAIN-SUFFIX,4chan.org
+# 目标: 4chan
 DOMAIN-SUFFIX,4channel.org

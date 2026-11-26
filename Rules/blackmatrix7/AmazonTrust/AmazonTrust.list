@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AmazonTrust/AmazonTrust.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AmazonTrust/AmazonTrust.list
 # 规则数: 3
+# 目标: AmazonTrust
 DOMAIN-SUFFIX,amazontrust.com
+# 目标: AmazonTrust
 DOMAIN-SUFFIX,awstrust.com
+# 目标: AmazonTrust
 DOMAIN-SUFFIX,ss2.us

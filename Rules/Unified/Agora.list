@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: Agora
 # 合并来源: blackmatrix7/ios_rule_script Agora
+# 说明: 声网
 # 规则数: 3
+# 目标: Agora
 DOMAIN-SUFFIX,agora.io
+# 目标: Agora
 DOMAIN-SUFFIX,agoraio.cn
+# 目标: Agora
 DOMAIN-SUFFIX,agoralab.co

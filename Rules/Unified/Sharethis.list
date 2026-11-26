@@ -1,4 +1,5 @@
 # 统一规则库 | 分类: Sharethis
 # 合并来源: blackmatrix7/ios_rule_script Sharethis
 # 规则数: 1
+# 目标: Sharethis
 DOMAIN-SUFFIX,sharethis.com

@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Claude/Claude.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list
 # 规则数: 3
+# 目标: Claude
 DOMAIN,cdn.usefathom.com
+# 目标: Claude
 DOMAIN-SUFFIX,anthropic.com
+# 目标: Claude
 DOMAIN-SUFFIX,claude.ai

@@ -1,7 +1,11 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/SMG/SMG.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SMG/SMG.list
 # 规则数: 4
+# 目标: SMG
 DOMAIN-SUFFIX,cptn.tv
+# 目标: SMG
 DOMAIN-SUFFIX,sava.sh.cn
+# 目标: SMG
 DOMAIN-SUFFIX,smg.cn
+# 目标: SMG
 DOMAIN-SUFFIX,smg.sh.cn

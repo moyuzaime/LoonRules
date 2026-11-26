@@ -1,22 +1,42 @@
 # 统一规则库 | 分类: FangZhengDianZi
 # 合并来源: blackmatrix7/ios_rule_script FangZhengDianZi
+# 说明: 方正电子
 # 规则数: 19
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,cloudpress.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,cloudpub.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,fangzhengshufa.com
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,founder.com.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,founderfx.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,founderfx.com.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,founderss.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,foundertype.com
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,fzdzyun.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,fzdzyun.com
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,fzdzyun.com.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,fzyun.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,fzyun.net
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,newaircloud.com
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,study-cloud.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,study-cloud.com
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,w2press.cn
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,wisestcloud.com
+# 目标: FangZhengDianZi
 DOMAIN-SUFFIX,xiezixiansheng.com

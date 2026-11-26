@@ -1,18 +1,33 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/KakaoTalk/KakaoTalk.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KakaoTalk/KakaoTalk.list
 # 规则数: 15
+# 目标: KakaoTalk
 DOMAIN-SUFFIX,daum.net
+# 目标: KakaoTalk
 DOMAIN-SUFFIX,daumcdn.net
+# 目标: KakaoTalk
 DOMAIN-SUFFIX,daumkakao.io
+# 目标: KakaoTalk
 DOMAIN-SUFFIX,daumpotplayer.com
+# 目标: KakaoTalk
 DOMAIN-SUFFIX,kakao.co.kr
+# 目标: KakaoTalk
 DOMAIN-SUFFIX,kakao.com
+# 目标: KakaoTalk
 DOMAIN-SUFFIX,kakaocdn.net
+# 目标: KakaoTalk
 DOMAIN-SUFFIX,kakaocorp.com
+# 目标: KakaoTalk
 DOMAIN-SUFFIX,potplayer.tv
+# 目标: KakaoTalk
 IP-CIDR,1.201.0.0/24,no-resolve
+# 目标: KakaoTalk
 IP-CIDR,103.246.56.0/22,no-resolve
+# 目标: KakaoTalk
 IP-CIDR,103.27.148.0/22,no-resolve
+# 目标: KakaoTalk
 IP-CIDR,110.76.140.0/22,no-resolve
+# 目标: KakaoTalk
 IP-CIDR,113.61.104.0/22,no-resolve
+# 目标: KakaoTalk
 IP-CIDR,27.0.236.0/22,no-resolve

@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: Keep
 # 合并来源: blackmatrix7/ios_rule_script Keep
 # 规则数: 5
+# 目标: Keep
 DOMAIN-SUFFIX,calorietech.com
+# 目标: Keep
 DOMAIN-SUFFIX,gotokeep.com
+# 目标: Keep
 DOMAIN-SUFFIX,keep.com
+# 目标: Keep
 DOMAIN-SUFFIX,keep.com.cn
+# 目标: Keep
 DOMAIN-SUFFIX,keepcdn.com

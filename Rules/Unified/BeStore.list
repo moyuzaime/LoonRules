@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: BeStore
 # 合并来源: blackmatrix7/ios_rule_script BeStore
+# 说明: 良品铺子
 # 规则数: 3
+# 目标: BeStore
 DOMAIN-SUFFIX,517lppz.com
+# 目标: BeStore
 DOMAIN-SUFFIX,lppz.com
+# 目标: BeStore
 DOMAIN-SUFFIX,lppzimg.com

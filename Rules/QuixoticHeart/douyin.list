@@ -1,54 +1,105 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/douyin.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/douyin.list
 # 规则数: 51
+# 目标: douyin
 DOMAIN-SUFFIX,amemv.com
+# 目标: douyin
 DOMAIN-SUFFIX,bdxiguavod.com
+# 目标: douyin
 DOMAIN-SUFFIX,bytecdn.cn
+# 目标: douyin
 DOMAIN-SUFFIX,bytecdntp.com
+# 目标: douyin
 DOMAIN-SUFFIX,byted-static.com
+# 目标: douyin
 DOMAIN-SUFFIX,bytedance.com
+# 目标: douyin
 DOMAIN-SUFFIX,bytedance.net
+# 目标: douyin
 DOMAIN-SUFFIX,bytedns.net
+# 目标: douyin
 DOMAIN-SUFFIX,bytednsdoc.com
+# 目标: douyin
 DOMAIN-SUFFIX,byteeffecttos.com
+# 目标: douyin
 DOMAIN-SUFFIX,bytegecko.com
+# 目标: douyin
 DOMAIN-SUFFIX,byteimg.com
+# 目标: douyin
 DOMAIN-SUFFIX,bytemaimg.com
+# 目标: douyin
 DOMAIN-SUFFIX,bytetcc.com
+# 目标: douyin
 DOMAIN-SUFFIX,bytexservice.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyin.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinact.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinact.net
+# 目标: douyin
 DOMAIN-SUFFIX,douyincdn.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinclips.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinhanyu.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinliving.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinmusicclips.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinmusicvideo.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinpic.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinshortvideo.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinstatic.com
+# 目标: douyin
 DOMAIN-SUFFIX,douyinvideo.net
+# 目标: douyin
 DOMAIN-SUFFIX,douyinvod.com
+# 目标: douyin
 DOMAIN-SUFFIX,dymusictape.com
+# 目标: douyin
 DOMAIN-SUFFIX,dymusicvideo.com
+# 目标: douyin
 DOMAIN-SUFFIX,dyshortvideo.com
+# 目标: douyin
 DOMAIN-SUFFIX,dyvideotape.com
+# 目标: douyin
 DOMAIN-SUFFIX,huaxiong.com
+# 目标: douyin
 DOMAIN-SUFFIX,huoshan.com
+# 目标: douyin
 DOMAIN-SUFFIX,huoshanstatic.com
+# 目标: douyin
 DOMAIN-SUFFIX,huoshanzhibo.com
+# 目标: douyin
 DOMAIN-SUFFIX,idouyinpic.com
+# 目标: douyin
 DOMAIN-SUFFIX,idouyinstatic.com
+# 目标: douyin
 DOMAIN-SUFFIX,idouyinvod.com
+# 目标: douyin
 DOMAIN-SUFFIX,iesdouyin.com
+# 目标: douyin
 DOMAIN-SUFFIX,iesdouyin.net
+# 目标: douyin
 DOMAIN-SUFFIX,ixigua.com
+# 目标: douyin
 DOMAIN-SUFFIX,ixiguavideo.com
+# 目标: douyin
 DOMAIN-SUFFIX,ndcpp.com
+# 目标: douyin
 DOMAIN-SUFFIX,pstatp.com
+# 目标: douyin
 DOMAIN-SUFFIX,snssdk.com
+# 目标: douyin
 DOMAIN-SUFFIX,toutiao.com
+# 目标: douyin
 DOMAIN-SUFFIX,zijiecdn.com
+# 目标: douyin
 DOMAIN-SUFFIX,zijiecdn.net
+# 目标: douyin
 DOMAIN-SUFFIX,zjcdn.com

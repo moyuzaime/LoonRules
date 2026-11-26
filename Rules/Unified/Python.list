@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: Python
 # 合并来源: blackmatrix7/ios_rule_script Python
 # 规则数: 6
+# 目标: Python
 DOMAIN-SUFFIX,pycon.org
+# 目标: Python
 DOMAIN-SUFFIX,pypa.io
+# 目标: Python
 DOMAIN-SUFFIX,pypi.io
+# 目标: Python
 DOMAIN-SUFFIX,pypi.org
+# 目标: Python
 DOMAIN-SUFFIX,python.org
+# 目标: Python
 DOMAIN-SUFFIX,pythonhosted.org

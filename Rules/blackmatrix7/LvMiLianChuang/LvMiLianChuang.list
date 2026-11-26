@@ -1,9 +1,16 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/LvMiLianChuang/LvMiLianChuang.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/LvMiLianChuang/LvMiLianChuang.list
+# 说明: 绿米联创
 # 规则数: 6
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,aqara.cn
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,aqara.com
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,aqara.com.cn
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,lumiunited.cn
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,lumiunited.com
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,lumiunited.com.cn

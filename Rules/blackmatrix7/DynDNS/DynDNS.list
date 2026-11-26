@@ -1,11 +1,19 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DynDNS/DynDNS.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DynDNS/DynDNS.list
 # 规则数: 8
+# 目标: DynDNS
 DOMAIN-SUFFIX,blogdns.org
+# 目标: DynDNS
 DOMAIN-SUFFIX,dyn.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,dyndns-ip.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,dyndns-pics.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,dyndns.org
+# 目标: DynDNS
 DOMAIN-SUFFIX,from-pr.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,from-sd.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,is-a-hunter.com

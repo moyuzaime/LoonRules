@@ -1,11 +1,20 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DianCeWangKe/DianCeWangKe.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DianCeWangKe/DianCeWangKe.list
+# 说明: 点测网科
 # 规则数: 8
+# 目标: DianCeWangKe
 DOMAIN-SUFFIX,pgyer.cc
+# 目标: DianCeWangKe
 DOMAIN-SUFFIX,pgyer.com
+# 目标: DianCeWangKe
 DOMAIN-SUFFIX,pgyer.im
+# 目标: DianCeWangKe
 DOMAIN-SUFFIX,qcers.com
+# 目标: DianCeWangKe
 DOMAIN-SUFFIX,qcers.net
+# 目标: DianCeWangKe
 DOMAIN-SUFFIX,testin.im
+# 目标: DianCeWangKe
 DOMAIN-SUFFIX,tracup.com
+# 目标: DianCeWangKe
 DOMAIN-SUFFIX,xcxwo.com

@@ -1,15 +1,28 @@
 # 统一规则库 | 分类: HeMa
 # 合并来源: blackmatrix7/ios_rule_script HeMa
+# 说明: 盒马
 # 规则数: 12
+# 目标: HeMa
 DOMAIN-SUFFIX,freshhema.com
+# 目标: HeMa
 DOMAIN-SUFFIX,hemaapi.cn
+# 目标: HeMa
 DOMAIN-SUFFIX,hemamax.com
+# 目标: HeMa
 DOMAIN-SUFFIX,hemaopen.cn
+# 目标: HeMa
 DOMAIN-SUFFIX,hemaos.com
+# 目标: HeMa
 DOMAIN-SUFFIX,hemashare.cn
+# 目标: HeMa
 DOMAIN-SUFFIX,marioall.com
+# 目标: HeMa
 DOMAIN-SUFFIX,marioin.com
+# 目标: HeMa
 DOMAIN-SUFFIX,mariowap.com
+# 目标: HeMa
 DOMAIN-SUFFIX,rexpos.cn
+# 目标: HeMa
 DOMAIN-SUFFIX,rextech.cn
+# 目标: HeMa
 DOMAIN-SUFFIX,shyhhema.com

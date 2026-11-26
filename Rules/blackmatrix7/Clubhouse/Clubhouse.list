@@ -1,8 +1,13 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Clubhouse/Clubhouse.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Clubhouse/Clubhouse.list
 # 规则数: 5
+# 目标: Clubhouse
 DOMAIN,clubhouse.pubnub.com
+# 目标: Clubhouse
 DOMAIN,clubhouseprod.s3.amazonaws.com
+# 目标: Clubhouse
 DOMAIN-SUFFIX,clubhouse.com
+# 目标: Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com
+# 目标: Clubhouse
 DOMAIN-SUFFIX,joinclubhouse.com

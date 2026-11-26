@@ -1,20 +1,38 @@
 # 统一规则库 | 分类: LuDaShi
 # 合并来源: blackmatrix7/ios_rule_script LuDaShi
+# 说明: 鲁大师
 # 规则数: 17
+# 目标: LuDaShi
 DOMAIN-SUFFIX,birdpaper.cn
+# 目标: LuDaShi
 DOMAIN-SUFFIX,dualspace.com
+# 目标: LuDaShi
 DOMAIN-SUFFIX,dualspacetech.com
+# 目标: LuDaShi
 DOMAIN-SUFFIX,easyclean.fun
+# 目标: LuDaShi
 DOMAIN-SUFFIX,kejids.cn
+# 目标: LuDaShi
 DOMAIN-SUFFIX,kejids.com
+# 目标: LuDaShi
 DOMAIN-SUFFIX,ludan.cn
+# 目标: LuDaShi
 DOMAIN-SUFFIX,ludashi.cn
+# 目标: LuDaShi
 DOMAIN-SUFFIX,ludashi.com
+# 目标: LuDaShi
 DOMAIN-SUFFIX,monidashi.cn
+# 目标: LuDaShi
 DOMAIN-SUFFIX,monidashi.com.cn
+# 目标: LuDaShi
 DOMAIN-SUFFIX,superlitetech.com
+# 目标: LuDaShi
 DOMAIN-SUFFIX,taojike.cn
+# 目标: LuDaShi
 DOMAIN-SUFFIX,xiaoluerhuo.com
+# 目标: LuDaShi
 DOMAIN-SUFFIX,xiaoluhaohuo.com
+# 目标: LuDaShi
 DOMAIN-SUFFIX,xiaoluyouxuan.com
+# 目标: LuDaShi
 DOMAIN-SUFFIX,youhua.com

@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: 6park
 # 合并来源: blackmatrix7/ios_rule_script 6park
+# 说明: 留园网
 # 规则数: 4
+# 目标: 6park
 DOMAIN-SUFFIX,6park.com
+# 目标: 6park
 DOMAIN-SUFFIX,6parkbbs.com
+# 目标: 6park
 DOMAIN-SUFFIX,6parknews.com
+# 目标: 6park
 DOMAIN-SUFFIX,cool18.com

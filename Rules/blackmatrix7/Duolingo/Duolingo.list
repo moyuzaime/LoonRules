@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Duolingo/Duolingo.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Duolingo/Duolingo.list
 # 规则数: 2
+# 目标: Duolingo
 DOMAIN-SUFFIX,duolingo.cn
+# 目标: Duolingo
 DOMAIN-SUFFIX,duolingo.com

@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: FanFou
 # 合并来源: blackmatrix7/ios_rule_script FanFou
+# 说明: 饭否科技
 # 规则数: 4
+# 目标: FanFou
 DOMAIN-SUFFIX,comox.cn
+# 目标: FanFou
 DOMAIN-SUFFIX,comum.cn
+# 目标: FanFou
 DOMAIN-SUFFIX,ifanfou.cn
+# 目标: FanFou
 DOMAIN-SUFFIX,mlj130.cn

@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Instagram
 # 合并来源: blackmatrix7/ios_rule_script Instagram
 # 规则数: 4
+# 目标: Instagram
 DOMAIN-SUFFIX,cdninstagram.com
+# 目标: Instagram
 DOMAIN-SUFFIX,instagr.am
+# 目标: Instagram
 DOMAIN-SUFFIX,instagram.com
+# 目标: Instagram
 DOMAIN-KEYWORD,instagram

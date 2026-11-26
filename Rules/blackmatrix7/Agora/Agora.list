@@ -1,6 +1,10 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Agora/Agora.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Agora/Agora.list
+# 说明: 声网
 # 规则数: 3
+# 目标: Agora
 DOMAIN-SUFFIX,agora.io
+# 目标: Agora
 DOMAIN-SUFFIX,agoraio.cn
+# 目标: Agora
 DOMAIN-SUFFIX,agoralab.co

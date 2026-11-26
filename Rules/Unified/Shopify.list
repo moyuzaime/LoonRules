@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: Shopify
 # 合并来源: blackmatrix7/ios_rule_script Shopify
 # 规则数: 8
+# 目标: Shopify
 DOMAIN-SUFFIX,myshopify.com
+# 目标: Shopify
 DOMAIN-SUFFIX,shop.app
+# 目标: Shopify
 DOMAIN-SUFFIX,shopify.com
+# 目标: Shopify
 DOMAIN-SUFFIX,shopify.dev
+# 目标: Shopify
 DOMAIN-SUFFIX,shopifycdn.com
+# 目标: Shopify
 DOMAIN-SUFFIX,shopifycloud.com
+# 目标: Shopify
 DOMAIN-SUFFIX,shopifystatus.com
+# 目标: Shopify
 DOMAIN-SUFFIX,shopifysvc.com

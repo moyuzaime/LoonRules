@@ -1,55 +1,107 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Yandex/Yandex_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Yandex/Yandex_Resolve.list
 # 规则数: 52
+# 目标: Yandex
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+# 目标: Yandex
 DOMAIN-SUFFIX,ya.ru
+# 目标: Yandex
 DOMAIN-SUFFIX,yadi.sk
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.aero
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.az
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.by
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.co.il
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.com
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.com.am
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.com.ge
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.com.ru
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.com.tr
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.com.ua
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.de
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.ee
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.eu
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.fi
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.fr
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.jobs
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.kg
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.kz
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.lt
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.lv
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.md
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.net
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.ru
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.st
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.sx
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.tj
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.tm
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.ua
+# 目标: Yandex
 DOMAIN-SUFFIX,yandex.uz
+# 目标: Yandex
 DOMAIN-SUFFIX,yastatic.net
+# 目标: Yandex
 IP-CIDR,100.43.64.0/19
+# 目标: Yandex
 IP-CIDR,141.8.128.0/18
+# 目标: Yandex
 IP-CIDR,178.154.128.0/18
+# 目标: Yandex
 IP-CIDR,178.154.192.0/19
+# 目标: Yandex
 IP-CIDR,185.32.187.0/24
+# 目标: Yandex
 IP-CIDR,199.21.96.0/22
+# 目标: Yandex
 IP-CIDR,199.36.240.0/22
+# 目标: Yandex
 IP-CIDR,213.180.192.0/19
+# 目标: Yandex
 IP-CIDR,37.140.128.0/18
+# 目标: Yandex
 IP-CIDR,37.9.64.0/18
+# 目标: Yandex
 IP-CIDR,5.255.192.0/18
+# 目标: Yandex
 IP-CIDR,5.45.192.0/18
+# 目标: Yandex
 IP-CIDR,77.88.0.0/18
+# 目标: Yandex
 IP-CIDR,87.250.224.0/19
+# 目标: Yandex
 IP-CIDR,93.158.128.0/18
+# 目标: Yandex
 IP-CIDR,95.108.128.0/17
+# 目标: Yandex
 IP-CIDR6,2620:10f:d000::/44
+# 目标: Yandex
 IP-CIDR6,2a02:6b8::/29

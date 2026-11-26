@@ -1,20 +1,37 @@
 # 统一规则库 | 分类: DiscoveryPlus
 # 合并来源: blackmatrix7/ios_rule_script DiscoveryPlus
 # 规则数: 17
+# 目标: DiscoveryPlus
 DOMAIN,discovery-us.conax.cloud
+# 目标: DiscoveryPlus
 DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
+# 目标: DiscoveryPlus
 DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,disco-api.com
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,discovery.com
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,discoveryplus.co.uk
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,discoveryplus.com
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,discoveryplus.in
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,dnitv.com
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,fwmrm.net
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,getblueshift.com
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,litix.io
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
+# 目标: DiscoveryPlus
 DOMAIN-SUFFIX,uplynk.com
+# 目标: DiscoveryPlus
 DOMAIN-KEYWORD,discovery.uplynk.com
+# 目标: DiscoveryPlus
 USER-AGENT,DPlus*
+# 目标: DiscoveryPlus
 USER-AGENT,discovery+*

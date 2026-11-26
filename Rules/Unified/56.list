@@ -1,13 +1,24 @@
 # 统一规则库 | 分类: 56
 # 合并来源: blackmatrix7/ios_rule_script 56
+# 说明: 56网
 # 规则数: 10
+# 目标: 56
 DOMAIN-SUFFIX,56.com
+# 目标: 56
 DOMAIN-SUFFIX,56img.com
+# 目标: 56
 DOMAIN-SUFFIX,56imgs.com
+# 目标: 56
 DOMAIN-SUFFIX,icaneasy.com
+# 目标: 56
 DOMAIN-SUFFIX,icanvideo.com
+# 目标: 56
 DOMAIN-SUFFIX,qf.com.cn
+# 目标: 56
 DOMAIN-SUFFIX,qianfan.tv
+# 目标: 56
 DOMAIN-SUFFIX,somama.com
+# 目标: 56
 DOMAIN-SUFFIX,v-56.com
+# 目标: 56
 DOMAIN-SUFFIX,vicovico.com

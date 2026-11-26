@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Mailru/Mailru.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Mailru/Mailru.list
 # 规则数: 3
+# 目标: Mailru
 DOMAIN-SUFFIX,imgsmail.ru
+# 目标: Mailru
 DOMAIN-SUFFIX,mail.ru
+# 目标: Mailru
 DOMAIN-SUFFIX,mycdn.me

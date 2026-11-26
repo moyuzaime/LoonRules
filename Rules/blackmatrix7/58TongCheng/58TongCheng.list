@@ -1,64 +1,126 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/58TongCheng/58TongCheng.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/58TongCheng/58TongCheng.list
+# 说明: 58同城
 # 规则数: 61
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58.com.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,5858.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58antenna.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58antenna.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58cdn.com.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58che.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58control.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58corp.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58dns.org
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58ganji-corp.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58ganji.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58img.com.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58lovepet.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58peilian.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58shangban.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58supin.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58uxd.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58v5.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58xinghuo.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58xinghuo.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,58xueche.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,anjuke.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,anjukestatic.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,bangbang.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,boxiaole.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,caihongjia.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,canbaojin.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,chinahr.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,chrstatic.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,cnmo-img.com.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,cnmo.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,daojia-inc.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,daojia.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,daojialianmeng.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,ddimg.net
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,diandao.org
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,dj.tc
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,djcdn.com.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,djtest.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,fang.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,ganji.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,ganjistatic1.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,jiaoyibao.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,jxedt.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,jxksw.net
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,kuche.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,m91.com.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,nidiandaojia.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,rescdn.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,roomeet.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,sofun.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,soufunimg.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,wubashangban.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,xgo.com.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,xinchong.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,yirenjiankang.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,zhuan-zhuan.cn
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,zhuancorp.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,zhuanspirit.com
+# 目标: 58TongCheng
 DOMAIN-SUFFIX,zhuanzhuan.com

@@ -1,14 +1,26 @@
 # 统一规则库 | 分类: GuiGuDongLi
 # 合并来源: blackmatrix7/ios_rule_script GuiGuDongLi
+# 说明: 硅谷动力
 # 规则数: 11
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,ciweekforum.com
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,enet.com.cn
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,enet16.cn
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,enet16.com
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,enet16.com.cn
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,enet16.net
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,enet369.com
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,ezhu.cn
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,ezhu.com
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,mydor.com
+# 目标: GuiGuDongLi
 DOMAIN-SUFFIX,xingzhiheyi.com

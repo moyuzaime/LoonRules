@@ -1,12 +1,21 @@
 # 统一规则库 | 分类: ZeeTV
 # 合并来源: blackmatrix7/ios_rule_script ZeeTV
 # 规则数: 9
+# 目标: ZeeTV
 DOMAIN-SUFFIX,z5.app
+# 目标: ZeeTV
 DOMAIN-SUFFIX,z5.com
+# 目标: ZeeTV
 DOMAIN-SUFFIX,zee5.com
+# 目标: ZeeTV
 DOMAIN-SUFFIX,zee5.in
+# 目标: ZeeTV
 DOMAIN-SUFFIX,zee5.tv
+# 目标: ZeeTV
 DOMAIN-SUFFIX,zeebioskop.com
+# 目标: ZeeTV
 DOMAIN-SUFFIX,zeetv.co.uk
+# 目标: ZeeTV
 DOMAIN-SUFFIX,zeetv.com
+# 目标: ZeeTV
 DOMAIN-SUFFIX,zeeuk.com

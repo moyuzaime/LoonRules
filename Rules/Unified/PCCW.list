@@ -1,28 +1,53 @@
 # 统一规则库 | 分类: PCCW
 # 合并来源: blackmatrix7/ios_rule_script PCCW
 # 规则数: 25
+# 目标: PCCW
 DOMAIN-SUFFIX,1010.com.hk
+# 目标: PCCW
 DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
+# 目标: PCCW
 DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
+# 目标: PCCW
 DOMAIN-SUFFIX,esmarthealth.com
+# 目标: PCCW
 DOMAIN-SUFFIX,hkcsl.com
+# 目标: PCCW
 DOMAIN-SUFFIX,hkt-enterprise.com
+# 目标: PCCW
 DOMAIN-SUFFIX,hkt-eye.com
+# 目标: PCCW
 DOMAIN-SUFFIX,hkt.com
+# 目标: PCCW
 DOMAIN-SUFFIX,hkteducation.com
+# 目标: PCCW
 DOMAIN-SUFFIX,hktpremier.com
+# 目标: PCCW
 DOMAIN-SUFFIX,hktshop.com
+# 目标: PCCW
 DOMAIN-SUFFIX,moov.hk
+# 目标: PCCW
 DOMAIN-SUFFIX,netvigator.com
+# 目标: PCCW
 DOMAIN-SUFFIX,now-ashare.com
+# 目标: PCCW
 DOMAIN-SUFFIX,now-tv.com
+# 目标: PCCW
 DOMAIN-SUFFIX,now.com
+# 目标: PCCW
 DOMAIN-SUFFIX,now.com.hk
+# 目标: PCCW
 DOMAIN-SUFFIX,nowe.com
+# 目标: PCCW
 DOMAIN-SUFFIX,nowe.hk
+# 目标: PCCW
 DOMAIN-SUFFIX,pccw.com
+# 目标: PCCW
 DOMAIN-SUFFIX,pccwglobal.com
+# 目标: PCCW
 DOMAIN-SUFFIX,pccwsolutions.com
+# 目标: PCCW
 DOMAIN-SUFFIX,theclub.com.hk
+# 目标: PCCW
 DOMAIN-SUFFIX,uhub.com
+# 目标: PCCW
 DOMAIN-SUFFIX,viu.com

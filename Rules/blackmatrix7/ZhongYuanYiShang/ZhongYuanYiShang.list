@@ -1,12 +1,22 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ZhongYuanYiShang/ZhongYuanYiShang.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhongYuanYiShang/ZhongYuanYiShang.list
+# 说明: 中元易尚
 # 规则数: 9
+# 目标: ZhongYuanYiShang
 DOMAIN-SUFFIX,bjesound.com
+# 目标: ZhongYuanYiShang
 DOMAIN-SUFFIX,earlymen.com.cn
+# 目标: ZhongYuanYiShang
 DOMAIN-SUFFIX,esound.cn
+# 目标: ZhongYuanYiShang
 DOMAIN-SUFFIX,esound.net.cn
+# 目标: ZhongYuanYiShang
 DOMAIN-SUFFIX,esound.vip
+# 目标: ZhongYuanYiShang
 DOMAIN-SUFFIX,flymodem.cn
+# 目标: ZhongYuanYiShang
 DOMAIN-SUFFIX,flymodem.com.cn
+# 目标: ZhongYuanYiShang
 DOMAIN-SUFFIX,flymodem.net
+# 目标: ZhongYuanYiShang
 DOMAIN-SUFFIX,iotboss.cn

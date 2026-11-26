@@ -1,11 +1,20 @@
 # 统一规则库 | 分类: Dedao
 # 合并来源: blackmatrix7/ios_rule_script Dedao
+# 说明: 得到
 # 规则数: 8
+# 目标: Dedao
 DOMAIN-SUFFIX,biji.com
+# 目标: Dedao
 DOMAIN-SUFFIX,ddmogo.com
+# 目标: Dedao
 DOMAIN-SUFFIX,igetget.cn
+# 目标: Dedao
 DOMAIN-SUFFIX,igetget.com
+# 目标: Dedao
 DOMAIN-SUFFIX,luojilab.com
+# 目标: Dedao
 DOMAIN-SUFFIX,mogoo.com
+# 目标: Dedao
 DOMAIN-SUFFIX,sao.cn
+# 目标: Dedao
 DOMAIN-SUFFIX,saolife.com

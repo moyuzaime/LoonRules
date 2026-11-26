@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Jfrog
 # 合并来源: blackmatrix7/ios_rule_script Jfrog
 # 规则数: 3
+# 目标: Jfrog
 DOMAIN-SUFFIX,bintray.com
+# 目标: Jfrog
 DOMAIN-SUFFIX,jfrog.com
+# 目标: Jfrog
 DOMAIN-SUFFIX,jfrog.org

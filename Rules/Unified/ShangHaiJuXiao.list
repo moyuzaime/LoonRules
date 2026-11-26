@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: ShangHaiJuXiao
 # 合并来源: blackmatrix7/ios_rule_script ShangHaiJuXiao
+# 说明: 上海聚效
 # 规则数: 5
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,bubuying.net
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,kuaishuru.net
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,mdvdns.com
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,mediav.com
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,mvad.com

@@ -1,152 +1,302 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AdGuardSDNSFilter/Direct/Direct.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdGuardSDNSFilter/Direct/Direct.list
+# 说明: 直连
 # 规则数: 149
+# 目标: Direct
 DOMAIN,5471782.fls.doubleclick.net
+# 目标: Direct
 DOMAIN,79423.analytics.edgekey.net
+# 目标: Direct
 DOMAIN,a.adwolf.ru
+# 目标: Direct
 DOMAIN,a.sellpoint.net
+# 目标: Direct
 DOMAIN,ac.ebis.ne.jp
+# 目标: Direct
 DOMAIN,acs-m.daraz.com.bd
+# 目标: Direct
 DOMAIN,acs-m.daraz.pk
+# 目标: Direct
 DOMAIN,action.metaffiliation.com
+# 目标: Direct
 DOMAIN,ad.10010.com
+# 目标: Direct
 DOMAIN,ad.abchina.com
+# 目标: Direct
 DOMAIN,ad.kazakinfo.com
+# 目标: Direct
 DOMAIN,ad.ourgame.com
+# 目标: Direct
 DOMAIN,adcdn.pingan.com
+# 目标: Direct
 DOMAIN,admin.dable.io
+# 目标: Direct
 DOMAIN,ads.tdbank.com
+# 目标: Direct
 DOMAIN,advert.kf5.com
+# 目标: Direct
 DOMAIN,afi-b.com
+# 目标: Direct
 DOMAIN,analytics.amplitude.com
+# 目标: Direct
 DOMAIN,anwb.webpower.eu
+# 目标: Direct
 DOMAIN,ap01.records.in.treasuredata.com
+# 目标: Direct
 DOMAIN,api.ads.tvb.com
+# 目标: Direct
 DOMAIN,api.docodoco.jp
+# 目标: Direct
 DOMAIN,api.karte.io
+# 目标: Direct
 DOMAIN,app-advertise.zhihuishu.com
+# 目标: Direct
 DOMAIN,app.adjust.com
+# 目标: Direct
 DOMAIN,app.appsflyer.com
+# 目标: Direct
 DOMAIN,artifactory.appodeal.com
+# 目标: Direct
 DOMAIN,awin1.com
+# 目标: Direct
 DOMAIN,buyad.bi-xenon.cn
+# 目标: Direct
 DOMAIN,c.office.com
+# 目标: Direct
 DOMAIN,captcha.su.baidu.com
+# 目标: Direct
 DOMAIN,catchup.thisisdax.com
+# 目标: Direct
 DOMAIN,cdn.duurzaam.greenchoice.nl
+# 目标: Direct
 DOMAIN,cdn.rozetka.com.ua
+# 目标: Direct
 DOMAIN,cindyholbrook.lpages.co
+# 目标: Direct
 DOMAIN,citiintl.122.2o7.net
+# 目标: Direct
 DOMAIN,cj.dotomi.com
+# 目标: Direct
 DOMAIN,cl.link-ag.net
+# 目标: Direct
 DOMAIN,classliving.lpages.co
+# 目标: Direct
 DOMAIN,click.appcast.io
+# 目标: Direct
 DOMAIN,click.avs.io
+# 目标: Direct
 DOMAIN,click.cptrack.de
+# 目标: Direct
 DOMAIN,click.simba.taobao.com
+# 目标: Direct
 DOMAIN,click.trafficguard.ai
+# 目标: Direct
 DOMAIN,click.virt.exacttarget.com
+# 目标: Direct
 DOMAIN,clickattr.wayup.com
+# 目标: Direct
 DOMAIN,cloud.notification-naviextras.com
+# 目标: Direct
 DOMAIN,cm-beacon.nakanohito.jp
+# 目标: Direct
 DOMAIN,cm-widget.nakanohito.jp
+# 目标: Direct
 DOMAIN,cmp.inmobi.com
+# 目标: Direct
 DOMAIN,crm-cdn.peek-cloppenburg.com
+# 目标: Direct
 DOMAIN,cs.silverpop.com
+# 目标: Direct
 DOMAIN,cutcaptcha.com
+# 目标: Direct
 DOMAIN,daikoku.ebis.ne.jp
+# 目标: Direct
 DOMAIN,data.digital.costco.ca
+# 目标: Direct
 DOMAIN,data.digital.costco.com
+# 目标: Direct
 DOMAIN,e.customeriomail.com
+# 目标: Direct
 DOMAIN,email.awscloud.com
+# 目标: Direct
 DOMAIN,email.elitedangerous.com
+# 目标: Direct
 DOMAIN,email.procook.co.uk
+# 目标: Direct
 DOMAIN,envato.market
+# 目标: Direct
 DOMAIN,f-gear.ec-optimizer.com
+# 目标: Direct
 DOMAIN,feed.adrelayer.com
+# 目标: Direct
 DOMAIN,forum.notebookreview.com
+# 目标: Direct
 DOMAIN,gate.first-id.fr
+# 目标: Direct
 DOMAIN,get.neofinancial.com
+# 目标: Direct
 DOMAIN,go.adjust.com
+# 目标: Direct
 DOMAIN,go.scorptec.com.au
+# 目标: Direct
 DOMAIN,goto.target.com
+# 目标: Direct
 DOMAIN,goto.walmart.com
+# 目标: Direct
 DOMAIN,grp07.ias.rakuten.co.jp
+# 目标: Direct
 DOMAIN,gs.statcounter.com
+# 目标: Direct
 DOMAIN,guce.advertising.com
+# 目标: Direct
 DOMAIN,hb.afl.rakuten.co.jp
+# 目标: Direct
 DOMAIN,health.halodoc.com
+# 目标: Direct
 DOMAIN,hidive.com
+# 目标: Direct
 DOMAIN,home.focusatwill.com
+# 目标: Direct
 DOMAIN,href.li
+# 目标: Direct
 DOMAIN,ia.hit.interia.pl
+# 目标: Direct
 DOMAIN,id.i2i.jp
+# 目标: Direct
 DOMAIN,img.ads.tvb.com
+# 目标: Direct
 DOMAIN,infra-api.newrelic.com
+# 目标: Direct
 DOMAIN,intersport.peerius.com
+# 目标: Direct
 DOMAIN,js.monitor.azure.com
+# 目标: Direct
 DOMAIN,learn.khanacademy.org
+# 目标: Direct
 DOMAIN,leechers-paradise.org
+# 目标: Direct
 DOMAIN,link.morningbrew.com
+# 目标: Direct
 DOMAIN,link.sylikes.com
+# 目标: Direct
 DOMAIN,linka.page
+# 目标: Direct
 DOMAIN,links.e.theatlantic.com
+# 目标: Direct
 DOMAIN,links.getblueshift.com
+# 目标: Direct
 DOMAIN,log.mmstat.com
+# 目标: Direct
 DOMAIN,logentries.com
+# 目标: Direct
 DOMAIN,login.sendpulse.com
+# 目标: Direct
 DOMAIN,ma135-r.analytics.edgekey.net
+# 目标: Direct
 DOMAIN,marketing.net.idealo-partner.com
+# 目标: Direct
 DOMAIN,media-consumer365.desigual.com
+# 目标: Direct
 DOMAIN,my.tealiumiq.com
+# 目标: Direct
 DOMAIN,netatmo.commander1.com
+# 目标: Direct
 DOMAIN,nineto5mac-d.openx.net
+# 目标: Direct
 DOMAIN,oa.tr.line.me
+# 目标: Direct
 DOMAIN,obituaries.therecord.com
+# 目标: Direct
 DOMAIN,official.paymaya.com
+# 目标: Direct
 DOMAIN,omniture.walmart.com
+# 目标: Direct
 DOMAIN,omsc.kpn.com
+# 目标: Direct
 DOMAIN,oneline.nextday.media
+# 目标: Direct
 DOMAIN,pagead.l.doubleclick.net
+# 目标: Direct
 DOMAIN,partner.everydays.de
+# 目标: Direct
 DOMAIN,promo.gramedia.com
+# 目标: Direct
 DOMAIN,proto2ad.durasite.net
+# 目标: Direct
 DOMAIN,pt.afl.rakuten.co.jp
+# 目标: Direct
 DOMAIN,public-cis.exponea.com
+# 目标: Direct
 DOMAIN,px.a8.net
+# 目标: Direct
 DOMAIN,radiofrance.targetspot.com
+# 目标: Direct
 DOMAIN,rd.bizrate.com
+# 目标: Direct
 DOMAIN,recommender.scarabresearch.com
+# 目标: Direct
 DOMAIN,redir.ownpage.fr
+# 目标: Direct
 DOMAIN,redir.tradedoubler.com
+# 目标: Direct
 DOMAIN,redirect.appmetrica.yandex.com
+# 目标: Direct
 DOMAIN,refer.discover.com
+# 目标: Direct
 DOMAIN,remembering.ca
+# 目标: Direct
 DOMAIN,res.ads.nicovideo.jp
+# 目标: Direct
 DOMAIN,sax.sina.com.cn
+# 目标: Direct
 DOMAIN,sbs.demdex.net
+# 目标: Direct
 DOMAIN,secureimage.securedataimages.com
+# 目标: Direct
 DOMAIN,smtp.focusgroupresearch.com
+# 目标: Direct
 DOMAIN,sponsor.nitropay.com
+# 目标: Direct
 DOMAIN,stash.roistat.com
+# 目标: Direct
 DOMAIN,str.hit.gemius.pl
+# 目标: Direct
 DOMAIN,support-beacon.nakanohito.jp
+# 目标: Direct
 DOMAIN,support-widget.nakanohito.jp
+# 目标: Direct
 DOMAIN,surveymyopinion.researchnow.com
+# 目标: Direct
 DOMAIN,tags.crwdcntrl.net
+# 目标: Direct
 DOMAIN,taiga.maven.io
+# 目标: Direct
 DOMAIN,thumbnail.thench.net
+# 目标: Direct
 DOMAIN,tlaol.com
+# 目标: Direct
 DOMAIN,tlh.gedidigital.it
+# 目标: Direct
 DOMAIN,tms.capitalone.com
+# 目标: Direct
 DOMAIN,torimochi.line-apps.com
+# 目标: Direct
 DOMAIN,tr.rdrtr.com
+# 目标: Direct
 DOMAIN,track.rutarget.ru
+# 目标: Direct
 DOMAIN,track.webgains.com
+# 目标: Direct
 DOMAIN,validate.perfdrive.com
+# 目标: Direct
 DOMAIN,vcentry2.valuecommerce.ne.jp
+# 目标: Direct
 DOMAIN,vcentry3.valuecommerce.ne.jp
+# 目标: Direct
 DOMAIN,www.dogpile.com
+# 目标: Direct
 DOMAIN,www.googleadservices.com
+# 目标: Direct
 DOMAIN,www.jdoqocy.com
+# 目标: Direct
 DOMAIN,www.statcounter.com

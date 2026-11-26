@@ -1,6 +1,10 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/MiWu/MiWu.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/MiWu/MiWu.list
+# 说明: 米物
 # 规则数: 3
+# 目标: MiWu
 DOMAIN-SUFFIX,miiiw.cn
+# 目标: MiWu
 DOMAIN-SUFFIX,miiiw.com
+# 目标: MiWu
 DOMAIN-SUFFIX,miiiw.net

@@ -1,4 +1,5 @@
 # 统一规则库 | 分类: 3Type
 # 合并来源: blackmatrix7/ios_rule_script 3Type
 # 规则数: 1
+# 目标: 3Type
 DOMAIN-SUFFIX,3type.cn

@@ -1,9 +1,15 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/CNN/CNN.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CNN/CNN.list
 # 规则数: 6
+# 目标: CNN
 DOMAIN-SUFFIX,cnn.com
+# 目标: CNN
 DOMAIN-SUFFIX,cnn.io
+# 目标: CNN
 DOMAIN-SUFFIX,cnn.it
+# 目标: CNN
 DOMAIN-SUFFIX,cnnarabic.com
+# 目标: CNN
 DOMAIN-SUFFIX,cnnlabs.com
+# 目标: CNN
 DOMAIN-SUFFIX,cnnmoney.ch

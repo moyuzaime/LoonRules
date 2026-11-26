@@ -1,13 +1,23 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Niconico/Niconico.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Niconico/Niconico.list
 # 规则数: 10
+# 目标: Niconico
 DOMAIN-SUFFIX,dmc.nico
+# 目标: Niconico
 DOMAIN-SUFFIX,nicodic.jp
+# 目标: Niconico
 DOMAIN-SUFFIX,nicomanga.jp
+# 目标: Niconico
 DOMAIN-SUFFIX,niconico.com
+# 目标: Niconico
 DOMAIN-SUFFIX,nicoseiga.jp
+# 目标: Niconico
 DOMAIN-SUFFIX,nicovideo.jp
+# 目标: Niconico
 DOMAIN-SUFFIX,nimg.jp
+# 目标: Niconico
 DOMAIN-SUFFIX,simg.jp
+# 目标: Niconico
 DOMAIN-SUFFIX,socdm.com
+# 目标: Niconico
 USER-AGENT,Niconico*

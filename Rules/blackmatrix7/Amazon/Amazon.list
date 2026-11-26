@@ -1,208 +1,413 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Amazon/Amazon.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Amazon/Amazon.list
 # 规则数: 205
+# 目标: Amazon
 DOMAIN-SUFFIX,a2z.com
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.co.uk
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.com.au
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.de
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.es
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.eu
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.fr
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.in
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.it
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.jp
+# 目标: Amazon
 DOMAIN-SUFFIX,aboutamazon.pl
+# 目标: Amazon
 DOMAIN-SUFFIX,acmvalidations.com
+# 目标: Amazon
 DOMAIN-SUFFIX,acmvalidationsaws.com
+# 目标: Amazon
 DOMAIN-SUFFIX,aesworkshops.com
+# 目标: Amazon
 DOMAIN-SUFFIX,aiv-cdn.net
+# 目标: Amazon
 DOMAIN-SUFFIX,aiv-delivery.net
+# 目标: Amazon
 DOMAIN-SUFFIX,alexa.com
+# 目标: Amazon
 DOMAIN-SUFFIX,alexafund.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,alexafund.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amaaozn.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon-adsystem.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon-fashions.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon-jp-recruiting.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon-lantern.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon-launchpad.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.ae
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.ca
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.co.jp
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.co.uk
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.com.au
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.com.br
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.com.mx
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.com.tr
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.de
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.es
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.fr
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.in
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.it
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.jobs
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.jp
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.nl
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.red
+# 目标: Amazon
 DOMAIN-SUFFIX,amazon.sg
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonalexavoxcon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonauthorinsights.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonaws-china.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonaws.co.uk
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonaws.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonaws.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonaws.tv
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonbusiness.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonbusiness.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonbusiness.org
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonbusinessblog.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonchoice.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonchoice.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonchoices.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonchoices.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazondevicesupport.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonfctours.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonianblog.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonimages.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazoninspire.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazoninspire.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonlaunchpad.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonlaunchpad.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonlaunchpad.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonlending.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonliterarypartnership.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonlumberyard.wang
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonnow.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonnow.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonpay.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonpay.in
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonprimevideo.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonprimevideos.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonsdi.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonstudiosguilds.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazontools.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazontours.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazontrust.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonuniversity.jobs
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonvideo.cc
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonvideo.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonvideodirect.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonworkdocs.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonworkdocs.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amazonworkdocs.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,amplifyapp.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amplifyframework.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amzn.asia
+# 目标: Amazon
 DOMAIN-SUFFIX,amzn.com
+# 目标: Amazon
 DOMAIN-SUFFIX,amzn.to
+# 目标: Amazon
 DOMAIN-SUFFIX,amznl.com
+# 目标: Amazon
 DOMAIN-SUFFIX,assoc-amazon.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,associates-amazon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,audible.com
+# 目标: Amazon
 DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
+# 目标: Amazon
 DOMAIN-SUFFIX,aws
+# 目标: Amazon
 DOMAIN-SUFFIX,aws-iot-hackathon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awsautopilot.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awsautoscaling.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awsbraket.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awscloud.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awscommandlineinterface.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awsedstart.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awseducate.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awseducate.net
+# 目标: Amazon
 DOMAIN-SUFFIX,awseducate.org
+# 目标: Amazon
 DOMAIN-SUFFIX,awsloft-johannesburg.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awsloft-stockholm.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awssecworkshops.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awsstatic.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awsthinkbox.com
+# 目标: Amazon
 DOMAIN-SUFFIX,awstrack.me
+# 目标: Amazon
 DOMAIN-SUFFIX,awstrust.com
+# 目标: Amazon
 DOMAIN-SUFFIX,boxofficemojo.com
+# 目标: Amazon
 DOMAIN-SUFFIX,cdkworkshop.com
+# 目标: Amazon
 DOMAIN-SUFFIX,cloudfront.net
+# 目标: Amazon
 DOMAIN-SUFFIX,containersonaws.com
+# 目标: Amazon
 DOMAIN-SUFFIX,createspace.com
+# 目标: Amazon
 DOMAIN-SUFFIX,elasticbeanstalk.com
+# 目标: Amazon
 DOMAIN-SUFFIX,gameon-masters.com
+# 目标: Amazon
 DOMAIN-SUFFIX,gdansk-amazon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,images-amazon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,imdb
+# 目标: Amazon
 DOMAIN-SUFFIX,imdb.com
+# 目标: Amazon
 DOMAIN-SUFFIX,imdb.to
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.co.jp
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.co.uk
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.com
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.de
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.es
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.fr
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.in
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.it
+# 目标: Amazon
 DOMAIN-SUFFIX,kindle.jp
+# 目标: Amazon
 DOMAIN-SUFFIX,kindleoasis.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,kindleoasis.com
+# 目标: Amazon
 DOMAIN-SUFFIX,kindleoasis.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,kindleoasis.info
+# 目标: Amazon
 DOMAIN-SUFFIX,kindleoasis.jp
+# 目标: Amazon
 DOMAIN-SUFFIX,kindleoasis.org
+# 目标: Amazon
 DOMAIN-SUFFIX,kindleoasis.us
+# 目标: Amazon
 DOMAIN-SUFFIX,kindleoasisnews.com
+# 目标: Amazon
 DOMAIN-SUFFIX,kindleproject.com
+# 目标: Amazon
 DOMAIN-SUFFIX,llnwd.net
+# 目标: Amazon
 DOMAIN-SUFFIX,media-amazon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,media-imdb.com
+# 目标: Amazon
 DOMAIN-SUFFIX,prime-video.com
+# 目标: Amazon
 DOMAIN-SUFFIX,primeday.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,primeday.com.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,primeday.info
+# 目标: Amazon
 DOMAIN-SUFFIX,primevideo.cc
+# 目标: Amazon
 DOMAIN-SUFFIX,primevideo.com
+# 目标: Amazon
 DOMAIN-SUFFIX,primevideo.info
+# 目标: Amazon
 DOMAIN-SUFFIX,primevideo.org
+# 目标: Amazon
 DOMAIN-SUFFIX,primevideo.tv
+# 目标: Amazon
 DOMAIN-SUFFIX,pv-cdn.net
+# 目标: Amazon
 DOMAIN-SUFFIX,seattlespheres.com
+# 目标: Amazon
 DOMAIN-SUFFIX,siege-amazon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,ssl-images-amazon.com
+# 目标: Amazon
 DOMAIN-SUFFIX,thinkboxsoftware.com
+# 目标: Amazon
 DOMAIN-SUFFIX,ueberamazon.de
+# 目标: Amazon
 DOMAIN-SUFFIX,wfm.com
+# 目标: Amazon
 DOMAIN-SUFFIX,wholecitiesfoundation.org
+# 目标: Amazon
 DOMAIN-SUFFIX,wholefoods.com
+# 目标: Amazon
 DOMAIN-SUFFIX,wholefoodsmarket.co.uk
+# 目标: Amazon
 DOMAIN-SUFFIX,wholefoodsmarket.com
+# 目标: Amazon
 DOMAIN-SUFFIX,wholekidsfoundation.org
+# 目标: Amazon
 DOMAIN-SUFFIX,wholeplanetfoundation.org
+# 目标: Amazon
 DOMAIN-SUFFIX,xn--cckwcxetd
+# 目标: Amazon
 DOMAIN-SUFFIX,xn--jlq480n2rg
+# 目标: Amazon
 DOMAIN-SUFFIX,yamaxun
+# 目标: Amazon
 DOMAIN-SUFFIX,yamaxun.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,yamaxun.com
+# 目标: Amazon
 DOMAIN-SUFFIX,z.cn
+# 目标: Amazon
 DOMAIN-SUFFIX,zappos
+# 目标: Amazon
 DOMAIN-KEYWORD,avoddashs
+# 目标: Amazon
 USER-AGENT,InstantVideo.US*
+# 目标: Amazon
 USER-AGENT,Prime%20Video*
+# 目标: Amazon
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
+# 目标: Amazon
 IP-CIDR,13.32.0.0/15,no-resolve
+# 目标: Amazon
 IP-CIDR,13.35.0.0/17,no-resolve
+# 目标: Amazon
 IP-CIDR,18.184.0.0/15,no-resolve
+# 目标: Amazon
 IP-CIDR,18.194.0.0/15,no-resolve
+# 目标: Amazon
 IP-CIDR,18.208.0.0/13,no-resolve
+# 目标: Amazon
 IP-CIDR,18.232.0.0/14,no-resolve
+# 目标: Amazon
 IP-CIDR,52.200.0.0/13,no-resolve
+# 目标: Amazon
 IP-CIDR,52.58.0.0/15,no-resolve
+# 目标: Amazon
 IP-CIDR,52.74.0.0/16,no-resolve
+# 目标: Amazon
 IP-CIDR,52.77.0.0/16,no-resolve
+# 目标: Amazon
 IP-CIDR,52.84.0.0/15,no-resolve
+# 目标: Amazon
 IP-CIDR,54.156.0.0/14,no-resolve
+# 目标: Amazon
 IP-CIDR,54.226.0.0/15,no-resolve
+# 目标: Amazon
 IP-CIDR,54.230.156.0/22,no-resolve
+# 目标: Amazon
 IP-CIDR,54.93.0.0/16,no-resolve

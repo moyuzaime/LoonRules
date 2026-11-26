@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: MiWu
 # 合并来源: blackmatrix7/ios_rule_script MiWu
+# 说明: 米物
 # 规则数: 3
+# 目标: MiWu
 DOMAIN-SUFFIX,miiiw.cn
+# 目标: MiWu
 DOMAIN-SUFFIX,miiiw.com
+# 目标: MiWu
 DOMAIN-SUFFIX,miiiw.net

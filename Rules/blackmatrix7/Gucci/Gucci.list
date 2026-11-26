@@ -1,9 +1,15 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Gucci/Gucci.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gucci/Gucci.list
 # 规则数: 6
+# 目标: Gucci
 DOMAIN-SUFFIX,chimeforchange.org
+# 目标: Gucci
 DOMAIN-SUFFIX,gucci.cn
+# 目标: Gucci
 DOMAIN-SUFFIX,gucci.com
+# 目标: Gucci
 DOMAIN-SUFFIX,guccimuseo.com
+# 目标: Gucci
 DOMAIN-SUFFIX,guccitimeless.com
+# 目标: Gucci
 DOMAIN-SUFFIX,regiongold.com

@@ -1,104 +1,205 @@
 # 统一规则库 | 分类: httpdns
 # 合并来源: QuixoticHeart/rule-set httpdns
 # 规则数: 101
+# 目标: httpdns
 DOMAIN,aedns.weixin.qq.com
+# 目标: httpdns
 DOMAIN,dnspod.meituan.httpdns.qcloud.com
+# 目标: httpdns
 DOMAIN,dnspod.meituan.httpdns.start.qcloud.com
+# 目标: httpdns
 DOMAIN,httpdns.calorietech.com
+# 目标: httpdns
 DOMAIN,httpdns.immomo.com
+# 目标: httpdns
 DOMAIN,httpdns.yunxinfw.com
+# 目标: httpdns
 DOMAIN,httpdnsmultiapi.meituan.com
+# 目标: httpdns
 DOMAIN,resolvers-cn.httpdns.aliyuncs.com
+# 目标: httpdns
 DOMAIN,yuyin-httpdns.gslb.yy.com
+# 目标: httpdns
 DOMAIN-SUFFIX,apidns.kwd.inkuai.com
+# 目标: httpdns
 DOMAIN-SUFFIX,dns.iqiyi.com
+# 目标: httpdns
 DOMAIN-SUFFIX,dns.jd.com
+# 目标: httpdns
 DOMAIN-SUFFIX,dns.qiyipic.iqiyi.com
+# 目标: httpdns
 DOMAIN-SUFFIX,dns.weibo.cn
+# 目标: httpdns
 DOMAIN-SUFFIX,dns.weixin.qq.com
+# 目标: httpdns
 DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+# 目标: httpdns
 DOMAIN-SUFFIX,doh.iqiyi.com
+# 目标: httpdns
 DOMAIN-SUFFIX,doh.ptqy.gitv.tv
+# 目标: httpdns
 DOMAIN-SUFFIX,dotserver.douyucdn.cn
+# 目标: httpdns
 DOMAIN-SUFFIX,hdns.ksyun.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns-api.aliyuncs.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns-browser.platform.dbankcloud.cn
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns-sc.aliyuncs.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns-sdk.n.netease.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.alicdn.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.baidu.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.baidubce.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.bcelive.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.bilivideo.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.browser.miui.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.cctv.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.danuoyi.tbcache.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.gslb.yy.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.huaweicloud.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.kg.qq.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.kwd.inkuai.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.meituan.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.music.163.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.n.netease.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.n.shifen.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.ocloud.heytapmobi.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.ocloud.oppomobile.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.platform.dbankcloud.cn
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.platform.dbankcloud.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.pro
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.push.heytapmobi.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.push.oppomobile.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.volcengineapi.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.yunxindns.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.zhihu.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns.zybang.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdns1.cc.cdnhwc5.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdnsmultiapivip.meituan.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpdnsvip.meituan.com
+# 目标: httpdns
 DOMAIN-SUFFIX,httpsdns.baidu.com
+# 目标: httpdns
 DOMAIN-SUFFIX,lofter.httpdns.c.163.com
+# 目标: httpdns
 DOMAIN-SUFFIX,music.httpdns.c.163.com
+# 目标: httpdns
 IP-CIDR,101.124.19.122/32,no-resolve
+# 目标: httpdns
 IP-CIDR,101.91.140.124/32,no-resolve
+# 目标: httpdns
 IP-CIDR,101.91.140.224/32,no-resolve
+# 目标: httpdns
 IP-CIDR,103.224.222.208/32,no-resolve
+# 目标: httpdns
 IP-CIDR,112.64.218.119/32,no-resolve
+# 目标: httpdns
 IP-CIDR,112.65.200.117/32,no-resolve
+# 目标: httpdns
 IP-CIDR,114.116.215.110/32,no-resolve
+# 目标: httpdns
 IP-CIDR,115.236.121.195/32,no-resolve
+# 目标: httpdns
 IP-CIDR,115.236.121.51/32,no-resolve
+# 目标: httpdns
 IP-CIDR,116.63.10.135/32,no-resolve
+# 目标: httpdns
 IP-CIDR,116.63.10.31/32,no-resolve
+# 目标: httpdns
 IP-CIDR,117.144.238.29/32,no-resolve
+# 目标: httpdns
 IP-CIDR,117.185.228.108/32,no-resolve
+# 目标: httpdns
 IP-CIDR,118.89.204.0/23,no-resolve
+# 目标: httpdns
 IP-CIDR,119.29.29.98/31,no-resolve
+# 目标: httpdns
 IP-CIDR,120.46.169.234/32,no-resolve
+# 目标: httpdns
 IP-CIDR,121.36.72.124/32,no-resolve
+# 目标: httpdns
 IP-CIDR,122.9.13.79/32,no-resolve
+# 目标: httpdns
 IP-CIDR,122.9.15.129/32,no-resolve
+# 目标: httpdns
 IP-CIDR,122.9.7.134/32,no-resolve
+# 目标: httpdns
 IP-CIDR,123.151.54.50/32,no-resolve
+# 目标: httpdns
 IP-CIDR,180.76.76.112/32,no-resolve
+# 目标: httpdns
 IP-CIDR,180.76.76.200/32,no-resolve
+# 目标: httpdns
 IP-CIDR,180.76.76.220/32,no-resolve
+# 目标: httpdns
 IP-CIDR,182.254.116.117/32,no-resolve
+# 目标: httpdns
 IP-CIDR,182.254.118.119/32,no-resolve
+# 目标: httpdns
 IP-CIDR,202.90.108.13/32,no-resolve
+# 目标: httpdns
 IP-CIDR,202.90.110.46/32,no-resolve
+# 目标: httpdns
 IP-CIDR,203.107.1.0/24,no-resolve
+# 目标: httpdns
 IP-CIDR,39.97.128.148/32,no-resolve
+# 目标: httpdns
 IP-CIDR,39.97.130.51/32,no-resolve
+# 目标: httpdns
 IP-CIDR,42.187.182.106/32,no-resolve
+# 目标: httpdns
 IP-CIDR,42.187.182.123/32,no-resolve
+# 目标: httpdns
 IP-CIDR,42.187.184.154/32,no-resolve
+# 目标: httpdns
 IP-CIDR,42.81.232.18/32,no-resolve
+# 目标: httpdns
 IP-CIDR,47.100.123.169/32,no-resolve
+# 目标: httpdns
 IP-CIDR,47.101.175.206/32,no-resolve
+# 目标: httpdns
 IP-CIDR,59.111.239.61/32,no-resolve
+# 目标: httpdns
 IP-CIDR,59.111.239.62/32,no-resolve
+# 目标: httpdns
 IP-CIDR6,2402:4e00:1200::/40,no-resolve
+# 目标: httpdns
 IP-CIDR6,2402:4e00:1900:1700:0:9554:1ad9:c3a/128,no-resolve
+# 目标: httpdns
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
+# 目标: httpdns
 IP-CIDR6,240e:928:1400:10::25/128,no-resolve

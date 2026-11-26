@@ -1,4 +1,6 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/WeType/WeType.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WeType/WeType.list
+# 说明: 微信输入法
 # 规则数: 1
+# 目标: WeType
 DOMAIN,wetype.weixin.qq.com

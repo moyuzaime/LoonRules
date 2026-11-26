@@ -1,7 +1,11 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Collabora/Collabora.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Collabora/Collabora.list
 # 规则数: 4
+# 目标: Collabora
 DOMAIN-SUFFIX,collabora.co.uk
+# 目标: Collabora
 DOMAIN-SUFFIX,collabora.com
+# 目标: Collabora
 DOMAIN-SUFFIX,collabora.org
+# 目标: Collabora
 DOMAIN-SUFFIX,collaboraoffice.com

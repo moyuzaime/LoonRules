@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Dynu
 # 合并来源: blackmatrix7/ios_rule_script Dynu
 # 规则数: 3
+# 目标: Dynu
 DOMAIN-SUFFIX,dynu.com
+# 目标: Dynu
 DOMAIN-SUFFIX,dynu.net
+# 目标: Dynu
 DOMAIN-SUFFIX,freeddns.org

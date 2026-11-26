@@ -1,61 +1,119 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Hulu/Hulu.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Hulu/Hulu.list
 # 规则数: 58
+# 目标: Hulu
 DOMAIN,live-mediashield-ava-hulustream-com.akamaized.net
+# 目标: Hulu
 DOMAIN-SUFFIX,112263.com
+# 目标: Hulu
 DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
+# 目标: Hulu
 DOMAIN-SUFFIX,callhulu.com
+# 目标: Hulu
 DOMAIN-SUFFIX,cws-hulu.conviva.com
+# 目标: Hulu
 DOMAIN-SUFFIX,findyourlimits.com
+# 目标: Hulu
 DOMAIN-SUFFIX,freehulu.com
+# 目标: Hulu
 DOMAIN-SUFFIX,happyon.jp
+# 目标: Hulu
 DOMAIN-SUFFIX,hjholdings.jp
+# 目标: Hulu
 DOMAIN-SUFFIX,hooloo.tv
+# 目标: Hulu
 DOMAIN-SUFFIX,hoolu.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hoolu.tv
+# 目标: Hulu
 DOMAIN-SUFFIX,hu1u.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huloo.cc
+# 目标: Hulu
 DOMAIN-SUFFIX,huloo.tv
+# 目标: Hulu
 DOMAIN-SUFFIX,hulu.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+# 目标: Hulu
 DOMAIN-SUFFIX,hulu.jp
+# 目标: Hulu
 DOMAIN-SUFFIX,hulu.playback.edge.bamgrid.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+# 目标: Hulu
 DOMAIN-SUFFIX,hulu.tv
+# 目标: Hulu
 DOMAIN-SUFFIX,hulu.us
+# 目标: Hulu
 DOMAIN-SUFFIX,huluaction.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluad.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluapp.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluasks.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulucall.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulufree.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulugans.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulugermany.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulugo.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluim.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluinstantmessenger.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluitaly.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulunet.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulunetwork.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluplus.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulupremium.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulupurchase.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluqa.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulurussia.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluspain.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulusports.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulustream.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluteam.com
+# 目标: Hulu
 DOMAIN-SUFFIX,hulutv.com
+# 目标: Hulu
 DOMAIN-SUFFIX,huluusa.com
+# 目标: Hulu
 DOMAIN-SUFFIX,joinmaidez.com
+# 目标: Hulu
 DOMAIN-SUFFIX,mushymush.tv
+# 目标: Hulu
 DOMAIN-SUFFIX,myhulu.com
+# 目标: Hulu
 DOMAIN-SUFFIX,originalhulu.com
+# 目标: Hulu
 DOMAIN-SUFFIX,payhulu.com
+# 目标: Hulu
 DOMAIN-SUFFIX,prod.hjholdings.tv
+# 目标: Hulu
 DOMAIN-SUFFIX,registerhulu.com
+# 目标: Hulu
 DOMAIN-SUFFIX,streaks.jp
+# 目标: Hulu
 DOMAIN-SUFFIX,thehulubraintrust.com
+# 目标: Hulu
 DOMAIN-SUFFIX,wwwhuluplus.com
+# 目标: Hulu
 DOMAIN-SUFFIX,yb.uncn.jp

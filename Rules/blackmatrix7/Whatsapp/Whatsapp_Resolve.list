@@ -1,20 +1,37 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Whatsapp/Whatsapp_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Whatsapp/Whatsapp_Resolve.list
 # 规则数: 17
+# 目标: Whatsapp
 DOMAIN,graph.facebook.com
+# 目标: Whatsapp
 DOMAIN-SUFFIX,bintray.com
+# 目标: Whatsapp
 DOMAIN-SUFFIX,whatsapp.biz
+# 目标: Whatsapp
 DOMAIN-SUFFIX,whatsapp.com
+# 目标: Whatsapp
 DOMAIN-SUFFIX,whatsapp.net
+# 目标: Whatsapp
 DOMAIN-KEYWORD,whatsapp
+# 目标: Whatsapp
 IP-CIDR,158.85.224.160/27
+# 目标: Whatsapp
 IP-CIDR,158.85.46.128/27
+# 目标: Whatsapp
 IP-CIDR,158.85.5.192/27
+# 目标: Whatsapp
 IP-CIDR,173.192.222.160/27
+# 目标: Whatsapp
 IP-CIDR,173.192.231.32/27
+# 目标: Whatsapp
 IP-CIDR,18.194.0.0/15
+# 目标: Whatsapp
 IP-CIDR,184.173.128.0/17
+# 目标: Whatsapp
 IP-CIDR,208.43.122.128/27
+# 目标: Whatsapp
 IP-CIDR,34.224.0.0/12
+# 目标: Whatsapp
 IP-CIDR,50.22.198.204/30
+# 目标: Whatsapp
 IP-CIDR,54.242.0.0/15

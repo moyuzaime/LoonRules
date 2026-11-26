@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Apkpure
 # 合并来源: blackmatrix7/ios_rule_script Apkpure
 # 规则数: 4
+# 目标: Apkpure
 DOMAIN-SUFFIX,apkpure.com
+# 目标: Apkpure
 DOMAIN-SUFFIX,cdnpure.com
+# 目标: Apkpure
 DOMAIN-SUFFIX,pureapk.com
+# 目标: Apkpure
 DOMAIN-SUFFIX,winudf.com

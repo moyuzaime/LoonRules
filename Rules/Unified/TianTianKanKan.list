@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: TianTianKanKan
 # 合并来源: blackmatrix7/ios_rule_script TianTianKanKan
+# 说明: 天天看看
 # 规则数: 4
+# 目标: TianTianKanKan
 DOMAIN-SUFFIX,ibangtiao.com
+# 目标: TianTianKanKan
 DOMAIN-SUFFIX,kankanpro.cn
+# 目标: TianTianKanKan
 DOMAIN-SUFFIX,kkstudy.cn
+# 目标: TianTianKanKan
 DOMAIN-SUFFIX,taogepian.com

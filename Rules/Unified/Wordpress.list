@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: Wordpress
 # 合并来源: blackmatrix7/ios_rule_script Wordpress
 # 规则数: 8
+# 目标: Wordpress
 DOMAIN-SUFFIX,videopress.com
+# 目标: Wordpress
 DOMAIN-SUFFIX,w.org
+# 目标: Wordpress
 DOMAIN-SUFFIX,wordpress.com
+# 目标: Wordpress
 DOMAIN-SUFFIX,wordpress.org
+# 目标: Wordpress
 DOMAIN-SUFFIX,wordpress.tv
+# 目标: Wordpress
 DOMAIN-SUFFIX,wp-themes.com
+# 目标: Wordpress
 DOMAIN-SUFFIX,wp.com
+# 目标: Wordpress
 DOMAIN-SUFFIX,wpvip.com

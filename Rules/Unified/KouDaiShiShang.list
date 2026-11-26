@@ -1,25 +1,48 @@
 # 统一规则库 | 分类: KouDaiShiShang
 # 合并来源: blackmatrix7/ios_rule_script KouDaiShiShang
+# 说明: 口袋时尚
 # 规则数: 22
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,91ruyu.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,bibikan.cn
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,fang.xin
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,fangxin.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,geili.cn
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,geilicdn.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,kou6ai.cn
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,koudai.cn
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,koudai.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,v5.cc
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,vdian.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,wdfangyi.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,weidian-inc.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,weidian.cc
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,weidian.cn
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,weidian.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,weidianfans.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,xihuan.com.cn
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,youshop01.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,youshop02.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,youshop03.com
+# 目标: KouDaiShiShang
 DOMAIN-SUFFIX,youshop04.com

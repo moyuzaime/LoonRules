@@ -1,14 +1,26 @@
 # 统一规则库 | 分类: Majsoul
 # 合并来源: blackmatrix7/ios_rule_script Majsoul
+# 说明: 雀魂
 # 规则数: 11
+# 目标: Majsoul
 DOMAIN-SUFFIX,game.maj-soul.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,gateway-cdn.maj-soul.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,gateway-hw.maj-soul.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,gateway-sy.catmjstudio.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,gateway-sy.maj-soul.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,gateway-v2.maj-soul.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,lb-cdn.maj-soul.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,lb-hw.maj-soul.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,lb-sy.maj-soul.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,lb-v2.maj-soul.com
+# 目标: Majsoul
 DOMAIN-SUFFIX,majsoul-hk-client.cn-hongkong.log.aliyuncs.com

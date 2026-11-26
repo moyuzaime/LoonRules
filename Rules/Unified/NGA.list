@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: NGA
 # 合并来源: blackmatrix7/ios_rule_script NGA
 # 规则数: 4
+# 目标: NGA
 DOMAIN-SUFFIX,178.com
+# 目标: NGA
 DOMAIN-SUFFIX,nga.cn
+# 目标: NGA
 DOMAIN-SUFFIX,ngabbs.com
+# 目标: NGA
 DOMAIN-SUFFIX,ngacn.cc

@@ -1,65 +1,128 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/iQIYI/iQIYI.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/iQIYI/iQIYI.list
+# 说明: 爱奇艺
 # 规则数: 62
+# 目标: iQIYI
 DOMAIN-SUFFIX,71.am
+# 目标: iQIYI
 DOMAIN-SUFFIX,71.am.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,71edge.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,71edge.net
+# 目标: iQIYI
 DOMAIN-SUFFIX,aianno.cn
+# 目标: iQIYI
 DOMAIN-SUFFIX,aianno.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,aiqiyicloud-mgmt.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,aiqiyicloud.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,aiqiyicloud.net
+# 目标: iQIYI
 DOMAIN-SUFFIX,baiying.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,gitv.cn
+# 目标: iQIYI
 DOMAIN-SUFFIX,gitv.tv
+# 目标: iQIYI
 DOMAIN-SUFFIX,ibkstore.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,iq.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,iqiyi.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,iqiyi.demo.uwp
+# 目标: iQIYI
 DOMAIN-SUFFIX,iqiyiedge.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,iqiyiedge.net
+# 目标: iQIYI
 DOMAIN-SUFFIX,iqiyipic.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,jiangbing.cn
+# 目标: iQIYI
 DOMAIN-SUFFIX,pps.tv
+# 目标: iQIYI
 DOMAIN-SUFFIX,ppsimg.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,ppstream.cn
+# 目标: iQIYI
 DOMAIN-SUFFIX,ppstream.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,ppstream.com.cn
+# 目标: iQIYI
 DOMAIN-SUFFIX,ppstream.net
+# 目标: iQIYI
 DOMAIN-SUFFIX,ppstream.net.cn
+# 目标: iQIYI
 DOMAIN-SUFFIX,ppsurl.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,qiyi.cn
+# 目标: iQIYI
 DOMAIN-SUFFIX,qiyi.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,qiyipic.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,qy.com
+# 目标: iQIYI
 DOMAIN-SUFFIX,qy.net
+# 目标: iQIYI
 DOMAIN-SUFFIX,suike.cn
+# 目标: iQIYI
 DOMAIN-KEYWORD,qiyi
+# 目标: iQIYI
 USER-AGENT,PPStream*
+# 目标: iQIYI
 USER-AGENT,QIYI*
+# 目标: iQIYI
 USER-AGENT,QYPlayer*
+# 目标: iQIYI
 USER-AGENT,iQIYI*
+# 目标: iQIYI
 USER-AGENT,iQiYi*
+# 目标: iQIYI
 USER-AGENT,iQiyi*
+# 目标: iQIYI
 IP-CIDR,101.224.0.0/13,no-resolve
+# 目标: iQIYI
 IP-CIDR,103.44.56.0/22,no-resolve
+# 目标: iQIYI
 IP-CIDR,103.5.34.153/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,104.109.129.153/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,110.238.107.47/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,118.26.120.0/24,no-resolve
+# 目标: iQIYI
 IP-CIDR,118.26.32.0/23,no-resolve
+# 目标: iQIYI
 IP-CIDR,119.176.0.0/12,no-resolve
+# 目标: iQIYI
 IP-CIDR,203.211.4.169/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,203.211.4.193/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,203.74.95.131/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,203.74.95.139/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,203.74.95.153/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,210.201.32.11/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,210.201.32.8/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,210.71.227.200/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,210.71.227.202/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,23.211.15.99/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,23.40.241.251/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,23.40.242.10/32,no-resolve
+# 目标: iQIYI
 IP-CIDR,23.53.32.88/32,no-resolve

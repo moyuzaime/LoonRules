@@ -1,93 +1,183 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/hbo.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/hbo.list
 # 规则数: 90
+# 目标: hbo
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
+# 目标: hbo
 DOMAIN-SUFFIX,beforeigners.com
+# 目标: hbo
 DOMAIN-SUFFIX,brightline.tv
+# 目标: hbo
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
+# 目标: hbo
 DOMAIN-SUFFIX,cinemax.com
+# 目标: hbo
 DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net
+# 目标: hbo
 DOMAIN-SUFFIX,discomax.com
+# 目标: hbo
 DOMAIN-SUFFIX,elpionero.es
+# 目标: hbo
 DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+# 目标: hbo
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+# 目标: hbo
 DOMAIN-SUFFIX,forthethrone.com
+# 目标: hbo
 DOMAIN-SUFFIX,h264.io
+# 目标: hbo
 DOMAIN-SUFFIX,hbo
+# 目标: hbo
 DOMAIN-SUFFIX,hbo-europe.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.ba
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.bg
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.com.c.footprint.net
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.com.edgesuite.net
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.cz
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.eu
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.hr
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.hu
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.map.fastly.net
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.me
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.mk
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.pl
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.ro
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.rs
+# 目标: hbo
 DOMAIN-SUFFIX,hbo.sk
+# 目标: hbo
 DOMAIN-SUFFIX,hboaccess.com
+# 目标: hbo
 DOMAIN-SUFFIX,hboarchives.com
+# 目标: hbo
 DOMAIN-SUFFIX,hboasia.com
+# 目标: hbo
 DOMAIN-SUFFIX,hboasia1-i.akamaihd.net
+# 目标: hbo
 DOMAIN-SUFFIX,hboasia2-i.akamaihd.net
+# 目标: hbo
 DOMAIN-SUFFIX,hboasia3-i.akamaihd.net
+# 目标: hbo
 DOMAIN-SUFFIX,hboasia4-i.akamaihd.net
+# 目标: hbo
 DOMAIN-SUFFIX,hboasia5-i.akamaihd.net
+# 目标: hbo
 DOMAIN-SUFFIX,hboasialive.akamaized.net
+# 目标: hbo
 DOMAIN-SUFFIX,hboenterprises.com
+# 目标: hbo
 DOMAIN-SUFFIX,hboespana.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbogeo.cust.footprint.net
+# 目标: hbo
 DOMAIN-SUFFIX,hbogo.co.th
+# 目标: hbo
 DOMAIN-SUFFIX,hbogo.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbogo.cz
+# 目标: hbo
 DOMAIN-SUFFIX,hbogo.eu
+# 目标: hbo
 DOMAIN-SUFFIX,hbogo.hu
+# 目标: hbo
 DOMAIN-SUFFIX,hbogo.sk
+# 目标: hbo
 DOMAIN-SUFFIX,hbogoasia.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbogoasia.hk
+# 目标: hbo
 DOMAIN-SUFFIX,hbogoasia.id
+# 目标: hbo
 DOMAIN-SUFFIX,hbogoasia.my
+# 目标: hbo
 DOMAIN-SUFFIX,hbogoasia.ph
+# 目标: hbo
 DOMAIN-SUFFIX,hbogoasia.sg
+# 目标: hbo
 DOMAIN-SUFFIX,hbogoasia.tw
+# 目标: hbo
 DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net
+# 目标: hbo
 DOMAIN-SUFFIX,hboinflight.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbolacontent.net
+# 目标: hbo
 DOMAIN-SUFFIX,hbolaunchpad.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbolb.onwardsmg.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbomailman.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbomax.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbomax.eu
+# 目标: hbo
 DOMAIN-SUFFIX,hbomaxcdn.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+# 目标: hbo
 DOMAIN-SUFFIX,hbomediarelations.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbonordic.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbonordic.tv
+# 目标: hbo
 DOMAIN-SUFFIX,hbonow.com
+# 目标: hbo
 DOMAIN-SUFFIX,hboportugal.com
+# 目标: hbo
 DOMAIN-SUFFIX,hboprod.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbospain.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbotvsales.com
+# 目标: hbo
 DOMAIN-SUFFIX,hbounify-prod.evergent.com
+# 目标: hbo
 DOMAIN-SUFFIX,homebox.com
+# 目标: hbo
 DOMAIN-SUFFIX,homeboxoffice.com
+# 目标: hbo
 DOMAIN-SUFFIX,manifest.prod.boltdns.net
+# 目标: hbo
 DOMAIN-SUFFIX,max.com
+# 目标: hbo
 DOMAIN-SUFFIX,maxgo.com
+# 目标: hbo
 DOMAIN-SUFFIX,now-ashare.com
+# 目标: hbo
 DOMAIN-SUFFIX,now-tv.com
+# 目标: hbo
 DOMAIN-SUFFIX,now.com
+# 目标: hbo
 DOMAIN-SUFFIX,now.com.hk
+# 目标: hbo
 DOMAIN-SUFFIX,nowe.com
+# 目标: hbo
 DOMAIN-SUFFIX,nowe.hk
+# 目标: hbo
 DOMAIN-SUFFIX,players.brightcove.net
+# 目标: hbo
 DOMAIN-SUFFIX,redbyhbo.com
+# 目标: hbo
 DOMAIN-SUFFIX,warnermediacdn.com
+# 目标: hbo
 DOMAIN-SUFFIX,youboranqs01.com
+# 目标: hbo
 PROCESS-NAME,com.hbo.hbonow

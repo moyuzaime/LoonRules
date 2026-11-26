@@ -1,28 +1,53 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Oracle/Oracle.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Oracle/Oracle.list
 # 规则数: 25
+# 目标: Oracle
 DOMAIN-SUFFIX,a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com
+# 目标: Oracle
 DOMAIN-SUFFIX,addthis.com
+# 目标: Oracle
 DOMAIN-SUFFIX,addthis.com.edgekey.net
+# 目标: Oracle
 DOMAIN-SUFFIX,addthiscdn.com
+# 目标: Oracle
 DOMAIN-SUFFIX,addthisedge.com
+# 目标: Oracle
 DOMAIN-SUFFIX,ateam-oracle.com
+# 目标: Oracle
 DOMAIN-SUFFIX,bluekai.com
+# 目标: Oracle
 DOMAIN-SUFFIX,bronto.com
+# 目标: Oracle
 DOMAIN-SUFFIX,covid19-rx.org
+# 目标: Oracle
 DOMAIN-SUFFIX,covid19rx.org
+# 目标: Oracle
 DOMAIN-SUFFIX,eloqua.com
+# 目标: Oracle
 DOMAIN-SUFFIX,eloquaeditors.com
+# 目标: Oracle
 DOMAIN-SUFFIX,eloquapreview.com
+# 目标: Oracle
 DOMAIN-SUFFIX,en25.com
+# 目标: Oracle
 DOMAIN-SUFFIX,java
+# 目标: Oracle
 DOMAIN-SUFFIX,java.com
+# 目标: Oracle
 DOMAIN-SUFFIX,java.net
+# 目标: Oracle
 DOMAIN-SUFFIX,oracle
+# 目标: Oracle
 DOMAIN-SUFFIX,oracle.com
+# 目标: Oracle
 DOMAIN-SUFFIX,oraclecloud.com
+# 目标: Oracle
 DOMAIN-SUFFIX,oraclefoundation.org
+# 目标: Oracle
 DOMAIN-SUFFIX,oracleimg.com
+# 目标: Oracle
 DOMAIN-SUFFIX,oracleinfinity.io
+# 目标: Oracle
 DOMAIN-SUFFIX,responsys.net
+# 目标: Oracle
 DOMAIN-SUFFIX,sun.com

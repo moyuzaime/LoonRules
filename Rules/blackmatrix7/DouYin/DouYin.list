@@ -1,16 +1,30 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DouYin/DouYin.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DouYin/DouYin.list
+# 说明: 抖音
 # 规则数: 13
+# 目标: DouYin
 DOMAIN,lf3-static.bytednsdoc.com
+# 目标: DouYin
 DOMAIN,v5-dy-o-abtest.zjcdn.com
+# 目标: DouYin
 DOMAIN-SUFFIX,amemv.com
+# 目标: DouYin
 DOMAIN-SUFFIX,douyincdn.com
+# 目标: DouYin
 DOMAIN-SUFFIX,douyinpic.com
+# 目标: DouYin
 DOMAIN-SUFFIX,douyinstatic.com
+# 目标: DouYin
 DOMAIN-SUFFIX,douyinvod.com
+# 目标: DouYin
 DOMAIN-SUFFIX,idouyinvod.com
+# 目标: DouYin
 DOMAIN-SUFFIX,ixigua.com
+# 目标: DouYin
 DOMAIN-SUFFIX,ixiguavideo.com
+# 目标: DouYin
 DOMAIN-SUFFIX,pstatp.com
+# 目标: DouYin
 DOMAIN-SUFFIX,snssdk.com
+# 目标: DouYin
 DOMAIN-SUFFIX,toutiao.com

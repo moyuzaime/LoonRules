@@ -1,260 +1,517 @@
 # 统一规则库 | 分类: Fox
 # 合并来源: blackmatrix7/ios_rule_script Fox
 # 规则数: 257
+# 目标: Fox
 DOMAIN-SUFFIX,afewmomentswith.com
+# 目标: Fox
 DOMAIN-SUFFIX,anidom.com
+# 目标: Fox
 DOMAIN-SUFFIX,bentobox.tv
+# 目标: Fox
 DOMAIN-SUFFIX,casoneexchange.com
+# 目标: Fox
 DOMAIN-SUFFIX,cdn-fox-networks-group-green.akamaized.net
+# 目标: Fox
 DOMAIN-SUFFIX,coronavirusnow.com
+# 目标: Fox
 DOMAIN-SUFFIX,d3cv4a9a9wh0bt.cloudfront.net
+# 目标: Fox
 DOMAIN-SUFFIX,dashasiafox.akamaized.net
+# 目标: Fox
 DOMAIN-SUFFIX,fox
+# 目标: Fox
 DOMAIN-SUFFIX,fox-corporation.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox-news.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox.tv
+# 目标: Fox
 DOMAIN-SUFFIX,fox10.tv
+# 目标: Fox
 DOMAIN-SUFFIX,fox10news.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox10phoenix.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox11.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox13memphis.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox13news.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox23.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox23maine.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox247.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox247.tv
+# 目标: Fox
 DOMAIN-SUFFIX,fox26.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox26houston.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox28media.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox29.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox2detroit.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox2news.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox32.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox32chicago.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox35orlando.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox38corpuschristi.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox42kptm.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox46.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox46charlotte.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox47.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox49.tv
+# 目标: Fox
 DOMAIN-SUFFIX,fox4news.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox51tns.net
+# 目标: Fox
 DOMAIN-SUFFIX,fox5atlanta.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox5dc.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox5ny.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox5storm.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox6now.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox7.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox7austin.com
+# 目标: Fox
 DOMAIN-SUFFIX,fox9.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxacrossamerica.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxaffiliateportal.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxandfriends.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxbet.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxbroadcasting.zendesk.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxbusiness.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxbusiness.tv
+# 目标: Fox
 DOMAIN-SUFFIX,foxbusinessgo.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxcanvasroom.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxcareers.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxcharlotte.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxcincy.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxcincy.jobs
+# 目标: Fox
 DOMAIN-SUFFIX,foxcincy.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxcollegesports.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxcorporation.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxcreativeuniversity.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxcredit.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxcredit.org
+# 目标: Fox
 DOMAIN-SUFFIX,foxd.tv
+# 目标: Fox
 DOMAIN-SUFFIX,foxdcg.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxdeportes.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxdeportes.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxdeportes.tv
+# 目标: Fox
 DOMAIN-SUFFIX,foxdigitalmovies.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxdoua.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxentertainment.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxest.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxfaq.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxfdm.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxfiles.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxinc.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxkansas.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxla.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxla.tv
+# 目标: Fox
 DOMAIN-SUFFIX,foxlexington.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxmediacloud.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnation.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnebraska.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxneo.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxneodigital.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnetworks.info
+# 目标: Fox
 DOMAIN-SUFFIX,foxnetworksinfo.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnews.cc
+# 目标: Fox
 DOMAIN-SUFFIX,foxnews.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnews.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxnews.org
+# 目标: Fox
 DOMAIN-SUFFIX,foxnews.tv
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsaffiliates.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsaroundtheworld.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsb2b.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewschannel.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsgo.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsgo.org
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsgo.tv
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewshealth.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewslatino.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsmagazine.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsnetwork.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsopinion.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsplayer-a.akamaihd.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewspodcasts.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewspolitics.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsradio.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewsrundown.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnewssunday.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxnow.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxon.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxphiladelphia.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxplay.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxplus.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxpoker.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxrad.io
+# 目标: Fox
 DOMAIN-SUFFIX,foxredeem.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxrelease.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxrichmond.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxrobots.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsmallbusinesscenter.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsmallbusinesscenter.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxsmallbusinesscenter.org
+# 目标: Fox
 DOMAIN-SUFFIX,foxsoccer.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxsoccer.tv
+# 目标: Fox
 DOMAIN-SUFFIX,foxsoccermatchpass.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsoccerplus.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsoccerplus.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxsoccerplus.tv
+# 目标: Fox
 DOMAIN-SUFFIX,foxsoccershop.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports-chicago.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports-newyork.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports-world.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.cl
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.co
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.co.ve
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.ar
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.bo
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.br
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.co
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.ec
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.gt
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.mx
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.pe
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.py
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.uy
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.com.ve
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.gt
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.info
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.net.br
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.pe
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.sv
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports.uy
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports01-i.akamaihd.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports02-i.akamaihd.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports03-i.akamaihd.net
+# 目标: Fox
 DOMAIN-SUFFIX,foxsports2.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsportsflorida.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsportsgo.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsportsla.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsportsnetmilwaukee.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsportsneworleans.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsportsracing.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsportssupports.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsportsuniversity.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsportsworld.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxstudiolot.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxsuper6.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxtel.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxtel.com.au
+# 目标: Fox
 DOMAIN-SUFFIX,foxtelevisionstations.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxtv.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxtvdvd.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxuv.com
+# 目标: Fox
 DOMAIN-SUFFIX,foxweatherwatch.com
+# 目标: Fox
 DOMAIN-SUFFIX,fse.tv
+# 目标: Fox
 DOMAIN-SUFFIX,fssta.com
+# 目标: Fox
 DOMAIN-SUFFIX,fxn.ws
+# 目标: Fox
 DOMAIN-SUFFIX,fxnetwork.com
+# 目标: Fox
 DOMAIN-SUFFIX,fxnetworks.com
+# 目标: Fox
 DOMAIN-SUFFIX,geraldoatlarge.com
+# 目标: Fox
 DOMAIN-SUFFIX,gooddaychicago.com
+# 目标: Fox
 DOMAIN-SUFFIX,joeswall.com
+# 目标: Fox
 DOMAIN-SUFFIX,kicu.tv
+# 目标: Fox
 DOMAIN-SUFFIX,kilmeadeandfriends.com
+# 目标: Fox
 DOMAIN-SUFFIX,ktvu.com
+# 目标: Fox
 DOMAIN-SUFFIX,maskedsingerfox.com
+# 目标: Fox
 DOMAIN-SUFFIX,my13la.com
+# 目标: Fox
 DOMAIN-SUFFIX,my20dc.com
+# 目标: Fox
 DOMAIN-SUFFIX,my20houston.com
+# 目标: Fox
 DOMAIN-SUFFIX,my29tv.com
+# 目标: Fox
 DOMAIN-SUFFIX,my45.com
+# 目标: Fox
 DOMAIN-SUFFIX,my9nj.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxatlanta.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxaustin.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxboston.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxcharlotte.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxchicago.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxdc.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxdetroit.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxdfw.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxhouston.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxhurricane.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxla.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxlosangeles.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxlubbock.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxmaine.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxny.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxorlando.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxphilly.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxphoenix.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxsanfran.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxtampa.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxtampabay.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxtwincities.com
+# 目标: Fox
 DOMAIN-SUFFIX,myfoxzone.com
+# 目标: Fox
 DOMAIN-SUFFIX,myq2.com
+# 目标: Fox
 DOMAIN-SUFFIX,newsnowfox.com
+# 目标: Fox
 DOMAIN-SUFFIX,now.com
+# 目标: Fox
 DOMAIN-SUFFIX,orlandohurricane.com
+# 目标: Fox
 DOMAIN-SUFFIX,paradisehotelquizfox.com
+# 目标: Fox
 DOMAIN-SUFFIX,q13.com
+# 目标: Fox
 DOMAIN-SUFFIX,q13fox.com
+# 目标: Fox
 DOMAIN-SUFFIX,realamericanstories.com
+# 目标: Fox
 DOMAIN-SUFFIX,realamericanstories.info
+# 目标: Fox
 DOMAIN-SUFFIX,realamericanstories.net
+# 目标: Fox
 DOMAIN-SUFFIX,realamericanstories.org
+# 目标: Fox
 DOMAIN-SUFFIX,realamericanstories.tv
+# 目标: Fox
 DOMAIN-SUFFIX,realmilwaukeenow.com
+# 目标: Fox
 DOMAIN-SUFFIX,rprimelab.com
+# 目标: Fox
 DOMAIN-SUFFIX,shopspeedtv.com
+# 目标: Fox
 DOMAIN-SUFFIX,soccermatchpass.com
+# 目标: Fox
 DOMAIN-SUFFIX,speeddreamride.com
+# 目标: Fox
 DOMAIN-SUFFIX,speedfantasybid.com
+# 目标: Fox
 DOMAIN-SUFFIX,speedracegear.com
+# 目标: Fox
 DOMAIN-SUFFIX,speedxtra.com
+# 目标: Fox
 DOMAIN-SUFFIX,staticasiafox.akamaized.net
+# 目标: Fox
 DOMAIN-SUFFIX,teenchoice.com
+# 目标: Fox
 DOMAIN-SUFFIX,testonfox.com
+# 目标: Fox
 DOMAIN-SUFFIX,theclasshroom.com
+# 目标: Fox
 DOMAIN-SUFFIX,thefoxnation.com
+# 目标: Fox
 DOMAIN-SUFFIX,thegeorgiascene.com
+# 目标: Fox
 DOMAIN-SUFFIX,theplatform.com
+# 目标: Fox
 DOMAIN-SUFFIX,uplynk.com
+# 目标: Fox
 DOMAIN-SUFFIX,whatthefox.com
+# 目标: Fox
 DOMAIN-SUFFIX,whosthehost.com
+# 目标: Fox
 DOMAIN-SUFFIX,wofl.tv
+# 目标: Fox
 DOMAIN-SUFFIX,woflthenewsstation.com
+# 目标: Fox
 DOMAIN-SUFFIX,wogx.com
+# 目标: Fox
 USER-AGENT,FOX%20NOW*

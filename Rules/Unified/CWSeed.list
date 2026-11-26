@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: CWSeed
 # 合并来源: blackmatrix7/ios_rule_script CWSeed
 # 规则数: 5
+# 目标: CWSeed
 DOMAIN,cwtv-amd-akamai.akamaized.net
+# 目标: CWSeed
 DOMAIN,edge.cwtv-vod-ext.top.comcast.net
+# 目标: CWSeed
 DOMAIN-SUFFIX,cwseed.com
+# 目标: CWSeed
 DOMAIN-SUFFIX,cwtv.com
+# 目标: CWSeed
 DOMAIN-SUFFIX,thecwvideo.com

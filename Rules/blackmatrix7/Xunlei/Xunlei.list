@@ -1,34 +1,66 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Xunlei/Xunlei.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Xunlei/Xunlei.list
+# 说明: 迅雷
 # 规则数: 31
+# 目标: Xunlei
 DOMAIN-SUFFIX,00cdn.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,155.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,2sonar.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,88cdn.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,8uri.cn
+# 目标: Xunlei
 DOMAIN-SUFFIX,falconalliance.cn
+# 目标: Xunlei
 DOMAIN-SUFFIX,fontong.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,geilijiasu.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,geilijiasu.net
+# 目标: Xunlei
 DOMAIN-SUFFIX,gigaget.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,kanimg.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,kankan.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,kuaipan.cn
+# 目标: Xunlei
 DOMAIN-SUFFIX,n0808.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,neoimaging.cn
+# 目标: Xunlei
 DOMAIN-SUFFIX,newvr.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,p2cdn.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,sandai.net
+# 目标: Xunlei
 DOMAIN-SUFFIX,sjzhushou.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,szxlxzb.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,thundercdn.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,thunderurl.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,xbase.cloud
+# 目标: Xunlei
 DOMAIN-SUFFIX,xbase.xyz
+# 目标: Xunlei
 DOMAIN-SUFFIX,xcloudbase.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,xlisp.net
+# 目标: Xunlei
 DOMAIN-SUFFIX,xlpan.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,xlyouxi.net
+# 目标: Xunlei
 DOMAIN-SUFFIX,xunlei.cn
+# 目标: Xunlei
 DOMAIN-SUFFIX,xunlei.com
+# 目标: Xunlei
 DOMAIN-SUFFIX,xunlei.net

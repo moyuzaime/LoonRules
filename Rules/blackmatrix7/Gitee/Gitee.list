@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Gitee/Gitee.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gitee/Gitee.list
 # 规则数: 2
+# 目标: Gitee
 DOMAIN-SUFFIX,gitee.com
+# 目标: Gitee
 DOMAIN-SUFFIX,gitee.io

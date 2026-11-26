@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Aerogard
 # 合并来源: blackmatrix7/ios_rule_script Aerogard
 # 规则数: 3
+# 目标: Aerogard
 DOMAIN-SUFFIX,aerogard.com.au
+# 目标: Aerogard
 DOMAIN-SUFFIX,aerogard.com.cn
+# 目标: Aerogard
 DOMAIN-SUFFIX,aerogardcn.com

@@ -1,13 +1,23 @@
 # 统一规则库 | 分类: ParamountPlus
 # 合并来源: blackmatrix7/ios_rule_script ParamountPlus
 # 规则数: 10
+# 目标: ParamountPlus
 DOMAIN,cbsi.live.ott.irdeto.com
+# 目标: ParamountPlus
 DOMAIN,cbsplaylistserver.aws.syncbak.com
+# 目标: ParamountPlus
 DOMAIN,cbsservice.aws.syncbak.com
+# 目标: ParamountPlus
 DOMAIN,link.theplatform.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,cbsaavideo.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,cbsi.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,cbsivideo.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,paramountplus.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,pplusstatic.com
+# 目标: ParamountPlus
 USER-AGENT,PPlus*

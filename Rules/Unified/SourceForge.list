@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: SourceForge
 # 合并来源: blackmatrix7/ios_rule_script SourceForge
 # 规则数: 4
+# 目标: SourceForge
 DOMAIN-SUFFIX,fsdn.com
+# 目标: SourceForge
 DOMAIN-SUFFIX,sf.net
+# 目标: SourceForge
 DOMAIN-SUFFIX,sourceforge.com
+# 目标: SourceForge
 DOMAIN-SUFFIX,sourceforge.net

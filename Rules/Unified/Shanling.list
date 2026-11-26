@@ -1,5 +1,8 @@
 # 统一规则库 | 分类: Shanling
 # 合并来源: blackmatrix7/ios_rule_script Shanling
+# 说明: 山灵音响
 # 规则数: 2
+# 目标: Shanling
 DOMAIN-SUFFIX,onixhiend.com
+# 目标: Shanling
 DOMAIN-SUFFIX,shanling.com

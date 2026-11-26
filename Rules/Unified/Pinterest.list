@@ -1,26 +1,49 @@
 # 统一规则库 | 分类: Pinterest
 # 合并来源: blackmatrix7/ios_rule_script Pinterest
 # 规则数: 23
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinimg.com
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.at
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.ca
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.ch
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.cl
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.co.kr
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.co.uk
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.com
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.com.au
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.com.mx
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.de
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.dk
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.es
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.fr
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.ie
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.it
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.jp
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.nl
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.nz
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.ph
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.pt
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.ru
+# 目标: Pinterest
 DOMAIN-SUFFIX,pinterest.se

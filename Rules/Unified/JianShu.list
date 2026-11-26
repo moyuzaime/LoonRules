@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: JianShu
 # 合并来源: blackmatrix7/ios_rule_script JianShu
+# 说明: 简书
 # 规则数: 5
+# 目标: JianShu
 DOMAIN-SUFFIX,baijii.com
+# 目标: JianShu
 DOMAIN-SUFFIX,jianshu.com
+# 目标: JianShu
 DOMAIN-SUFFIX,jianshu.io
+# 目标: JianShu
 DOMAIN-SUFFIX,jianshuapi.com
+# 目标: JianShu
 DOMAIN-SUFFIX,shengmingfa.com

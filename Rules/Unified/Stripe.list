@@ -1,4 +1,5 @@
 # 统一规则库 | 分类: Stripe
 # 合并来源: blackmatrix7/ios_rule_script Stripe
 # 规则数: 1
+# 目标: Stripe
 DOMAIN-KEYWORD,stripe

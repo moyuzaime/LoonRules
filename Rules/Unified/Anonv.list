@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Anonv
 # 合并来源: blackmatrix7/ios_rule_script Anonv
 # 规则数: 2
+# 目标: Anonv
 DOMAIN-SUFFIX,anon-v.com
+# 目标: Anonv
 DOMAIN-SUFFIX,anon-v.lol

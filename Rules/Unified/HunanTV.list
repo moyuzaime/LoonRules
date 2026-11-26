@@ -1,11 +1,20 @@
 # 统一规则库 | 分类: HunanTV
 # 合并来源: blackmatrix7/ios_rule_script HunanTV
+# 说明: 湖南TV
 # 规则数: 8
+# 目标: HunanTV
 DOMAIN-SUFFIX,hifuntv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,hitv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,hunaniptv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,hunantv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,imgo.tv
+# 目标: HunanTV
 DOMAIN-SUFFIX,mgtv.com
+# 目标: HunanTV
 DOMAIN-SUFFIX,tazai.com
+# 目标: HunanTV
 USER-AGENT,MGTV*

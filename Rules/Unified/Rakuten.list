@@ -1,21 +1,39 @@
 # 统一规则库 | 分类: Rakuten
 # 合并来源: blackmatrix7/ios_rule_script Rakuten
 # 规则数: 18
+# 目标: Rakuten
 DOMAIN-SUFFIX,ebates.com
+# 目标: Rakuten
 DOMAIN-SUFFIX,infoseek.co.jp
+# 目标: Rakuten
 DOMAIN-SUFFIX,o50.jp
+# 目标: Rakuten
 DOMAIN-SUFFIX,r10.to
+# 目标: Rakuten
 DOMAIN-SUFFIX,r10s.com
+# 目标: Rakuten
 DOMAIN-SUFFIX,r10s.jp
+# 目标: Rakuten
 DOMAIN-SUFFIX,rakuten-static.com
+# 目标: Rakuten
 DOMAIN-SUFFIX,rakuten.ca
+# 目标: Rakuten
 DOMAIN-SUFFIX,rakuten.co.jp
+# 目标: Rakuten
 DOMAIN-SUFFIX,rakuten.com
+# 目标: Rakuten
 DOMAIN-SUFFIX,rakuten.com.tw
+# 目标: Rakuten
 DOMAIN-SUFFIX,rakuten.ne.jp
+# 目标: Rakuten
 DOMAIN-SUFFIX,rakuten.tw
+# 目标: Rakuten
 DOMAIN-SUFFIX,rclon.com
+# 目标: Rakuten
 DOMAIN-SUFFIX,rebates.jp
+# 目标: Rakuten
 DOMAIN-SUFFIX,showtime.co.jp
+# 目标: Rakuten
 DOMAIN-SUFFIX,viber.co.jp
+# 目标: Rakuten
 DOMAIN-SUFFIX,viber.com

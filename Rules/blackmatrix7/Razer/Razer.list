@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Razer/Razer.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Razer/Razer.list
 # 规则数: 2
+# 目标: Razer
 DOMAIN-SUFFIX,razer.com
+# 目标: Razer
 DOMAIN-SUFFIX,razerzone.com

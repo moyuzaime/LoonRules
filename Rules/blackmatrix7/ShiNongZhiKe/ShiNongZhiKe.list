@@ -1,6 +1,10 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ShiNongZhiKe/ShiNongZhiKe.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ShiNongZhiKe/ShiNongZhiKe.list
+# 说明: 识农智能科技
 # 规则数: 3
+# 目标: ShiNongZhiKe
 DOMAIN-SUFFIX,senseagro.cn
+# 目标: ShiNongZhiKe
 DOMAIN-SUFFIX,senseagro.com
+# 目标: ShiNongZhiKe
 DOMAIN-SUFFIX,senseagro.com.cn

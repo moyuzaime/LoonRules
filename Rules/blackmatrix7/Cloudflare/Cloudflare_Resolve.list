@@ -1,68 +1,133 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Cloudflare/Cloudflare_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloudflare/Cloudflare_Resolve.list
 # 规则数: 65
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cf-ipfs.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cf-ns.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cf-ns.net
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cf-ns.site
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cf-ns.tech
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cftest5.cn
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cftest6.cn
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cftest7.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cftest8.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflare-cn.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflare-dns.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflare-ipfs.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflare-quic.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflare.net
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflare.tv
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflareaccess.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflareapps.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflarebolt.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflareclient.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflarecn.net
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflareinsights.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflareok.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflarepreview.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflareprod.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflareresolve.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflaressl.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflarestaging.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflarestatus.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflarestorage.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflarestoragegw.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflarestream.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflaretest.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,cloudflarewarp.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,every1dns.net
+# 目标: Cloudflare
 DOMAIN-SUFFIX,one.one.one
+# 目标: Cloudflare
 DOMAIN-SUFFIX,pacloudflare.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,pages.dev
+# 目标: Cloudflare
 DOMAIN-SUFFIX,trycloudflare.com
+# 目标: Cloudflare
 DOMAIN-SUFFIX,videodelivery.net
+# 目标: Cloudflare
 DOMAIN-SUFFIX,warp.plus
+# 目标: Cloudflare
 DOMAIN-SUFFIX,workers.dev
+# 目标: Cloudflare
 IP-CIDR,103.21.244.0/22
+# 目标: Cloudflare
 IP-CIDR,103.22.200.0/22
+# 目标: Cloudflare
 IP-CIDR,103.31.4.0/22
+# 目标: Cloudflare
 IP-CIDR,104.16.0.0/13
+# 目标: Cloudflare
 IP-CIDR,104.24.0.0/14
+# 目标: Cloudflare
 IP-CIDR,108.162.192.0/18
+# 目标: Cloudflare
 IP-CIDR,131.0.72.0/22
+# 目标: Cloudflare
 IP-CIDR,141.101.64.0/18
+# 目标: Cloudflare
 IP-CIDR,162.158.0.0/15
+# 目标: Cloudflare
 IP-CIDR,172.64.0.0/13
+# 目标: Cloudflare
 IP-CIDR,173.245.48.0/20
+# 目标: Cloudflare
 IP-CIDR,188.114.96.0/20
+# 目标: Cloudflare
 IP-CIDR,190.93.240.0/20
+# 目标: Cloudflare
 IP-CIDR,197.234.240.0/22
+# 目标: Cloudflare
 IP-CIDR,198.41.128.0/17
+# 目标: Cloudflare
 IP-CIDR6,2400:cb00::/32
+# 目标: Cloudflare
 IP-CIDR6,2405:8100::/32
+# 目标: Cloudflare
 IP-CIDR6,2405:b500::/32
+# 目标: Cloudflare
 IP-CIDR6,2606:4700::/32
+# 目标: Cloudflare
 IP-CIDR6,2803:f800::/32
+# 目标: Cloudflare
 IP-CIDR6,2a06:98c0::/29
+# 目标: Cloudflare
 IP-CIDR6,2c0f:f248::/32

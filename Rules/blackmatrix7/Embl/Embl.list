@@ -1,10 +1,17 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Embl/Embl.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Embl/Embl.list
 # 规则数: 7
+# 目标: Embl
 DOMAIN-SUFFIX,ebi.ac.uk
+# 目标: Embl
 DOMAIN-SUFFIX,embl-hamburg.de
+# 目标: Embl
 DOMAIN-SUFFIX,embl.de
+# 目标: Embl
 DOMAIN-SUFFIX,embl.fr
+# 目标: Embl
 DOMAIN-SUFFIX,embl.it
+# 目标: Embl
 DOMAIN-SUFFIX,embl.org
+# 目标: Embl
 DOMAIN-SUFFIX,emblstatic.net

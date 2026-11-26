@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Npmjs/Npmjs.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Npmjs/Npmjs.list
 # 规则数: 3
+# 目标: Npmjs
 DOMAIN-SUFFIX,npm.community
+# 目标: Npmjs
 DOMAIN-SUFFIX,npmjs.com
+# 目标: Npmjs
 DOMAIN-SUFFIX,npmjs.org

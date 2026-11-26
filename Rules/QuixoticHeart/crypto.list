@@ -1,424 +1,845 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/crypto.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/crypto.list
 # 规则数: 421
+# 目标: crypto
 DOMAIN,bybit-exchange.github.io
+# 目标: crypto
 DOMAIN,bybit.ada.support
+# 目标: crypto
 DOMAIN,d3r7nsslvs6aaf.cloudfront.net
+# 目标: crypto
 DOMAIN,deribit.cdn.prismic.io
+# 目标: crypto
 DOMAIN,onekey.zendesk.com
+# 目标: crypto
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+# 目标: crypto
 DOMAIN,token-api.metaswap.codefi.network
+# 目标: crypto
 DOMAIN,zftksc.cdn-settings.appsflyersdk.com
+# 目标: crypto
 DOMAIN,zftksc.launches.appsflyersdk.com
+# 目标: crypto
 DOMAIN-SUFFIX,1inch.io
+# 目标: crypto
 DOMAIN-SUFFIX,1ml.com
+# 目标: crypto
 DOMAIN-SUFFIX,365huo.xyz
+# 目标: crypto
 DOMAIN-SUFFIX,aave.com
+# 目标: crypto
 DOMAIN-SUFFIX,acinq.co
+# 目标: crypto
 DOMAIN-SUFFIX,aex.com
+# 目标: crypto
 DOMAIN-SUFFIX,aicoin.com
+# 目标: crypto
 DOMAIN-SUFFIX,aimoon.com
+# 目标: crypto
 DOMAIN-SUFFIX,altcoinsbox.com
+# 目标: crypto
 DOMAIN-SUFFIX,apy999.com
+# 目标: crypto
 DOMAIN-SUFFIX,arbitrum.io
+# 目标: crypto
 DOMAIN-SUFFIX,asproex.com
+# 目标: crypto
 DOMAIN-SUFFIX,asproexapi.com
+# 目标: crypto
 DOMAIN-SUFFIX,avax.network
+# 目标: crypto
 DOMAIN-SUFFIX,base.org
+# 目标: crypto
 DOMAIN-SUFFIX,bb-os.com
+# 目标: crypto
 DOMAIN-SUFFIX,bestchange.com
+# 目标: crypto
 DOMAIN-SUFFIX,bestchange.net
+# 目标: crypto
 DOMAIN-SUFFIX,bestchange.ru
+# 目标: crypto
 DOMAIN-SUFFIX,bibox.com
+# 目标: crypto
 DOMAIN-SUFFIX,biconomy.com
+# 目标: crypto
 DOMAIN-SUFFIX,binance.cc
+# 目标: crypto
 DOMAIN-SUFFIX,binance.charity
+# 目标: crypto
 DOMAIN-SUFFIX,binance.cloud
+# 目标: crypto
 DOMAIN-SUFFIX,binance.co
+# 目标: crypto
 DOMAIN-SUFFIX,binance.com
+# 目标: crypto
 DOMAIN-SUFFIX,binance.im
+# 目标: crypto
 DOMAIN-SUFFIX,binance.info
+# 目标: crypto
 DOMAIN-SUFFIX,binance.me
+# 目标: crypto
 DOMAIN-SUFFIX,binance.net
+# 目标: crypto
 DOMAIN-SUFFIX,binance.org
+# 目标: crypto
 DOMAIN-SUFFIX,binance.us
+# 目标: crypto
 DOMAIN-SUFFIX,binance.vision
+# 目标: crypto
 DOMAIN-SUFFIX,binanceapi.com
+# 目标: crypto
 DOMAIN-SUFFIX,binancecnt.com
+# 目标: crypto
 DOMAIN-SUFFIX,binanceru.net
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.be
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.biz
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.cc
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.co
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.com
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.info
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.ink
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.kim
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.link
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.live
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.mobi
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.net
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.pro
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.sh
+# 目标: crypto
 DOMAIN-SUFFIX,binancezh.top
+# 目标: crypto
 DOMAIN-SUFFIX,bingx.com
+# 目标: crypto
 DOMAIN-SUFFIX,bisq.io
+# 目标: crypto
 DOMAIN-SUFFIX,bisq.network
+# 目标: crypto
 DOMAIN-SUFFIX,bitbank.cc
+# 目标: crypto
 DOMAIN-SUFFIX,bitcoin.it
+# 目标: crypto
 DOMAIN-SUFFIX,bitcoin.org
+# 目标: crypto
 DOMAIN-SUFFIX,bitcoincore.org
+# 目标: crypto
 DOMAIN-SUFFIX,bitcoinity.org
+# 目标: crypto
 DOMAIN-SUFFIX,bitcoinmagazine.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitcointalk.org
+# 目标: crypto
 DOMAIN-SUFFIX,bitcoinvisuals.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitderiv.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitfinex.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitflyer.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitflyer.jp
+# 目标: crypto
 DOMAIN-SUFFIX,bitget.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitget.fit
+# 目标: crypto
 DOMAIN-SUFFIX,bitgetapp.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitgetapps.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitgetimg.com
+# 目标: crypto
 DOMAIN-SUFFIX,bithumb.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitlayer.org
+# 目标: crypto
 DOMAIN-SUFFIX,bitmart.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitmex.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitnodes.earn.com
+# 目标: crypto
 DOMAIN-SUFFIX,bitquick.co
+# 目标: crypto
 DOMAIN-SUFFIX,bitsquare.io
+# 目标: crypto
 DOMAIN-SUFFIX,bitstamp.net
+# 目标: crypto
 DOMAIN-SUFFIX,bittrex.com
+# 目标: crypto
 DOMAIN-SUFFIX,blast.io
+# 目标: crypto
 DOMAIN-SUFFIX,block.one
+# 目标: crypto
 DOMAIN-SUFFIX,blockchain.com
+# 目标: crypto
 DOMAIN-SUFFIX,blockchair.com
+# 目标: crypto
 DOMAIN-SUFFIX,blockchair.net
+# 目标: crypto
 DOMAIN-SUFFIX,blockfrost.io
+# 目标: crypto
 DOMAIN-SUFFIX,bloks.io
+# 目标: crypto
 DOMAIN-SUFFIX,bmwweb.solutions
+# 目标: crypto
 DOMAIN-SUFFIX,bnappweb.academy
+# 目标: crypto
 DOMAIN-SUFFIX,bnappweb.black
+# 目标: crypto
 DOMAIN-SUFFIX,bnappzh.co
+# 目标: crypto
 DOMAIN-SUFFIX,bnappzh.com
+# 目标: crypto
 DOMAIN-SUFFIX,bnappzh.mobi
+# 目标: crypto
 DOMAIN-SUFFIX,bnbchain.org
+# 目标: crypto
 DOMAIN-SUFFIX,bnbstatic.com
+# 目标: crypto
 DOMAIN-SUFFIX,bntrace.com
+# 目标: crypto
 DOMAIN-SUFFIX,boba.network
+# 目标: crypto
 DOMAIN-SUFFIX,bsappapi.cc
+# 目标: crypto
 DOMAIN-SUFFIX,bsappapi.com
+# 目标: crypto
 DOMAIN-SUFFIX,bsc.getblock.io
+# 目标: crypto
 DOMAIN-SUFFIX,bscdnweb.com
+# 目标: crypto
 DOMAIN-SUFFIX,bscscan.com
+# 目标: crypto
 DOMAIN-SUFFIX,btc.com
+# 目标: crypto
 DOMAIN-SUFFIX,btcbox.co.jp
+# 目标: crypto
 DOMAIN-SUFFIX,byabcde.com
+# 目标: crypto
 DOMAIN-SUFFIX,byapis.com
+# 目标: crypto
 DOMAIN-SUFFIX,byapps.net
+# 目标: crypto
 DOMAIN-SUFFIX,bybdc6.com
+# 目标: crypto
 DOMAIN-SUFFIX,bybit-global.com
+# 目标: crypto
 DOMAIN-SUFFIX,bybit.biz
+# 目标: crypto
 DOMAIN-SUFFIX,bybit.cloud
+# 目标: crypto
 DOMAIN-SUFFIX,bybit.com
+# 目标: crypto
 DOMAIN-SUFFIX,bybitglobal.com
+# 目标: crypto
 DOMAIN-SUFFIX,bycbe.com
+# 目标: crypto
 DOMAIN-SUFFIX,bycsi.com
+# 目标: crypto
 DOMAIN-SUFFIX,byd3c3.com
+# 目标: crypto
 DOMAIN-SUFFIX,bymj.io
+# 目标: crypto
 DOMAIN-SUFFIX,bytetree.com
+# 目标: crypto
 DOMAIN-SUFFIX,bytick.com
+# 目标: crypto
 DOMAIN-SUFFIX,cbeci.org
+# 目标: crypto
 DOMAIN-SUFFIX,cex.io
+# 目标: crypto
 DOMAIN-SUFFIX,chainalysis.com
+# 目标: crypto
 DOMAIN-SUFFIX,chainbroker.io
+# 目标: crypto
 DOMAIN-SUFFIX,chainid.network
+# 目标: crypto
 DOMAIN-SUFFIX,chippay.com
+# 目标: crypto
 DOMAIN-SUFFIX,clearpool.finance
+# 目标: crypto
 DOMAIN-SUFFIX,cloudbet.com
+# 目标: crypto
 DOMAIN-SUFFIX,coin.dance
+# 目标: crypto
 DOMAIN-SUFFIX,coinalyze.net
+# 目标: crypto
 DOMAIN-SUFFIX,coinbase.com
+# 目标: crypto
 DOMAIN-SUFFIX,coincheck.com
+# 目标: crypto
 DOMAIN-SUFFIX,coincheckup.com
+# 目标: crypto
 DOMAIN-SUFFIX,coincodex.com
+# 目标: crypto
 DOMAIN-SUFFIX,coindesk.com
+# 目标: crypto
 DOMAIN-SUFFIX,coinex.com
+# 目标: crypto
 DOMAIN-SUFFIX,coingate.com
+# 目标: crypto
 DOMAIN-SUFFIX,coingecko.com
+# 目标: crypto
 DOMAIN-SUFFIX,coinglass.com
+# 目标: crypto
 DOMAIN-SUFFIX,coinmap.org
+# 目标: crypto
 DOMAIN-SUFFIX,coinmarketcap.com
+# 目标: crypto
 DOMAIN-SUFFIX,coinmetrics.io
+# 目标: crypto
 DOMAIN-SUFFIX,coinone.co.kr
+# 目标: crypto
 DOMAIN-SUFFIX,coinonecore.com
+# 目标: crypto
 DOMAIN-SUFFIX,coinonecorp.com
+# 目标: crypto
 DOMAIN-SUFFIX,coinowo.com
+# 目标: crypto
 DOMAIN-SUFFIX,cointrendz.com
+# 目标: crypto
 DOMAIN-SUFFIX,compound.finance
+# 目标: crypto
 DOMAIN-SUFFIX,coredao.org
+# 目标: crypto
 DOMAIN-SUFFIX,crunchbase.com
+# 目标: crypto
 DOMAIN-SUFFIX,crypto.com
+# 目标: crypto
 DOMAIN-SUFFIX,crypto51.app
+# 目标: crypto
 DOMAIN-SUFFIX,cryptoart.io
+# 目标: crypto
 DOMAIN-SUFFIX,cryptocompare.com
+# 目标: crypto
 DOMAIN-SUFFIX,cryptofees.info
+# 目标: crypto
 DOMAIN-SUFFIX,cryptoid.info
+# 目标: crypto
 DOMAIN-SUFFIX,cryptomus.com
+# 目标: crypto
 DOMAIN-SUFFIX,cryptoquant.com
+# 目标: crypto
 DOMAIN-SUFFIX,cryptorank.io
+# 目标: crypto
 DOMAIN-SUFFIX,cryptoslam.io
+# 目标: crypto
 DOMAIN-SUFFIX,curve.fi
+# 目标: crypto
 DOMAIN-SUFFIX,cyberx.com
+# 目标: crypto
 DOMAIN-SUFFIX,dapp.review
+# 目标: crypto
 DOMAIN-SUFFIX,dappradar.com
+# 目标: crypto
 DOMAIN-SUFFIX,dcabtc.com
+# 目标: crypto
 DOMAIN-SUFFIX,debank.com
+# 目标: crypto
 DOMAIN-SUFFIX,debot.ai
+# 目标: crypto
 DOMAIN-SUFFIX,defieye.io
+# 目标: crypto
 DOMAIN-SUFFIX,defillama.com
+# 目标: crypto
 DOMAIN-SUFFIX,defipulse.com
+# 目标: crypto
 DOMAIN-SUFFIX,defirate.com
+# 目标: crypto
 DOMAIN-SUFFIX,delets.cash
+# 目标: crypto
 DOMAIN-SUFFIX,delets.online
+# 目标: crypto
 DOMAIN-SUFFIX,deribit.com
+# 目标: crypto
 DOMAIN-SUFFIX,devcon.org
+# 目标: crypto
 DOMAIN-SUFFIX,dextools.io
+# 目标: crypto
 DOMAIN-SUFFIX,digiconomist.net
+# 目标: crypto
 DOMAIN-SUFFIX,docs.lotu.sh
+# 目标: crypto
 DOMAIN-SUFFIX,dogecoin.com
+# 目标: crypto
 DOMAIN-SUFFIX,dovemetrics.com
+# 目标: crypto
 DOMAIN-SUFFIX,dropsearn.com
+# 目标: crypto
 DOMAIN-SUFFIX,drpc.org
+# 目标: crypto
 DOMAIN-SUFFIX,dune.com
+# 目标: crypto
 DOMAIN-SUFFIX,duneanalytics.com
+# 目标: crypto
 DOMAIN-SUFFIX,dydx.exchange
+# 目标: crypto
 DOMAIN-SUFFIX,earni.fi
+# 目标: crypto
 DOMAIN-SUFFIX,eos.io
+# 目标: crypto
 DOMAIN-SUFFIX,eosflare.io
+# 目标: crypto
 DOMAIN-SUFFIX,eospark.com
+# 目标: crypto
 DOMAIN-SUFFIX,eostracker.io
+# 目标: crypto
 DOMAIN-SUFFIX,ethereum-magicians.org
+# 目标: crypto
 DOMAIN-SUFFIX,ethereum.cn
+# 目标: crypto
 DOMAIN-SUFFIX,ethereum.foundation
+# 目标: crypto
 DOMAIN-SUFFIX,ethereum.org
+# 目标: crypto
 DOMAIN-SUFFIX,ethereum.stackexchange.com
+# 目标: crypto
 DOMAIN-SUFFIX,ethermine.org
+# 目标: crypto
 DOMAIN-SUFFIX,ethernodes.org
+# 目标: crypto
 DOMAIN-SUFFIX,etherscan.com
+# 目标: crypto
 DOMAIN-SUFFIX,etherscan.io
+# 目标: crypto
 DOMAIN-SUFFIX,ethfans.org
+# 目标: crypto
 DOMAIN-SUFFIX,ethgasstation.info
+# 目标: crypto
 DOMAIN-SUFFIX,ewapool.net
+# 目标: crypto
 DOMAIN-SUFFIX,f2pool.com
+# 目标: crypto
 DOMAIN-SUFFIX,fantom.foundation
+# 目标: crypto
 DOMAIN-SUFFIX,fantom.network
+# 目标: crypto
 DOMAIN-SUFFIX,fiat24.com
+# 目标: crypto
 DOMAIN-SUFFIX,filecoin.io
+# 目标: crypto
 DOMAIN-SUFFIX,flare.network
+# 目标: crypto
 DOMAIN-SUFFIX,flashbots.net
+# 目标: crypto
 DOMAIN-SUFFIX,fragment.com
+# 目标: crypto
 DOMAIN-SUFFIX,ftx.com
+# 目标: crypto
 DOMAIN-SUFFIX,fundingrates.xyz
+# 目标: crypto
 DOMAIN-SUFFIX,gate.ac
+# 目标: crypto
 DOMAIN-SUFFIX,gate.com
+# 目标: crypto
 DOMAIN-SUFFIX,gate.io
+# 目标: crypto
 DOMAIN-SUFFIX,gate.tv
+# 目标: crypto
 DOMAIN-SUFFIX,gateapi.io
+# 目标: crypto
 DOMAIN-SUFFIX,gatedata.org
+# 目标: crypto
 DOMAIN-SUFFIX,gateimg.com
+# 目标: crypto
 DOMAIN-SUFFIX,gateio.live
+# 目标: crypto
 DOMAIN-SUFFIX,gateio.services
+# 目标: crypto
 DOMAIN-SUFFIX,gatetrace.com
+# 目标: crypto
 DOMAIN-SUFFIX,gatexsecurity.com
+# 目标: crypto
 DOMAIN-SUFFIX,gemini.com
+# 目标: crypto
 DOMAIN-SUFFIX,glassnode.com
+# 目标: crypto
 DOMAIN-SUFFIX,gmgn.ai
+# 目标: crypto
 DOMAIN-SUFFIX,gotoda.co
+# 目标: crypto
 DOMAIN-SUFFIX,greentreeone.com
+# 目标: crypto
 DOMAIN-SUFFIX,guardarian.com
+# 目标: crypto
 DOMAIN-SUFFIX,hashflow.com
+# 目标: crypto
 DOMAIN-SUFFIX,hbabit.com
+# 目标: crypto
 DOMAIN-SUFFIX,hbfile.net
+# 目标: crypto
 DOMAIN-SUFFIX,heco-scan.com
+# 目标: crypto
 DOMAIN-SUFFIX,hecochain.com
+# 目标: crypto
 DOMAIN-SUFFIX,hecoview.com
+# 目标: crypto
 DOMAIN-SUFFIX,hkd.com
+# 目标: crypto
 DOMAIN-SUFFIX,hkd.mobi
+# 目标: crypto
 DOMAIN-SUFFIX,htx.com
+# 目标: crypto
 DOMAIN-SUFFIX,huobi.br.com
+# 目标: crypto
 DOMAIN-SUFFIX,huobi.co.ma
+# 目标: crypto
 DOMAIN-SUFFIX,huobi.com
+# 目标: crypto
 DOMAIN-SUFFIX,huobi.me
+# 目标: crypto
 DOMAIN-SUFFIX,huobi.pro
+# 目标: crypto
 DOMAIN-SUFFIX,huobi.sc
+# 目标: crypto
 DOMAIN-SUFFIX,huobi.ug
+# 目标: crypto
 DOMAIN-SUFFIX,huobi.ws
+# 目标: crypto
 DOMAIN-SUFFIX,huobiasia.vip
+# 目标: crypto
 DOMAIN-SUFFIX,huobigroup.com
+# 目标: crypto
 DOMAIN-SUFFIX,huobitoken.com
+# 目标: crypto
 DOMAIN-SUFFIX,hyperliquid.xyz
+# 目标: crypto
 DOMAIN-SUFFIX,icodrops.com
+# 目标: crypto
 DOMAIN-SUFFIX,infura.io
+# 目标: crypto
 DOMAIN-SUFFIX,intotheblock.com
+# 目标: crypto
 DOMAIN-SUFFIX,invity.io
+# 目标: crypto
 DOMAIN-SUFFIX,ipfs.io
+# 目标: crypto
 DOMAIN-SUFFIX,isafepal.com
+# 目标: crypto
 DOMAIN-SUFFIX,jaxx.io
+# 目标: crypto
 DOMAIN-SUFFIX,korbit.co.kr
+# 目标: crypto
 DOMAIN-SUFFIX,kraken.com
+# 目标: crypto
 DOMAIN-SUFFIX,kraken.onl
+# 目标: crypto
 DOMAIN-SUFFIX,kucoin.com
+# 目标: crypto
 DOMAIN-SUFFIX,kucoin.plus
+# 目标: crypto
 DOMAIN-SUFFIX,kurs.expert
+# 目标: crypto
 DOMAIN-SUFFIX,lighter.exchange
+# 目标: crypto
 DOMAIN-SUFFIX,lighter.xyz
+# 目标: crypto
 DOMAIN-SUFFIX,lightning.community
+# 目标: crypto
 DOMAIN-SUFFIX,lightning.engineering
+# 目标: crypto
 DOMAIN-SUFFIX,liquid.com
+# 目标: crypto
 DOMAIN-SUFFIX,litecoin.org
+# 目标: crypto
 DOMAIN-SUFFIX,loanscan.io
+# 目标: crypto
 DOMAIN-SUFFIX,localbitcoins.com
+# 目标: crypto
 DOMAIN-SUFFIX,localbitcoinschain.com
+# 目标: crypto
 DOMAIN-SUFFIX,makerdao.com
+# 目标: crypto
 DOMAIN-SUFFIX,makersplace.com
+# 目标: crypto
 DOMAIN-SUFFIX,maple.finance
+# 目标: crypto
 DOMAIN-SUFFIX,masternodes.online
+# 目标: crypto
 DOMAIN-SUFFIX,mdex.co
+# 目标: crypto
 DOMAIN-SUFFIX,mdex.com
+# 目标: crypto
 DOMAIN-SUFFIX,mdex.me
+# 目标: crypto
 DOMAIN-SUFFIX,mdex.one
+# 目标: crypto
 DOMAIN-SUFFIX,megaeth.com
+# 目标: crypto
 DOMAIN-SUFFIX,merkl.xyz
+# 目标: crypto
 DOMAIN-SUFFIX,metalpha.finance
+# 目标: crypto
 DOMAIN-SUFFIX,metamask.io
+# 目标: crypto
 DOMAIN-SUFFIX,mexc.co
+# 目标: crypto
 DOMAIN-SUFFIX,mexc.com
+# 目标: crypto
 DOMAIN-SUFFIX,mexcsensors.com
+# 目标: crypto
 DOMAIN-SUFFIX,mocortech.com
+# 目标: crypto
 DOMAIN-SUFFIX,myetherwallet.com
+# 目标: crypto
 DOMAIN-SUFFIX,mytokenapi.com
+# 目标: crypto
 DOMAIN-SUFFIX,nansen.ai
+# 目标: crypto
 DOMAIN-SUFFIX,nexo.com
+# 目标: crypto
 DOMAIN-SUFFIX,nexo.io
+# 目标: crypto
 DOMAIN-SUFFIX,nftcalendar.io
+# 目标: crypto
 DOMAIN-SUFFIX,nftgo.io
+# 目标: crypto
 DOMAIN-SUFFIX,nftscan.com
+# 目标: crypto
 DOMAIN-SUFFIX,nftstatic.com
+# 目标: crypto
 DOMAIN-SUFFIX,nodereal.io
+# 目标: crypto
 DOMAIN-SUFFIX,nonfungible.com
+# 目标: crypto
 DOMAIN-SUFFIX,nyctale.io
+# 目标: crypto
 DOMAIN-SUFFIX,oasis.io
+# 目标: crypto
 DOMAIN-SUFFIX,okex.com
+# 目标: crypto
 DOMAIN-SUFFIX,okex.org
+# 目标: crypto
 DOMAIN-SUFFIX,oklink.com
+# 目标: crypto
 DOMAIN-SUFFIX,okx-dns.com
+# 目标: crypto
 DOMAIN-SUFFIX,okx-dns1.com
+# 目标: crypto
 DOMAIN-SUFFIX,okx-dns2.com
+# 目标: crypto
 DOMAIN-SUFFIX,okx.ac
+# 目标: crypto
 DOMAIN-SUFFIX,okx.cab
+# 目标: crypto
 DOMAIN-SUFFIX,okx.com
+# 目标: crypto
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+# 目标: crypto
 DOMAIN-SUFFIX,onekey-asset.com
+# 目标: crypto
 DOMAIN-SUFFIX,onekey.so
+# 目标: crypto
 DOMAIN-SUFFIX,onekeycn.com
+# 目标: crypto
 DOMAIN-SUFFIX,onemoment.cc
+# 目标: crypto
 DOMAIN-SUFFIX,onfinality.io
+# 目标: crypto
 DOMAIN-SUFFIX,opensea.io
+# 目标: crypto
 DOMAIN-SUFFIX,optimism.io
+# 目标: crypto
 DOMAIN-SUFFIX,osl.com
+# 目标: crypto
 DOMAIN-SUFFIX,pancakeswap.com
+# 目标: crypto
 DOMAIN-SUFFIX,pancakeswap.finance
+# 目标: crypto
 DOMAIN-SUFFIX,panpno.com
+# 目标: crypto
 DOMAIN-SUFFIX,parity.io
+# 目标: crypto
 DOMAIN-SUFFIX,paxful.com
+# 目标: crypto
 DOMAIN-SUFFIX,payget.pro
+# 目标: crypto
 DOMAIN-SUFFIX,phantom.app
+# 目标: crypto
 DOMAIN-SUFFIX,pionex.com
+# 目标: crypto
 DOMAIN-SUFFIX,platov.co
+# 目标: crypto
 DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+# 目标: crypto
 DOMAIN-SUFFIX,poloniex.com
+# 目标: crypto
 DOMAIN-SUFFIX,poly.network
+# 目标: crypto
 DOMAIN-SUFFIX,polymarket.com
+# 目标: crypto
 DOMAIN-SUFFIX,poolin.com
+# 目标: crypto
 DOMAIN-SUFFIX,ramon.cash
+# 目标: crypto
 DOMAIN-SUFFIX,ramon.money
+# 目标: crypto
 DOMAIN-SUFFIX,raydium.io
+# 目标: crypto
 DOMAIN-SUFFIX,redotpay.com
+# 目标: crypto
 DOMAIN-SUFFIX,redotpay.zendesk.com
+# 目标: crypto
 DOMAIN-SUFFIX,ripple.com
+# 目标: crypto
 DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+# 目标: crypto
 DOMAIN-SUFFIX,rsk.co
+# 目标: crypto
 DOMAIN-SUFFIX,saasexch.cc
+# 目标: crypto
 DOMAIN-SUFFIX,saasexch.co
+# 目标: crypto
 DOMAIN-SUFFIX,saasexch.com
+# 目标: crypto
 DOMAIN-SUFFIX,saasexch.info
+# 目标: crypto
 DOMAIN-SUFFIX,saasexch.io
+# 目标: crypto
 DOMAIN-SUFFIX,safepal.com
+# 目标: crypto
 DOMAIN-SUFFIX,satoshilabs.com
+# 目标: crypto
 DOMAIN-SUFFIX,solana.com
+# 目标: crypto
 DOMAIN-SUFFIX,solidifi.app
+# 目标: crypto
 DOMAIN-SUFFIX,solscan.io
+# 目标: crypto
 DOMAIN-SUFFIX,stateofthedapps.com
+# 目标: crypto
 DOMAIN-SUFFIX,stealthex.io
+# 目标: crypto
 DOMAIN-SUFFIX,straitsx.com
+# 目标: crypto
 DOMAIN-SUFFIX,sunswap.com
+# 目标: crypto
 DOMAIN-SUFFIX,sushi.com
+# 目标: crypto
 DOMAIN-SUFFIX,synthetix.io
+# 目标: crypto
 DOMAIN-SUFFIX,taiko.xyz
+# 目标: crypto
 DOMAIN-SUFFIX,tether.to
+# 目标: crypto
 DOMAIN-SUFFIX,theblock.co
+# 目标: crypto
 DOMAIN-SUFFIX,thegraph.com
+# 目标: crypto
 DOMAIN-SUFFIX,thetie.io
+# 目标: crypto
 DOMAIN-SUFFIX,thirdweb.com
+# 目标: crypto
 DOMAIN-SUFFIX,token.im
+# 目标: crypto
 DOMAIN-SUFFIX,tokenpocket.pro
+# 目标: crypto
 DOMAIN-SUFFIX,tokenterminal.com
+# 目标: crypto
 DOMAIN-SUFFIX,tokenview.com
+# 目标: crypto
 DOMAIN-SUFFIX,tradeblock.com
+# 目标: crypto
 DOMAIN-SUFFIX,traderjoexyz.com
+# 目标: crypto
 DOMAIN-SUFFIX,tradingview.com
+# 目标: crypto
 DOMAIN-SUFFIX,transferwise.com
+# 目标: crypto
 DOMAIN-SUFFIX,trezor.io
+# 目标: crypto
 DOMAIN-SUFFIX,tronlink.org
+# 目标: crypto
 DOMAIN-SUFFIX,tronscan.org
+# 目标: crypto
 DOMAIN-SUFFIX,truefi.io
+# 目标: crypto
 DOMAIN-SUFFIX,trustwallet.com
+# 目标: crypto
 DOMAIN-SUFFIX,trustwalletapp.com
+# 目标: crypto
 DOMAIN-SUFFIX,unisat.io
+# 目标: crypto
 DOMAIN-SUFFIX,uniswap.org
+# 目标: crypto
 DOMAIN-SUFFIX,vfat.tools
+# 目标: crypto
 DOMAIN-SUFFIX,viewbase.com
+# 目标: crypto
 DOMAIN-SUFFIX,vitalik.ca
+# 目标: crypto
 DOMAIN-SUFFIX,walletconnect.com
+# 目标: crypto
 DOMAIN-SUFFIX,walletconnect.org
+# 目标: crypto
 DOMAIN-SUFFIX,watchtheburn.com
+# 目标: crypto
 DOMAIN-SUFFIX,wbtc.network
+# 目标: crypto
 DOMAIN-SUFFIX,web3modal.org
+# 目标: crypto
 DOMAIN-SUFFIX,wintermute.com
+# 目标: crypto
 DOMAIN-SUFFIX,wise.com
+# 目标: crypto
 DOMAIN-SUFFIX,wisecoin.com
+# 目标: crypto
 DOMAIN-SUFFIX,wiseid.com
+# 目标: crypto
 DOMAIN-SUFFIX,wisekey.com
+# 目标: crypto
 DOMAIN-SUFFIX,wisekey.com.hk
+# 目标: crypto
 DOMAIN-SUFFIX,wmtransfer.com
+# 目标: crypto
 DOMAIN-SUFFIX,wynd.network
+# 目标: crypto
 DOMAIN-SUFFIX,wyndlabs.ai
+# 目标: crypto
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+# 目标: crypto
 DOMAIN-SUFFIX,xlayer.tech
+# 目标: crypto
 DOMAIN-SUFFIX,zapper.fi
+# 目标: crypto
 DOMAIN-SUFFIX,zb.app
+# 目标: crypto
 DOMAIN-SUFFIX,zb.com
+# 目标: crypto
 DOMAIN-SUFFIX,zb.io
+# 目标: crypto
 DOMAIN-SUFFIX,zb.live
+# 目标: crypto
 DOMAIN-SUFFIX,zklighter.elliot.ai
+# 目标: crypto
 DOMAIN-SUFFIX,zkscan.io
+# 目标: crypto
 DOMAIN-SUFFIX,zksync.io
+# 目标: crypto
 DOMAIN-KEYWORD,binance
+# 目标: crypto
 DOMAIN-KEYWORD,huobi
+# 目标: crypto
 DOMAIN-KEYWORD,metamask
+# 目标: crypto
 DOMAIN-KEYWORD,okx
+# 目标: crypto
 PROCESS-NAME,Binance.exe
+# 目标: crypto
 PROCESS-NAME,Huobi.exe
+# 目标: crypto
 PROCESS-NAME,OKX.exe

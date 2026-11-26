@@ -1,85 +1,167 @@
 # 统一规则库 | 分类: Bestbuy
 # 合并来源: blackmatrix7/ios_rule_script Bestbuy
 # 规则数: 82
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bby.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bbycastatic.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bbycloud.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bbycontent.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bbycontent.net
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bbyintl.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bbystatic.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bbyurl.us
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbhy.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy-audio.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy-communityrelations.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy-giftcard.info
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy-int.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy-jobs.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy.cn
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy.com.cn
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy.com.mx
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy.info
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuy24x7solutions.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuybusiness.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuybusinessadvantageaccount.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuycanada.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuycanada.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuycanadaltd.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuycharityclassic.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuycoffeemakers.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuyethics.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuyforbusiness.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuygsm.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuyideax.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuyphotoworkshoptours.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuyrewards.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuyrewardzone.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuys.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuysgeeksquad.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuysolutions.net
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuystores.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuytradein.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bestbuyus.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,besztbuy.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bextbuy.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,bienvenuechezbestbuy.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,cowboom.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,dealtree.org
+# 目标: Bestbuy
 DOMAIN-SUFFIX,futureshop.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geek-squad-support.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geek-squad.net
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geek-squad.org
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geek-squads.net
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquad.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquad.cc
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquad.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquad.net
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquad.tv
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquadcares.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquadcentral.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquadforums.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquadonline.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquadprotectionplan.org
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquadservices.org
+# 目标: Bestbuy
 DOMAIN-SUFFIX,geeksquadwebroot.org
+# 目标: Bestbuy
 DOMAIN-SUFFIX,gscanada.info
+# 目标: Bestbuy
 DOMAIN-SUFFIX,gsccdn.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,gslink.us
+# 目标: Bestbuy
 DOMAIN-SUFFIX,initproducts.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,magnoliaav.com.cn
+# 目标: Bestbuy
 DOMAIN-SUFFIX,mybestbuy.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,mybestbuyclaims.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,myrewardzone.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,myrz.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,onlinegeeksquad.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,pacifickitchenandhome.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,rocketfishproducts.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,techliquidators.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,tiendabestbuy.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,unbrandedproducts.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,welcometobestbuy.ca
+# 目标: Bestbuy
 DOMAIN-SUFFIX,wolfatbestbuy.com
+# 目标: Bestbuy
 DOMAIN-SUFFIX,wolfatbestbuy.net
+# 目标: Bestbuy
 DOMAIN-SUFFIX,www-bestbuystores.com

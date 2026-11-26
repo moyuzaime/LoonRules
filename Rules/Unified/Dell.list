@@ -1,121 +1,239 @@
 # 统一规则库 | 分类: Dell
 # 合并来源: blackmatrix7/ios_rule_script Dell
 # 规则数: 118
+# 目标: Dell
 DOMAIN-SUFFIX,air-watch.com
+# 目标: Dell
 DOMAIN-SUFFIX,airwatchexpress.com
+# 目标: Dell
 DOMAIN-SUFFIX,airwatchqa.com
+# 目标: Dell
 DOMAIN-SUFFIX,aliveipc.com
+# 目标: Dell
 DOMAIN-SUFFIX,aliveitsm.com
+# 目标: Dell
 DOMAIN-SUFFIX,aliveprofiler.com
+# 目标: Dell
 DOMAIN-SUFFIX,alivercm.com
+# 目标: Dell
 DOMAIN-SUFFIX,aliverewind.com
+# 目标: Dell
 DOMAIN-SUFFIX,alivertsm.com
+# 目标: Dell
 DOMAIN-SUFFIX,alivevm.com
+# 目标: Dell
 DOMAIN-SUFFIX,alivevmax.com
+# 目标: Dell
 DOMAIN-SUFFIX,alivevue.com
+# 目标: Dell
 DOMAIN-SUFFIX,avinetworks.com
+# 目标: Dell
 DOMAIN-SUFFIX,badaas.com
+# 目标: Dell
 DOMAIN-SUFFIX,bitnami.com
+# 目标: Dell
 DOMAIN-SUFFIX,bitnamiapp.com
+# 目标: Dell
 DOMAIN-SUFFIX,bitnamistudio.com
+# 目标: Dell
 DOMAIN-SUFFIX,cfblob.com
+# 目标: Dell
 DOMAIN-SUFFIX,cloudchoose.com
+# 目标: Dell
 DOMAIN-SUFFIX,cloudcredibility.com
+# 目标: Dell
 DOMAIN-SUFFIX,cloudhealthtech.com
+# 目标: Dell
 DOMAIN-SUFFIX,cloudlive.com
+# 目标: Dell
 DOMAIN-SUFFIX,cloudvolumes.com
+# 目标: Dell
 DOMAIN-SUFFIX,cmpaas.com
+# 目标: Dell
 DOMAIN-SUFFIX,cpedge.com
+# 目标: Dell
 DOMAIN-SUFFIX,crit-staging.com
+# 目标: Dell
 DOMAIN-SUFFIX,dell-alw.com
+# 目标: Dell
 DOMAIN-SUFFIX,dell-brand.com
+# 目标: Dell
 DOMAIN-SUFFIX,dell.co.in
+# 目标: Dell
 DOMAIN-SUFFIX,dell.co.kr
+# 目标: Dell
 DOMAIN-SUFFIX,dell.co.nz
+# 目标: Dell
 DOMAIN-SUFFIX,dell.co.th
+# 目标: Dell
 DOMAIN-SUFFIX,dell.com
+# 目标: Dell
 DOMAIN-SUFFIX,dell.com.au
+# 目标: Dell
 DOMAIN-SUFFIX,dell.com.cn
+# 目标: Dell
 DOMAIN-SUFFIX,dell.com.hk
+# 目标: Dell
 DOMAIN-SUFFIX,dell.com.my
+# 目标: Dell
 DOMAIN-SUFFIX,dell.com.sg
+# 目标: Dell
 DOMAIN-SUFFIX,dell.com.tw
+# 目标: Dell
 DOMAIN-SUFFIX,dellcdn.com
+# 目标: Dell
 DOMAIN-SUFFIX,dockerizer.com
+# 目标: Dell
 DOMAIN-SUFFIX,experience-vmware.com
+# 目标: Dell
 DOMAIN-SUFFIX,gemfire.net
+# 目标: Dell
 DOMAIN-SUFFIX,geodesummit.com
+# 目标: Dell
 DOMAIN-SUFFIX,getboxer.com
+# 目标: Dell
 DOMAIN-SUFFIX,getws1.com
+# 目标: Dell
 DOMAIN-SUFFIX,getwsone.com
+# 目标: Dell
 DOMAIN-SUFFIX,gitstar.com
+# 目标: Dell
 DOMAIN-SUFFIX,gitstar.net
+# 目标: Dell
 DOMAIN-SUFFIX,gopivotal.com
+# 目标: Dell
 DOMAIN-SUFFIX,gopivotal.net
+# 目标: Dell
 DOMAIN-SUFFIX,greenplum.net
+# 目标: Dell
 DOMAIN-SUFFIX,heptio.cn
+# 目标: Dell
 DOMAIN-SUFFIX,heptio.com
+# 目标: Dell
 DOMAIN-SUFFIX,hwslabs.com
+# 目标: Dell
 DOMAIN-SUFFIX,immidio.com
+# 目标: Dell
 DOMAIN-SUFFIX,itfromtheinside.com
+# 目标: Dell
 DOMAIN-SUFFIX,kubeacademy.com
+# 目标: Dell
 DOMAIN-SUFFIX,kubeapps.com
+# 目标: Dell
 DOMAIN-SUFFIX,latamvmwareforum.com
+# 目标: Dell
 DOMAIN-SUFFIX,nyansa.com
+# 目标: Dell
 DOMAIN-SUFFIX,pivotalinitiative.com
+# 目标: Dell
 DOMAIN-SUFFIX,snapvolumes.com
+# 目标: Dell
 DOMAIN-SUFFIX,ssdevrd.com
+# 目标: Dell
 DOMAIN-SUFFIX,vcanedge.com
+# 目标: Dell
 DOMAIN-SUFFIX,vcloudair.net
+# 目标: Dell
 DOMAIN-SUFFIX,velocloud.com
+# 目标: Dell
 DOMAIN-SUFFIX,vfabric.net
+# 目标: Dell
 DOMAIN-SUFFIX,vidmpreview.com
+# 目标: Dell
 DOMAIN-SUFFIX,virsto.com
+# 目标: Dell
 DOMAIN-SUFFIX,virsto.net
+# 目标: Dell
 DOMAIN-SUFFIX,vmglobal.net
+# 目标: Dell
 DOMAIN-SUFFIX,vmmark.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmtestdrive.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmw.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmware-cloudmanagement.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmware-techcenter.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmware.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmware.tt.omtrdc.net
+# 目标: Dell
 DOMAIN-SUFFIX,vmware20mosaic.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwareausnews.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwarecertificationvideos.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwarecloud.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwaredemandcenter.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwareemeablog.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwaregrid.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwarehorizon.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwareidentity.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwarelearning.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwarelearningplatform.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwarestuff.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwareusergroupstore.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwareviewpoint.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwarevmc.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwdemo.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwgcomms.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwhorizonair.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwidm-ads.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwidm.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwlabconnect.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwlearningplatform.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmworld.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmworld2010.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmworld2013.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwsalesrewards.com
+# 目标: Dell
 DOMAIN-SUFFIX,vmwservices.com
+# 目标: Dell
 DOMAIN-SUFFIX,vnware.net
+# 目标: Dell
 DOMAIN-SUFFIX,vsphere.com
+# 目标: Dell
 DOMAIN-SUFFIX,vsphere.net
+# 目标: Dell
 DOMAIN-SUFFIX,whatisairwatch.com
+# 目标: Dell
 DOMAIN-SUFFIX,whatisworkspaceone.com
+# 目标: Dell
 DOMAIN-SUFFIX,whychoosehorizon.com
+# 目标: Dell
 DOMAIN-SUFFIX,whychooseview.com
+# 目标: Dell
 DOMAIN-SUFFIX,whychoosevmwareeuc.com
+# 目标: Dell
 DOMAIN-SUFFIX,windowsuem.com
+# 目标: Dell
 DOMAIN-SUFFIX,workspaceair.com
+# 目标: Dell
 DOMAIN-SUFFIX,workspaceone.com
+# 目标: Dell
 DOMAIN-SUFFIX,xlstudio.com

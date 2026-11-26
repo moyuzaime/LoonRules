@@ -1,53 +1,104 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Geely/Geely.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Geely/Geely.list
+# 说明: 吉利
 # 规则数: 50
+# 目标: Geely
 DOMAIN-SUFFIX,51caocao.cn
+# 目标: Geely
 DOMAIN-SUFFIX,51caocao.net
+# 目标: Geely
 DOMAIN-SUFFIX,caocaobusiness.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaocustomer.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaoglobal.com
+# 目标: Geely
 DOMAIN-SUFFIX,caocaojourney.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaokeji.cn
+# 目标: Geely
 DOMAIN-SUFFIX,caocaokeji.net
+# 目标: Geely
 DOMAIN-SUFFIX,caocaomarketing.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaomedia.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaoproduct.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaopromotion.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaoservice.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaotravel.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaotrip.cc
+# 目标: Geely
 DOMAIN-SUFFIX,caocaotrip.cn
+# 目标: Geely
 DOMAIN-SUFFIX,caocaotrip.com
+# 目标: Geely
 DOMAIN-SUFFIX,geely-motors.com
+# 目标: Geely
 DOMAIN-SUFFIX,geely-test.com
+# 目标: Geely
 DOMAIN-SUFFIX,geely.com
+# 目标: Geely
 DOMAIN-SUFFIX,geely.com.qa
+# 目标: Geely
 DOMAIN-SUFFIX,geely.pe
+# 目标: Geely
 DOMAIN-SUFFIX,geelyauto.com.hk
+# 目标: Geely
 DOMAIN-SUFFIX,geelycv.com
+# 目标: Geely
 DOMAIN-SUFFIX,geelydesign.com
+# 目标: Geely
 DOMAIN-SUFFIX,geelyholding.com
+# 目标: Geely
 DOMAIN-SUFFIX,geelylaos.com
+# 目标: Geely
 DOMAIN-SUFFIX,geelyminiprogram.com
+# 目标: Geely
 DOMAIN-SUFFIX,geelyph.com
+# 目标: Geely
 DOMAIN-SUFFIX,geelysc.com
+# 目标: Geely
 DOMAIN-SUFFIX,geelyswedenholdings.com
+# 目标: Geely
 DOMAIN-SUFFIX,geespace.com
+# 目标: Geely
 DOMAIN-SUFFIX,geometryauto.com
+# 目标: Geely
 DOMAIN-SUFFIX,gplus-lab.com
+# 目标: Geely
 DOMAIN-SUFFIX,levc.com
+# 目标: Geely
 DOMAIN-SUFFIX,lishufu.org.cn
+# 目标: Geely
 DOMAIN-SUFFIX,lotuscars.com.cn
+# 目标: Geely
 DOMAIN-SUFFIX,lynkco-test.com
+# 目标: Geely
 DOMAIN-SUFFIX,lynkco.com.cn
+# 目标: Geely
 DOMAIN-SUFFIX,omnicloud.cn
+# 目标: Geely
 DOMAIN-SUFFIX,polestar.cn
+# 目标: Geely
 DOMAIN-SUFFIX,shikongdaoyu.com
+# 目标: Geely
 DOMAIN-SUFFIX,skspace.cn
+# 目标: Geely
 DOMAIN-SUFFIX,vipcaocao.cn
+# 目标: Geely
 DOMAIN-SUFFIX,vipcaocao.com
+# 目标: Geely
 DOMAIN-SUFFIX,volvocars.com
+# 目标: Geely
 DOMAIN-SUFFIX,volvocars.com.cn
+# 目标: Geely
 DOMAIN-SUFFIX,zeekrlife.com
+# 目标: Geely
 DOMAIN-SUFFIX,zgh.com
+# 目标: Geely
 DOMAIN-SUFFIX,zjcarnet.com

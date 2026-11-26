@@ -1,22 +1,42 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/51Job/51Job.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/51Job/51Job.list
+# 说明: 前程无忧
 # 规则数: 19
+# 目标: 51Job
 DOMAIN-SUFFIX,51hr.com
+# 目标: 51Job
 DOMAIN-SUFFIX,51ideal.com
+# 目标: 51Job
 DOMAIN-SUFFIX,51jingying.com
+# 目标: 51Job
 DOMAIN-SUFFIX,51job.com
+# 目标: 51Job
 DOMAIN-SUFFIX,51jobcdn.com
+# 目标: 51Job
 DOMAIN-SUFFIX,51laiqiang.com
+# 目标: 51Job
 DOMAIN-SUFFIX,51mdd.com
+# 目标: 51Job
 DOMAIN-SUFFIX,51miduoduo.com
+# 目标: 51Job
 DOMAIN-SUFFIX,coolping.com
+# 目标: 51Job
 DOMAIN-SUFFIX,correlation-one.cn
+# 目标: 51Job
 DOMAIN-SUFFIX,ibmcampus.com
+# 目标: 51Job
 DOMAIN-SUFFIX,maketion.com
+# 目标: 51Job
 DOMAIN-SUFFIX,myyjs.com
+# 目标: 51Job
 DOMAIN-SUFFIX,wuyoudagong.com
+# 目标: 51Job
 DOMAIN-SUFFIX,xinghua.org.cn
+# 目标: 51Job
 DOMAIN-SUFFIX,yingjiesheng.com
+# 目标: 51Job
 DOMAIN-SUFFIX,yingjiesheng.net
+# 目标: 51Job
 DOMAIN-SUFFIX,yingjiesheng.org
+# 目标: 51Job
 DOMAIN-SUFFIX,zhiding.com.cn

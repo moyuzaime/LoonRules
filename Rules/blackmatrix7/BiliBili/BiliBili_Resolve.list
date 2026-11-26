@@ -1,130 +1,257 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/BiliBili/BiliBili_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BiliBili/BiliBili_Resolve.list
 # 规则数: 127
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrctt.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrctu.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjz8yzdnc31.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjz8yzdnc3t.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjzgazdrpba.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjzgazdrpbz.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr4uqmtt8y41hcjzgazdrpjt.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,0gr5dgmttgha1hcj38yzdncb3.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,112-81-125-43.dhost.00cdn.com
+# 目标: BiliBili
 DOMAIN,113-219-145-1.ksyungslb.com
+# 目标: BiliBili
 DOMAIN,114-236-92-129.ksyungslb.com
+# 目标: BiliBili
 DOMAIN,180-101-74-1.ksyungslb.com
+# 目标: BiliBili
 DOMAIN,1geadrmttge3nhcjwgazdope.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1geadrmttge3nhcjwgwzdqqe.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr3uomttgr31hcjo8yzdnco.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr3uomttgr31hcjo8yzdnpy.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr3uomttgr31hcjtgezdkcy.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr4uqmtt8y41hcjigazdqca.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr4uqmtt8y41hcjigazdqce.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr4uqmtt8y41hcjigazdqco.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr4uqmtt8y41hcjigazdqpo.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr4uqmtt8y41hcjzgwzdkqe.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj38yzdcca.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj38yzdcco.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj38yzdkca.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj38yzdkco.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj38yzdkpe.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj38yzdkpy.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj38yzdkqy.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj3gczdcpa.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj3gczdcpe.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj3gczdcpo.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcj3gczdcqy.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1gr5dgmttgha1hcttgrzdnpo.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,1graukmttga4nhcjtgozdgce.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,218-91-225-1.ksyungslb.com
+# 目标: BiliBili
 DOMAIN,219-155-150-1.ksyungslb.com
+# 目标: BiliBili
 DOMAIN,222-188-6-1.ksyungslb.com
+# 目标: BiliBili
 DOMAIN,36-104-134-1.ksyungslb.com
+# 目标: BiliBili
 DOMAIN,36-25-252-1.ksyungslb.com
+# 目标: BiliBili
 DOMAIN,3ge3drmttga5nhcbqge3ur.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,3geauymtsgrzdnqbofa5do.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,3geauymtsgrzdnqbofa5dy.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,3geauymtsgrzdrcbzfahue.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,3geauymtsgrzdrcbzfahuk.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,4go41hcjtgazdoctqge4o.ourdvsss.com
+# 目标: BiliBili
 DOMAIN,p-bstarstatic.akamaized.net
+# 目标: BiliBili
 DOMAIN,p.bstarstatic.com
+# 目标: BiliBili
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
+# 目标: BiliBili
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,acg.tv
+# 目标: BiliBili
 DOMAIN-SUFFIX,acgvideo.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,animetamashi.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,animetamashi.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,anitama.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,anitama.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,b23.tv
+# 目标: BiliBili
 DOMAIN-SUFFIX,baka.im
+# 目标: BiliBili
 DOMAIN-SUFFIX,bigfun.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,bigfunapp.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,bili22.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,bili2233.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,bili23.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,bili33.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,biliapi.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,biliapi.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibili.cc
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibili.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibili.co
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibili.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibili.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibili.tv
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibiligame.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibiligame.co
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibiligame.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibilipay.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilibilipay.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilicdn1.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilicdn2.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilicdn3.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilicdn4.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilicdn5.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilicomics.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,biligame.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,biligame.co
+# 目标: BiliBili
 DOMAIN-SUFFIX,biligame.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,biligame.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,biligo.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,biliimg.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,biliintl.co
+# 目标: BiliBili
 DOMAIN-SUFFIX,biliintl.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,biliplus.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilivideo.cn
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilivideo.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,bilivideo.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,corari.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,dreamcast.hk
+# 目标: BiliBili
 DOMAIN-SUFFIX,dyhgames.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,hdslb.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,hdslb.com.w.kunlunhuf.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,hdslb.com.w.kunlunpi.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,hdslb.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,hdslb.org
+# 目标: BiliBili
 DOMAIN-SUFFIX,im9.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,maoercdn.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,mcbbs.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,mincdn.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,sharejoytech.com
+# 目标: BiliBili
 DOMAIN-SUFFIX,smtcdns.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
+# 目标: BiliBili
 DOMAIN-SUFFIX,yo9.com
+# 目标: BiliBili
 USER-AGENT,*bili*
+# 目标: BiliBili
 USER-AGENT,Bilibili*
+# 目标: BiliBili
 USER-AGENT,bili*
+# 目标: BiliBili
 USER-AGENT,bili-inter*
+# 目标: BiliBili
 IP-CIDR,106.75.74.76/32
+# 目标: BiliBili
 IP-CIDR,111.206.25.147/32
+# 目标: BiliBili
 IP-CIDR,119.3.238.64/32
+# 目标: BiliBili
 IP-CIDR,120.92.108.182/32
+# 目标: BiliBili
 IP-CIDR,120.92.113.99/32
+# 目标: BiliBili
 IP-CIDR,120.92.153.217/32
+# 目标: BiliBili
 IP-CIDR,134.175.207.130/32
+# 目标: BiliBili
 IP-CIDR,203.107.1.0/24

@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Addthis/Addthis.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Addthis/Addthis.list
 # 规则数: 3
+# 目标: Addthis
 DOMAIN-SUFFIX,addthis.com
+# 目标: Addthis
 DOMAIN-SUFFIX,addthiscdn.com
+# 目标: Addthis
 DOMAIN-SUFFIX,addthisedge.com

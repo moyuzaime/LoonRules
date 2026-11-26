@@ -1,34 +1,66 @@
 # 统一规则库 | 分类: SuNing
 # 合并来源: blackmatrix7/ios_rule_script SuNing
+# 说明: 苏宁
 # 规则数: 31
+# 目标: SuNing
 DOMAIN-SUFFIX,10035.com.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,chinadzfp.com
+# 目标: SuNing
 DOMAIN-SUFFIX,cloudytrace.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,cloudytrace.com
+# 目标: SuNing
 DOMAIN-SUFFIX,cloudytrace.org
+# 目标: SuNing
 DOMAIN-SUFFIX,cnsuning.com
+# 目标: SuNing
 DOMAIN-SUFFIX,laox.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,pinjiago.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,pinjiago.com
+# 目标: SuNing
 DOMAIN-SUFFIX,redbaby.com.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,sndlj.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,snqrc.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,suning.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,suning.com
+# 目标: SuNing
 DOMAIN-SUFFIX,suningcdn.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,suningcdn.com
+# 目标: SuNing
 DOMAIN-SUFFIX,suningcdn.net
+# 目标: SuNing
 DOMAIN-SUFFIX,suningcloud.com
+# 目标: SuNing
 DOMAIN-SUFFIX,suningdns.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,suningdns.com
+# 目标: SuNing
 DOMAIN-SUFFIX,suningdns.net
+# 目标: SuNing
 DOMAIN-SUFFIX,suningestate.com
+# 目标: SuNing
 DOMAIN-SUFFIX,suninggslb.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,suninggslb.net
+# 目标: SuNing
 DOMAIN-SUFFIX,suningholdings.com
+# 目标: SuNing
 DOMAIN-SUFFIX,suninghotel.com
+# 目标: SuNing
 DOMAIN-SUFFIX,suningmail.com
+# 目标: SuNing
 DOMAIN-SUFFIX,suningyunyou.cn
+# 目标: SuNing
 DOMAIN-SUFFIX,suningyunyou.com
+# 目标: SuNing
 DOMAIN-SUFFIX,wuliuyun.com
+# 目标: SuNing
 DOMAIN-SUFFIX,yifubao.com

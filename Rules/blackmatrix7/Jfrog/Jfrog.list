@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Jfrog/Jfrog.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Jfrog/Jfrog.list
 # 规则数: 3
+# 目标: Jfrog
 DOMAIN-SUFFIX,bintray.com
+# 目标: Jfrog
 DOMAIN-SUFFIX,jfrog.com
+# 目标: Jfrog
 DOMAIN-SUFFIX,jfrog.org

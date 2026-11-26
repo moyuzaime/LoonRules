@@ -1,36 +1,70 @@
 # 统一规则库 | 分类: CNNIC
 # 合并来源: blackmatrix7/ios_rule_script CNNIC
+# 说明: 中国互联网络信息中心
 # 规则数: 33
+# 目标: CNNIC
 DOMAIN-SUFFIX,6pilot.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,apac.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,apac.org.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,apira.org
+# 目标: CNNIC
 DOMAIN-SUFFIX,apirc.org
+# 目标: CNNIC
 DOMAIN-SUFFIX,cdnc.org
+# 目标: CNNIC
 DOMAIN-SUFFIX,cdns.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cfid-lab.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cfidlab.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cilab.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cnidp.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cnnic.ac.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cnnic.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cnnic.com.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cnnic.net
+# 目标: CNNIC
 DOMAIN-SUFFIX,cnnic.net.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cnnic.org.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cnnicresearch.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,cyberspace.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,djt.org.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,dns-cert.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,dnscert.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,dnslab.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,dnswood.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,idatacn.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,idpcn.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,internet.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,myid.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,nanel.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,sdns.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,snsroot.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,surdata.cn
+# 目标: CNNIC
 DOMAIN-SUFFIX,v6pilot.cn

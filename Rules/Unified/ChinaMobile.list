@@ -1,42 +1,82 @@
 # 统一规则库 | 分类: ChinaMobile
 # 合并来源: blackmatrix7/ios_rule_script ChinaMobile
+# 说明: 中国移动
 # 规则数: 39
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,10086.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,10086kuaixiu.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,12530.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,139.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,andfx.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,andfx.net
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,chinamobile.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,chinamobiledevice.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,chinamobileltd.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,cmccb2b.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,cmdcl.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,cmdcxls.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,cmecloud.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,cmicrwx.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,cmpassport.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,cmvideo.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,cxzx10086.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,ecpan.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,fetion-portal.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,fetionpic.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,fxltsbl.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,lovev.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,lovev.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,migu.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,migucc.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,migucdn.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,migucloud.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,migufm.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,migugk.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,migutv.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,miguvideo.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,miguvideo.com.cn
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,mmarket.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,mmarket6.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,monternet.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,warmchina121.com
+# 目标: ChinaMobile
 DOMAIN-SUFFIX,zdsdp.com
+# 目标: ChinaMobile
 IP-CIDR,117.161.2.5/32,no-resolve
+# 目标: ChinaMobile
 IP-CIDR,117.161.2.5/32

@@ -1,16 +1,30 @@
 # 统一规则库 | 分类: Eleme
 # 合并来源: blackmatrix7/ios_rule_script Eleme
+# 说明: 饿了么
 # 规则数: 13
+# 目标: Eleme
 DOMAIN-SUFFIX,ele.me
+# 目标: Eleme
 DOMAIN-SUFFIX,ele.to
+# 目标: Eleme
 DOMAIN-SUFFIX,eleme.cn
+# 目标: Eleme
 DOMAIN-SUFFIX,eleme.com.cn
+# 目标: Eleme
 DOMAIN-SUFFIX,eleme.io
+# 目标: Eleme
 DOMAIN-SUFFIX,elemecdn.cn
+# 目标: Eleme
 DOMAIN-SUFFIX,elemecdn.com
+# 目标: Eleme
 DOMAIN-SUFFIX,elenet.me
+# 目标: Eleme
 DOMAIN-SUFFIX,fengniaopaotui.cn
+# 目标: Eleme
 DOMAIN-SUFFIX,fengniaozhongbao.cn
+# 目标: Eleme
 DOMAIN-SUFFIX,xingxuanwaimai.com
+# 目标: Eleme
 DOMAIN-SUFFIX,xyzele.com
+# 目标: Eleme
 DOMAIN-SUFFIX,youcaishop.cn

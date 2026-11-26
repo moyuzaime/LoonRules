@@ -1,14 +1,26 @@
 # 统一规则库 | 分类: DaMai
 # 合并来源: blackmatrix7/ios_rule_script DaMai
+# 说明: 红马传媒(大麦网)
 # 规则数: 11
+# 目标: DaMai
 DOMAIN-SUFFIX,baotoo.com
+# 目标: DaMai
 DOMAIN-SUFFIX,damai.cn
+# 目标: DaMai
 DOMAIN-SUFFIX,damaicdn.cn
+# 目标: DaMai
 DOMAIN-SUFFIX,dmcdn.cn
+# 目标: DaMai
 DOMAIN-SUFFIX,jtwsm.cn
+# 目标: DaMai
 DOMAIN-SUFFIX,maikr.com
+# 目标: DaMai
 DOMAIN-SUFFIX,maitix.com
+# 目标: DaMai
 DOMAIN-SUFFIX,maitix.net
+# 目标: DaMai
 DOMAIN-SUFFIX,piao.com.cn
+# 目标: DaMai
 DOMAIN-SUFFIX,piaogroup.com
+# 目标: DaMai
 DOMAIN-SUFFIX,yanchupiaojia.com

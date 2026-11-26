@@ -1,5 +1,8 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Dubox/Dubox.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Dubox/Dubox.list
+# 说明: 百度网盘国际版
 # 规则数: 2
+# 目标: Dubox
 DOMAIN-SUFFIX,dubox.com
+# 目标: Dubox
 DOMAIN-SUFFIX,duboxcdn.com

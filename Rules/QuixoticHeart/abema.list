@@ -1,24 +1,45 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/abema.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/abema.list
 # 规则数: 21
+# 目标: abema
 DOMAIN,abematv.akamaized.net
+# 目标: abema
 DOMAIN,ds-linear-abematv.akamaized.net
+# 目标: abema
 DOMAIN,ds-vod-abematv.akamaized.net
+# 目标: abema
 DOMAIN,linear-abematv.akamaized.net
+# 目标: abema
 DOMAIN,vod-abematv.akamaized.net
+# 目标: abema
 DOMAIN-SUFFIX,abema-tv.com
+# 目标: abema
 DOMAIN-SUFFIX,abema.io
+# 目标: abema
 DOMAIN-SUFFIX,abema.tv
+# 目标: abema
 DOMAIN-SUFFIX,abematv.co.jp
+# 目标: abema
 DOMAIN-SUFFIX,adx.promo
+# 目标: abema
 DOMAIN-SUFFIX,ameba.jp
+# 目标: abema
 DOMAIN-SUFFIX,amebame.com
+# 目标: abema
 DOMAIN-SUFFIX,amebaownd.com
+# 目标: abema
 DOMAIN-SUFFIX,amebaowndme.com
+# 目标: abema
 DOMAIN-SUFFIX,ameblo.jp
+# 目标: abema
 DOMAIN-SUFFIX,bucketeer.jp
+# 目标: abema
 DOMAIN-SUFFIX,dokusho-ojikan.jp
+# 目标: abema
 DOMAIN-SUFFIX,hayabusa.dev
+# 目标: abema
 DOMAIN-SUFFIX,hayabusa.io
+# 目标: abema
 DOMAIN-SUFFIX,hayabusa.media
+# 目标: abema
 DOMAIN-SUFFIX,winticket.jp

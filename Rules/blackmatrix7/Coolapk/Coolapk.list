@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Coolapk/Coolapk.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Coolapk/Coolapk.list
 # 规则数: 3
+# 目标: Coolapk
 DOMAIN-SUFFIX,coolapk.com
+# 目标: Coolapk
 DOMAIN-SUFFIX,coolapkmarket.com
+# 目标: Coolapk
 DOMAIN-SUFFIX,coolapkmarket.net

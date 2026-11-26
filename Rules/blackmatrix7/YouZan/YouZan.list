@@ -1,6 +1,10 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/YouZan/YouZan.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouZan/YouZan.list
+# 说明: 有赞
 # 规则数: 3
+# 目标: YouZan
 DOMAIN-SUFFIX,youzan.com
+# 目标: YouZan
 DOMAIN-SUFFIX,youzanyun.com
+# 目标: YouZan
 DOMAIN-SUFFIX,yzcdn.cn

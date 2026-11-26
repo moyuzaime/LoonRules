@@ -1,5 +1,8 @@
 # 统一规则库 | 分类: Dubox
 # 合并来源: blackmatrix7/ios_rule_script Dubox
+# 说明: 百度网盘国际版
 # 规则数: 2
+# 目标: Dubox
 DOMAIN-SUFFIX,dubox.com
+# 目标: Dubox
 DOMAIN-SUFFIX,duboxcdn.com

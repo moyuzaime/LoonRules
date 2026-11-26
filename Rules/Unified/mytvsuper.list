@@ -1,10 +1,17 @@
 # 统一规则库 | 分类: mytvsuper
 # 合并来源: QuixoticHeart/rule-set mytvsuper; blackmatrix7/ios_rule_script myTVSUPER
 # 规则数: 7
+# 目标: mytvsuper
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
+# 目标: mytvsuper
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
+# 目标: mytvsuper
 DOMAIN-SUFFIX,mytvsuper.com
+# 目标: mytvsuper
 DOMAIN-SUFFIX,tvb.com
+# 目标: mytvsuper
 DOMAIN-KEYWORD,nowtv100
+# 目标: mytvsuper
 DOMAIN-KEYWORD,rthklive
+# 目标: mytvsuper
 USER-AGENT,mytv*

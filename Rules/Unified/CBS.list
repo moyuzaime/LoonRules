@@ -1,38 +1,73 @@
 # 统一规则库 | 分类: CBS
 # 合并来源: blackmatrix7/ios_rule_script CBS
 # 规则数: 35
+# 目标: CBS
 DOMAIN-SUFFIX,amlg.io
+# 目标: CBS
 DOMAIN-SUFFIX,cbs.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsaavideo.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbscorporation.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsi.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsi.video
+# 目标: CBS
 DOMAIN-SUFFIX,cbsiam.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsig.net
+# 目标: CBS
 DOMAIN-SUFFIX,cbsimg.net
+# 目标: CBS
 DOMAIN-SUFFIX,cbsinteractive.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsistatic.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsivideo.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsnews.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbspressexpress.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsradio.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbssports.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsstatic.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbsstore.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbssvideo.com
+# 目标: CBS
 DOMAIN-SUFFIX,cbstelevisioncity.com
+# 目标: CBS
 DOMAIN-SUFFIX,mtvnservices.com
+# 目标: CBS
 DOMAIN-SUFFIX,paramount.com
+# 目标: CBS
 DOMAIN-SUFFIX,paramountplus.com
+# 目标: CBS
 DOMAIN-SUFFIX,pluto.tv
+# 目标: CBS
 DOMAIN-SUFFIX,plutotv.net
+# 目标: CBS
 DOMAIN-SUFFIX,pplusstatic.com
+# 目标: CBS
 DOMAIN-SUFFIX,showtime.com
+# 目标: CBS
 DOMAIN-SUFFIX,viacbs.com
+# 目标: CBS
 DOMAIN-SUFFIX,viacom.com
+# 目标: CBS
 DOMAIN-SUFFIX,viacomcbs.com
+# 目标: CBS
 DOMAIN-SUFFIX,viacomcbspressexpress.com
+# 目标: CBS
 USER-AGENT,PPlus*

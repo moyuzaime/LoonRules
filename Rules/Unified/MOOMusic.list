@@ -1,4 +1,6 @@
 # 统一规则库 | 分类: MOOMusic
 # 合并来源: blackmatrix7/ios_rule_script MOOMusic
+# 说明: MOO音乐
 # 规则数: 1
+# 目标: MOOMusic
 USER-AGENT,TencentMidasConnect*

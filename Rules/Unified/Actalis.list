@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Actalis
 # 合并来源: blackmatrix7/ios_rule_script Actalis
 # 规则数: 2
+# 目标: Actalis
 DOMAIN-SUFFIX,actalis.com
+# 目标: Actalis
 DOMAIN-SUFFIX,actalis.it

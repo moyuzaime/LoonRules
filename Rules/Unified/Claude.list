@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Claude
 # 合并来源: blackmatrix7/ios_rule_script Claude
 # 规则数: 3
+# 目标: Claude
 DOMAIN,cdn.usefathom.com
+# 目标: Claude
 DOMAIN-SUFFIX,anthropic.com
+# 目标: Claude
 DOMAIN-SUFFIX,claude.ai

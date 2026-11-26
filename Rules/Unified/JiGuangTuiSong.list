@@ -1,21 +1,40 @@
 # 统一规则库 | 分类: JiGuangTuiSong
 # 合并来源: blackmatrix7/ios_rule_script JiGuangTuiSong
+# 说明: 极光推送
 # 规则数: 18
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,42r.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,5566ua.com
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,aurorapush.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,e0n.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,easytomessage.com
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,japps.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,jchat.io
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,jiguang.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,jmlk.co
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,jpush.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,jpush.io
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,jpushoa.com
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,jsurvey.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,jvoice.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,kc9.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,n0q.cn
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,pushcfg.com
+# 目标: JiGuangTuiSong
 DOMAIN-SUFFIX,s0n.cn

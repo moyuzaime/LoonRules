@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: KKTV
 # 合并来源: blackmatrix7/ios_rule_script KKTV
 # 规则数: 6
+# 目标: KKTV
 DOMAIN,kktv-theater.kk.stream
+# 目标: KKTV
 DOMAIN,theater-kktv.cdn.hinet.net
+# 目标: KKTV
 DOMAIN-SUFFIX,kktv.com.tw
+# 目标: KKTV
 DOMAIN-SUFFIX,kktv.me
+# 目标: KKTV
 USER-AGENT,KKTV*
+# 目标: KKTV
 USER-AGENT,com.kktv.ios.kktv*

@@ -1,5 +1,8 @@
 # 统一规则库 | 分类: AirChina
 # 合并来源: blackmatrix7/ios_rule_script AirChina
+# 说明: 中国国航
 # 规则数: 2
+# 目标: AirChina
 DOMAIN-SUFFIX,airchina.com.cn
+# 目标: AirChina
 DOMAIN-SUFFIX,airchinacargo.com

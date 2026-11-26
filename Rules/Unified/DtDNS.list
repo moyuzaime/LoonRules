@@ -1,20 +1,37 @@
 # 统一规则库 | 分类: DtDNS
 # 合并来源: blackmatrix7/ios_rule_script DtDNS
 # 规则数: 17
+# 目标: DtDNS
 DOMAIN-SUFFIX,3d-game.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,4irc.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,b0ne.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,chatnook.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,darktech.org
+# 目标: DtDNS
 DOMAIN-SUFFIX,deaftone.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,dtdns.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,dtdns.net
+# 目标: DtDNS
 DOMAIN-SUFFIX,effers.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,etowns.net
+# 目标: DtDNS
 DOMAIN-SUFFIX,etowns.org
+# 目标: DtDNS
 DOMAIN-SUFFIX,flnet.org
+# 目标: DtDNS
 DOMAIN-SUFFIX,gotgeeks.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,scieron.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,slyip.com
+# 目标: DtDNS
 DOMAIN-SUFFIX,slyip.net
+# 目标: DtDNS
 DOMAIN-SUFFIX,suroot.com

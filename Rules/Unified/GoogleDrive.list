@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: GoogleDrive
 # 合并来源: blackmatrix7/ios_rule_script GoogleDrive
 # 规则数: 8
+# 目标: GoogleDrive
 DOMAIN,www.googleapis.com
+# 目标: GoogleDrive
 DOMAIN-SUFFIX,docs.google.com
+# 目标: GoogleDrive
 DOMAIN-SUFFIX,drive.google.com
+# 目标: GoogleDrive
 DOMAIN-SUFFIX,googledrive.com
+# 目标: GoogleDrive
 DOMAIN-SUFFIX,googleusercontent.com
+# 目标: GoogleDrive
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
+# 目标: GoogleDrive
 USER-AGENT,*com.google.Drive*
+# 目标: GoogleDrive
 USER-AGENT,Google.Drive*

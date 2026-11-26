@@ -1,35 +1,68 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/BaiDuTieBa/BaiDuTieBa.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BaiDuTieBa/BaiDuTieBa.list
+# 说明: 百度贴吧
 # 规则数: 32
+# 目标: BaiDuTieBa
 DOMAIN,als.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,cdn.hiphotos.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,cpro.baidustatic.com
+# 目标: BaiDuTieBa
 DOMAIN,crab.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,dlswbr.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,ecma.bdimg.com
+# 目标: BaiDuTieBa
 DOMAIN,feed-image.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,fex.bdstatic.com
+# 目标: BaiDuTieBa
 DOMAIN,gomediago.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,gsp0.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,gss0.bdstatic.com
+# 目标: BaiDuTieBa
 DOMAIN,hmma.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,mediago-static.cdn.bcebos.com
+# 目标: BaiDuTieBa
 DOMAIN,miaowu.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,mobads-log.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,mobads.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,ns-strategy.cdn.bcebos.com
+# 目标: BaiDuTieBa
 DOMAIN,nsclick.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,passport.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,sofire.bdstatic.com
+# 目标: BaiDuTieBa
 DOMAIN,tb.himg.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,tb1.bdstatic.com
+# 目标: BaiDuTieBa
 DOMAIN,tb2.bdstatic.com
+# 目标: BaiDuTieBa
 DOMAIN,tb3.bdstatic.com
+# 目标: BaiDuTieBa
 DOMAIN,tb4.bdstatic.com
+# 目标: BaiDuTieBa
 DOMAIN,tb5.bdstatic.com
+# 目标: BaiDuTieBa
 DOMAIN,tb6.bdstatic.com
+# 目标: BaiDuTieBa
 DOMAIN,tbmsg.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,tieba-ares.cdn.bcebos.com
+# 目标: BaiDuTieBa
 DOMAIN,tiebac.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN,tiebapic.baidu.com
+# 目标: BaiDuTieBa
 DOMAIN-SUFFIX,tieba.baidu.com

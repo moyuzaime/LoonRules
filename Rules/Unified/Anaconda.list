@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Anaconda
 # 合并来源: blackmatrix7/ios_rule_script Anaconda
 # 规则数: 4
+# 目标: Anaconda
 DOMAIN-SUFFIX,anaconda.cloud
+# 目标: Anaconda
 DOMAIN-SUFFIX,anaconda.com
+# 目标: Anaconda
 DOMAIN-SUFFIX,anaconda.org
+# 目标: Anaconda
 DOMAIN-SUFFIX,conda.io

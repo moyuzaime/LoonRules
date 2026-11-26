@@ -1,25 +1,48 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/BOC/BOC.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BOC/BOC.list
+# 说明: 中国银行
 # 规则数: 22
+# 目标: BOC
 DOMAIN-SUFFIX,bank-of-china.com
+# 目标: BOC
 DOMAIN-SUFFIX,bankofchina.com
+# 目标: BOC
 DOMAIN-SUFFIX,boc.cn
+# 目标: BOC
 DOMAIN-SUFFIX,bocamchina.com
+# 目标: BOC
 DOMAIN-SUFFIX,bocaviation.com
+# 目标: BOC
 DOMAIN-SUFFIX,boccfc.cc
+# 目标: BOC
 DOMAIN-SUFFIX,boccfc.cn
+# 目标: BOC
 DOMAIN-SUFFIX,bocfullertonbank.com
+# 目标: BOC
 DOMAIN-SUFFIX,bocgi.com
+# 目标: BOC
 DOMAIN-SUFFIX,bocgins.com
+# 目标: BOC
 DOMAIN-SUFFIX,bochk.com
+# 目标: BOC
 DOMAIN-SUFFIX,bochkonline.com
+# 目标: BOC
 DOMAIN-SUFFIX,bocichina.cn
+# 目标: BOC
 DOMAIN-SUFFIX,bocichina.com
+# 目标: BOC
 DOMAIN-SUFFIX,bocichina.com.cn
+# 目标: BOC
 DOMAIN-SUFFIX,bocifunds.cn
+# 目标: BOC
 DOMAIN-SUFFIX,bocifunds.com
+# 目标: BOC
 DOMAIN-SUFFIX,bocifunds.com.cn
+# 目标: BOC
 DOMAIN-SUFFIX,bocigroup.com
+# 目标: BOC
 DOMAIN-SUFFIX,bocim.com
+# 目标: BOC
 DOMAIN-SUFFIX,bocservices.com.cn
+# 目标: BOC
 DOMAIN-SUFFIX,ftcwifi.com

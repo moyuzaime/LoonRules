@@ -1,9 +1,15 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/TIDAL/TIDAL.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TIDAL/TIDAL.list
 # 规则数: 6
+# 目标: TIDAL
 DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+# 目标: TIDAL
 DOMAIN-SUFFIX,tidal.com
+# 目标: TIDAL
 DOMAIN-SUFFIX,tidalhifi.com
+# 目标: TIDAL
 DOMAIN-SUFFIX,wimpmusic.com
+# 目标: TIDAL
 USER-AGENT,TIDAL*
+# 目标: TIDAL
 USER-AGENT,TIDAL*dia

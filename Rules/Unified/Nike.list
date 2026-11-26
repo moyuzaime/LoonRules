@@ -1,14 +1,25 @@
 # 统一规则库 | 分类: Nike
 # 合并来源: blackmatrix7/ios_rule_script Nike
 # 规则数: 11
+# 目标: Nike
 DOMAIN-SUFFIX,nike.com
+# 目标: Nike
 DOMAIN-SUFFIX,nike.com.br
+# 目标: Nike
 DOMAIN-SUFFIX,nike.com.hk
+# 目标: Nike
 DOMAIN-SUFFIX,nikecdn.com
+# 目标: Nike
 DOMAIN-SUFFIX,nikecloud.com
+# 目标: Nike
 DOMAIN-SUFFIX,nikeinc.com.cn
+# 目标: Nike
 DOMAIN-SUFFIX,nikestore.com.au
+# 目标: Nike
 DOMAIN-SUFFIX,niketracking.com
+# 目标: Nike
 DOMAIN-SUFFIX,static-nike.com
+# 目标: Nike
 DOMAIN-SUFFIX,swoo.sh
+# 目标: Nike
 DOMAIN-SUFFIX,swoosh.com

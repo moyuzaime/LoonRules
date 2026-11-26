@@ -1,250 +1,497 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/paypal.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/paypal.list
 # 规则数: 247
+# 目标: paypal
 DOMAIN-SUFFIX,account-paypal.info
+# 目标: paypal
 DOMAIN-SUFFIX,account-paypal.net
+# 目标: paypal
 DOMAIN-SUFFIX,account-paypal.org
+# 目标: paypal
 DOMAIN-SUFFIX,accountpaypal.com
+# 目标: paypal
 DOMAIN-SUFFIX,accountpaypal.net
+# 目标: paypal
 DOMAIN-SUFFIX,accountpaypal.org
+# 目标: paypal
 DOMAIN-SUFFIX,anfutong.cn
+# 目标: paypal
 DOMAIN-SUFFIX,anfutong.com
+# 目标: paypal
 DOMAIN-SUFFIX,anfutong.com.cn
+# 目标: paypal
 DOMAIN-SUFFIX,beibao.cn
+# 目标: paypal
 DOMAIN-SUFFIX,beibao.com
+# 目标: paypal
 DOMAIN-SUFFIX,beibao.com.cn
+# 目标: paypal
 DOMAIN-SUFFIX,bill-safe.com
+# 目标: paypal
 DOMAIN-SUFFIX,billmelater.com
+# 目标: paypal
 DOMAIN-SUFFIX,billmelater.info
+# 目标: paypal
 DOMAIN-SUFFIX,billmelater.net
+# 目标: paypal
 DOMAIN-SUFFIX,bml.info
+# 目标: paypal
 DOMAIN-SUFFIX,braintreegateway.com
+# 目标: paypal
 DOMAIN-SUFFIX,braintreegateway.tv
+# 目标: paypal
 DOMAIN-SUFFIX,braintreepayments.com
+# 目标: paypal
 DOMAIN-SUFFIX,braintreepayments.info
+# 目标: paypal
 DOMAIN-SUFFIX,braintreepayments.org
+# 目标: paypal
 DOMAIN-SUFFIX,braintreepayments.tv
+# 目标: paypal
 DOMAIN-SUFFIX,braintreepaymentsolutions.com
+# 目标: paypal
 DOMAIN-SUFFIX,braintreeps.com
+# 目标: paypal
 DOMAIN-SUFFIX,briantreepayments.net
+# 目标: paypal
 DOMAIN-SUFFIX,briantreepayments.tv
+# 目标: paypal
 DOMAIN-SUFFIX,buyfast-paysmart.net
+# 目标: paypal
 DOMAIN-SUFFIX,card.io
+# 目标: paypal
 DOMAIN-SUFFIX,cash2.com
+# 目标: paypal
 DOMAIN-SUFFIX,cashify.com
+# 目标: paypal
 DOMAIN-SUFFIX,cashify.net
+# 目标: paypal
 DOMAIN-SUFFIX,devtools-paypal.com
+# 目标: paypal
 DOMAIN-SUFFIX,experiencebillmelater.com
+# 目标: paypal
 DOMAIN-SUFFIX,filipino-music.net
+# 目标: paypal
 DOMAIN-SUFFIX,fundpaypal.com
+# 目标: paypal
 DOMAIN-SUFFIX,getbraintree.com
+# 目标: paypal
 DOMAIN-SUFFIX,gmoney.org
+# 目标: paypal
 DOMAIN-SUFFIX,i-o-u.info
+# 目标: paypal
 DOMAIN-SUFFIX,krakenjs.com
+# 目标: paypal
 DOMAIN-SUFFIX,loanbuilder.com
+# 目标: paypal
 DOMAIN-SUFFIX,login-paypal.com
+# 目标: paypal
 DOMAIN-SUFFIX,login-paypal.info
+# 目标: paypal
 DOMAIN-SUFFIX,mywaytopay.info
+# 目标: paypal
 DOMAIN-SUFFIX,mywaytopay.net
+# 目标: paypal
 DOMAIN-SUFFIX,pa9pal.com
+# 目标: paypal
 DOMAIN-SUFFIX,paaypal.com
+# 目标: paypal
 DOMAIN-SUFFIX,paily.net
+# 目标: paypal
 DOMAIN-SUFFIX,paily.org
+# 目标: paypal
 DOMAIN-SUFFIX,paipal.com
+# 目标: paypal
 DOMAIN-SUFFIX,pavpal.com
+# 目标: paypal
 DOMAIN-SUFFIX,paydiant.com
+# 目标: paypal
 DOMAIN-SUFFIX,paylike.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypa1.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypa1.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypaal.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-activate.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-activate.info
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-activate.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-apac.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-apps.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-biz.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-brandcentral.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-business.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-business.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-business.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-cardcash.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-cash.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-center.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-center.info
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-center.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-center.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-communication.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-communications.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-communications.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-community.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-community.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-comunidad.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-corp.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-database.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-database.us
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-donations.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-dynamic.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-engineering.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-europe.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-excelinvoicing.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-exchanges.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-forward.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-galactic.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-gift.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-gifts.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-gpplus.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-here.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-hrsystem.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-innovationlab.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-integration.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-japan.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-knowledge.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-labs.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-latam.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-learning.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-login.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-login.info
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-login.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-login.us
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-luxury.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-mainstreet.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-marketing.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-media.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-merchantloyalty.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-mktg.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-mobilemoney.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-network.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-notice.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-notify.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-online.info
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-online.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-online.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-optimizer.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-pages.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-photocard.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-plaza.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-portal.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-prepagata.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-prepagata.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-prepaid.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-profile.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-proserv.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-qrshopping.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-recargacelular.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-redeem.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-referral.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-retail.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-scoop.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-search.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-secure.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-secure.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-security.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-security.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-service.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-signin.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-signin.us
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-special.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-specialoffers.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-sptam.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-status.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-support.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-survey.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-survey.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-team.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal-viewpoints.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.ca
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.com.cn
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.com.hk
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.com.sg
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.hk
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.info
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.jp
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.me
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.net.cn
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.org.cn
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.so
+# 目标: paypal
 DOMAIN-SUFFIX,paypal.us
+# 目标: paypal
 DOMAIN-SUFFIX,paypalbeacon.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalbenefits.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalbrasil.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalcommunity.cn
+# 目标: paypal
 DOMAIN-SUFFIX,paypalcommunity.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalcommunity.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypalcommunity.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypalcorp.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalcredit.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalcreditcard.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalgivingfund.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypalhere.cn
+# 目标: paypal
 DOMAIN-SUFFIX,paypalhere.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalhere.com.cn
+# 目标: paypal
 DOMAIN-SUFFIX,paypalhere.info
+# 目标: paypal
 DOMAIN-SUFFIX,paypalhere.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypalhere.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypalhere.tv
+# 目标: paypal
 DOMAIN-SUFFIX,paypali.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypalinc.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalindia.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalinsuranceservices.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypall.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypallabs.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalme.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalnet.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypalnet.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypalnetwork.info
+# 目标: paypal
 DOMAIN-SUFFIX,paypalnetwork.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypalnetwork.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypalobjects.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalonline.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypalonline.org
+# 目标: paypal
 DOMAIN-SUFFIX,paypalprepagata.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalprepagata.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypalservice.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalshopping.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalshopping.net
+# 目标: paypal
 DOMAIN-SUFFIX,paypalsurvey.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypalx.com
+# 目标: paypal
 DOMAIN-SUFFIX,paypaly.com
+# 目标: paypal
 DOMAIN-SUFFIX,payppal.com
+# 目标: paypal
 DOMAIN-SUFFIX,payypal.com
+# 目标: paypal
 DOMAIN-SUFFIX,pdncommunity.com
+# 目标: paypal
 DOMAIN-SUFFIX,pp-soc.com
+# 目标: paypal
 DOMAIN-SUFFIX,ppaypal.com
+# 目标: paypal
 DOMAIN-SUFFIX,pppds.com
+# 目标: paypal
 DOMAIN-SUFFIX,pypl.com
+# 目标: paypal
 DOMAIN-SUFFIX,pypl.info
+# 目标: paypal
 DOMAIN-SUFFIX,pypl.net
+# 目标: paypal
 DOMAIN-SUFFIX,pypl.tv
+# 目标: paypal
 DOMAIN-SUFFIX,s-xoom.com
+# 目标: paypal
 DOMAIN-SUFFIX,secure-paypal.info
+# 目标: paypal
 DOMAIN-SUFFIX,securepaypal.info
+# 目标: paypal
 DOMAIN-SUFFIX,simility.com
+# 目标: paypal
 DOMAIN-SUFFIX,sslpaypal.org
+# 目标: paypal
 DOMAIN-SUFFIX,swiftbank.info
+# 目标: paypal
 DOMAIN-SUFFIX,swiftbank.us
+# 目标: paypal
 DOMAIN-SUFFIX,swiftcapital.com
+# 目标: paypal
 DOMAIN-SUFFIX,swiftfinancial.com
+# 目标: paypal
 DOMAIN-SUFFIX,swiftfinancial.info
+# 目标: paypal
 DOMAIN-SUFFIX,swiftfinancial.net
+# 目标: paypal
 DOMAIN-SUFFIX,thepaypalshop.com
+# 目标: paypal
 DOMAIN-SUFFIX,theshoppingexpresslane.net
+# 目标: paypal
 DOMAIN-SUFFIX,venmo-touch.com
+# 目标: paypal
 DOMAIN-SUFFIX,venmo.com
+# 目标: paypal
 DOMAIN-SUFFIX,venmo.info
+# 目标: paypal
 DOMAIN-SUFFIX,venmo.net
+# 目标: paypal
 DOMAIN-SUFFIX,venmo.org
+# 目标: paypal
 DOMAIN-SUFFIX,venmo.s3.amazonaws.com
+# 目标: paypal
 DOMAIN-SUFFIX,webmoneyinfo.com
+# 目标: paypal
 DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
+# 目标: paypal
 DOMAIN-SUFFIX,www-paypal.info
+# 目标: paypal
 DOMAIN-SUFFIX,www-paypal.us
+# 目标: paypal
 DOMAIN-SUFFIX,wwwxoom.com
+# 目标: paypal
 DOMAIN-SUFFIX,xn--bnq297cix3a.cn
+# 目标: paypal
 DOMAIN-SUFFIX,xoom-experience.com
+# 目标: paypal
 DOMAIN-SUFFIX,xoom.com
+# 目标: paypal
 DOMAIN-SUFFIX,xoom.io
+# 目标: paypal
 DOMAIN-SUFFIX,xoom.net.cn
+# 目标: paypal
 DOMAIN-SUFFIX,xoom.us
+# 目标: paypal
 DOMAIN-SUFFIX,xoomcom.com
+# 目标: paypal
 DOMAIN-KEYWORD,paypal

@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: NivodTV
 # 合并来源: blackmatrix7/ios_rule_script NivodTV
 # 规则数: 8
+# 目标: NivodTV
 DOMAIN-SUFFIX,biggggg.com
+# 目标: NivodTV
 DOMAIN-SUFFIX,mudvod.tv
+# 目标: NivodTV
 DOMAIN-SUFFIX,nbys.tv
+# 目标: NivodTV
 DOMAIN-SUFFIX,nbys1.tv
+# 目标: NivodTV
 DOMAIN-SUFFIX,nbyy.tv
+# 目标: NivodTV
 DOMAIN-SUFFIX,newpppp.com
+# 目标: NivodTV
 DOMAIN-SUFFIX,vod360.net
+# 目标: NivodTV
 DOMAIN-KEYWORD,nivod

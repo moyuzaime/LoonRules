@@ -1,30 +1,57 @@
 # 统一规则库 | 分类: Vercel
 # 合并来源: blackmatrix7/ios_rule_script Vercel
 # 规则数: 27
+# 目标: Vercel
 DOMAIN-SUFFIX,err.sh
+# 目标: Vercel
 DOMAIN-SUFFIX,hyper.is
+# 目标: Vercel
 DOMAIN-SUFFIX,nextjs.org
+# 目标: Vercel
 DOMAIN-SUFFIX,now.sh
+# 目标: Vercel
 DOMAIN-SUFFIX,static.fun
+# 目标: Vercel
 DOMAIN-SUFFIX,title.sh
+# 目标: Vercel
 DOMAIN-SUFFIX,turborepo.org
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel-analytics.com
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel-dns.com
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel-insights.com
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel-status.com
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel.app
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel.blog
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel.com
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel.events
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel.link
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel.live
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel.pub
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel.sh
+# 目标: Vercel
 DOMAIN-SUFFIX,vercel.store
+# 目标: Vercel
 DOMAIN-SUFFIX,zeit-world.co.uk
+# 目标: Vercel
 DOMAIN-SUFFIX,zeit-world.com
+# 目标: Vercel
 DOMAIN-SUFFIX,zeit-world.net
+# 目标: Vercel
 DOMAIN-SUFFIX,zeit-world.org
+# 目标: Vercel
 DOMAIN-SUFFIX,zeit.co
+# 目标: Vercel
 DOMAIN-SUFFIX,zeit.sh
+# 目标: Vercel
 DOMAIN-SUFFIX,zeitworld.com

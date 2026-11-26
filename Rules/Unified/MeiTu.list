@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: MeiTu
 # 合并来源: blackmatrix7/ios_rule_script MeiTu
+# 说明: 美图
 # 规则数: 4
+# 目标: MeiTu
 DOMAIN-SUFFIX,meipai.com
+# 目标: MeiTu
 DOMAIN-SUFFIX,meitu.com
+# 目标: MeiTu
 DOMAIN-SUFFIX,meitudata.com
+# 目标: MeiTu
 DOMAIN-SUFFIX,meitustat.com

@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: Spark
 # 合并来源: blackmatrix7/ios_rule_script Spark
 # 规则数: 5
+# 目标: Spark
 DOMAIN-SUFFIX,amplitude.com
+# 目标: Spark
 DOMAIN-SUFFIX,firebaseio.com
+# 目标: Spark
 DOMAIN-SUFFIX,hockeyapp.net
+# 目标: Spark
 DOMAIN-SUFFIX,readdle.com
+# 目标: Spark
 DOMAIN-SUFFIX,smartmailcloud.com

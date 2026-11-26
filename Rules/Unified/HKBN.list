@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: HKBN
 # 合并来源: blackmatrix7/ios_rule_script HKBN
 # 规则数: 6
+# 目标: HKBN
 DOMAIN-SUFFIX,csifund.org
+# 目标: HKBN
 DOMAIN-SUFFIX,hkbn.com.hk
+# 目标: HKBN
 DOMAIN-SUFFIX,hkbn.net
+# 目标: HKBN
 DOMAIN-SUFFIX,hkbnes.net
+# 目标: HKBN
 DOMAIN-SUFFIX,jos.com
+# 目标: HKBN
 DOMAIN-SUFFIX,speedtest.com.hk

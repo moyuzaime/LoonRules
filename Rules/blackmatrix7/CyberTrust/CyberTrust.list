@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/CyberTrust/CyberTrust.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CyberTrust/CyberTrust.list
 # 规则数: 2
+# 目标: CyberTrust
 DOMAIN-SUFFIX,cybertrust.co.jp
+# 目标: CyberTrust
 DOMAIN-SUFFIX,cybertrust.ne.jp

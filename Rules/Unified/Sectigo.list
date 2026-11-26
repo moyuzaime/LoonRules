@@ -1,10 +1,17 @@
 # 统一规则库 | 分类: Sectigo
 # 合并来源: blackmatrix7/ios_rule_script Sectigo
 # 规则数: 7
+# 目标: Sectigo
 DOMAIN-SUFFIX,enterprisessl.com
+# 目标: Sectigo
 DOMAIN-SUFFIX,hackerguardian.com
+# 目标: Sectigo
 DOMAIN-SUFFIX,instantssl.com
+# 目标: Sectigo
 DOMAIN-SUFFIX,optimumssl.com
+# 目标: Sectigo
 DOMAIN-SUFFIX,positivessl.com
+# 目标: Sectigo
 DOMAIN-SUFFIX,sectigo.com
+# 目标: Sectigo
 DOMAIN-SUFFIX,usertrust.com

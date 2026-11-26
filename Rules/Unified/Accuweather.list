@@ -1,4 +1,5 @@
 # 统一规则库 | 分类: Accuweather
 # 合并来源: blackmatrix7/ios_rule_script Accuweather
 # 规则数: 1
+# 目标: Accuweather
 DOMAIN-SUFFIX,accuweather.com

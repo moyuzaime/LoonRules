@@ -1,118 +1,233 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/forum.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/forum.list
 # 规则数: 115
+# 目标: forum
 DOMAIN,bbs.boingboing.net
+# 目标: forum
 DOMAIN,www.quora.com.cdn.cloudflare.net
+# 目标: forum
 DOMAIN-SUFFIX,18p2p.com
+# 目标: forum
 DOMAIN-SUFFIX,22112211.xyz
+# 目标: forum
 DOMAIN-SUFFIX,2ch.hk
+# 目标: forum
 DOMAIN-SUFFIX,2ch.life
+# 目标: forum
 DOMAIN-SUFFIX,2ch.net
+# 目标: forum
 DOMAIN-SUFFIX,2ch.org
+# 目标: forum
 DOMAIN-SUFFIX,2ch.su
+# 目标: forum
 DOMAIN-SUFFIX,4cdn.org
+# 目标: forum
 DOMAIN-SUFFIX,4chan.org
+# 目标: forum
 DOMAIN-SUFFIX,4channel.org
+# 目标: forum
 DOMAIN-SUFFIX,5ch.io
+# 目标: forum
 DOMAIN-SUFFIX,5ch.net
+# 目标: forum
 DOMAIN-SUFFIX,5i01.com
+# 目标: forum
 DOMAIN-SUFFIX,6park.com
+# 目标: forum
 DOMAIN-SUFFIX,6parkbbs.com
+# 目标: forum
 DOMAIN-SUFFIX,6parknews.com
+# 目标: forum
 DOMAIN-SUFFIX,8chan.moe
+# 目标: forum
 DOMAIN-SUFFIX,avsforum.com
+# 目标: forum
 DOMAIN-SUFFIX,broadbandreports.com
+# 目标: forum
 DOMAIN-SUFFIX,ck101.com
+# 目标: forum
 DOMAIN-SUFFIX,ckcdn.com
+# 目标: forum
 DOMAIN-SUFFIX,ckck.fun
+# 目标: forum
 DOMAIN-SUFFIX,cool18.com
+# 目标: forum
 DOMAIN-SUFFIX,dcard.cc
+# 目标: forum
 DOMAIN-SUFFIX,dcard.io
+# 目标: forum
 DOMAIN-SUFFIX,dcard.link
+# 目标: forum
 DOMAIN-SUFFIX,dcard.tw
+# 目标: forum
 DOMAIN-SUFFIX,deepflood.com
+# 目标: forum
 DOMAIN-SUFFIX,disp.cc
+# 目标: forum
 DOMAIN-SUFFIX,doom9.org
+# 目标: forum
 DOMAIN-SUFFIX,dslr.net
+# 目标: forum
 DOMAIN-SUFFIX,dslreports.com
+# 目标: forum
 DOMAIN-SUFFIX,dzen.ru
+# 目标: forum
 DOMAIN-SUFFIX,dzeninfra.ru
+# 目标: forum
 DOMAIN-SUFFIX,eyny.com
+# 目标: forum
 DOMAIN-SUFFIX,fanfiction.net
+# 目标: forum
 DOMAIN-SUFFIX,gab.com
+# 目标: forum
 DOMAIN-SUFFIX,habr.com
+# 目标: forum
 DOMAIN-SUFFIX,habrastorage.org
+# 目标: forum
 DOMAIN-SUFFIX,hkgolden.com
+# 目标: forum
 DOMAIN-SUFFIX,hkgolden.media
+# 目标: forum
 DOMAIN-SUFFIX,hydrogenaud.io
+# 目标: forum
 DOMAIN-SUFFIX,ldstatic.com
+# 目标: forum
 DOMAIN-SUFFIX,lih.kg
+# 目标: forum
 DOMAIN-SUFFIX,lihkg.com
+# 目标: forum
 DOMAIN-SUFFIX,linux.do
+# 目标: forum
 DOMAIN-SUFFIX,livejournal.com
+# 目标: forum
 DOMAIN-SUFFIX,livejournal.net
+# 目标: forum
 DOMAIN-SUFFIX,maintracker.org
+# 目标: forum
 DOMAIN-SUFFIX,mewe.com
+# 目标: forum
 DOMAIN-SUFFIX,mobile01.com
+# 目标: forum
 DOMAIN-SUFFIX,nodeget.com
+# 目标: forum
 DOMAIN-SUFFIX,nodeimage.com
+# 目标: forum
 DOMAIN-SUFFIX,nodequality.com
+# 目标: forum
 DOMAIN-SUFFIX,nodeseek.com
+# 目标: forum
 DOMAIN-SUFFIX,nodeseek.org
+# 目标: forum
 DOMAIN-SUFFIX,parkvv.com
+# 目标: forum
 DOMAIN-SUFFIX,parler.com
+# 目标: forum
 DOMAIN-SUFFIX,pimg.tw
+# 目标: forum
 DOMAIN-SUFFIX,pincong.rocks
+# 目标: forum
 DOMAIN-SUFFIX,pixanalytics.com
+# 目标: forum
 DOMAIN-SUFFIX,pixfs.net
+# 目标: forum
 DOMAIN-SUFFIX,pixinsight.com.tw
+# 目标: forum
 DOMAIN-SUFFIX,pixnet.cc
+# 目标: forum
 DOMAIN-SUFFIX,pixnet.net
+# 目标: forum
 DOMAIN-SUFFIX,pixnet.pro
+# 目标: forum
 DOMAIN-SUFFIX,pixnet.tw
+# 目标: forum
 DOMAIN-SUFFIX,pixplug.in
+# 目标: forum
 DOMAIN-SUFFIX,poe.com
+# 目标: forum
 DOMAIN-SUFFIX,poecdn.net
+# 目标: forum
 DOMAIN-SUFFIX,popo8.com
+# 目标: forum
 DOMAIN-SUFFIX,ptt.cc
+# 目标: forum
 DOMAIN-SUFFIX,ptt2.cc
+# 目标: forum
 DOMAIN-SUFFIX,ptt3.cc
+# 目标: forum
 DOMAIN-SUFFIX,qr.ae
+# 目标: forum
 DOMAIN-SUFFIX,questionablequesting.com
+# 目标: forum
 DOMAIN-SUFFIX,quora.com
+# 目标: forum
 DOMAIN-SUFFIX,quoracdn.net
+# 目标: forum
 DOMAIN-SUFFIX,redd.it
+# 目标: forum
 DOMAIN-SUFFIX,reddit.app.link
+# 目标: forum
 DOMAIN-SUFFIX,reddit.com
+# 目标: forum
 DOMAIN-SUFFIX,reddit.map.fastly.net
+# 目标: forum
 DOMAIN-SUFFIX,redditblog.com
+# 目标: forum
 DOMAIN-SUFFIX,reddithelp.com
+# 目标: forum
 DOMAIN-SUFFIX,redditinc.com
+# 目标: forum
 DOMAIN-SUFFIX,redditmail.com
+# 目标: forum
 DOMAIN-SUFFIX,redditmedia.com
+# 目标: forum
 DOMAIN-SUFFIX,redditspace.com
+# 目标: forum
 DOMAIN-SUFFIX,redditstatic.com
+# 目标: forum
 DOMAIN-SUFFIX,redditstatus.com
+# 目标: forum
 DOMAIN-SUFFIX,reddituploads.com
+# 目标: forum
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+# 目标: forum
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+# 目标: forum
 DOMAIN-SUFFIX,rutracker.cc
+# 目标: forum
 DOMAIN-SUFFIX,rutracker.cr
+# 目标: forum
 DOMAIN-SUFFIX,rutracker.me
+# 目标: forum
 DOMAIN-SUFFIX,rutracker.net
+# 目标: forum
 DOMAIN-SUFFIX,rutracker.nl
+# 目标: forum
 DOMAIN-SUFFIX,rutracker.org
+# 目标: forum
 DOMAIN-SUFFIX,rutracker.wiki
+# 目标: forum
 DOMAIN-SUFFIX,rutrk.org
+# 目标: forum
 DOMAIN-SUFFIX,safechat.com
+# 目标: forum
 DOMAIN-SUFFIX,sis001.com
+# 目标: forum
 DOMAIN-SUFFIX,soyjak.party
+# 目标: forum
 DOMAIN-SUFFIX,soyjak.st
+# 目标: forum
 DOMAIN-SUFFIX,spacebattles.com
+# 目标: forum
 DOMAIN-SUFFIX,v2ex.co
+# 目标: forum
 DOMAIN-SUFFIX,v2ex.com
+# 目标: forum
 DOMAIN-SUFFIX,xda-cdn.com
+# 目标: forum
 DOMAIN-SUFFIX,xda-developers.com
+# 目标: forum
 DOMAIN-SUFFIX,xdaforums.com
+# 目标: forum
 DOMAIN-SUFFIX,xdaimages.com
+# 目标: forum
 DOMAIN-SUFFIX,xwbo.com

@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Bootcss
 # 合并来源: blackmatrix7/ios_rule_script Bootcss
 # 规则数: 3
+# 目标: Bootcss
 DOMAIN-SUFFIX,bootcdn.cn
+# 目标: Bootcss
 DOMAIN-SUFFIX,bootcss.com
+# 目标: Bootcss
 DOMAIN-SUFFIX,phpcomposer.com

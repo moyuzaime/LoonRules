@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: DiSiFanShi
 # 合并来源: blackmatrix7/ios_rule_script DiSiFanShi
+# 说明: 第四范式
 # 规则数: 4
+# 目标: DiSiFanShi
 DOMAIN-SUFFIX,4paradigm.com
+# 目标: DiSiFanShi
 DOMAIN-SUFFIX,aihero100.com
+# 目标: DiSiFanShi
 DOMAIN-SUFFIX,tuijianxitong.cn
+# 目标: DiSiFanShi
 DOMAIN-SUFFIX,v1zhushou.com

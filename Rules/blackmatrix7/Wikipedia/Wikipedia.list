@@ -1,15 +1,28 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Wikipedia/Wikipedia.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Wikipedia/Wikipedia.list
+# 说明: 维基
 # 规则数: 12
+# 目标: Wikipedia
 DOMAIN-SUFFIX,mediawiki.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikibooks.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikidata.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikileaks.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikimedia.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikinews.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikipedia.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikiquote.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikisource.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikiversity.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wikivoyage.org
+# 目标: Wikipedia
 DOMAIN-SUFFIX,wiktionary.org

@@ -1,7 +1,11 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Gog/Gog.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gog/Gog.list
 # 规则数: 4
+# 目标: Gog
 DOMAIN,gog.salesmanago.com
+# 目标: Gog
 DOMAIN-SUFFIX,gog-statics.com
+# 目标: Gog
 DOMAIN-SUFFIX,gog.com
+# 目标: Gog
 DOMAIN-SUFFIX,gog.qtlglb.com

@@ -1,73 +1,143 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Developer/Developer.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Developer/Developer.list
 # 规则数: 70
+# 目标: Developer
 DOMAIN-SUFFIX,apple-cloudkit.com
+# 目标: Developer
 DOMAIN-SUFFIX,apple-mapkit.com
+# 目标: Developer
 DOMAIN-SUFFIX,apple.com.akadns.net
+# 目标: Developer
 DOMAIN-SUFFIX,appleswift.com
+# 目标: Developer
 DOMAIN-SUFFIX,appleworldwidedeveloper.hb-api.omtrdc.net
+# 目标: Developer
 DOMAIN-SUFFIX,appleworldwidedeveloper.sc.omtrdc.net
+# 目标: Developer
 DOMAIN-SUFFIX,calendarserver.org
+# 目标: Developer
 DOMAIN-SUFFIX,carekit.org
+# 目标: Developer
 DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+# 目标: Developer
 DOMAIN-SUFFIX,cups.org
+# 目标: Developer
 DOMAIN-SUFFIX,developer.apple.com
+# 目标: Developer
 DOMAIN-SUFFIX,developerservices2.apple.com
+# 目标: Developer
 DOMAIN-SUFFIX,devimages-cdn.apple.com
+# 目标: Developer
 DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+# 目标: Developer
 DOMAIN-SUFFIX,foundationdb.org
+# 目标: Developer
 DOMAIN-SUFFIX,macosforge.org
+# 目标: Developer
 DOMAIN-SUFFIX,macruby.com
+# 目标: Developer
 DOMAIN-SUFFIX,macruby.net
+# 目标: Developer
 DOMAIN-SUFFIX,macruby.org
+# 目标: Developer
 DOMAIN-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com
+# 目标: Developer
 DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
+# 目标: Developer
 DOMAIN-SUFFIX,p-events-delivery.akamaized.net
+# 目标: Developer
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+# 目标: Developer
 DOMAIN-SUFFIX,push-apple.com.akadns.net
+# 目标: Developer
 DOMAIN-SUFFIX,researchandcare.org
+# 目标: Developer
 DOMAIN-SUFFIX,researchkit.cn
+# 目标: Developer
 DOMAIN-SUFFIX,researchkit.com.cn
+# 目标: Developer
 DOMAIN-SUFFIX,researchkit.hk
+# 目标: Developer
 DOMAIN-SUFFIX,researchkit.net
+# 目标: Developer
 DOMAIN-SUFFIX,researchkit.org
+# 目标: Developer
 DOMAIN-SUFFIX,researchkit.tv
+# 目标: Developer
 DOMAIN-SUFFIX,servicetalk.io
+# 目标: Developer
 DOMAIN-SUFFIX,swift.org
+# 目标: Developer
 DOMAIN-SUFFIX,swiftui.cn
+# 目标: Developer
 DOMAIN-SUFFIX,swiftui.com.cn
+# 目标: Developer
 DOMAIN-SUFFIX,timestamp.apple.com
+# 目标: Developer
 DOMAIN-SUFFIX,webkit.org
+# 目标: Developer
 DOMAIN-SUFFIX,webkitgtk.org
+# 目标: Developer
 DOMAIN-SUFFIX,webobjects.com
+# 目标: Developer
 DOMAIN-SUFFIX,wpewebkit.org
+# 目标: Developer
 DOMAIN-SUFFIX,apache.org
+# 目标: Developer
 DOMAIN-SUFFIX,atlassian.com
+# 目标: Developer
 DOMAIN-SUFFIX,debian.com
+# 目标: Developer
 DOMAIN-SUFFIX,docker.com
+# 目标: Developer
 DOMAIN-SUFFIX,docker.io
+# 目标: Developer
 DOMAIN-SUFFIX,elastic.co
+# 目标: Developer
 DOMAIN-SUFFIX,elastic.com
+# 目标: Developer
 DOMAIN-SUFFIX,fontawesome.com
+# 目标: Developer
 DOMAIN-SUFFIX,gcr.io
+# 目标: Developer
 DOMAIN-SUFFIX,gitlab.com
+# 目标: Developer
 DOMAIN-SUFFIX,gitlab.io
+# 目标: Developer
 DOMAIN-SUFFIX,jetbra.in
+# 目标: Developer
 DOMAIN-SUFFIX,jitpack.io
+# 目标: Developer
 DOMAIN-SUFFIX,macosicons.com
+# 目标: Developer
 DOMAIN-SUFFIX,maven.org
+# 目标: Developer
 DOMAIN-SUFFIX,medium.com
+# 目标: Developer
 DOMAIN-SUFFIX,mvnrepository.com
+# 目标: Developer
 DOMAIN-SUFFIX,openai.com
+# 目标: Developer
 DOMAIN-SUFFIX,postman-echo.com
+# 目标: Developer
 DOMAIN-SUFFIX,python.org
+# 目标: Developer
 DOMAIN-SUFFIX,pythonhosted.org
+# 目标: Developer
 DOMAIN-SUFFIX,quay.io
+# 目标: Developer
 DOMAIN-SUFFIX,reddit.com
+# 目标: Developer
 DOMAIN-SUFFIX,redhat.com
+# 目标: Developer
 DOMAIN-SUFFIX,sonatype.org
+# 目标: Developer
 DOMAIN-SUFFIX,sourcegraph.com
+# 目标: Developer
 DOMAIN-SUFFIX,spring.io
+# 目标: Developer
 DOMAIN-SUFFIX,spring.net
+# 目标: Developer
 DOMAIN-SUFFIX,stackoverflow.com
+# 目标: Developer
 DOMAIN-SUFFIX,unpkg.com

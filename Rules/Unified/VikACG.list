@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: VikACG
 # 合并来源: blackmatrix7/ios_rule_script VikACG
 # 规则数: 2
+# 目标: VikACG
 DOMAIN-SUFFIX,picjs.xyz
+# 目标: VikACG
 DOMAIN-SUFFIX,vikacg.com

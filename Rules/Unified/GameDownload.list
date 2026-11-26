@@ -1,42 +1,81 @@
 # 统一规则库 | 分类: GameDownload
 # 合并来源: blackmatrix7/ios_rule_script GameDownload
 # 规则数: 39
+# 目标: GameDownload
 DOMAIN,assets1.xboxlive.com
+# 目标: GameDownload
 DOMAIN,assets2.xboxlive.com
+# 目标: GameDownload
 DOMAIN,blizzard.gcdn.cloudn.co.kr
+# 目标: GameDownload
 DOMAIN,blzddist1-a.akamaihd.net
+# 目标: GameDownload
 DOMAIN,blzddistkr1-a.akamaihd.net
+# 目标: GameDownload
 DOMAIN,client.hikarifield.co.jp
+# 目标: GameDownload
 DOMAIN,content.cdp.bethesda.net
+# 目标: GameDownload
 DOMAIN,download.cdp.bethesda.net
+# 目标: GameDownload
 DOMAIN,download.dm.origin.com
+# 目标: GameDownload
 DOMAIN,download.epicgames.com
+# 目标: GameDownload
 DOMAIN,download.hikarifield.co.jp
+# 目标: GameDownload
 DOMAIN,download2.epicgames.com
+# 目标: GameDownload
 DOMAIN,download3.epicgames.com
+# 目标: GameDownload
 DOMAIN,download4.epicgames.com
+# 目标: GameDownload
 DOMAIN,edge.steam-dns.top.comcast.net
+# 目标: GameDownload
 DOMAIN,epicgames-download1.akamaized.net
+# 目标: GameDownload
 DOMAIN,eu.cdn.blizzard.com
+# 目标: GameDownload
 DOMAIN,fastly-download.epicgames.com
+# 目标: GameDownload
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+# 目标: GameDownload
 DOMAIN,gog-cdn-lumen.secure2.footprint.net
+# 目标: GameDownload
 DOMAIN,kr.cdn.blizzard.com
+# 目标: GameDownload
 DOMAIN,level3.blizzard.com
+# 目标: GameDownload
 DOMAIN,origin-a.akamaihd.net
+# 目标: GameDownload
 DOMAIN,packagespc.xboxlive.com
+# 目标: GameDownload
 DOMAIN,ssl-lvlt.cdn.ea.com
+# 目标: GameDownload
 DOMAIN,steam.eca.qtlglb.com
+# 目标: GameDownload
 DOMAIN,steam.naeu.qtlglb.com
+# 目标: GameDownload
 DOMAIN,steam.ru.qtlglb.com
+# 目标: GameDownload
 DOMAIN,steampipe-kr.akamaized.net
+# 目标: GameDownload
 DOMAIN,steampipe-partner.akamaized.net
+# 目标: GameDownload
 DOMAIN,steampipe.akamaized.net
+# 目标: GameDownload
 DOMAIN,steamusercontent-a.akamaihd.net
+# 目标: GameDownload
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+# 目标: GameDownload
 DOMAIN,us.cdn.blizzard.com
+# 目标: GameDownload
 DOMAIN,xvcf1.xboxlive.com
+# 目标: GameDownload
 DOMAIN,xvcf2.xboxlive.com
+# 目标: GameDownload
 DOMAIN-SUFFIX,cdn.ubi.com
+# 目标: GameDownload
 DOMAIN-SUFFIX,dyn.riotcdn.net
+# 目标: GameDownload
 DOMAIN-SUFFIX,steamcontent.com

@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Purikonejp
 # 合并来源: blackmatrix7/ios_rule_script Purikonejp
 # 规则数: 3
+# 目标: Purikonejp
 DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+# 目标: Purikonejp
 DOMAIN-SUFFIX,omotenashi.cygames.jp
+# 目标: Purikonejp
 DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net

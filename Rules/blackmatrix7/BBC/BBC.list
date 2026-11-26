@@ -1,32 +1,61 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/BBC/BBC.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BBC/BBC.list
 # 规则数: 29
+# 目标: BBC
 DOMAIN,aod-dash-uk-live.akamaized.net
+# 目标: BBC
 DOMAIN,aod-hls-uk-live.akamaized.net
+# 目标: BBC
 DOMAIN,as-dash-uk-live.akamaized.net
+# 目标: BBC
 DOMAIN,as-hls-uk-live.akamaized.net
+# 目标: BBC
 DOMAIN,vod-dash-uk-live.akamaized.net
+# 目标: BBC
 DOMAIN,vod-dash-ww-live.akamaized.net
+# 目标: BBC
 DOMAIN,vod-hls-uk-live.akamaized.net
+# 目标: BBC
 DOMAIN,vod-sub-uk-live.akamaized.net
+# 目标: BBC
 DOMAIN,vod-thumb-uk-live.akamaized.net
+# 目标: BBC
 DOMAIN,vod-thumb-ww-live.akamaized.net
+# 目标: BBC
 DOMAIN,vs-cmaf-push-uk-live.akamaized.net
+# 目标: BBC
 DOMAIN-SUFFIX,bbc
+# 目标: BBC
 DOMAIN-SUFFIX,bbc.co
+# 目标: BBC
 DOMAIN-SUFFIX,bbc.co.uk
+# 目标: BBC
 DOMAIN-SUFFIX,bbc.com
+# 目标: BBC
 DOMAIN-SUFFIX,bbc.in
+# 目标: BBC
 DOMAIN-SUFFIX,bbc.net.uk
+# 目标: BBC
 DOMAIN-SUFFIX,bbcchinese.com
+# 目标: BBC
 DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+# 目标: BBC
 DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
+# 目标: BBC
 DOMAIN-SUFFIX,bbci.co
+# 目标: BBC
 DOMAIN-SUFFIX,bbci.co.uk
+# 目标: BBC
 DOMAIN-SUFFIX,bbcmedia.co.uk
+# 目标: BBC
 DOMAIN-SUFFIX,bbcpersian.com
+# 目标: BBC
 DOMAIN-SUFFIX,bbcverticals.com
+# 目标: BBC
 DOMAIN-SUFFIX,bidi.net.uk
+# 目标: BBC
 DOMAIN-KEYWORD,bbcfmt
+# 目标: BBC
 DOMAIN-KEYWORD,uk-live
+# 目标: BBC
 USER-AGENT,BBCiPlayer*

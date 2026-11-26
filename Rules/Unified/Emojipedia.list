@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Emojipedia
 # 合并来源: blackmatrix7/ios_rule_script Emojipedia
 # 规则数: 3
+# 目标: Emojipedia
 DOMAIN-SUFFIX,emojipedia.org
+# 目标: Emojipedia
 DOMAIN-SUFFIX,worldemojiawards.com
+# 目标: Emojipedia
 DOMAIN-SUFFIX,worldemojiday.com

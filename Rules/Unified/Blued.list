@@ -1,36 +1,69 @@
 # 统一规则库 | 分类: Blued
 # 合并来源: blackmatrix7/ios_rule_script Blued
 # 规则数: 33
+# 目标: Blued
 DOMAIN-SUFFIX,bf99.com
+# 目标: Blued
 DOMAIN-SUFFIX,bldimg.com
+# 目标: Blued
 DOMAIN-SUFFIX,bldlive.com
+# 目标: Blued
 DOMAIN-SUFFIX,blue-city.com
+# 目标: Blued
 DOMAIN-SUFFIX,blued.cdn-gw-dv.net
+# 目标: Blued
 DOMAIN-SUFFIX,blued.cn
+# 目标: Blued
 DOMAIN-SUFFIX,blued.com
+# 目标: Blued
 DOMAIN-SUFFIX,blued.gw-dv.net
+# 目标: Blued
 DOMAIN-SUFFIX,bluedgames.cn
+# 目标: Blued
 DOMAIN-SUFFIX,bluedgames.com
+# 目标: Blued
 DOMAIN-SUFFIX,bluedimg.cn
+# 目标: Blued
 DOMAIN-SUFFIX,bluedimg.com
+# 目标: Blued
 DOMAIN-SUFFIX,budimg.cn
+# 目标: Blued
 DOMAIN-SUFFIX,caihongqi.com
+# 目标: Blued
 DOMAIN-SUFFIX,danlan.org
+# 目标: Blued
 DOMAIN-SUFFIX,danlancare.cn
+# 目标: Blued
 DOMAIN-SUFFIX,danlancare.com
+# 目标: Blued
 DOMAIN-SUFFIX,danlanlove.cn
+# 目标: Blued
 DOMAIN-SUFFIX,danlanlove.com
+# 目标: Blued
 DOMAIN-SUFFIX,fleeper.com
+# 目标: Blued
 DOMAIN-SUFFIX,irisdt.cn
+# 目标: Blued
 DOMAIN-SUFFIX,irisdt.com
+# 目标: Blued
 DOMAIN-SUFFIX,irisdt.net
+# 目标: Blued
 DOMAIN-SUFFIX,irisgw.cn
+# 目标: Blued
 DOMAIN-SUFFIX,irisgw.com
+# 目标: Blued
 DOMAIN-SUFFIX,irisgw.net
+# 目标: Blued
 DOMAIN-SUFFIX,ourbluecity.cn
+# 目标: Blued
 DOMAIN-SUFFIX,ourbluecity.com
+# 目标: Blued
 DOMAIN-SUFFIX,xiaogegelive.cn
+# 目标: Blued
 DOMAIN-SUFFIX,xiaogegelive.com
+# 目标: Blued
 DOMAIN-SUFFIX,xiaolanapp.com
+# 目标: Blued
 DOMAIN-SUFFIX,yijian-app.cn
+# 目标: Blued
 DOMAIN-SUFFIX,yijian-app.com

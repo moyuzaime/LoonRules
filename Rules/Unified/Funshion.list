@@ -1,13 +1,24 @@
 # 统一规则库 | 分类: Funshion
 # 合并来源: blackmatrix7/ios_rule_script Funshion
+# 说明: 风行网
 # 规则数: 10
+# 目标: Funshion
 DOMAIN-SUFFIX,9iwanwan.com
+# 目标: Funshion
 DOMAIN-SUFFIX,9ixiuxiu.com
+# 目标: Funshion
 DOMAIN-SUFFIX,fspcdn.com
+# 目标: Funshion
 DOMAIN-SUFFIX,fun.tv
+# 目标: Funshion
 DOMAIN-SUFFIX,funshion.com
+# 目标: Funshion
 DOMAIN-SUFFIX,funshion.net
+# 目标: Funshion
 DOMAIN-SUFFIX,funshion.tv
+# 目标: Funshion
 DOMAIN-SUFFIX,ibidian.com
+# 目标: Funshion
 DOMAIN-SUFFIX,jvcsmart.cn
+# 目标: Funshion
 DOMAIN-SUFFIX,jvcsmart.com.cn

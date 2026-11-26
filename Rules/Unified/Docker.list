@@ -1,10 +1,17 @@
 # 统一规则库 | 分类: Docker
 # 合并来源: blackmatrix7/ios_rule_script Docker
 # 规则数: 7
+# 目标: Docker
 DOMAIN,d1q6f0aelx0por.cloudfront.net
+# 目标: Docker
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+# 目标: Docker
 DOMAIN,d36jcksde1wxzq.cloudfront.net
+# 目标: Docker
 DOMAIN-SUFFIX,compose-spec.io
+# 目标: Docker
 DOMAIN-SUFFIX,docker.com
+# 目标: Docker
 DOMAIN-SUFFIX,docker.io
+# 目标: Docker
 DOMAIN-SUFFIX,dockerhub.com

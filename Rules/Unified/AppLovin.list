@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: AppLovin
 # 合并来源: blackmatrix7/ios_rule_script AppLovin
 # 规则数: 2
+# 目标: AppLovin
 DOMAIN-SUFFIX,applovin.com
+# 目标: AppLovin
 DOMAIN-SUFFIX,applvn.com

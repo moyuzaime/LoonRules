@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Pandora
 # 合并来源: blackmatrix7/ios_rule_script Pandora
 # 规则数: 3
+# 目标: Pandora
 DOMAIN-SUFFIX,p-cdn.us
+# 目标: Pandora
 DOMAIN-SUFFIX,pandora.com
+# 目标: Pandora
 USER-AGENT,Pandora*

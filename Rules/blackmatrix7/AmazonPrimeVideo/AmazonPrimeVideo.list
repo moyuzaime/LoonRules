@@ -1,30 +1,57 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AmazonPrimeVideo/AmazonPrimeVideo.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AmazonPrimeVideo/AmazonPrimeVideo.list
 # 规则数: 27
+# 目标: AmazonPrimeVideo
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+# 目标: AmazonPrimeVideo
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
+# 目标: AmazonPrimeVideo
 DOMAIN,d25xi40x97liuc.cloudfront.net
+# 目标: AmazonPrimeVideo
 DOMAIN,d27xxe7juh1us6.cloudfront.net
+# 目标: AmazonPrimeVideo
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,aiv-cdn.net
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,aiv-delivery.net
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,amazonprimevideo.cn
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,amazonprimevideos.com
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,amazonvideo.cc
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,amazonvideo.com
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,atv-ps.amazon.com
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,fls-na.amazon.com
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,llnwd.net
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,media-amazon.com
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,prime-video.com
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,primevideo.cc
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,primevideo.com
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,primevideo.info
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,primevideo.org
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,primevideo.tv
+# 目标: AmazonPrimeVideo
 DOMAIN-SUFFIX,pv-cdn.net
+# 目标: AmazonPrimeVideo
 DOMAIN-KEYWORD,avoddashs
+# 目标: AmazonPrimeVideo
 USER-AGENT,InstantVideo.US*
+# 目标: AmazonPrimeVideo
 USER-AGENT,Prime%20Video*

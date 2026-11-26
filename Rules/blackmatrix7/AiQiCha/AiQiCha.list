@@ -1,4 +1,6 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AiQiCha/AiQiCha.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AiQiCha/AiQiCha.list
+# 说明: 爱企查
 # 规则数: 1
+# 目标: AiQiCha
 DOMAIN-SUFFIX,aiqicha.baidu.com

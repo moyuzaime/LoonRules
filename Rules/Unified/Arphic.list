@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Arphic
 # 合并来源: blackmatrix7/ios_rule_script Arphic
 # 规则数: 4
+# 目标: Arphic
 DOMAIN-SUFFIX,arphic.com
+# 目标: Arphic
 DOMAIN-SUFFIX,arphic.com.cn
+# 目标: Arphic
 DOMAIN-SUFFIX,arphic.com.tw
+# 目标: Arphic
 DOMAIN-SUFFIX,ifontcloud.com

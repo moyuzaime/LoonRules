@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Dood/Dood.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Dood/Dood.list
 # 规则数: 3
+# 目标: Dood
 DOMAIN-SUFFIX,dood.so
+# 目标: Dood
 DOMAIN-SUFFIX,dood.video
+# 目标: Dood
 DOMAIN-SUFFIX,doodcdn.com

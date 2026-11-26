@@ -1,6 +1,10 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/BeStore/BeStore.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BeStore/BeStore.list
+# 说明: 良品铺子
 # 规则数: 3
+# 目标: BeStore
 DOMAIN-SUFFIX,517lppz.com
+# 目标: BeStore
 DOMAIN-SUFFIX,lppz.com
+# 目标: BeStore
 DOMAIN-SUFFIX,lppzimg.com

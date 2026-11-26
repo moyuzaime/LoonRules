@@ -1,36 +1,70 @@
 # 统一规则库 | 分类: EastMoney
 # 合并来源: blackmatrix7/ios_rule_script EastMoney
+# 说明: 东方财富
 # 规则数: 33
+# 目标: EastMoney
 DOMAIN-SUFFIX,1234567.com.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,18.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,18.com.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,95021.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,caifutong.com.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,caimi.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,caimi.com.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,dfcfs.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,dfcfs.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,dfcfw.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,dingqibao.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,dingqibao.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,dingqibao.com.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,dongfanglicaishi.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,eastmoney.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,eastmoneyfutures.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,emsec.hk
+# 目标: EastMoney
 DOMAIN-SUFFIX,guba.com.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,haitunzhibo.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,huoqibao.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,huoqibao.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,huoqibao.com.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,langke.tv
+# 目标: EastMoney
 DOMAIN-SUFFIX,samacn.org.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,tiantianfunds.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,txjhqh.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,uufund.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,uufund.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,xzsec.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,zhaiba.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,zhongcaisuo.cn
+# 目标: EastMoney
 DOMAIN-SUFFIX,zhongcaisuo.com
+# 目标: EastMoney
 DOMAIN-SUFFIX,zhongcaisuo.com.cn

@@ -1,80 +1,157 @@
 # 统一规则库 | 分类: gits
 # 合并来源: QuixoticHeart/rule-set gits
 # 规则数: 77
+# 目标: gits
 DOMAIN,copilotprodattachments.blob.core.windows.net
+# 目标: gits
 DOMAIN,github-api.arkoselabs.com
+# 目标: gits
 DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+# 目标: gits
 DOMAIN,github-production-repository-file-5c1aeb.s3.amazonaws.com
+# 目标: gits
 DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
+# 目标: gits
 DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+# 目标: gits
 DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
+# 目标: gits
 DOMAIN,production-copilot-host-westus.webpubsub.azure.com
+# 目标: gits
 DOMAIN,productionresultssa0.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa1.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa10.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa11.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa12.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa13.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa14.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa15.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa16.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa17.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa18.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa19.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa2.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa3.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa4.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa5.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa6.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa7.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa8.blob.core.windows.net
+# 目标: gits
 DOMAIN,productionresultssa9.blob.core.windows.net
+# 目标: gits
 DOMAIN-SUFFIX,atom.io
+# 目标: gits
 DOMAIN-SUFFIX,dependabot.com
+# 目标: gits
 DOMAIN-SUFFIX,gh.io
+# 目标: gits
 DOMAIN-SUFFIX,ghcr.io
+# 目标: gits
 DOMAIN-SUFFIX,ghe.com
+# 目标: gits
 DOMAIN-SUFFIX,git.io
+# 目标: gits
 DOMAIN-SUFFIX,gitbook.com
+# 目标: gits
 DOMAIN-SUFFIX,gitbook.io
+# 目标: gits
 DOMAIN-SUFFIX,gitbook.zendesk.com
+# 目标: gits
 DOMAIN-SUFFIX,gitee.com
+# 目标: gits
 DOMAIN-SUFFIX,gitee.io
+# 目标: gits
 DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+# 目标: gits
 DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+# 目标: gits
 DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+# 目标: gits
 DOMAIN-SUFFIX,github.ai
+# 目标: gits
 DOMAIN-SUFFIX,github.blog
+# 目标: gits
 DOMAIN-SUFFIX,github.career
+# 目标: gits
 DOMAIN-SUFFIX,github.com
+# 目标: gits
 DOMAIN-SUFFIX,github.community
+# 目标: gits
 DOMAIN-SUFFIX,github.dev
+# 目标: gits
 DOMAIN-SUFFIX,github.io
+# 目标: gits
 DOMAIN-SUFFIX,githubapp.com
+# 目标: gits
 DOMAIN-SUFFIX,githubassets.com
+# 目标: gits
 DOMAIN-SUFFIX,githubcopilot.com
+# 目标: gits
 DOMAIN-SUFFIX,githubhackathon.com
+# 目标: gits
 DOMAIN-SUFFIX,githubnext.com
+# 目标: gits
 DOMAIN-SUFFIX,githubpreview.dev
+# 目标: gits
 DOMAIN-SUFFIX,githubstatus.com
+# 目标: gits
 DOMAIN-SUFFIX,githubsupport.com
+# 目标: gits
 DOMAIN-SUFFIX,githubuniverse.com
+# 目标: gits
 DOMAIN-SUFFIX,githubusercontent.com
+# 目标: gits
 DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+# 目标: gits
 DOMAIN-SUFFIX,gitlab-static.net
+# 目标: gits
 DOMAIN-SUFFIX,gitlab.com
+# 目标: gits
 DOMAIN-SUFFIX,gitlab.io
+# 目标: gits
 DOMAIN-SUFFIX,gitlab.net
+# 目标: gits
 DOMAIN-SUFFIX,gitter-static.net
+# 目标: gits
 DOMAIN-SUFFIX,gitter.im
+# 目标: gits
 DOMAIN-SUFFIX,myoctocat.com
+# 目标: gits
 DOMAIN-SUFFIX,npm.community
+# 目标: gits
 DOMAIN-SUFFIX,npmjs.com
+# 目标: gits
 DOMAIN-SUFFIX,npmjs.org
+# 目标: gits
 DOMAIN-SUFFIX,octocaptcha.com
+# 目标: gits
 DOMAIN-SUFFIX,opensource.guide
+# 目标: gits
 DOMAIN-SUFFIX,rawgit.com
+# 目标: gits
 DOMAIN-SUFFIX,rawgithub.com
+# 目标: gits
 DOMAIN-SUFFIX,repo.new
+# 目标: gits
 DOMAIN-SUFFIX,thegithubshop.com
+# 目标: gits
 DOMAIN-KEYWORD,github

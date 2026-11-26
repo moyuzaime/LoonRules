@@ -1,8 +1,13 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/8btc/8btc.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/8btc/8btc.list
 # 规则数: 5
+# 目标: 8btc
 DOMAIN-SUFFIX,8btc.com
+# 目标: 8btc
 DOMAIN-SUFFIX,bystack.com
+# 目标: 8btc
 DOMAIN-SUFFIX,chainnode.com
+# 目标: 8btc
 DOMAIN-SUFFIX,matpool.com
+# 目标: 8btc
 DOMAIN-SUFFIX,matpool.net

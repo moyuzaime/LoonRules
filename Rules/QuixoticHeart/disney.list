@@ -1,239 +1,475 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/disney.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/disney.list
 # 规则数: 236
+# 目标: disney
 DOMAIN-SUFFIX,112263.com
+# 目标: disney
 DOMAIN-SUFFIX,20thcenturystudios.com
+# 目标: disney
 DOMAIN-SUFFIX,20thcenturystudios.com.au
+# 目标: disney
 DOMAIN-SUFFIX,20thcenturystudios.com.br
+# 目标: disney
 DOMAIN-SUFFIX,20thcenturystudios.jp
+# 目标: disney
 DOMAIN-SUFFIX,abc-studios.com
+# 目标: disney
 DOMAIN-SUFFIX,abc.com
+# 目标: disney
 DOMAIN-SUFFIX,abcnews.com
+# 目标: disney
 DOMAIN-SUFFIX,abcnews.edgesuite.net
+# 目标: disney
 DOMAIN-SUFFIX,adobedtm.com
+# 目标: disney
 DOMAIN-SUFFIX,adventuresbydisney.com
+# 目标: disney
 DOMAIN-SUFFIX,babble.com
+# 目标: disney
 DOMAIN-SUFFIX,babyzone.com
+# 目标: disney
 DOMAIN-SUFFIX,bam.nr-data.net
+# 目标: disney
 DOMAIN-SUFFIX,bamgrid.com
+# 目标: disney
 DOMAIN-SUFFIX,bamtech.net
+# 目标: disney
 DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk
+# 目标: disney
 DOMAIN-SUFFIX,braze.com
+# 目标: disney
 DOMAIN-SUFFIX,callhulu.com
+# 目标: disney
 DOMAIN-SUFFIX,cdn.optimizely.com
+# 目标: disney
 DOMAIN-SUFFIX,conviva.com
+# 目标: disney
 DOMAIN-SUFFIX,d9.flashtalking.com
+# 目标: disney
 DOMAIN-SUFFIX,detpress.com
+# 目标: disney
 DOMAIN-SUFFIX,dilcdn.com
+# 目标: disney
 DOMAIN-SUFFIX,disney-asia.com
+# 目标: disney
 DOMAIN-SUFFIX,disney-discount.com
+# 目标: disney
 DOMAIN-SUFFIX,disney-plus.net
+# 目标: disney
 DOMAIN-SUFFIX,disney-portal.my.onetrust.com
+# 目标: disney
 DOMAIN-SUFFIX,disney-studio.com
+# 目标: disney
 DOMAIN-SUFFIX,disney-studio.net
+# 目标: disney
 DOMAIN-SUFFIX,disney.asia
+# 目标: disney
 DOMAIN-SUFFIX,disney.be
+# 目标: disney
 DOMAIN-SUFFIX,disney.bg
+# 目标: disney
 DOMAIN-SUFFIX,disney.ca
+# 目标: disney
 DOMAIN-SUFFIX,disney.ch
+# 目标: disney
 DOMAIN-SUFFIX,disney.co.il
+# 目标: disney
 DOMAIN-SUFFIX,disney.co.jp
+# 目标: disney
 DOMAIN-SUFFIX,disney.co.kr
+# 目标: disney
 DOMAIN-SUFFIX,disney.co.th
+# 目标: disney
 DOMAIN-SUFFIX,disney.co.uk
+# 目标: disney
 DOMAIN-SUFFIX,disney.co.za
+# 目标: disney
 DOMAIN-SUFFIX,disney.com
+# 目标: disney
 DOMAIN-SUFFIX,disney.com.au
+# 目标: disney
 DOMAIN-SUFFIX,disney.com.br
+# 目标: disney
 DOMAIN-SUFFIX,disney.com.hk
+# 目标: disney
 DOMAIN-SUFFIX,disney.com.tw
+# 目标: disney
 DOMAIN-SUFFIX,disney.cz
+# 目标: disney
 DOMAIN-SUFFIX,disney.de
+# 目标: disney
 DOMAIN-SUFFIX,disney.demdex.net
+# 目标: disney
 DOMAIN-SUFFIX,disney.dk
+# 目标: disney
 DOMAIN-SUFFIX,disney.es
+# 目标: disney
 DOMAIN-SUFFIX,disney.fi
+# 目标: disney
 DOMAIN-SUFFIX,disney.fr
+# 目标: disney
 DOMAIN-SUFFIX,disney.gr
+# 目标: disney
 DOMAIN-SUFFIX,disney.hu
+# 目标: disney
 DOMAIN-SUFFIX,disney.id
+# 目标: disney
 DOMAIN-SUFFIX,disney.in
+# 目标: disney
 DOMAIN-SUFFIX,disney.io
+# 目标: disney
 DOMAIN-SUFFIX,disney.it
+# 目标: disney
 DOMAIN-SUFFIX,disney.my
+# 目标: disney
 DOMAIN-SUFFIX,disney.my.sentry.io
+# 目标: disney
 DOMAIN-SUFFIX,disney.nl
+# 目标: disney
 DOMAIN-SUFFIX,disney.no
+# 目标: disney
 DOMAIN-SUFFIX,disney.ph
+# 目标: disney
 DOMAIN-SUFFIX,disney.pl
+# 目标: disney
 DOMAIN-SUFFIX,disney.pt
+# 目标: disney
 DOMAIN-SUFFIX,disney.ro
+# 目标: disney
 DOMAIN-SUFFIX,disney.ru
+# 目标: disney
 DOMAIN-SUFFIX,disney.se
+# 目标: disney
 DOMAIN-SUFFIX,disney.sg
+# 目标: disney
 DOMAIN-SUFFIX,disneyaccount.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyadsales.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyanimation.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyarena.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyaulani.com
+# 目标: disney
 DOMAIN-SUFFIX,disneybaby.com
+# 目标: disney
 DOMAIN-SUFFIX,disneycareers.com
+# 目标: disney
 DOMAIN-SUFFIX,disneychannelonstage.com
+# 目标: disney
 DOMAIN-SUFFIX,disneychannelroadtrip.com
+# 目标: disney
 DOMAIN-SUFFIX,disneycruisebrasil.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyenconcert.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyiejobs.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyinflight.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyinternational.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyinternationalhd.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyjunior.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyjuniortreataday.com
+# 目标: disney
 DOMAIN-SUFFIX,disneylandparis.com
+# 目标: disney
 DOMAIN-SUFFIX,disneylatino.com
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.co.il
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.co.uk
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.co.za
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.de
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.es
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.fr
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.gen.tr
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.gr
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.it
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmoments.pl
+# 目标: disney
 DOMAIN-SUFFIX,disneymagicmomentsme.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyme.com
+# 目标: disney
 DOMAIN-SUFFIX,disneymeetingsandevents.com
+# 目标: disney
 DOMAIN-SUFFIX,disneymovieinsiders.com
+# 目标: disney
 DOMAIN-SUFFIX,disneymusicpromotion.com
+# 目标: disney
 DOMAIN-SUFFIX,disneynewseries.com
+# 目标: disney
 DOMAIN-SUFFIX,disneynow.com
+# 目标: disney
 DOMAIN-SUFFIX,disneypeoplesurveys.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyplus.bn5x.net
+# 目标: disney
 DOMAIN-SUFFIX,disneyplus.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+# 目标: disney
 DOMAIN-SUFFIX,disneyprivacycenter.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyredirects.com
+# 目标: disney
 DOMAIN-SUFFIX,disneysrivieraresort.com
+# 目标: disney
 DOMAIN-SUFFIX,disneystore.com
+# 目标: disney
 DOMAIN-SUFFIX,disneystreaming.com
+# 目标: disney
 DOMAIN-SUFFIX,disneysubscription.com
+# 目标: disney
 DOMAIN-SUFFIX,disneytermsofuse.com
+# 目标: disney
 DOMAIN-SUFFIX,disneytickets.co.uk
+# 目标: disney
 DOMAIN-SUFFIX,disneyturkiye.com.tr
+# 目标: disney
 DOMAIN-SUFFIX,disneytvajobs.com
+# 目标: disney
 DOMAIN-SUFFIX,disneyworld-go.com
+# 目标: disney
 DOMAIN-SUFFIX,dlp-media.com
+# 目标: disney
 DOMAIN-SUFFIX,dmed.technology
+# 目标: disney
 DOMAIN-SUFFIX,dssedge.com
+# 目标: disney
 DOMAIN-SUFFIX,dssott.com
+# 目标: disney
 DOMAIN-SUFFIX,dtci.co
+# 目标: disney
 DOMAIN-SUFFIX,dtci.technology
+# 目标: disney
 DOMAIN-SUFFIX,edgedatg.com
+# 目标: disney
 DOMAIN-SUFFIX,espn.co.uk
+# 目标: disney
 DOMAIN-SUFFIX,espn.com
+# 目标: disney
 DOMAIN-SUFFIX,espn.hb.omtrdc.net
+# 目标: disney
 DOMAIN-SUFFIX,espn.net
+# 目标: disney
 DOMAIN-SUFFIX,espncdn.com
+# 目标: disney
 DOMAIN-SUFFIX,espndotcom.tt.omtrdc.net
+# 目标: disney
 DOMAIN-SUFFIX,espnqa.com
+# 目标: disney
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+# 目标: disney
 DOMAIN-SUFFIX,findyourlimits.com
+# 目标: disney
 DOMAIN-SUFFIX,freeform.com
+# 目标: disney
 DOMAIN-SUFFIX,freehulu.com
+# 目标: disney
 DOMAIN-SUFFIX,fxnetwork.com
+# 目标: disney
 DOMAIN-SUFFIX,fxnetworks.com
+# 目标: disney
 DOMAIN-SUFFIX,go-disneyworldgo.com
+# 目标: disney
 DOMAIN-SUFFIX,go.com
+# 目标: disney
 DOMAIN-SUFFIX,hongkongdisneyland.com
+# 目标: disney
 DOMAIN-SUFFIX,hooloo.tv
+# 目标: disney
 DOMAIN-SUFFIX,hoolu.com
+# 目标: disney
 DOMAIN-SUFFIX,hoolu.tv
+# 目标: disney
 DOMAIN-SUFFIX,hotstar-cdn.net
+# 目标: disney
 DOMAIN-SUFFIX,hotstar-labs.com
+# 目标: disney
 DOMAIN-SUFFIX,hotstar.com
+# 目标: disney
 DOMAIN-SUFFIX,hotstarext.com
+# 目标: disney
 DOMAIN-SUFFIX,hsprepack.akamaized.net
+# 目标: disney
 DOMAIN-SUFFIX,hu1u.com
+# 目标: disney
 DOMAIN-SUFFIX,huloo.cc
+# 目标: disney
 DOMAIN-SUFFIX,huloo.tv
+# 目标: disney
 DOMAIN-SUFFIX,hulu.com
+# 目标: disney
 DOMAIN-SUFFIX,hulu.jp
+# 目标: disney
 DOMAIN-SUFFIX,hulu.tv
+# 目标: disney
 DOMAIN-SUFFIX,hulu.us
+# 目标: disney
 DOMAIN-SUFFIX,huluaction.com
+# 目标: disney
 DOMAIN-SUFFIX,huluad.com
+# 目标: disney
 DOMAIN-SUFFIX,huluapp.com
+# 目标: disney
 DOMAIN-SUFFIX,huluasks.com
+# 目标: disney
 DOMAIN-SUFFIX,hulucall.com
+# 目标: disney
 DOMAIN-SUFFIX,hulufree.com
+# 目标: disney
 DOMAIN-SUFFIX,hulugans.com
+# 目标: disney
 DOMAIN-SUFFIX,hulugermany.com
+# 目标: disney
 DOMAIN-SUFFIX,hulugo.com
+# 目标: disney
 DOMAIN-SUFFIX,huluim.com
+# 目标: disney
 DOMAIN-SUFFIX,huluinstantmessenger.com
+# 目标: disney
 DOMAIN-SUFFIX,huluitaly.com
+# 目标: disney
 DOMAIN-SUFFIX,hulunet.com
+# 目标: disney
 DOMAIN-SUFFIX,hulunetwork.com
+# 目标: disney
 DOMAIN-SUFFIX,huluplus.com
+# 目标: disney
 DOMAIN-SUFFIX,hulupremium.com
+# 目标: disney
 DOMAIN-SUFFIX,hulupurchase.com
+# 目标: disney
 DOMAIN-SUFFIX,huluqa.com
+# 目标: disney
 DOMAIN-SUFFIX,hulurussia.com
+# 目标: disney
 DOMAIN-SUFFIX,huluspain.com
+# 目标: disney
 DOMAIN-SUFFIX,hulusports.com
+# 目标: disney
 DOMAIN-SUFFIX,hulustream.com
+# 目标: disney
 DOMAIN-SUFFIX,huluteam.com
+# 目标: disney
 DOMAIN-SUFFIX,hulutv.com
+# 目标: disney
 DOMAIN-SUFFIX,huluusa.com
+# 目标: disney
 DOMAIN-SUFFIX,joinmaidez.com
+# 目标: disney
 DOMAIN-SUFFIX,js-agent.newrelic.com
+# 目标: disney
 DOMAIN-SUFFIX,lucasfilm.com
+# 目标: disney
 DOMAIN-SUFFIX,marvel.com
+# 目标: disney
 DOMAIN-SUFFIX,marvel10thanniversary.com
+# 目标: disney
 DOMAIN-SUFFIX,marveldimensionofheroes.com
+# 目标: disney
 DOMAIN-SUFFIX,marvelparty.net
+# 目标: disney
 DOMAIN-SUFFIX,marvelpinball.com
+# 目标: disney
 DOMAIN-SUFFIX,marvelsdoubleagent.com
+# 目标: disney
 DOMAIN-SUFFIX,marvelspotlightplays.com
+# 目标: disney
 DOMAIN-SUFFIX,marvelsuperheroseptember.com
+# 目标: disney
 DOMAIN-SUFFIX,marvelsuperwar.com
+# 目标: disney
 DOMAIN-SUFFIX,mickey.tv
+# 目标: disney
 DOMAIN-SUFFIX,moviesanywhere.com
+# 目标: disney
 DOMAIN-SUFFIX,mushymush.tv
+# 目标: disney
 DOMAIN-SUFFIX,myhulu.com
+# 目标: disney
 DOMAIN-SUFFIX,natgeomaps.com
+# 目标: disney
 DOMAIN-SUFFIX,nationalgeographic.com
+# 目标: disney
 DOMAIN-SUFFIX,nationalgeographicpartners.com
+# 目标: disney
 DOMAIN-SUFFIX,ngeo.com
+# 目标: disney
 DOMAIN-SUFFIX,nomadlandmovie.ch
+# 目标: disney
 DOMAIN-SUFFIX,originalhulu.com
+# 目标: disney
 DOMAIN-SUFFIX,payhulu.com
+# 目标: disney
 DOMAIN-SUFFIX,pixar.com
+# 目标: disney
 DOMAIN-SUFFIX,playmation.com
+# 目标: disney
 DOMAIN-SUFFIX,registerhulu.com
+# 目标: disney
 DOMAIN-SUFFIX,searchlightpictures.com
+# 目标: disney
 DOMAIN-SUFFIX,shanghaidisneyresort.com
+# 目标: disney
 DOMAIN-SUFFIX,shopdisney.com
+# 目标: disney
 DOMAIN-SUFFIX,shops-disney.com
+# 目标: disney
 DOMAIN-SUFFIX,sorcerersarena.com
+# 目标: disney
 DOMAIN-SUFFIX,spaindisney.com
+# 目标: disney
 DOMAIN-SUFFIX,star-brasil.com
+# 目标: disney
 DOMAIN-SUFFIX,star-latam.com
+# 目标: disney
 DOMAIN-SUFFIX,starott.com
+# 目标: disney
 DOMAIN-SUFFIX,starplus.com
+# 目标: disney
 DOMAIN-SUFFIX,starwars.com
+# 目标: disney
 DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
+# 目标: disney
 DOMAIN-SUFFIX,starwarskids.com
+# 目标: disney
 DOMAIN-SUFFIX,streamingdisney.net
+# 目标: disney
 DOMAIN-SUFFIX,thehulubraintrust.com
+# 目标: disney
 DOMAIN-SUFFIX,themarvelexperiencetour.com
+# 目标: disney
 DOMAIN-SUFFIX,thestationbymaker.com
+# 目标: disney
 DOMAIN-SUFFIX,thewaltdisneycompany.com
+# 目标: disney
 DOMAIN-SUFFIX,thisispolaris.com
+# 目标: disney
 DOMAIN-SUFFIX,tokyodisneyresort.jp
+# 目标: disney
 DOMAIN-SUFFIX,waltdisneystudios.com
+# 目标: disney
 DOMAIN-SUFFIX,watchdisneyfe.com
+# 目标: disney
 DOMAIN-SUFFIX,watchespn.com
+# 目标: disney
 DOMAIN-SUFFIX,wwwhuluplus.com
+# 目标: disney
 PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
+# 目标: disney
 PROCESS-NAME,com.disney.disneyplus

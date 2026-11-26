@@ -1,18 +1,33 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/SmarTone/SmarTone.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SmarTone/SmarTone.list
 # 规则数: 15
+# 目标: SmarTone
 DOMAIN-SUFFIX,barkadahansasmartone.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,healthreach.hk
+# 目标: SmarTone
 DOMAIN-SUFFIX,hkcircleapp.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,homephoneplus.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,ip73.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,s-cashonmobile.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,s-rewards.hk
+# 目标: SmarTone
 DOMAIN-SUFFIX,sahabatsetiasmartone.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,smartone.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,smartoneholdings.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,smartonerobotics.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,smartonesolutions.com.hk
+# 目标: SmarTone
 DOMAIN-SUFFIX,smartonesolutions.hk
+# 目标: SmarTone
 DOMAIN-SUFFIX,valuegb.com
+# 目标: SmarTone
 DOMAIN-SUFFIX,wise-research.com

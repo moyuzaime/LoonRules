@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: WeiZhiYunDong
 # 合并来源: blackmatrix7/ios_rule_script WeiZhiYunDong
+# 说明: 微至云动
 # 规则数: 4
+# 目标: WeiZhiYunDong
 DOMAIN-SUFFIX,dicom365.com
+# 目标: WeiZhiYunDong
 DOMAIN-SUFFIX,dycom365.com
+# 目标: WeiZhiYunDong
 DOMAIN-SUFFIX,wedcm.com
+# 目标: WeiZhiYunDong
 DOMAIN-SUFFIX,weiyunyingxiang.com

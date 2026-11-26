@@ -1,12 +1,21 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Unity/Unity.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Unity/Unity.list
 # 规则数: 9
+# 目标: Unity
 DOMAIN-SUFFIX,multiplay.cn
+# 目标: Unity
 DOMAIN-SUFFIX,unity.cn
+# 目标: Unity
 DOMAIN-SUFFIX,unity.com
+# 目标: Unity
 DOMAIN-SUFFIX,unity3d.com
+# 目标: Unity
 DOMAIN-SUFFIX,unity3dusercontent.com
+# 目标: Unity
 DOMAIN-SUFFIX,unitychina.cn
+# 目标: Unity
 DOMAIN-SUFFIX,unityedu.cn
+# 目标: Unity
 DOMAIN-SUFFIX,unityedu.com
+# 目标: Unity
 DOMAIN-SUFFIX,unityedu.com.cn

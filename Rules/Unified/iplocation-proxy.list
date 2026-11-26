@@ -1,168 +1,333 @@
 # 统一规则库 | 分类: iplocation-proxy
 # 合并来源: QuixoticHeart/rule-set iplocation-proxy
 # 规则数: 165
+# 目标: iplocation-proxy
 DOMAIN,ac.dun.163.com
+# 目标: iplocation-proxy
 DOMAIN,api.coolapk.com
+# 目标: iplocation-proxy
 DOMAIN,api.iplay.163.com
+# 目标: iplocation-proxy
 DOMAIN,api.k.163.com
+# 目标: iplocation-proxy
 DOMAIN,api.taptapdada.com
+# 目标: iplocation-proxy
 DOMAIN,api.vip.miui.com
+# 目标: iplocation-proxy
 DOMAIN,api.wmpvp.com
+# 目标: iplocation-proxy
 DOMAIN,api.xiaoheihe.cn
+# 目标: iplocation-proxy
 DOMAIN,api2.coolapk.com
+# 目标: iplocation-proxy
 DOMAIN,bbs-api.mihoyo.com
+# 目标: iplocation-proxy
 DOMAIN,bbs-api.miyoushe.com
+# 目标: iplocation-proxy
 DOMAIN,bbs.mobileapi.hupu.com
+# 目标: iplocation-proxy
 DOMAIN,bbs.nga.cn
+# 目标: iplocation-proxy
 DOMAIN,c.tieba.baidu.com
+# 目标: iplocation-proxy
 DOMAIN,cmt.ithome.com
+# 目标: iplocation-proxy
 DOMAIN,druidv6.if.qidian.com
+# 目标: iplocation-proxy
 DOMAIN,dt.netease.im
+# 目标: iplocation-proxy
 DOMAIN,fclog.baidu.com
+# 目标: iplocation-proxy
 DOMAIN,god.gameyw.netease.com
+# 目标: iplocation-proxy
 DOMAIN,gsp0.baidu.com
+# 目标: iplocation-proxy
 DOMAIN,hm.baidu.com
+# 目标: iplocation-proxy
 DOMAIN,keylol.com
+# 目标: iplocation-proxy
 DOMAIN,lbs.netease.im
+# 目标: iplocation-proxy
 DOMAIN,mam.netease.com
+# 目标: iplocation-proxy
 DOMAIN,mp.weixin.qq.com
+# 目标: iplocation-proxy
 DOMAIN,nga.178.com
+# 目标: iplocation-proxy
 DOMAIN,ngabbs.com
+# 目标: iplocation-proxy
 DOMAIN,nstool.netease.com
+# 目标: iplocation-proxy
 DOMAIN,ptlogin6.qidian.com
+# 目标: iplocation-proxy
 DOMAIN,sso.douyin.com
+# 目标: iplocation-proxy
 DOMAIN,szextshort.weixin.qq.com
+# 目标: iplocation-proxy
 DOMAIN,szminorshort.weixin.qq.com
+# 目标: iplocation-proxy
 DOMAIN,szshort.weixin.qq.com
+# 目标: iplocation-proxy
 DOMAIN,tb5.bdstatic.com
+# 目标: iplocation-proxy
 DOMAIN,tbmsg.baidu.com
+# 目标: iplocation-proxy
 DOMAIN,tieba.baidu.com
+# 目标: iplocation-proxy
 DOMAIN,tiebac.baidu.com
+# 目标: iplocation-proxy
 DOMAIN,wannos.127.net
+# 目标: iplocation-proxy
 DOMAIN,wanproxy.127.net
+# 目标: iplocation-proxy
 DOMAIN,www.baidu.com
+# 目标: iplocation-proxy
 DOMAIN,www.douyin.com
+# 目标: iplocation-proxy
 DOMAIN,www.wenshushu.cn
+# 目标: iplocation-proxy
 DOMAIN,yaolu.yuedu.163.com
+# 目标: iplocation-proxy
 DOMAIN,zonai.skland.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,amemv.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,biliapi.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,biliapi.net
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,bilibili.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,dongqiudi.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,douban.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,douyinvod.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,douyu.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,douyucdn.cn
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,gifshow.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,huya.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,ixigua.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,ksapisrv.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,laiqukankan.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,lofter.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,music.126.net
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,music.163.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,music.ntes53.netease.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,rednote.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,rnote.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,sinaimg.cn
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,snssdk.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,soulapp.cn
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,toutiaoapi.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,wbimg.cn
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,wbimg.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,weibo.cn
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,weibo.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,weibocdn.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,xiaohongshu.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,y.qq.com
+# 目标: iplocation-proxy
 DOMAIN-SUFFIX,zhihu.com
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,-core-c-hl
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,-core-c-lf
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,-normal-c-hl
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,-normal-c-lf
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,-normal-hl
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,-normal-lf
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,core-c-lq
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,core-lq
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,normal-c-lq
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,normal-lq
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,rednote
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,search-lq
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,search-quic-lq
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,weibo
+# 目标: iplocation-proxy
 DOMAIN-KEYWORD,xiaohongshu
+# 目标: iplocation-proxy
 IP-CIDR,1.13.12.27/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,1.95.21.35/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,101.33.11.32/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,101.33.20.34/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,101.33.27.26/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,101.71.154.241/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,103.126.92.132/31,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,103.41.167.0/24,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,111.48.137.146/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,112.13.119.18/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,112.13.122.4/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,114.55.236.88/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,115.236.118.34/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,115.236.121.4/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,119.36.90.80/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,119.45.2.92/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,119.45.249.52/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,120.53.130.158/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,140.143.177.206/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,150.109.222.102/31,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,150.109.222.109/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,150.109.222.110/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,150.109.222.97/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,150.109.222.99/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,150.109.223.49/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,163.181.1.224/29,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,163.181.92.231/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,163.181.92.232/30,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,163.181.92.236/31,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,163.181.92.238/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,180.76.76.0/24,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,203.107.1.0/24,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,203.205.220.62/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,211.152.149.12/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,23.236.104.30/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.132.81.61/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.132.83.175/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.132.83.54/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.132.83.9/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.132.84.11/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.132.91.110/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.132.91.37/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.132.91.45/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.152.26.110/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.152.29.38/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.152.42.109/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.159.25.122/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.159.25.28/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.175.22.26/31,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.175.22.42/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,43.175.44.15/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,45.254.48.1/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.100.127.239/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.246.23.227/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.246.23.228/30,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.246.23.232/31,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.246.23.234/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.246.29.222/31,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.246.29.224/30,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.246.29.228/31,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.97.64.97/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,47.97.66.48/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,49.233.242.15/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,49.51.224.103/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,49.51.224.105/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,49.51.224.95/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,59.111.160.195/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,59.111.19.33/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,59.111.19.53/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,81.69.116.102/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,81.69.116.86/31,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,81.70.124.99/32,no-resolve
+# 目标: iplocation-proxy
 IP-CIDR,81.70.125.19/32,no-resolve

@@ -1,41 +1,80 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/TaiKang/TaiKang.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TaiKang/TaiKang.list
+# 说明: 泰康
 # 规则数: 38
+# 目标: TaiKang
 DOMAIN-SUFFIX,12333tc.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,95522.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,95522.com.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,95522.net.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,bjsjsch12333.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,changhu12333.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,eagent.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,gzch12333.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,jmch12333.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,jxch12333.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,qqhrch12333.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,sdhz12333.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,sdrz12333.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,shzch12333.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,srch12333.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,taihealthcare.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikang.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikang.net.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikangfoundation.org.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikanginv.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikanglife.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikanglife.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikanglife.com.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikanglife.net
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikanglife.net.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikangonline.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikangonline.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikangonline.net
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikangonline.net.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikangph.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,taikangzhijia.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,tanxingfuli.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,tanxingfuli.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,tanxingfuli.com.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,tk-life.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,tk.cn
+# 目标: TaiKang
 DOMAIN-SUFFIX,tkhealthcare.com
+# 目标: TaiKang
 DOMAIN-SUFFIX,tkmedicare.com

@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: NaverTV
 # 合并来源: blackmatrix7/ios_rule_script NaverTV
 # 规则数: 3
+# 目标: NaverTV
 DOMAIN-SUFFIX,naver.com
+# 目标: NaverTV
 DOMAIN-SUFFIX,smartmediarep.com
+# 目标: NaverTV
 USER-AGENT,Naver%20TV*

@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: PandoraTV
 # 合并来源: blackmatrix7/ios_rule_script PandoraTV
 # 规则数: 2
+# 目标: PandoraTV
 DOMAIN-SUFFIX,kmplayer.com
+# 目标: PandoraTV
 DOMAIN-SUFFIX,pandora.tv

@@ -1,19 +1,35 @@
 # 统一规则库 | 分类: GoogleEarth
 # 合并来源: blackmatrix7/ios_rule_script GoogleEarth
 # 规则数: 16
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,earth-pa.clients6.google.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,earth.google.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,kh.google.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm.google.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm.googleapis.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm0.google.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm0.googleapis.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm1.google.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm1.googleapis.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm2.google.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm2.googleapis.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm3.google.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khm3.googleapis.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khmdb.google.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,khmdb.googleapis.com
+# 目标: GoogleEarth
 DOMAIN-SUFFIX,mw1.google.com

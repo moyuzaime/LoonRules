@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Disqus
 # 合并来源: blackmatrix7/ios_rule_script Disqus
 # 规则数: 3
+# 目标: Disqus
 DOMAIN-SUFFIX,disqus.com
+# 目标: Disqus
 DOMAIN-SUFFIX,disquscdn.com
+# 目标: Disqus
 DOMAIN-SUFFIX,disqusservice.com

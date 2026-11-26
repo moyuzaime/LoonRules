@@ -1,10 +1,18 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DanDanZan/DanDanZan.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DanDanZan/DanDanZan.list
+# 说明: 蛋蛋赞
 # 规则数: 7
+# 目标: DanDanZan
 DOMAIN-SUFFIX,343480.com
+# 目标: DanDanZan
 DOMAIN-SUFFIX,baduziyuan.com
+# 目标: DanDanZan
 DOMAIN-SUFFIX,com-hs-hkdy.com
+# 目标: DanDanZan
 DOMAIN-SUFFIX,czybjz.com
+# 目标: DanDanZan
 DOMAIN-SUFFIX,dandanzan.com
+# 目标: DanDanZan
 DOMAIN-SUFFIX,fjhps.com
+# 目标: DanDanZan
 DOMAIN-SUFFIX,kuyunbo.club

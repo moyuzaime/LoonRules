@@ -1,32 +1,61 @@
 # 统一规则库 | 分类: Discord
 # 合并来源: blackmatrix7/ios_rule_script Discord
 # 规则数: 29
+# 目标: Discord
 DOMAIN-SUFFIX,airhorn.solutions
+# 目标: Discord
 DOMAIN-SUFFIX,airhornbot.com
+# 目标: Discord
 DOMAIN-SUFFIX,bigbeans.solutions
+# 目标: Discord
 DOMAIN-SUFFIX,dis.gd
+# 目标: Discord
 DOMAIN-SUFFIX,discord-activities.com
+# 目标: Discord
 DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
+# 目标: Discord
 DOMAIN-SUFFIX,discord.co
+# 目标: Discord
 DOMAIN-SUFFIX,discord.com
+# 目标: Discord
 DOMAIN-SUFFIX,discord.design
+# 目标: Discord
 DOMAIN-SUFFIX,discord.dev
+# 目标: Discord
 DOMAIN-SUFFIX,discord.gg
+# 目标: Discord
 DOMAIN-SUFFIX,discord.gift
+# 目标: Discord
 DOMAIN-SUFFIX,discord.gifts
+# 目标: Discord
 DOMAIN-SUFFIX,discord.media
+# 目标: Discord
 DOMAIN-SUFFIX,discord.new
+# 目标: Discord
 DOMAIN-SUFFIX,discord.store
+# 目标: Discord
 DOMAIN-SUFFIX,discord.tools
+# 目标: Discord
 DOMAIN-SUFFIX,discordactivities.com
+# 目标: Discord
 DOMAIN-SUFFIX,discordapp.com
+# 目标: Discord
 DOMAIN-SUFFIX,discordapp.io
+# 目标: Discord
 DOMAIN-SUFFIX,discordapp.net
+# 目标: Discord
 DOMAIN-SUFFIX,discordapp.page.link
+# 目标: Discord
 DOMAIN-SUFFIX,discordcdn.com
+# 目标: Discord
 DOMAIN-SUFFIX,discordmerch.com
+# 目标: Discord
 DOMAIN-SUFFIX,discordpartygames.com
+# 目标: Discord
 DOMAIN-SUFFIX,discordsays.com
+# 目标: Discord
 DOMAIN-SUFFIX,discordstatus.com
+# 目标: Discord
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
+# 目标: Discord
 DOMAIN-SUFFIX,watchanimeattheoffice.com

@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: ITV
 # 合并来源: blackmatrix7/ios_rule_script ITV
 # 规则数: 4
+# 目标: ITV
 DOMAIN,itvpnpmobile-a.akamaihd.net
+# 目标: ITV
 DOMAIN-SUFFIX,itv.com
+# 目标: ITV
 DOMAIN-SUFFIX,itvstatic.com
+# 目标: ITV
 USER-AGENT,ITV_Player*

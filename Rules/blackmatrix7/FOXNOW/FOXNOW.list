@@ -1,7 +1,12 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/FOXNOW/FOXNOW.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FOXNOW/FOXNOW.list
+# 说明: FOX NOW
 # 规则数: 4
+# 目标: FOXNOW
 DOMAIN-SUFFIX,fox.com
+# 目标: FOXNOW
 DOMAIN-SUFFIX,foxdcg.com
+# 目标: FOXNOW
 DOMAIN-SUFFIX,uplynk.com
+# 目标: FOXNOW
 USER-AGENT,FOX%20NOW*

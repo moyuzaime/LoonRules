@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Pandora/Pandora.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Pandora/Pandora.list
 # 规则数: 3
+# 目标: Pandora
 DOMAIN-SUFFIX,p-cdn.us
+# 目标: Pandora
 DOMAIN-SUFFIX,pandora.com
+# 目标: Pandora
 USER-AGENT,Pandora*

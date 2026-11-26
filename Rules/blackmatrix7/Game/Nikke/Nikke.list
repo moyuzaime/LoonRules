@@ -1,10 +1,17 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Game/Nikke/Nikke.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Nikke/Nikke.list
 # 规则数: 7
+# 目标: Nikke
 DOMAIN-SUFFIX,anticheatexpert.com
+# 目标: Nikke
 DOMAIN-SUFFIX,centauriglobal.com
+# 目标: Nikke
 DOMAIN-SUFFIX,gamepass.com
+# 目标: Nikke
 DOMAIN-SUFFIX,iegcom.com
+# 目标: Nikke
 DOMAIN-SUFFIX,intlgame.com
+# 目标: Nikke
 DOMAIN-SUFFIX,nikke-kr.com
+# 目标: Nikke
 IP-CIDR,43.152.114.31/32,no-resolve

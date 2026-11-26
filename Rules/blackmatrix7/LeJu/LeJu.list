@@ -1,23 +1,44 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/LeJu/LeJu.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/LeJu/LeJu.list
+# 说明: 乐居
 # 规则数: 20
+# 目标: LeJu
 DOMAIN-SUFFIX,91leju.cn
+# 目标: LeJu
 DOMAIN-SUFFIX,91leju.com.cn
+# 目标: LeJu
 DOMAIN-SUFFIX,91leju.net
+# 目标: LeJu
 DOMAIN-SUFFIX,dichan.com
+# 目标: LeJu
 DOMAIN-SUFFIX,dichan.net
+# 目标: LeJu
 DOMAIN-SUFFIX,esfimg.com
+# 目标: LeJu
 DOMAIN-SUFFIX,fangdudu.com
+# 目标: LeJu
 DOMAIN-SUFFIX,houseimg.com
+# 目标: LeJu
 DOMAIN-SUFFIX,ileju.cn
+# 目标: LeJu
 DOMAIN-SUFFIX,ileju.com
+# 目标: LeJu
 DOMAIN-SUFFIX,jiajuimg.com
+# 目标: LeJu
 DOMAIN-SUFFIX,leju.cn
+# 目标: LeJu
 DOMAIN-SUFFIX,leju.com
+# 目标: LeJu
 DOMAIN-SUFFIX,ljimg.com
+# 目标: LeJu
 DOMAIN-SUFFIX,quanup.com
+# 目标: LeJu
 DOMAIN-SUFFIX,sousea.com
+# 目标: LeJu
 DOMAIN-SUFFIX,xhaiwai.com
+# 目标: LeJu
 DOMAIN-SUFFIX,xhwhouse.cn
+# 目标: LeJu
 DOMAIN-SUFFIX,xhwhouse.com
+# 目标: LeJu
 DOMAIN-SUFFIX,yiqisooimg.com

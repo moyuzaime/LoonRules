@@ -1,26 +1,50 @@
 # 统一规则库 | 分类: TianWeiChengXin
 # 合并来源: blackmatrix7/ios_rule_script TianWeiChengXin
+# 说明: 天威诚信
 # 规则数: 23
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,4006663999.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,6rencn.com
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,dcocsp.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,ev-ssl.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,ev-ssl.com.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,fxg365.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,helloid.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,itrus.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,itrus.com
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,itrus.com.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,itrus.net.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,itruscloud.com
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,itrusign.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,itrusign.com
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,mingjian365.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,mingjian365.com
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,mingjian365.net
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,mj365.club
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,mj365.site
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,mj365.vip
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,nowhttps.com
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,yunssl.cn
+# 目标: TianWeiChengXin
 DOMAIN-SUFFIX,yunssl.com

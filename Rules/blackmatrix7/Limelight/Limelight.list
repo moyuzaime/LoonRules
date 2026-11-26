@@ -1,11 +1,19 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Limelight/Limelight.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Limelight/Limelight.list
 # 规则数: 8
+# 目标: Limelight
 DOMAIN-SUFFIX,delvenetworks.com
+# 目标: Limelight
 DOMAIN-SUFFIX,limelight.com
+# 目标: Limelight
 DOMAIN-SUFFIX,lldns.net
+# 目标: Limelight
 DOMAIN-SUFFIX,llnw-trials.com
+# 目标: Limelight
 DOMAIN-SUFFIX,llnw.com
+# 目标: Limelight
 DOMAIN-SUFFIX,llnw.net
+# 目标: Limelight
 DOMAIN-SUFFIX,llnwd.net
+# 目标: Limelight
 DOMAIN-SUFFIX,llnwi.net

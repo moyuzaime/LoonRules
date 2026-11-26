@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: WoLai
 # 合并来源: blackmatrix7/ios_rule_script WoLai
+# 说明: 我来
 # 规则数: 5
+# 目标: WoLai
 DOMAIN-SUFFIX,wol.tv
+# 目标: WoLai
 DOMAIN-SUFFIX,wolai.com
+# 目标: WoLai
 DOMAIN-SUFFIX,wolai.ren
+# 目标: WoLai
 DOMAIN-SUFFIX,wostatic.cn
+# 目标: WoLai
 DOMAIN-SUFFIX,woyun.work

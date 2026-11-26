@@ -1,10 +1,17 @@
 # 统一规则库 | 分类: VK
 # 合并来源: blackmatrix7/ios_rule_script VK
 # 规则数: 7
+# 目标: VK
 DOMAIN-SUFFIX,mvk.com
+# 目标: VK
 DOMAIN-SUFFIX,userapi.com
+# 目标: VK
 DOMAIN-SUFFIX,vk-cdn.me
+# 目标: VK
 DOMAIN-SUFFIX,vk-cdn.net
+# 目标: VK
 DOMAIN-SUFFIX,vk-portal.net
+# 目标: VK
 DOMAIN-SUFFIX,vk.cc
+# 目标: VK
 DOMAIN-SUFFIX,vk.com

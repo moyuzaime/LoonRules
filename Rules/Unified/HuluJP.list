@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: HuluJP
 # 合并来源: blackmatrix7/ios_rule_script HuluJP
 # 规则数: 5
+# 目标: HuluJP
 DOMAIN-SUFFIX,happyon.jp
+# 目标: HuluJP
 DOMAIN-SUFFIX,hjholdings.jp
+# 目标: HuluJP
 DOMAIN-SUFFIX,hulu.jp
+# 目标: HuluJP
 DOMAIN-SUFFIX,streaks.jp
+# 目标: HuluJP
 DOMAIN-SUFFIX,yb.uncn.jp

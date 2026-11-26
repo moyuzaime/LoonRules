@@ -1,16 +1,30 @@
 # 统一规则库 | 分类: LeTV
 # 合并来源: blackmatrix7/ios_rule_script LeTV
+# 说明: 乐视
 # 规则数: 13
+# 目标: LeTV
 DOMAIN-SUFFIX,le.com
+# 目标: LeTV
 DOMAIN-SUFFIX,lecloud.com
+# 目标: LeTV
 DOMAIN-SUFFIX,lelecdn.com
+# 目标: LeTV
 DOMAIN-SUFFIX,lemall.com
+# 目标: LeTV
 DOMAIN-SUFFIX,letv.com
+# 目标: LeTV
 DOMAIN-SUFFIX,letv8.com
+# 目标: LeTV
 DOMAIN-SUFFIX,letvcdn.com
+# 目标: LeTV
 DOMAIN-SUFFIX,letvcloud.com
+# 目标: LeTV
 DOMAIN-SUFFIX,letvimg.com
+# 目标: LeTV
 DOMAIN-SUFFIX,letvlive.com
+# 目标: LeTV
 DOMAIN-SUFFIX,letvstore.com
+# 目标: LeTV
 DOMAIN-SUFFIX,sanguowudi.com
+# 目标: LeTV
 DOMAIN-SUFFIX,videougc.com

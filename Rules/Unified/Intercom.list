@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Intercom
 # 合并来源: blackmatrix7/ios_rule_script Intercom
 # 规则数: 4
+# 目标: Intercom
 DOMAIN-SUFFIX,intercom.com
+# 目标: Intercom
 DOMAIN-SUFFIX,intercom.io
+# 目标: Intercom
 DOMAIN-SUFFIX,intercomassets.com
+# 目标: Intercom
 DOMAIN-SUFFIX,intercomcdn.com

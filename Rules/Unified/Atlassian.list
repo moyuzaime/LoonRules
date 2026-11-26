@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: Atlassian
 # 合并来源: blackmatrix7/ios_rule_script Atlassian
 # 规则数: 5
+# 目标: Atlassian
 DOMAIN-SUFFIX,atlassian.com
+# 目标: Atlassian
 DOMAIN-SUFFIX,bitbucket.org
+# 目标: Atlassian
 DOMAIN-SUFFIX,statuspage.io
+# 目标: Atlassian
 DOMAIN-SUFFIX,trello.com
+# 目标: Atlassian
 DOMAIN-SUFFIX,trellocdn.com

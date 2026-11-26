@@ -1,12 +1,21 @@
 # 统一规则库 | 分类: KKBOX
 # 合并来源: blackmatrix7/ios_rule_script KKBOX
 # 规则数: 9
+# 目标: KKBOX
 DOMAIN-SUFFIX,kfs.io
+# 目标: KKBOX
 DOMAIN-SUFFIX,kk.stream
+# 目标: KKBOX
 DOMAIN-SUFFIX,kkbox-prime.com
+# 目标: KKBOX
 DOMAIN-SUFFIX,kkbox.com
+# 目标: KKBOX
 DOMAIN-SUFFIX,kkbox.com.tw
+# 目标: KKBOX
 DOMAIN-SUFFIX,kktix.com
+# 目标: KKBOX
 DOMAIN-SUFFIX,kktv.com.tw
+# 目标: KKBOX
 DOMAIN-SUFFIX,kktv.me
+# 目标: KKBOX
 DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net

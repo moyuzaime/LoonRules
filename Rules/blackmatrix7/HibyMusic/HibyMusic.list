@@ -1,6 +1,10 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/HibyMusic/HibyMusic.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HibyMusic/HibyMusic.list
+# 说明: 海贝音乐
 # 规则数: 3
+# 目标: HibyMusic
 DOMAIN-SUFFIX,hiby.cd
+# 目标: HibyMusic
 DOMAIN-SUFFIX,hiby.com
+# 目标: HibyMusic
 DOMAIN-SUFFIX,hibymusic.com

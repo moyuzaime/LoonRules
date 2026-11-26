@@ -1,19 +1,35 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Game/GameDownloadCN/GameDownloadCN.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/GameDownloadCN/GameDownloadCN.list
 # 规则数: 16
+# 目标: GameDownloadCN
 DOMAIN,assets1.xboxlive.cn
+# 目标: GameDownloadCN
 DOMAIN,assets2.xboxlive.cn
+# 目标: GameDownloadCN
 DOMAIN,cdn-ali.content.steamchina.com
+# 目标: GameDownloadCN
 DOMAIN,cdn-qc.content.steamchina.com
+# 目标: GameDownloadCN
 DOMAIN,cdn-ws.content.steamchina.com
+# 目标: GameDownloadCN
 DOMAIN,dl.delivery.mp.microsoft.com
+# 目标: GameDownloadCN
 DOMAIN,dl.steam.clngaa.com
+# 目标: GameDownloadCN
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+# 目标: GameDownloadCN
 DOMAIN,st.dl.bscstorage.net
+# 目标: GameDownloadCN
 DOMAIN,st.dl.eccdnx.com
+# 目标: GameDownloadCN
 DOMAIN,steampipe.steamcontent.tnkjmec.com
+# 目标: GameDownloadCN
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
+# 目标: GameDownloadCN
 DOMAIN,trts.baishancdnx.cn
+# 目标: GameDownloadCN
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+# 目标: GameDownloadCN
 DOMAIN,xz.pphimalayanrt.com
+# 目标: GameDownloadCN
 DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn

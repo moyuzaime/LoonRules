@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: HamiVideo
 # 合并来源: blackmatrix7/ios_rule_script HamiVideo
 # 规则数: 4
+# 目标: HamiVideo
 DOMAIN,hls-hichannel.cdn.hinet.net
+# 目标: HamiVideo
 DOMAIN-SUFFIX,hamivideo.hinet.net
+# 目标: HamiVideo
 DOMAIN-SUFFIX,ott.hinet.net
+# 目标: HamiVideo
 DOMAIN-KEYWORD,hamivideo.cdn.hinet.net

@@ -1,16 +1,29 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/RTHK/RTHK.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/RTHK/RTHK.list
 # 规则数: 13
+# 目标: RTHK
 DOMAIN,rthklive2-lh.akamaihd.net
+# 目标: RTHK
 DOMAIN,rthkradio1-live.akamaized.net
+# 目标: RTHK
 DOMAIN,rthkradio2-live.akamaized.net
+# 目标: RTHK
 DOMAIN,rthkradio3-live.akamaized.net
+# 目标: RTHK
 DOMAIN,rthkradio4-live.akamaized.net
+# 目标: RTHK
 DOMAIN,rthkradio5-live.akamaized.net
+# 目标: RTHK
 DOMAIN,rthkradiocmgrgb-live.akamaized.net
+# 目标: RTHK
 DOMAIN,rthkradiocnrhk-live.akamaized.net
+# 目标: RTHK
 DOMAIN,rthkradiopth-live.akamaized.net
+# 目标: RTHK
 DOMAIN,rthktv31-live.akamaized.net
+# 目标: RTHK
 DOMAIN,rthktv32-live.akamaized.net
+# 目标: RTHK
 DOMAIN-SUFFIX,rthk.hk
+# 目标: RTHK
 DOMAIN-SUFFIX,rthk.org.hk

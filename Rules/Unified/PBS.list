@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: PBS
 # 合并来源: blackmatrix7/ios_rule_script PBS
 # 规则数: 2
+# 目标: PBS
 DOMAIN-SUFFIX,pbs.org
+# 目标: PBS
 USER-AGENT,PBS*

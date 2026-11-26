@@ -1,10 +1,17 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/EHGallery/EHGallery_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/EHGallery/EHGallery_Resolve.list
 # 规则数: 7
+# 目标: EHGallery
 DOMAIN-SUFFIX,e-hentai.org
+# 目标: EHGallery
 DOMAIN-SUFFIX,ehgt.org
+# 目标: EHGallery
 DOMAIN-SUFFIX,ehwiki.org
+# 目标: EHGallery
 DOMAIN-SUFFIX,exhentai.org
+# 目标: EHGallery
 DOMAIN-SUFFIX,hath.network
+# 目标: EHGallery
 DOMAIN-SUFFIX,hentaiverse.org
+# 目标: EHGallery
 IP-CIDR,178.175.128.0/21

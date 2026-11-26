@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: ShiNongZhiKe
 # 合并来源: blackmatrix7/ios_rule_script ShiNongZhiKe
+# 说明: 识农智能科技
 # 规则数: 3
+# 目标: ShiNongZhiKe
 DOMAIN-SUFFIX,senseagro.cn
+# 目标: ShiNongZhiKe
 DOMAIN-SUFFIX,senseagro.com
+# 目标: ShiNongZhiKe
 DOMAIN-SUFFIX,senseagro.com.cn

@@ -1,57 +1,111 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Ubuntu/Ubuntu.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Ubuntu/Ubuntu.list
 # 规则数: 54
+# 目标: Ubuntu
 DOMAIN-SUFFIX,aerialline.com
+# 目标: Ubuntu
 DOMAIN-SUFFIX,askubuntu.com
+# 目标: Ubuntu
 DOMAIN-SUFFIX,canonical.com
+# 目标: Ubuntu
 DOMAIN-SUFFIX,debianadmin.com
+# 目标: Ubuntu
 DOMAIN-SUFFIX,debuntu.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,fullcirclemagazine.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,iloveubuntu.net
+# 目标: Ubuntu
 DOMAIN-SUFFIX,omgubuntu.co.uk
+# 目标: Ubuntu
 DOMAIN-SUFFIX,snapcraft.io
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ualinux.com
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubucentrum.net
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-br.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-cl.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-fi.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-fr.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-gr.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-hr.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-ie.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-it.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-manual.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-news.ru
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-nl.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-pe.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-pt.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-rs.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-se.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-touch.io
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-tr.net
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-tw.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-vn.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu-za.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.com
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.cz
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.hu
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.ir
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.lt
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.lv
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.net
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.or.kr
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.org.cn
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.pl
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.ro
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.ru
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.se
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.si
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntu.sk
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntuclub.com
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntuforums.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntugeek.com
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntuguide.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntulinux.jp
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntulinux.org
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntustats.com
+# 目标: Ubuntu
 DOMAIN-SUFFIX,ubuntuusers.de

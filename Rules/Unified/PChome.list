@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: PChome
 # 合并来源: blackmatrix7/ios_rule_script PChome
 # 规则数: 5
+# 目标: PChome
 DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net
+# 目标: PChome
 DOMAIN-SUFFIX,ecimg.tw
+# 目标: PChome
 DOMAIN-SUFFIX,pchome.com.tw
+# 目标: PChome
 DOMAIN-SUFFIX,pchomepay.com.tw
+# 目标: PChome
 DOMAIN-SUFFIX,pcloud.tw

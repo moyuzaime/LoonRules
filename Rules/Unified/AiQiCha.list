@@ -1,4 +1,6 @@
 # 统一规则库 | 分类: AiQiCha
 # 合并来源: blackmatrix7/ios_rule_script AiQiCha
+# 说明: 爱企查
 # 规则数: 1
+# 目标: AiQiCha
 DOMAIN-SUFFIX,aiqicha.baidu.com

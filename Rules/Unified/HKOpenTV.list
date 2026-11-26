@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: HKOpenTV
 # 合并来源: blackmatrix7/ios_rule_script HKOpenTV
 # 规则数: 2
+# 目标: HKOpenTV
 DOMAIN-SUFFIX,fantv.hk
+# 目标: HKOpenTV
 DOMAIN-SUFFIX,hkopentv.com

@@ -1,56 +1,110 @@
 # 统一规则库 | 分类: QiNiuYun
 # 合并来源: blackmatrix7/ios_rule_script QiNiuYun
+# 说明: 七牛云
 # 规则数: 53
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,atlab.ai
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,cdnhub.net
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,cloudappl.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,clouddn.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,cloudvdn.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,doxygen.io
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,everbox.net
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,fusionappl.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,goproxy.cn
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,kirkcloud.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,niuclass.net
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,pilidns.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qbox.me
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qbox.net
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qibox.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu-enterprise.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu-solutions.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu.co
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu.com.cn
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu.in
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu.io
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu.org
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu.us
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniu.work
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniuapi.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniuapp.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniublob.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniucc.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniucdn.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniucloud.net
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniucs.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniudn.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniudns.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniudns.net
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniudns2.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniug.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniuimg.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniuinc.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniukodo.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniup.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniupkg.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniuqcdn.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniurs.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qiniutek.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qnfcdn.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qnlinking.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qnqcdn.net
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qnsdk.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qnssl.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qnydns.com
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,qnydns.net
+# 目标: QiNiuYun
 DOMAIN-SUFFIX,staticfile.org

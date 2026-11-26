@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: VipShop
 # 合并来源: blackmatrix7/ios_rule_script VipShop
+# 说明: 唯品会
 # 规则数: 4
+# 目标: VipShop
 DOMAIN-SUFFIX,appsimg.com
+# 目标: VipShop
 DOMAIN-SUFFIX,appvipshop.com
+# 目标: VipShop
 DOMAIN-SUFFIX,vip.com
+# 目标: VipShop
 DOMAIN-SUFFIX,vipstatic.com

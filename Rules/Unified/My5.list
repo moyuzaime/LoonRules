@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: My5
 # 合并来源: blackmatrix7/ios_rule_script My5
 # 规则数: 4
+# 目标: My5
 DOMAIN,d349g9zuie06uo.cloudfront.net
+# 目标: My5
 DOMAIN-SUFFIX,channel5.com
+# 目标: My5
 DOMAIN-SUFFIX,my5.tv
+# 目标: My5
 USER-AGENT,My5*

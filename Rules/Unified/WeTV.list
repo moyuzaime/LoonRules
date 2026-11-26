@@ -1,12 +1,21 @@
 # 统一规则库 | 分类: WeTV
 # 合并来源: blackmatrix7/ios_rule_script WeTV
 # 规则数: 9
+# 目标: WeTV
 DOMAIN,wetv.qq.com
+# 目标: WeTV
 DOMAIN-SUFFIX,iflix-images.akamaized.net
+# 目标: WeTV
 DOMAIN-SUFFIX,iflix.com
+# 目标: WeTV
 DOMAIN-SUFFIX,vv.video.qq.com
+# 目标: WeTV
 DOMAIN-SUFFIX,wetv.vip
+# 目标: WeTV
 DOMAIN-SUFFIX,wetvinfo.com
+# 目标: WeTV
 USER-AGENT,WeTV*
+# 目标: WeTV
 IP-CIDR,150.109.28.51/32,no-resolve
+# 目标: WeTV
 IP-CIDR,150.109.28.51/32

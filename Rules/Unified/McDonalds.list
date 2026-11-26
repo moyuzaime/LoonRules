@@ -1,28 +1,53 @@
 # 统一规则库 | 分类: McDonalds
 # 合并来源: blackmatrix7/ios_rule_script McDonalds
 # 规则数: 25
+# 目标: McDonalds
 DOMAIN-SUFFIX,4008-517-517.cn
+# 目标: McDonalds
 DOMAIN-SUFFIX,aboutmcdonalds.com
+# 目标: McDonalds
 DOMAIN-SUFFIX,happymeal.co.nz
+# 目标: McDonalds
 DOMAIN-SUFFIX,happymeal.com.au
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcd.com
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdelivery.co.id
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdelivery.co.kr
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdelivery.com.au
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdelivery.com.my
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdelivery.com.sg
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdelivery.com.tw
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdindonesia.com
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonalds.ca
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonalds.co.uk
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonalds.com
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonalds.com.cn
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonalds.com.hk
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonalds.hk
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonalds.it
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonalds.no
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonalds.se
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonaldsarabia.com
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonaldsparties.co.nz
+# 目标: McDonalds
 DOMAIN-SUFFIX,mcdonaldsparties.com.au
+# 目标: McDonalds
 DOMAIN-SUFFIX,xn--qhrx81fxh2a.xn--55qx5d.hk

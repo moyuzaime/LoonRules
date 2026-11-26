@@ -1,4 +1,6 @@
 # 统一规则库 | 分类: zhanqi
 # 合并来源: blackmatrix7/ios_rule_script zhanqi
+# 说明: 战旗
 # 规则数: 1
+# 目标: zhanqi
 DOMAIN-SUFFIX,zhanqi.tv

@@ -1,13 +1,23 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/115/115.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/115/115.list
 # 规则数: 10
+# 目标: 115
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
+# 目标: 115
 DOMAIN-SUFFIX,115.com
+# 目标: 115
 DOMAIN-SUFFIX,115cdn.com
+# 目标: 115
 DOMAIN-SUFFIX,115cdn.net
+# 目标: 115
 DOMAIN-SUFFIX,115img.com
+# 目标: 115
 DOMAIN-SUFFIX,116cd.cn
+# 目标: 115
 DOMAIN-SUFFIX,116cd.com
+# 目标: 115
 DOMAIN-SUFFIX,116cd.net
+# 目标: 115
 DOMAIN-SUFFIX,anxia.com
+# 目标: 115
 DOMAIN-SUFFIX,sq.cc

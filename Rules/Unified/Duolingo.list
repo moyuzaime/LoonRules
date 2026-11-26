@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Duolingo
 # 合并来源: blackmatrix7/ios_rule_script Duolingo
 # 规则数: 2
+# 目标: Duolingo
 DOMAIN-SUFFIX,duolingo.cn
+# 目标: Duolingo
 DOMAIN-SUFFIX,duolingo.com

@@ -1,15 +1,28 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/QingCloud/QingCloud.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/QingCloud/QingCloud.list
+# 说明: 青云QingCloud
 # 规则数: 12
+# 目标: QingCloud
 DOMAIN-SUFFIX,anybox.com
+# 目标: QingCloud
 DOMAIN-SUFFIX,frontwize.com
+# 目标: QingCloud
 DOMAIN-SUFFIX,kubesphere.com.cn
+# 目标: QingCloud
 DOMAIN-SUFFIX,qingcache.com
+# 目标: QingCloud
 DOMAIN-SUFFIX,qingcloud.cn
+# 目标: QingCloud
 DOMAIN-SUFFIX,qingcloud.com
+# 目标: QingCloud
 DOMAIN-SUFFIX,qingcloud.com.cn
+# 目标: QingCloud
 DOMAIN-SUFFIX,qingstor.com
+# 目标: QingCloud
 DOMAIN-SUFFIX,qingstorage.com
+# 目标: QingCloud
 DOMAIN-SUFFIX,quanxiangyun.com
+# 目标: QingCloud
 DOMAIN-SUFFIX,routewize.com
+# 目标: QingCloud
 DOMAIN-SUFFIX,yunify.com

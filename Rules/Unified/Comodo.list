@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: Comodo
 # 合并来源: blackmatrix7/ios_rule_script Comodo
 # 规则数: 5
+# 目标: Comodo
 DOMAIN-SUFFIX,comodo.com
+# 目标: Comodo
 DOMAIN-SUFFIX,comodoca.com
+# 目标: Comodo
 DOMAIN-SUFFIX,comodoca2.com
+# 目标: Comodo
 DOMAIN-SUFFIX,comodoca3.com
+# 目标: Comodo
 DOMAIN-SUFFIX,comodoca4.com

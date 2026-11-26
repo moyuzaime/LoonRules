@@ -1,34 +1,65 @@
 # 统一规则库 | 分类: LastFM
 # 合并来源: blackmatrix7/ios_rule_script LastFM
 # 规则数: 31
+# 目标: LastFM
 DOMAIN,last.us11.list-manage.com
+# 目标: LastFM
 DOMAIN,lastfm-img2.akamaized.net
+# 目标: LastFM
 DOMAIN-SUFFIX,audioscrobbler.com
+# 目标: LastFM
 DOMAIN-SUFFIX,bbfc1.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,bc9oa.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,bvuno.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,cqyos.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,fuckyeahtfx.com
+# 目标: LastFM
 DOMAIN-SUFFIX,halkz.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,itnnl.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,jdw1v.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,kn5ak.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,kwcnn.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,last.fm
+# 目标: LastFM
 DOMAIN-SUFFIX,lastfm.cn
+# 目标: LastFM
 DOMAIN-SUFFIX,lastfm.de
+# 目标: LastFM
 DOMAIN-SUFFIX,lastfm.es
+# 目标: LastFM
 DOMAIN-SUFFIX,lastfm.eu
+# 目标: LastFM
 DOMAIN-SUFFIX,lastfm.freetls.fastly.net
+# 目标: LastFM
 DOMAIN-SUFFIX,lastfm.ph
+# 目标: LastFM
 DOMAIN-SUFFIX,lastfm.pl
+# 目标: LastFM
 DOMAIN-SUFFIX,lastfm.ru
+# 目标: LastFM
 DOMAIN-SUFFIX,lastfmpresents.com
+# 目标: LastFM
 DOMAIN-SUFFIX,mwrel.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,oilofhaemony.com
+# 目标: LastFM
 DOMAIN-SUFFIX,ouchmonkey.com
+# 目标: LastFM
 DOMAIN-SUFFIX,pqqx2.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,rfnva.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,rmohl.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,tnjqk.tk
+# 目标: LastFM
 DOMAIN-SUFFIX,wznka.tk

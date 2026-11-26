@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/LivePerson/LivePerson.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/LivePerson/LivePerson.list
 # 规则数: 3
+# 目标: LivePerson
 DOMAIN-SUFFIX,liveperson.com
+# 目标: LivePerson
 DOMAIN-SUFFIX,liveperson.net
+# 目标: LivePerson
 DOMAIN-SUFFIX,lpsnmedia.net

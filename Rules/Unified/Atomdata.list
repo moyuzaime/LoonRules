@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Atomdata
 # 合并来源: blackmatrix7/ios_rule_script Atomdata
 # 规则数: 3
+# 目标: Atomdata
 DOMAIN-SUFFIX,analytics-data.io
+# 目标: Atomdata
 DOMAIN-SUFFIX,atom-data.io
+# 目标: Atomdata
 DOMAIN-SUFFIX,ironbeast.io

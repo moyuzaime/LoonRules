@@ -1,204 +1,405 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Global/Global_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Global/Global_Resolve.list
 # 规则数: 201
+# 目标: Global
 DOMAIN-KEYWORD,amazon
+# 目标: Global
 DOMAIN-KEYWORD,avoddashs
+# 目标: Global
 DOMAIN-KEYWORD,bbcfmt
+# 目标: Global
 DOMAIN-KEYWORD,jav
+# 目标: Global
 DOMAIN-KEYWORD,musical.ly
+# 目标: Global
 DOMAIN-KEYWORD,pinterest
+# 目标: Global
 DOMAIN-KEYWORD,tiktok
+# 目标: Global
 DOMAIN-KEYWORD,twimg
+# 目标: Global
 DOMAIN-KEYWORD,voddazn
+# 目标: Global
 DOMAIN-KEYWORD,wikileaks
+# 目标: Global
 DOMAIN-KEYWORD,1drv
+# 目标: Global
 DOMAIN-KEYWORD,1e100
+# 目标: Global
 DOMAIN-KEYWORD,abema
+# 目标: Global
 DOMAIN-KEYWORD,appledaily
+# 目标: Global
 DOMAIN-KEYWORD,avtb
+# 目标: Global
 DOMAIN-KEYWORD,beetalk
+# 目标: Global
 DOMAIN-KEYWORD,blogspot
+# 目标: Global
 DOMAIN-KEYWORD,dlercloud
+# 目标: Global
 DOMAIN-KEYWORD,dropbox
+# 目标: Global
 DOMAIN-KEYWORD,facebook
+# 目标: Global
 DOMAIN-KEYWORD,fbcdn
+# 目标: Global
 DOMAIN-KEYWORD,gmail
+# 目标: Global
 DOMAIN-KEYWORD,google
+# 目标: Global
 DOMAIN-KEYWORD,instagram
+# 目标: Global
 DOMAIN-KEYWORD,onedrive
+# 目标: Global
 DOMAIN-KEYWORD,paypal
+# 目标: Global
 DOMAIN-KEYWORD,porn
+# 目标: Global
 DOMAIN-KEYWORD,sci-hub
+# 目标: Global
 DOMAIN-KEYWORD,skydrive
+# 目标: Global
 DOMAIN-KEYWORD,spotify
+# 目标: Global
 DOMAIN-KEYWORD,telegram
+# 目标: Global
 DOMAIN-KEYWORD,ttvnw
+# 目标: Global
 DOMAIN-KEYWORD,twitter
+# 目标: Global
 DOMAIN-KEYWORD,uk-live
+# 目标: Global
 DOMAIN-KEYWORD,whatsapp
+# 目标: Global
 DOMAIN-KEYWORD,youtube
+# 目标: Global
 USER-AGENT,AbemaTV*
+# 目标: Global
 USER-AGENT,All4*
+# 目标: Global
 USER-AGENT,Anime*
+# 目标: Global
 USER-AGENT,Argo*
+# 目标: Global
 USER-AGENT,BBCiPlayer*
+# 目标: Global
 USER-AGENT,DAZN*
+# 目标: Global
 USER-AGENT,Deezer*
+# 目标: Global
 USER-AGENT,Disney+*
+# 目标: Global
 USER-AGENT,FOX%20NOW*
+# 目标: Global
 USER-AGENT,HBO%20GO%20PROD%20HKG*
+# 目标: Global
 USER-AGENT,HBO%20NOW*
+# 目标: Global
 USER-AGENT,HWTVMobile*
+# 目标: Global
 USER-AGENT,ITV_Player*
+# 目标: Global
 USER-AGENT,InstantVideo.US*
+# 目标: Global
 USER-AGENT,JOOX*
+# 目标: Global
 USER-AGENT,KKTV*
+# 目标: Global
 USER-AGENT,LINE%20TV*
+# 目标: Global
 USER-AGENT,My5*
+# 目标: Global
 USER-AGENT,Niconico*
+# 目标: Global
 USER-AGENT,PBS*
+# 目标: Global
 USER-AGENT,Pandora*
+# 目标: Global
 USER-AGENT,Prime%20Video*
+# 目标: Global
 USER-AGENT,SoundCloud*
+# 目标: Global
 USER-AGENT,Spotify*
+# 目标: Global
 USER-AGENT,TIDAL*
+# 目标: Global
 USER-AGENT,TaiwanGood*
+# 目标: Global
 USER-AGENT,TikTok*
+# 目标: Global
 USER-AGENT,TwDramas
+# 目标: Global
 USER-AGENT,Viu*
+# 目标: Global
 USER-AGENT,ViuTV*
+# 目标: Global
 USER-AGENT,WeMusic*
+# 目标: Global
 USER-AGENT,YouTube*
+# 目标: Global
 USER-AGENT,YouTubeMusic*
+# 目标: Global
 USER-AGENT,com.google.ios.youtube*
+# 目标: Global
 USER-AGENT,com.google.ios.youtubemusic*
+# 目标: Global
 USER-AGENT,com.kktv.ios.kktv*
+# 目标: Global
 USER-AGENT,encoreTVB*
+# 目标: Global
 USER-AGENT,mytv*
+# 目标: Global
 USER-AGENT,Duolingo*
+# 目标: Global
 USER-AGENT,OneDrive*
+# 目标: Global
 USER-AGENT,PayPal*
+# 目标: Global
 USER-AGENT,Roam*
+# 目标: Global
 USER-AGENT,WhatsApp*
+# 目标: Global
 USER-AGENT,battleroyale*
+# 目标: Global
 USER-AGENT,com.apple.trustd*
+# 目标: Global
 USER-AGENT,hearthstone*
+# 目标: Global
 IP-CIDR,1.201.0.0/24
+# 目标: Global
 IP-CIDR,101.32.118.0/23
+# 目标: Global
 IP-CIDR,101.32.96.0/20
+# 目标: Global
 IP-CIDR,103.2.28.0/22
+# 目标: Global
 IP-CIDR,103.246.56.0/22
+# 目标: Global
 IP-CIDR,103.27.148.0/22
+# 目标: Global
 IP-CIDR,103.4.96.0/22
+# 目标: Global
 IP-CIDR,108.175.32.0/20
+# 目标: Global
 IP-CIDR,109.239.140.0/24
+# 目标: Global
 IP-CIDR,110.76.140.0/22
+# 目标: Global
 IP-CIDR,113.61.104.0/22
+# 目标: Global
 IP-CIDR,119.235.224.0/21
+# 目标: Global
 IP-CIDR,119.235.232.0/23
+# 目标: Global
 IP-CIDR,119.235.235.0/24
+# 目标: Global
 IP-CIDR,119.235.236.0/23
+# 目标: Global
 IP-CIDR,120.232.181.162/32
+# 目标: Global
 IP-CIDR,120.241.147.226/32
+# 目标: Global
 IP-CIDR,120.253.253.226/32
+# 目标: Global
 IP-CIDR,120.253.255.162/32
+# 目标: Global
 IP-CIDR,120.253.255.34/32
+# 目标: Global
 IP-CIDR,120.253.255.98/32
+# 目标: Global
 IP-CIDR,125.209.208.0/20
+# 目标: Global
 IP-CIDR,125.6.146.0/24
+# 目标: Global
 IP-CIDR,125.6.149.0/24
+# 目标: Global
 IP-CIDR,125.6.190.0/24
+# 目标: Global
 IP-CIDR,129.134.0.0/17
+# 目标: Global
 IP-CIDR,129.226.0.0/16
+# 目标: Global
 IP-CIDR,13.251.24.0/24
+# 目标: Global
 IP-CIDR,13.251.41.0/24
+# 目标: Global
 IP-CIDR,13.32.0.0/15
+# 目标: Global
 IP-CIDR,13.35.0.0/17
+# 目标: Global
 IP-CIDR,14.102.250.18/31
+# 目标: Global
 IP-CIDR,147.92.128.0/17
+# 目标: Global
 IP-CIDR,149.154.160.0/20
+# 目标: Global
 IP-CIDR,157.240.0.0/17
+# 目标: Global
 IP-CIDR,158.85.224.160/27
+# 目标: Global
 IP-CIDR,158.85.46.128/27
+# 目标: Global
 IP-CIDR,158.85.5.192/27
+# 目标: Global
 IP-CIDR,169.45.248.118/32
+# 目标: Global
 IP-CIDR,17.252.156.0/23
+# 目标: Global
 IP-CIDR,173.192.222.160/27
+# 目标: Global
 IP-CIDR,173.192.231.32/27
+# 目标: Global
 IP-CIDR,173.194.0.0/16
+# 目标: Global
 IP-CIDR,173.252.64.0/18
+# 目标: Global
 IP-CIDR,174.142.105.153/32
+# 目标: Global
 IP-CIDR,174.37.0.0/16
+# 目标: Global
 IP-CIDR,179.60.192.0/22
+# 目标: Global
 IP-CIDR,18.184.0.0/15
+# 目标: Global
 IP-CIDR,18.194.0.0/15
+# 目标: Global
 IP-CIDR,18.208.0.0/13
+# 目标: Global
 IP-CIDR,18.232.0.0/14
+# 目标: Global
 IP-CIDR,180.163.150.162/32
+# 目标: Global
 IP-CIDR,180.163.150.34/32
+# 目标: Global
 IP-CIDR,180.163.151.162/32
+# 目标: Global
 IP-CIDR,180.163.151.34/32
+# 目标: Global
 IP-CIDR,184.173.128.0/17
+# 目标: Global
 IP-CIDR,185.60.216.0/22
+# 目标: Global
 IP-CIDR,185.76.151.0/24
+# 目标: Global
 IP-CIDR,192.173.64.0/18
+# 目标: Global
 IP-CIDR,198.38.96.0/19
+# 目标: Global
 IP-CIDR,198.45.48.0/20
+# 目标: Global
 IP-CIDR,203.104.103.0/24
+# 目标: Global
 IP-CIDR,203.104.128.0/19
+# 目标: Global
 IP-CIDR,203.174.66.64/26
+# 目标: Global
 IP-CIDR,203.174.77.0/24
+# 目标: Global
 IP-CIDR,203.208.39.0/24
+# 目标: Global
 IP-CIDR,203.208.40.0/23
+# 目标: Global
 IP-CIDR,203.208.43.0/24
+# 目标: Global
 IP-CIDR,203.208.50.0/24
+# 目标: Global
 IP-CIDR,204.15.20.0/22
+# 目标: Global
 IP-CIDR,208.43.0.0/16
+# 目标: Global
 IP-CIDR,220.181.174.162/32
+# 目标: Global
 IP-CIDR,220.181.174.226/32
+# 目标: Global
 IP-CIDR,220.181.174.34/32
+# 目标: Global
 IP-CIDR,23.246.0.0/18
+# 目标: Global
 IP-CIDR,27.0.236.0/22
+# 目标: Global
 IP-CIDR,3.123.36.126/32
+# 目标: Global
 IP-CIDR,31.13.24.0/21
+# 目标: Global
 IP-CIDR,31.13.64.0/18
+# 目标: Global
 IP-CIDR,34.224.0.0/12
+# 目标: Global
 IP-CIDR,35.157.215.84/32
+# 目标: Global
 IP-CIDR,35.157.217.255/32
+# 目标: Global
 IP-CIDR,37.77.184.0/21
+# 目标: Global
 IP-CIDR,45.57.0.0/17
+# 目标: Global
 IP-CIDR,45.64.40.0/22
+# 目标: Global
 IP-CIDR,50.22.198.204/30
+# 目标: Global
 IP-CIDR,52.200.0.0/13
+# 目标: Global
 IP-CIDR,52.58.0.0/15
+# 目标: Global
 IP-CIDR,52.74.0.0/16
+# 目标: Global
 IP-CIDR,52.77.0.0/16
+# 目标: Global
 IP-CIDR,52.84.0.0/15
+# 目标: Global
 IP-CIDR,54.156.0.0/14
+# 目标: Global
 IP-CIDR,54.162.243.80/32
+# 目标: Global
 IP-CIDR,54.173.34.141/32
+# 目标: Global
 IP-CIDR,54.226.0.0/15
+# 目标: Global
 IP-CIDR,54.230.156.0/22
+# 目标: Global
 IP-CIDR,54.235.23.242/32
+# 目标: Global
 IP-CIDR,54.242.0.0/15
+# 目标: Global
 IP-CIDR,54.93.0.0/16
+# 目标: Global
 IP-CIDR,64.120.128.0/17
+# 目标: Global
 IP-CIDR,66.197.128.0/17
+# 目标: Global
 IP-CIDR,66.220.144.0/20
+# 目标: Global
 IP-CIDR,67.220.91.15/32
+# 目标: Global
 IP-CIDR,67.220.91.18/32
+# 目标: Global
 IP-CIDR,67.220.91.23/32
+# 目标: Global
 IP-CIDR,69.171.224.0/19
+# 目标: Global
 IP-CIDR,69.63.176.0/20
+# 目标: Global
 IP-CIDR,69.65.19.160/32
+# 目标: Global
 IP-CIDR,72.52.81.22/32
+# 目标: Global
 IP-CIDR,74.119.76.0/22
+# 目标: Global
 IP-CIDR,74.125.0.0/16
+# 目标: Global
 IP-CIDR,74.86.0.0/16
+# 目标: Global
 IP-CIDR,75.126.0.0/16
+# 目标: Global
 IP-CIDR,91.105.192.0/23
+# 目标: Global
 IP-CIDR,91.108.0.0/16
+# 目标: Global
 IP-CIDR6,2001:67c:4e8::/48
+# 目标: Global
 IP-CIDR6,2001:b28:f23c::/47
+# 目标: Global
 IP-CIDR6,2001:b28:f23f::/48
+# 目标: Global
 IP-CIDR6,2a0a:f280::/32

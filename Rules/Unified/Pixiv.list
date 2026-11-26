@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: Pixiv
 # 合并来源: blackmatrix7/ios_rule_script Pixiv
 # 规则数: 8
+# 目标: Pixiv
 DOMAIN-SUFFIX,booth.pm
+# 目标: Pixiv
 DOMAIN-SUFFIX,fanbox.cc
+# 目标: Pixiv
 DOMAIN-SUFFIX,pixiv.cat
+# 目标: Pixiv
 DOMAIN-SUFFIX,pixiv.co.jp
+# 目标: Pixiv
 DOMAIN-SUFFIX,pixiv.me
+# 目标: Pixiv
 DOMAIN-SUFFIX,pixiv.net
+# 目标: Pixiv
 DOMAIN-SUFFIX,pixiv.org
+# 目标: Pixiv
 DOMAIN-SUFFIX,pximg.net

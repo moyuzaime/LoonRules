@@ -1,32 +1,62 @@
 # 统一规则库 | 分类: XieCheng
 # 合并来源: blackmatrix7/ios_rule_script XieCheng
+# 说明: 携程
 # 规则数: 29
+# 目标: XieCheng
 DOMAIN-SUFFIX,c-ctrip.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,colinker.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctrip.cn
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctrip.co.id
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctrip.co.kr
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctrip.co.th
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctrip.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctrip.com.hk
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctrip.my
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctrip.sg
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctripbiz.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctripbuy.hk
+# 目标: XieCheng
 DOMAIN-SUFFIX,ctripteam.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,doticloud.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,easytrip.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,hhtravel.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,hhtravel.com.tw
+# 目标: XieCheng
 DOMAIN-SUFFIX,izuchebao.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,lvtds.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,shuntu.cn
+# 目标: XieCheng
 DOMAIN-SUFFIX,skysea.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,suanya.cn
+# 目标: XieCheng
 DOMAIN-SUFFIX,suanya.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,tieyou.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,toptown.cn
+# 目标: XieCheng
 DOMAIN-SUFFIX,toursbms.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,trip.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,tripcdn.com
+# 目标: XieCheng
 DOMAIN-SUFFIX,vipdlt.com

@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: SMG
 # 合并来源: blackmatrix7/ios_rule_script SMG
 # 规则数: 4
+# 目标: SMG
 DOMAIN-SUFFIX,cptn.tv
+# 目标: SMG
 DOMAIN-SUFFIX,sava.sh.cn
+# 目标: SMG
 DOMAIN-SUFFIX,smg.cn
+# 目标: SMG
 DOMAIN-SUFFIX,smg.sh.cn

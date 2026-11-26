@@ -1,154 +1,306 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/iFlytek/iFlytek.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/iFlytek/iFlytek.list
+# 说明: 科大讯飞
 # 规则数: 151
+# 目标: iFlytek
 DOMAIN-SUFFIX,4006806555.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,51diyring.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,51lesheng.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,51lesheng.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,51znyx.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,51znyx.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,91qycl.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,91qycl.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,91ting.net
+# 目标: iFlytek
 DOMAIN-SUFFIX,91znyx.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,91znyx.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,adsring.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,ai-daxue.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,aidaxue.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,aifuwus.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,ceshiservice.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,changyan.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,changyan.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,chinese-learn.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,chinese-learn.com.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,chinese-learning.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,chinese-learning.com.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,ciqujia.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,cltt.org
+# 目标: iFlytek
 DOMAIN-SUFFIX,cogskl.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,colp.com.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,cycore.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,cyservice.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,diyring.cc
+# 目标: iFlytek
 DOMAIN-SUFFIX,dungkarime.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,edulines.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,edux.design
+# 目标: iFlytek
 DOMAIN-SUFFIX,eltt.org
+# 目标: iFlytek
 DOMAIN-SUFFIX,exd.design
+# 目标: iFlytek
 DOMAIN-SUFFIX,fxk.net.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,fxkedu.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,fxkedu.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,guguread.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,gxfinfr.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,gyxx365.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,haitunvoice.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,hd-english.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,hd-english.net
+# 目标: iFlytek
 DOMAIN-SUFFIX,himorfei.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,hudong100.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,hudong100.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,hudong100.net
+# 目标: iFlytek
 DOMAIN-SUFFIX,hudong100.org
+# 目标: iFlytek
 DOMAIN-SUFFIX,i-mock.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,i-mock.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,ichangyan.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyaiedu.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyaiedu.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyauto-solution.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflybi.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflydatahub.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflydocs.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyink.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyinsure.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyiot.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflynote.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyos.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyread.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyread.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyrec.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflyresearch.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflysec.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflytek.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflytek.com.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflytekauto.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflytekin.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflytektstd.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,iflytoy.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,ihou.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,isay365.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,isay365.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,isay365.com.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,isay365.hk
+# 目标: iFlytek
 DOMAIN-SUFFIX,isay365.net
+# 目标: iFlytek
 DOMAIN-SUFFIX,isay365.net.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,isay365.org
+# 目标: iFlytek
 DOMAIN-SUFFIX,isayabc.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,itocoo.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,iyuji.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,jicaibao.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,khfw.net.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,khfwedu.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,khfwedu.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,koukao.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,koukao.com.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,koukao.net
+# 目标: iFlytek
 DOMAIN-SUFFIX,koukao.org
+# 目标: iFlytek
 DOMAIN-SUFFIX,kuyin123.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,kuyinxiu.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,kuyinxiuxiu.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,kuyinyun.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,learningsj.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,lingxicloud.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,linkspeech.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,mingshi100.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,mingshi100.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,mingshi100.com.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,mingshi100.net
+# 目标: iFlytek
 DOMAIN-SUFFIX,musicd.cc
+# 目标: iFlytek
 DOMAIN-SUFFIX,openauth.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,openspeech.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,openstorage.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,peiyinge.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,peiyingefiles.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,peiyingo.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,pitayaio.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,pthceshi.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,pthceshi.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,pthcs.org.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,qingsonngxx.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,tangdaoya.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,tingshuo51.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,uuhdedu.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,voiceads.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,voicecloud.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,xf-yun.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfdwz.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfinfr.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfliusheng.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfpaas.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfpass.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xftrans.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,xftransa.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfyousheng.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfyousheng.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfyun-doc.ufile.ucloud.com.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfyun.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,xfyun.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xiezuoye.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xsmart.link
+# 目标: iFlytek
 DOMAIN-SUFFIX,xunfei.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,xunfeia.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xunfeib.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xunfeixxj.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,xx-sapce.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,yanshiservice.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,yuyin.tv
+# 目标: iFlytek
 DOMAIN-SUFFIX,yytiflytek.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,yytiflytek.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,zhcyanshi.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,zhihuichuangyanshi.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,zhihuixuexipt.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,zhixue.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,zhixue.com
+# 目标: iFlytek
 DOMAIN-SUFFIX,zhybedu.cn
+# 目标: iFlytek
 DOMAIN-SUFFIX,zyjyyun.com

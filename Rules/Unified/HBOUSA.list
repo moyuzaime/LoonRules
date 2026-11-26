@@ -1,14 +1,26 @@
 # 统一规则库 | 分类: HBOUSA
 # 合并来源: blackmatrix7/ios_rule_script HBOUSA
+# 说明: HBO(美国)
 # 规则数: 11
+# 目标: HBOUSA
 DOMAIN,wmff.warnermediacdn.com
+# 目标: HBOUSA
 DOMAIN-SUFFIX,cinemax.com
+# 目标: HBOUSA
 DOMAIN-SUFFIX,discomax.com
+# 目标: HBOUSA
 DOMAIN-SUFFIX,h264.io
+# 目标: HBOUSA
 DOMAIN-SUFFIX,hbomax.com
+# 目标: HBOUSA
 DOMAIN-SUFFIX,hbomaxcdn.com
+# 目标: HBOUSA
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+# 目标: HBOUSA
 DOMAIN-SUFFIX,hbonow.com
+# 目标: HBOUSA
 DOMAIN-SUFFIX,max.com
+# 目标: HBOUSA
 DOMAIN-SUFFIX,maxgo.com
+# 目标: HBOUSA
 USER-AGENT,HBOMAX*

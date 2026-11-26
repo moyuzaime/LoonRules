@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: YouTubeMusic
 # 合并来源: blackmatrix7/ios_rule_script YouTubeMusic
 # 规则数: 5
+# 目标: YouTubeMusic
 DOMAIN,music.youtube.com
+# 目标: YouTubeMusic
 USER-AGENT,*YouTubeMusic*
+# 目标: YouTubeMusic
 USER-AGENT,*com.google.ios.youtubemusic*
+# 目标: YouTubeMusic
 USER-AGENT,YouTubeMusic*
+# 目标: YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*

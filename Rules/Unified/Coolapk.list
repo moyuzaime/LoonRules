@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Coolapk
 # 合并来源: blackmatrix7/ios_rule_script Coolapk
 # 规则数: 3
+# 目标: Coolapk
 DOMAIN-SUFFIX,coolapk.com
+# 目标: Coolapk
 DOMAIN-SUFFIX,coolapkmarket.com
+# 目标: Coolapk
 DOMAIN-SUFFIX,coolapkmarket.net

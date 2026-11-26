@@ -1,37 +1,72 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ChinaUnicom/ChinaUnicom_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaUnicom/ChinaUnicom_Resolve.list
+# 说明: 中国联通
 # 规则数: 34
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,10010.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,10010.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,10010.com.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,10010.net
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,17wo.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,chinaunicom.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,chinaunicom.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,chinaunicom.com.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,chinaunicom.com.hk
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,chinaunicombidding.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,chinaunicomglobal.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,cu5gaia.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,cu5gaia.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,cuecp.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,cupb.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,e-engine.com.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,gd10010.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,gd116114.net.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,gd165.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,gnoc.com.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,mucfc.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,mychinaunicom.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,unicomgd.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,unicompayment.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,unicompayment.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,unicompayment.net
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,unicompayment.org
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,unimip.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,wo-link.tech
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,wo.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,wo.com.cn
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,wobaif.com
+# 目标: ChinaUnicom
 DOMAIN-SUFFIX,wom186.com
+# 目标: ChinaUnicom
 IP-CIDR,113.200.56.63/32

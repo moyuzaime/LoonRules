@@ -1,46 +1,90 @@
 # 统一规则库 | 分类: CAS
 # 合并来源: blackmatrix7/ios_rule_script CAS
+# 说明: 中国科学院文献情报中心
 # 规则数: 43
+# 目标: CAS
 DOMAIN-SUFFIX,acas.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,agklab.cn
+# 目标: CAS
 DOMAIN-SUFFIX,berlin8.org
+# 目标: CAS
 DOMAIN-SUFFIX,biotech.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,chinaxiv.cn
+# 目标: CAS
 DOMAIN-SUFFIX,chinaxiv.com
+# 目标: CAS
 DOMAIN-SUFFIX,chinaxiv.net
+# 目标: CAS
 DOMAIN-SUFFIX,chinaxiv.org
+# 目标: CAS
 DOMAIN-SUFFIX,cjstp.cn
+# 目标: CAS
 DOMAIN-SUFFIX,cnegov.com
+# 目标: CAS
 DOMAIN-SUFFIX,cnegov.org
+# 目标: CAS
 DOMAIN-SUFFIX,cscd.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,csci.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,csci.net.cn
+# 目标: CAS
 DOMAIN-SUFFIX,csdl.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,csdl.net.cn
+# 目标: CAS
 DOMAIN-SUFFIX,csdl.org.cn
+# 目标: CAS
 DOMAIN-SUFFIX,dataintelligence.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,grc-oa.org.cn
+# 目标: CAS
 DOMAIN-SUFFIX,hitech.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,iauthor.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,iauthor.cn
+# 目标: CAS
 DOMAIN-SUFFIX,infotech.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,ipres2020.cn
+# 目标: CAS
 DOMAIN-SUFFIX,jdis.org
+# 目标: CAS
 DOMAIN-SUFFIX,las.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,lis.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,lndx.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,modernization.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,museum.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,ndpp.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,nsl.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,open-search.org
+# 目标: CAS
 DOMAIN-SUFFIX,openinnovation.cn
+# 目标: CAS
 DOMAIN-SUFFIX,openinnoviation.cn
+# 目标: CAS
 DOMAIN-SUFFIX,progchem.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,sciencechina.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,sciencechina.cn
+# 目标: CAS
 DOMAIN-SUFFIX,sciencechina.net.cn
+# 目标: CAS
 DOMAIN-SUFFIX,sciencechina.org.cn
+# 目标: CAS
 DOMAIN-SUFFIX,sciencefocus.ac.cn
+# 目标: CAS
 DOMAIN-SUFFIX,stmjsociety.com
+# 目标: CAS
 DOMAIN-SUFFIX,stpaper.cn

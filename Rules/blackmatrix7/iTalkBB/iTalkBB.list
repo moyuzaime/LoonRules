@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/iTalkBB/iTalkBB.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/iTalkBB/iTalkBB.list
 # 规则数: 3
+# 目标: iTalkBB
 DOMAIN-SUFFIX,api.tv.colnv.com
+# 目标: iTalkBB
 DOMAIN-SUFFIX,italkbb.com
+# 目标: iTalkBB
 DOMAIN-SUFFIX,italkbbtv.com

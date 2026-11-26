@@ -1,25 +1,47 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Opera/Opera.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Opera/Opera.list
 # 规则数: 22
+# 目标: Opera
 DOMAIN-SUFFIX,1npq4.tk
+# 目标: Opera
 DOMAIN-SUFFIX,coastbyopera.com
+# 目标: Opera
 DOMAIN-SUFFIX,gamingbrowsers.com
+# 目标: Opera
 DOMAIN-SUFFIX,opera-api.com
+# 目标: Opera
 DOMAIN-SUFFIX,opera-api2.com
+# 目标: Opera
 DOMAIN-SUFFIX,opera-browser.com
+# 目标: Opera
 DOMAIN-SUFFIX,opera-mini.net
+# 目标: Opera
 DOMAIN-SUFFIX,opera.com
+# 目标: Opera
 DOMAIN-SUFFIX,opera.software
+# 目标: Opera
 DOMAIN-SUFFIX,operacdn.com
+# 目标: Opera
 DOMAIN-SUFFIX,operagx.com
+# 目标: Opera
 DOMAIN-SUFFIX,operasoftware.com
+# 目标: Opera
 DOMAIN-SUFFIX,otvs.tv
+# 目标: Opera
 DOMAIN-SUFFIX,xn--cer18jcpe41t.com
+# 目标: Opera
 IP-CIDR,141.0.8.0/21,no-resolve
+# 目标: Opera
 IP-CIDR,185.26.180.0/22,no-resolve
+# 目标: Opera
 IP-CIDR,195.189.142.0/23,no-resolve
+# 目标: Opera
 IP-CIDR,37.228.104.0/21,no-resolve
+# 目标: Opera
 IP-CIDR,77.111.244.0/22,no-resolve
+# 目标: Opera
 IP-CIDR,82.145.208.0/20,no-resolve
+# 目标: Opera
 IP-CIDR,91.203.97.0/24,no-resolve
+# 目标: Opera
 IP-CIDR6,2001:4c28::/32,no-resolve

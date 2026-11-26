@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Collabora
 # 合并来源: blackmatrix7/ios_rule_script Collabora
 # 规则数: 4
+# 目标: Collabora
 DOMAIN-SUFFIX,collabora.co.uk
+# 目标: Collabora
 DOMAIN-SUFFIX,collabora.com
+# 目标: Collabora
 DOMAIN-SUFFIX,collabora.org
+# 目标: Collabora
 DOMAIN-SUFFIX,collaboraoffice.com

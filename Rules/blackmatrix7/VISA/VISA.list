@@ -1,102 +1,201 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/VISA/VISA.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/VISA/VISA.list
 # 规则数: 99
+# 目标: VISA
 DOMAIN-SUFFIX,visa.be
+# 目标: VISA
 DOMAIN-SUFFIX,visa.ca
+# 目标: VISA
 DOMAIN-SUFFIX,visa.cl
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.ao
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.cr
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.id
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.il
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.in
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.jp
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.ke
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.ni
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.nz
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.th
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.uk
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.ve
+# 目标: VISA
 DOMAIN-SUFFIX,visa.co.za
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ag
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ai
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ar
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.au
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.az
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.bo
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.br
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.bs
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.bz
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.cn
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.co
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.cy
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.dm
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.do
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ec
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ge
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.gt
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.gy
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.hk
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.hn
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.hr
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.jm
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.kh
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.kn
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.kz
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.lc
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.lk
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ms
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.mx
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.my
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ng
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.pa
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.pe
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ph
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.pr
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.py
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ru
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.sg
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.sv
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.tr
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.tt
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.tw
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.ua
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.uy
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.vc
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.vi
+# 目标: VISA
 DOMAIN-SUFFIX,visa.com.vn
+# 目标: VISA
 DOMAIN-SUFFIX,visa.cz
+# 目标: VISA
 DOMAIN-SUFFIX,visa.de
+# 目标: VISA
 DOMAIN-SUFFIX,visa.dk
+# 目标: VISA
 DOMAIN-SUFFIX,visa.es
+# 目标: VISA
 DOMAIN-SUFFIX,visa.fi
+# 目标: VISA
 DOMAIN-SUFFIX,visa.fr
+# 目标: VISA
 DOMAIN-SUFFIX,visa.gd
+# 目标: VISA
 DOMAIN-SUFFIX,visa.gp
+# 目标: VISA
 DOMAIN-SUFFIX,visa.gr
+# 目标: VISA
 DOMAIN-SUFFIX,visa.hu
+# 目标: VISA
 DOMAIN-SUFFIX,visa.ie
+# 目标: VISA
 DOMAIN-SUFFIX,visa.is
+# 目标: VISA
 DOMAIN-SUFFIX,visa.ky
+# 目标: VISA
 DOMAIN-SUFFIX,visa.lt
+# 目标: VISA
 DOMAIN-SUFFIX,visa.lv
+# 目标: VISA
 DOMAIN-SUFFIX,visa.mn
+# 目标: VISA
 DOMAIN-SUFFIX,visa.mq
+# 目标: VISA
 DOMAIN-SUFFIX,visa.nl
+# 目标: VISA
 DOMAIN-SUFFIX,visa.no
+# 目标: VISA
 DOMAIN-SUFFIX,visa.pl
+# 目标: VISA
 DOMAIN-SUFFIX,visa.pt
+# 目标: VISA
 DOMAIN-SUFFIX,visa.ro
+# 目标: VISA
 DOMAIN-SUFFIX,visa.se
+# 目标: VISA
 DOMAIN-SUFFIX,visa.sk
+# 目标: VISA
 DOMAIN-SUFFIX,visa.sx
+# 目标: VISA
 DOMAIN-SUFFIX,visa.tc
+# 目标: VISA
 DOMAIN-SUFFIX,visabg.com
+# 目标: VISA
 DOMAIN-SUFFIX,visaeurope.at
+# 目标: VISA
 DOMAIN-SUFFIX,visaeurope.ch
+# 目标: VISA
 DOMAIN-SUFFIX,visaeurope.lu
+# 目标: VISA
 DOMAIN-SUFFIX,visaeurope.si
+# 目标: VISA
 DOMAIN-SUFFIX,visaitalia.com
+# 目标: VISA
 DOMAIN-SUFFIX,visakorea.com
+# 目标: VISA
 DOMAIN-SUFFIX,visamiddleeast.com
+# 目标: VISA
 DOMAIN-SUFFIX,visasoutheasteurope.com

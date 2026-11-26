@@ -1,24 +1,45 @@
 # 统一规则库 | 分类: Mozilla
 # 合并来源: blackmatrix7/ios_rule_script Mozilla
 # 规则数: 21
+# 目标: Mozilla
 DOMAIN-SUFFIX,bugzilla.org
+# 目标: Mozilla
 DOMAIN-SUFFIX,crates.io
+# 目标: Mozilla
 DOMAIN-SUFFIX,docs.rs
+# 目标: Mozilla
 DOMAIN-SUFFIX,extensionworkshop.com
+# 目标: Mozilla
 DOMAIN-SUFFIX,firefox.com
+# 目标: Mozilla
 DOMAIN-SUFFIX,firefox.com.cn
+# 目标: Mozilla
 DOMAIN-SUFFIX,firefoxusercontent.com
+# 目标: Mozilla
 DOMAIN-SUFFIX,getpocket.com
+# 目标: Mozilla
 DOMAIN-SUFFIX,mdn.mozillademos.org
+# 目标: Mozilla
 DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
+# 目标: Mozilla
 DOMAIN-SUFFIX,mofoprod.net
+# 目标: Mozilla
 DOMAIN-SUFFIX,mozilla.com
+# 目标: Mozilla
 DOMAIN-SUFFIX,mozilla.community
+# 目标: Mozilla
 DOMAIN-SUFFIX,mozilla.net
+# 目标: Mozilla
 DOMAIN-SUFFIX,mozilla.org
+# 目标: Mozilla
 DOMAIN-SUFFIX,pocket-image-cache.com
+# 目标: Mozilla
 DOMAIN-SUFFIX,rust-lang.org
+# 目标: Mozilla
 DOMAIN-SUFFIX,rustup.rs
+# 目标: Mozilla
 DOMAIN-SUFFIX,seamonkey-project.org
+# 目标: Mozilla
 DOMAIN-SUFFIX,sentry.prod.mozaws.net
+# 目标: Mozilla
 DOMAIN-SUFFIX,thunderbird.net

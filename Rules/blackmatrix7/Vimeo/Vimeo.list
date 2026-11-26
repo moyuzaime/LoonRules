@@ -1,19 +1,35 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Vimeo/Vimeo.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Vimeo/Vimeo.list
 # 规则数: 16
+# 目标: Vimeo
 DOMAIN-SUFFIX,livestream.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vhx.tv
+# 目标: Vimeo
 DOMAIN-SUFFIX,vhxqa1.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vhxqa2.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vhxqa3.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vhxqa4.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vhxqa6.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vimeo-staging.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vimeo-staging2.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vimeo.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vimeo.fr
+# 目标: Vimeo
 DOMAIN-SUFFIX,vimeobusiness.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vimeocdn.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vimeogoods.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vimeoondemand.com
+# 目标: Vimeo
 DOMAIN-SUFFIX,vimeostatus.com

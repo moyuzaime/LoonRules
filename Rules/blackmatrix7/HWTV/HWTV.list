@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/HWTV/HWTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HWTV/HWTV.list
 # 规则数: 3
+# 目标: HWTV
 DOMAIN-SUFFIX,5itv.tv
+# 目标: HWTV
 DOMAIN-SUFFIX,ocnttv.com
+# 目标: HWTV
 USER-AGENT,HWTVMobile*

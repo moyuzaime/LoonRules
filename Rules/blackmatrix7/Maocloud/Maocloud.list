@@ -1,6 +1,10 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Maocloud/Maocloud.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Maocloud/Maocloud.list
+# 说明: 猫云
 # 规则数: 3
+# 目标: Maocloud
 DOMAIN-SUFFIX,maoyun.com
+# 目标: Maocloud
 DOMAIN-SUFFIX,maoyuncloud.cn
+# 目标: Maocloud
 DOMAIN-SUFFIX,maoyuncloud.com

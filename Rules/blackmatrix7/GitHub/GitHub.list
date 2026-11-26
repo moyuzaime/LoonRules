@@ -1,34 +1,65 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/GitHub/GitHub.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/GitHub/GitHub.list
 # 规则数: 31
+# 目标: GitHub
 DOMAIN-SUFFIX,atom.io
+# 目标: GitHub
 DOMAIN-SUFFIX,dependabot.com
+# 目标: GitHub
 DOMAIN-SUFFIX,ghcr.io
+# 目标: GitHub
 DOMAIN-SUFFIX,git.io
+# 目标: GitHub
 DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+# 目标: GitHub
 DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+# 目标: GitHub
 DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+# 目标: GitHub
 DOMAIN-SUFFIX,github.blog
+# 目标: GitHub
 DOMAIN-SUFFIX,github.com
+# 目标: GitHub
 DOMAIN-SUFFIX,github.community
+# 目标: GitHub
 DOMAIN-SUFFIX,github.dev
+# 目标: GitHub
 DOMAIN-SUFFIX,github.io
+# 目标: GitHub
 DOMAIN-SUFFIX,githubapp.com
+# 目标: GitHub
 DOMAIN-SUFFIX,githubassets.com
+# 目标: GitHub
 DOMAIN-SUFFIX,githubcopilot.com
+# 目标: GitHub
 DOMAIN-SUFFIX,githubhackathon.com
+# 目标: GitHub
 DOMAIN-SUFFIX,githubnext.com
+# 目标: GitHub
 DOMAIN-SUFFIX,githubpreview.dev
+# 目标: GitHub
 DOMAIN-SUFFIX,githubstatus.com
+# 目标: GitHub
 DOMAIN-SUFFIX,githubuniverse.com
+# 目标: GitHub
 DOMAIN-SUFFIX,githubusercontent.com
+# 目标: GitHub
 DOMAIN-SUFFIX,myoctocat.com
+# 目标: GitHub
 DOMAIN-SUFFIX,npm.community
+# 目标: GitHub
 DOMAIN-SUFFIX,npmjs.com
+# 目标: GitHub
 DOMAIN-SUFFIX,npmjs.org
+# 目标: GitHub
 DOMAIN-SUFFIX,opensource.guide
+# 目标: GitHub
 DOMAIN-SUFFIX,rawgit.com
+# 目标: GitHub
 DOMAIN-SUFFIX,rawgithub.com
+# 目标: GitHub
 DOMAIN-SUFFIX,repo.new
+# 目标: GitHub
 DOMAIN-SUFFIX,thegithubshop.com
+# 目标: GitHub
 DOMAIN-KEYWORD,github

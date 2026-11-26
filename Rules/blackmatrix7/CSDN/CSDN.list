@@ -1,25 +1,47 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/CSDN/CSDN.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CSDN/CSDN.list
 # 规则数: 22
+# 目标: CSDN
 DOMAIN-SUFFIX,codechina.net
+# 目标: CSDN
 DOMAIN-SUFFIX,csdn.com
+# 目标: CSDN
 DOMAIN-SUFFIX,csdn.net
+# 目标: CSDN
 DOMAIN-SUFFIX,csdn.net.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,csdnimg.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,csto.com
+# 目标: CSDN
 DOMAIN-SUFFIX,datasea.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,gitbook.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,gitchat.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,gitcode.com
+# 目标: CSDN
 DOMAIN-SUFFIX,gitcode.net
+# 目标: CSDN
 DOMAIN-SUFFIX,iteye.com
+# 目标: CSDN
 DOMAIN-SUFFIX,kaifayun.com
+# 目标: CSDN
 DOMAIN-SUFFIX,linuxpower.com.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,powerlinux.com.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,programmer.com.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,programmer.net.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,qualcomm-challenge.com
+# 目标: CSDN
 DOMAIN-SUFFIX,tinymind.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,tinymind.com
+# 目标: CSDN
 DOMAIN-SUFFIX,tinymind.com.cn
+# 目标: CSDN
 DOMAIN-SUFFIX,topcto50.com

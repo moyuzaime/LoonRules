@@ -1,173 +1,343 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/apple-cn.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/apple-cn.list
 # 规则数: 170
+# 目标: apple-cn
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
+# 目标: apple-cn
 DOMAIN,api.smoot.apple.cn
+# 目标: apple-cn
 DOMAIN,appleintelligencefeedback.care.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,a1.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,a2.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,a3.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,a4.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,a5.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,adcdownload.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,amp-api.media.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,app-site-association.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,appldnld.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,apple.com.cn
+# 目标: apple-cn
 DOMAIN-SUFFIX,appleid.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,apps.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,apps.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdn-cn1.apple-mapkit.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdn-cn2.apple-mapkit.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdn-cn3.apple-mapkit.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdn-cn4.apple-mapkit.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdn.apple-mapkit.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdn1.apple-mapkit.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdn2.apple-mapkit.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdn3.apple-mapkit.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdn4.apple-mapkit.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cds-cdn.v.aaplimg.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cds.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cds.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,cdsassets.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,certs.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl1-cdn.origin-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl1.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl2-cn.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl2.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl2.apple.com.edgekey.net.globalredir.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl3-cdn.origin-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl3.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl4-cdn.origin-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl4-cn.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl4.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl5-cdn.origin-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,cl5.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,clientflow.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,clientflow.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,cn-smp-paymentservices.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cn-ssl.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cn.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cn.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,configuration.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,configuration.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,crl.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cstat.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,cstat.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,dd-cdn.origin-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,dejavu.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,devimages-cdn.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,download.developer.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,experiments.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gs-loc-cn.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gs-loc.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gsp10-ssl-cn.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gsp11-cn.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gsp12-cn.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gsp13-cn.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,gsp5-cn.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gspe11-2-cn-ssl.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,gspe19-cn.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gspe21-ssl.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gspe35-ssl.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,gspe79-cn-ssl.ls.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,guzzoni-apple-com.v.aaplimg.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,guzzoni.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,guzzoni.smoot.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,iadsdk.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,icloud.com.cn
+# 目标: apple-cn
 DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,init-kt.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,init-p01md-lb.push-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,init-p01md.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,init-p01st-lb.push-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,init-p01st.push.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,init-s01st-lb.push-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,init-s01st.push.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,init.ess.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,ipcdn.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,iphone-ld.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,iphone-ld.origin-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,is1-ssl.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,is1.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,is2-ssl.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,is2.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,is3-ssl.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,is3.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,is4-ssl.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,is4.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,is5-ssl.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,is5.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,itunes.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,itunesconnect.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,mensura.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,mesu.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,ml.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,music.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,ocsp.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,ocsp2.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,oscdn.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,osxapps.itunes.g.aaplimg.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,pancake.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,pba0.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,probe.siri.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,publicassets.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,s.mzstatic.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,seed-sequoia.siri.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,seed-swallow.siri.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,seed.siri.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,sequoia.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,sh-pod2-smp-device.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,shazam-insights.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,smp-device-content.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,static.gc.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,stocks-sparkline-lb.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,stocks-sparkline.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,store.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,store.apple.com.edgekey.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,store.storeimages.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,store.storeimages.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,support-china.apple-support.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,support.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,swallow-apple-com.v.aaplimg.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,swallow.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,swcatalog-cdn.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,swcatalog.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,swcdn.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,swcdn.g.aaplimg.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,swdist.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,swdist.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,swscan.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,sylvan.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,tj-pod1-smp-device.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,updates-http.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,updates-http.cdn-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,updates.cdn-apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,valid.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,valid.origin-apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,weather-data.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,weather-map.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,weather-map2.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,weatherkit.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,www.apple.com
+# 目标: apple-cn
 DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
+# 目标: apple-cn
 DOMAIN-SUFFIX,xp.apple.com

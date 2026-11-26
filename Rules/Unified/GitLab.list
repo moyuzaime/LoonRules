@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: GitLab
 # 合并来源: blackmatrix7/ios_rule_script GitLab
 # 规则数: 6
+# 目标: GitLab
 DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+# 目标: GitLab
 DOMAIN-SUFFIX,gitlab-static.net
+# 目标: GitLab
 DOMAIN-SUFFIX,gitlab.com
+# 目标: GitLab
 DOMAIN-SUFFIX,gitlab.net
+# 目标: GitLab
 DOMAIN-SUFFIX,gitter-static.net
+# 目标: GitLab
 DOMAIN-SUFFIX,gitter.im

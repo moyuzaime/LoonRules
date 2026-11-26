@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/PandoraTV/PandoraTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PandoraTV/PandoraTV.list
 # 规则数: 2
+# 目标: PandoraTV
 DOMAIN-SUFFIX,kmplayer.com
+# 目标: PandoraTV
 DOMAIN-SUFFIX,pandora.tv

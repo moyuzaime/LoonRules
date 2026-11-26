@@ -1,15 +1,28 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ZDNS/ZDNS.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZDNS/ZDNS.list
+# 说明: 国家工程研究中心
 # 规则数: 12
+# 目标: ZDNS
 DOMAIN-SUFFIX,zcmbc.com.cn
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdns.cn
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdns.net.cn
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdns.org.cn
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdnscloud.biz
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdnscloud.cn
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdnscloud.com
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdnscloud.com.cn
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdnscloud.info
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdnscloud.net
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdnscloud.net.cn
+# 目标: ZDNS
 DOMAIN-SUFFIX,zdnscloud.org.cn

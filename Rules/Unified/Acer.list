@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: Acer
 # 合并来源: blackmatrix7/ios_rule_script Acer
 # 规则数: 5
+# 目标: Acer
 DOMAIN-SUFFIX,acer-group.com
+# 目标: Acer
 DOMAIN-SUFFIX,acer.com
+# 目标: Acer
 DOMAIN-SUFFIX,acer.com.cn
+# 目标: Acer
 DOMAIN-SUFFIX,founderpc.cn
+# 目标: Acer
 DOMAIN-SUFFIX,founderpc.com

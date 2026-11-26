@@ -1,7 +1,12 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/TianTianKanKan/TianTianKanKan.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TianTianKanKan/TianTianKanKan.list
+# 说明: 天天看看
 # 规则数: 4
+# 目标: TianTianKanKan
 DOMAIN-SUFFIX,ibangtiao.com
+# 目标: TianTianKanKan
 DOMAIN-SUFFIX,kankanpro.cn
+# 目标: TianTianKanKan
 DOMAIN-SUFFIX,kkstudy.cn
+# 目标: TianTianKanKan
 DOMAIN-SUFFIX,taogepian.com

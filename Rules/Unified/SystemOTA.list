@@ -1,81 +1,160 @@
 # 统一规则库 | 分类: SystemOTA
 # 合并来源: blackmatrix7/ios_rule_script SystemOTA
+# 说明: iOS系统升级
 # 规则数: 78
+# 目标: SystemOTA
 DOMAIN,appldnld-cdn.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,appldnld-cdn.origin-apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,appldnld.apple.com.mwcname.com
+# 目标: SystemOTA
 DOMAIN,configuration.apple.com
+# 目标: SystemOTA
 DOMAIN,gdmf-cdn.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,gdmf-cdn.origin-apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,gdmf-lb.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,gdmf.apple.com.mwcname.com
+# 目标: SystemOTA
 DOMAIN,gdmf.g.aaplimg.com
+# 目标: SystemOTA
 DOMAIN,gg-cdn.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,gg-cdn.origin-apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,gg-lb.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,gg.apple.com
+# 目标: SystemOTA
 DOMAIN,gg.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,gg.apple.com.mwcname.com
+# 目标: SystemOTA
 DOMAIN,gg.g.aaplimg.com
+# 目标: SystemOTA
 DOMAIN,gnf-mdn.apple.com
+# 目标: SystemOTA
 DOMAIN,gnf-mr.apple.com
+# 目标: SystemOTA
 DOMAIN,gs.apple.com
+# 目标: SystemOTA
 DOMAIN,ig.apple.com
+# 目标: SystemOTA
 DOMAIN,iphonesubmissions-cdn.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,iphonesubmissions-cdn.origin-apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,iphonesubmissions-lb.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,iphonesubmissions.apple.com
+# 目标: SystemOTA
 DOMAIN,iphonesubmissions.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,iphonesubmissions.apple.com.mwcname.com
+# 目标: SystemOTA
 DOMAIN,iphonesubmissions.g.aaplimg.com
+# 目标: SystemOTA
 DOMAIN,mesu-lb.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,mesu.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,mesu.apple.com.mwcname.com
+# 目标: SystemOTA
 DOMAIN,ns.itunes.apple.com
+# 目标: SystemOTA
 DOMAIN,ocsp-cdn.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,ocsp-cdn.origin-apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,ocsp.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,ocsp.apple.com.mwcname.com
+# 目标: SystemOTA
 DOMAIN,oscdn.apple.com
+# 目标: SystemOTA
 DOMAIN,osrecovery.apple.com
+# 目标: SystemOTA
 DOMAIN,radarsubmissions-cdn.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,radarsubmissions-cdn.origin-apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,radarsubmissions-lb.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,radarsubmissions.apple.com
+# 目标: SystemOTA
 DOMAIN,radarsubmissions.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,radarsubmissions.apple.com.mwcname.com
+# 目标: SystemOTA
 DOMAIN,radarsubmissions.g.aaplimg.com
+# 目标: SystemOTA
 DOMAIN,skl.apple.com
+# 目标: SystemOTA
 DOMAIN,swcdn.apple.com
+# 目标: SystemOTA
 DOMAIN,swdist.apple.com
+# 目标: SystemOTA
 DOMAIN,swdownload.apple.com
+# 目标: SystemOTA
 DOMAIN,swpost.apple.com
+# 目标: SystemOTA
 DOMAIN,swscan-cdn.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,swscan-cdn.origin-apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,swscan-lb.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,swscan.apple.com
+# 目标: SystemOTA
 DOMAIN,swscan.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,swscan.apple.com.mwcname.com
+# 目标: SystemOTA
 DOMAIN,swscan.g.aaplimg.com
+# 目标: SystemOTA
 DOMAIN,updates-http.cdn-apple.com
+# 目标: SystemOTA
 DOMAIN,updates.cdn-apple.com
+# 目标: SystemOTA
 DOMAIN,xp-cdn.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,xp-cdn.origin-apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,xp-lb.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,xp.apple.com
+# 目标: SystemOTA
 DOMAIN,xp.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN,xp.apple.com.mwcname.com
+# 目标: SystemOTA
 DOMAIN,xp.g.aaplimg.com
+# 目标: SystemOTA
 DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN-SUFFIX,appldnld.apple.com
+# 目标: SystemOTA
 DOMAIN-SUFFIX,appldnld.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
+# 目标: SystemOTA
 DOMAIN-SUFFIX,gdmf.apple.com
+# 目标: SystemOTA
 DOMAIN-SUFFIX,gdmf.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN-SUFFIX,mesu-cdn.origin-apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN-SUFFIX,mesu.apple.com
+# 目标: SystemOTA
 DOMAIN-SUFFIX,mesu.g.aaplimg.com
+# 目标: SystemOTA
 DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
+# 目标: SystemOTA
 DOMAIN-SUFFIX,ocsp.apple.com
+# 目标: SystemOTA
 DOMAIN-SUFFIX,ocsp.g.aaplimg.com

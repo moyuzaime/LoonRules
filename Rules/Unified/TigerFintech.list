@@ -1,22 +1,42 @@
 # 统一规则库 | 分类: TigerFintech
 # 合并来源: blackmatrix7/ios_rule_script TigerFintech
+# 说明: 老虎证券
 # 规则数: 19
+# 目标: TigerFintech
 DOMAIN-SUFFIX,ftfast.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,iotaskyt.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,iotaskyty.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,itiger.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,itigergrowtha.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,itigerup.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,laohu8.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,play-analytics.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,skytigris.cn
+# 目标: TigerFintech
 DOMAIN-SUFFIX,tbdesk.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,tigerbbs.cn
+# 目标: TigerFintech
 DOMAIN-SUFFIX,tigerbbs.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,tigerbrokers.net
+# 目标: TigerFintech
 DOMAIN-SUFFIX,tigerfintech.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,tigertcp.cn
+# 目标: TigerFintech
 DOMAIN-SUFFIX,tigr.link
+# 目标: TigerFintech
 DOMAIN-SUFFIX,xiaohu8.com
+# 目标: TigerFintech
 DOMAIN-SUFFIX,zhijianfengyi.cn
+# 目标: TigerFintech
 DOMAIN-SUFFIX,zhijianfengyi.com

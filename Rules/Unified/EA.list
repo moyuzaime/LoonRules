@@ -1,168 +1,333 @@
 # 统一规则库 | 分类: EA
 # 合并来源: blackmatrix7/ios_rule_script EA
 # 规则数: 165
+# 目标: EA
 DOMAIN,eaasserts-a.akamaihd.net
+# 目标: EA
 DOMAIN,originasserts.akamaized.net
+# 目标: EA
 DOMAIN-SUFFIX,anthemgame.com
+# 目标: EA
 DOMAIN-SUFFIX,anthemthegame.com
+# 目标: EA
 DOMAIN-SUFFIX,apexlegends.com
+# 目标: EA
 DOMAIN-SUFFIX,awayoutgame.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefield.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefield1943.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefield3.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefield4.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefield5.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefieldbadcompany2.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefieldheroes.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefieldv.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefront2.com
+# 目标: EA
 DOMAIN-SUFFIX,battlefrontii.com
+# 目标: EA
 DOMAIN-SUFFIX,battlelog.com
+# 目标: EA
 DOMAIN-SUFFIX,bejeweledstars.com
+# 目标: EA
 DOMAIN-SUFFIX,bejewled-stars.com
+# 目标: EA
 DOMAIN-SUFFIX,bioware.com
+# 目标: EA
 DOMAIN-SUFFIX,biowarestore.com
+# 目标: EA
 DOMAIN-SUFFIX,blackboxgames.com
+# 目标: EA
 DOMAIN-SUFFIX,camelot-europe.com
+# 目标: EA
 DOMAIN-SUFFIX,camelotherald.com
+# 目标: EA
 DOMAIN-SUFFIX,camelotherald.net
+# 目标: EA
 DOMAIN-SUFFIX,capitalgames.com
+# 目标: EA
 DOMAIN-SUFFIX,chillingo.com
+# 目标: EA
 DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
+# 目标: EA
 DOMAIN-SUFFIX,cncrivals.com
+# 目标: EA
 DOMAIN-SUFFIX,commandandconquer.com
+# 目标: EA
 DOMAIN-SUFFIX,conquerwithcharacter.com
+# 目标: EA
 DOMAIN-SUFFIX,crysis.jp
+# 目标: EA
 DOMAIN-SUFFIX,daoc.net
+# 目标: EA
 DOMAIN-SUFFIX,darkageofcamelot.com
+# 目标: EA
 DOMAIN-SUFFIX,darkness-risen.com
+# 目标: EA
 DOMAIN-SUFFIX,dawngate.com
+# 目标: EA
 DOMAIN-SUFFIX,dawngatechronicles.com
+# 目标: EA
 DOMAIN-SUFFIX,deadspacegame.com
+# 目标: EA
 DOMAIN-SUFFIX,dice.se
+# 目标: EA
 DOMAIN-SUFFIX,dicela.com
+# 目标: EA
 DOMAIN-SUFFIX,dicela.net
+# 目标: EA
 DOMAIN-SUFFIX,dragonage.com
+# 目标: EA
 DOMAIN-SUFFIX,dragonagekeep.com
+# 目标: EA
 DOMAIN-SUFFIX,dragonagemovie.com
+# 目标: EA
 DOMAIN-SUFFIX,dungeonkeeper.cn
+# 目标: EA
 DOMAIN-SUFFIX,dungeonkeeper.com
+# 目标: EA
 DOMAIN-SUFFIX,dungeonkeeper.com.cn
+# 目标: EA
 DOMAIN-SUFFIX,ea-anz-press.com
+# 目标: EA
 DOMAIN-SUFFIX,ea.com
+# 目标: EA
 DOMAIN-SUFFIX,ea.tt.omtrdc.net
+# 目标: EA
 DOMAIN-SUFFIX,eaaccess.com
+# 目标: EA
 DOMAIN-SUFFIX,eaassets-a.akamaihd.net
+# 目标: EA
 DOMAIN-SUFFIX,eablackbox.com
+# 目标: EA
 DOMAIN-SUFFIX,eacashcard.com
+# 目标: EA
 DOMAIN-SUFFIX,eacodigos.com
+# 目标: EA
 DOMAIN-SUFFIX,eafootballworld.com
+# 目标: EA
 DOMAIN-SUFFIX,eakorea.co.kr
+# 目标: EA
 DOMAIN-SUFFIX,eamirrorsedge.com
+# 目标: EA
 DOMAIN-SUFFIX,eamobile.com
+# 目标: EA
 DOMAIN-SUFFIX,eamythic.com
+# 目标: EA
 DOMAIN-SUFFIX,eamythic.net
+# 目标: EA
 DOMAIN-SUFFIX,eanordic.com
+# 目标: EA
 DOMAIN-SUFFIX,eaplay.com
+# 目标: EA
 DOMAIN-SUFFIX,easports.com
+# 目标: EA
 DOMAIN-SUFFIX,easports.jp
+# 目标: EA
 DOMAIN-SUFFIX,easportsactive.com
+# 目标: EA
 DOMAIN-SUFFIX,easportsactiveonline.com
+# 目标: EA
 DOMAIN-SUFFIX,easportsfootball.com
+# 目标: EA
 DOMAIN-SUFFIX,easportsfootballclub.com
+# 目标: EA
 DOMAIN-SUFFIX,easportsmma.com
+# 目标: EA
 DOMAIN-SUFFIX,easportsworld.com
+# 目标: EA
 DOMAIN-SUFFIX,eastore.com
+# 目标: EA
 DOMAIN-SUFFIX,electronicarts.com
+# 目标: EA
 DOMAIN-SUFFIX,electronicarts.fr
+# 目标: EA
 DOMAIN-SUFFIX,fifastreet.com
+# 目标: EA
 DOMAIN-SUFFIX,fifastreet3.com
+# 目标: EA
 DOMAIN-SUFFIX,frostbite.com
+# 目标: EA
 DOMAIN-SUFFIX,futpromos.com
+# 目标: EA
 DOMAIN-SUFFIX,futunited.com
+# 目标: EA
 DOMAIN-SUFFIX,ghostgames.com
+# 目标: EA
 DOMAIN-SUFFIX,heroesofdragonage.com
+# 目标: EA
 DOMAIN-SUFFIX,hutpromos.com
+# 目标: EA
 DOMAIN-SUFFIX,industrialtoys.com
+# 目标: EA
 DOMAIN-SUFFIX,lordofultima.com
+# 目标: EA
 DOMAIN-SUFFIX,maddenchampionship.com
+# 目标: EA
 DOMAIN-SUFFIX,maddenrewards.com
+# 目标: EA
 DOMAIN-SUFFIX,maddenseason.info
+# 目标: EA
 DOMAIN-SUFFIX,maddenseason.net
+# 目标: EA
 DOMAIN-SUFFIX,maddenseason.org
+# 目标: EA
 DOMAIN-SUFFIX,masseffect.com
+# 目标: EA
 DOMAIN-SUFFIX,masseffectarchives.com
+# 目标: EA
 DOMAIN-SUFFIX,maxis.com
+# 目标: EA
 DOMAIN-SUFFIX,mirrorsedge.com
+# 目标: EA
 DOMAIN-SUFFIX,mirrorsedge.jp
+# 目标: EA
 DOMAIN-SUFFIX,mirrorsedge.net
+# 目标: EA
 DOMAIN-SUFFIX,mirrorsedge2.com
+# 目标: EA
 DOMAIN-SUFFIX,mirrorsedge2d.com
+# 目标: EA
 DOMAIN-SUFFIX,mysims.com
+# 目标: EA
 DOMAIN-SUFFIX,mysimsracing.com
+# 目标: EA
 DOMAIN-SUFFIX,mythicentertainment.com
+# 目标: EA
 DOMAIN-SUFFIX,mythicentertainment.net
+# 目标: EA
 DOMAIN-SUFFIX,mythicgames.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeed.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedboost.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeeddriftkings.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedeliminator.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedlightning.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedoverdrive.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedproven.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedredline.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedshowdown.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedstreetkings.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedtakedown.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedtherun.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedtimeattack.com
+# 目标: EA
 DOMAIN-SUFFIX,needforspeedundergroundeast.com
+# 目标: EA
 DOMAIN-SUFFIX,nfsworld.com
+# 目标: EA
 DOMAIN-SUFFIX,origin-a.akamaihd.net
+# 目标: EA
 DOMAIN-SUFFIX,origin.com
+# 目标: EA
 DOMAIN-SUFFIX,origin.tv
+# 目标: EA
 DOMAIN-SUFFIX,plantsvszombies2.com
+# 目标: EA
 DOMAIN-SUFFIX,play4free.com
+# 目标: EA
 DOMAIN-SUFFIX,playapex.com
+# 目标: EA
 DOMAIN-SUFFIX,pogo.com
+# 目标: EA
 DOMAIN-SUFFIX,pogobeta.com
+# 目标: EA
 DOMAIN-SUFFIX,popcap.com
+# 目标: EA
 DOMAIN-SUFFIX,projectapex.com
+# 目标: EA
 DOMAIN-SUFFIX,pvzgw2.com
+# 目标: EA
 DOMAIN-SUFFIX,pvzheroes.com
+# 目标: EA
 DOMAIN-SUFFIX,seaofsolitude.com
+# 目标: EA
 DOMAIN-SUFFIX,simcity-buildit.com
+# 目标: EA
 DOMAIN-SUFFIX,simcity.com
+# 目标: EA
 DOMAIN-SUFFIX,skate2.com
+# 目标: EA
 DOMAIN-SUFFIX,spearhead.kr
+# 目标: EA
 DOMAIN-SUFFIX,speedhunters.com
+# 目标: EA
 DOMAIN-SUFFIX,spore.com
+# 目标: EA
 DOMAIN-SUFFIX,ssx3.com
+# 目标: EA
 DOMAIN-SUFFIX,starwarsbattlefront.com
+# 目标: EA
 DOMAIN-SUFFIX,starwarsbattlefront2.com
+# 目标: EA
 DOMAIN-SUFFIX,starwarsfallenorder.com
+# 目标: EA
 DOMAIN-SUFFIX,starwarsjedifallenorder.com
+# 目标: EA
 DOMAIN-SUFFIX,starwarstheoldrepublic.com
+# 目标: EA
 DOMAIN-SUFFIX,swjedifallenorder.com
+# 目标: EA
 DOMAIN-SUFFIX,swjfo.com
+# 目标: EA
 DOMAIN-SUFFIX,swtor.com
+# 目标: EA
 DOMAIN-SUFFIX,swtor.net
+# 目标: EA
 DOMAIN-SUFFIX,teamneedforspeed.com
+# 目标: EA
 DOMAIN-SUFFIX,thedreadwolfrises.com
+# 目标: EA
 DOMAIN-SUFFIX,thesims.com
+# 目标: EA
 DOMAIN-SUFFIX,thesims3.com
+# 目标: EA
 DOMAIN-SUFFIX,thesims4.com
+# 目标: EA
 DOMAIN-SUFFIX,thesimssocial.com
+# 目标: EA
 DOMAIN-SUFFIX,tiberiumalliances.com
+# 目标: EA
 DOMAIN-SUFFIX,tiburon.com
+# 目标: EA
 DOMAIN-SUFFIX,titanfall.com
+# 目标: EA
 DOMAIN-SUFFIX,tnt-ea.com
+# 目标: EA
 DOMAIN-SUFFIX,ultimaforever.com
+# 目标: EA
 DOMAIN-SUFFIX,ultimaonline.com
+# 目标: EA
 DOMAIN-SUFFIX,unravel2.com
+# 目标: EA
 DOMAIN-SUFFIX,unraveltwo.com
+# 目标: EA
 DOMAIN-SUFFIX,uo.com
+# 目标: EA
 DOMAIN-SUFFIX,uoherald.com
+# 目标: EA
 DOMAIN-SUFFIX,visceralgames.com
+# 目标: EA
 DOMAIN-SUFFIX,xdsummit.com
+# 目标: EA
 DOMAIN-SUFFIX,yogify.com

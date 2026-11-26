@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/NaverTV/NaverTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NaverTV/NaverTV.list
 # 规则数: 3
+# 目标: NaverTV
 DOMAIN-SUFFIX,naver.com
+# 目标: NaverTV
 DOMAIN-SUFFIX,smartmediarep.com
+# 目标: NaverTV
 USER-AGENT,Naver%20TV*

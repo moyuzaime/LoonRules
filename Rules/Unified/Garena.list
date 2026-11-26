@@ -1,18 +1,33 @@
 # 统一规则库 | 分类: Garena
 # 合并来源: blackmatrix7/ios_rule_script Garena
 # 规则数: 15
+# 目标: Garena
 DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
+# 目标: Garena
 DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
+# 目标: Garena
 DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
+# 目标: Garena
 DOMAIN-SUFFIX,garena.co.id
+# 目标: Garena
 DOMAIN-SUFFIX,garena.co.th
+# 目标: Garena
 DOMAIN-SUFFIX,garena.com
+# 目标: Garena
 DOMAIN-SUFFIX,garena.live
+# 目标: Garena
 DOMAIN-SUFFIX,garena.my
+# 目标: Garena
 DOMAIN-SUFFIX,garena.ph
+# 目标: Garena
 DOMAIN-SUFFIX,garena.sg
+# 目标: Garena
 DOMAIN-SUFFIX,garena.tv
+# 目标: Garena
 DOMAIN-SUFFIX,garena.tw
+# 目标: Garena
 DOMAIN-SUFFIX,garena.vn
+# 目标: Garena
 DOMAIN-SUFFIX,garenanow.com
+# 目标: Garena
 DOMAIN-SUFFIX,seagroup.com

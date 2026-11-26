@@ -1,34 +1,65 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ThomsonReuters/ThomsonReuters.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ThomsonReuters/ThomsonReuters.list
 # 规则数: 31
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,aranzadi.es
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,corepublishingsolutions.com
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,elite.com
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,legaltracker.com
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,livrariart.com.br
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,reuters.com
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,reuters.tv
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,reutersagency.cn
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,reutersmedia.net
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,sweetandmaxwell.co.uk
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.ca
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.cn
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.co.jp
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.co.kr
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.co.nz
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.co.uk
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.com
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.com.ar
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.com.au
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.com.br
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.com.hk
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.com.my
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.com.pe
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.com.sg
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.com.tr
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.es
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.in
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreuters.ru
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,thomsonreutersmexico.com
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,tmsnrt.rs
+# 目标: ThomsonReuters
 DOMAIN-SUFFIX,tr.com

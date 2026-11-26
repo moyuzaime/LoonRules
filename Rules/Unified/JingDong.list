@@ -1,252 +1,502 @@
 # 统一规则库 | 分类: JingDong
 # 合并来源: blackmatrix7/ios_rule_script JingDong
+# 说明: 京东
 # 规则数: 249
+# 目标: JingDong
 DOMAIN-SUFFIX,1huizhan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,3.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,300hu.com
+# 目标: JingDong
 DOMAIN-SUFFIX,360buy.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,360buy.com
+# 目标: JingDong
 DOMAIN-SUFFIX,360buy.com.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,360buyimg.com
+# 目标: JingDong
 DOMAIN-SUFFIX,360buyinternational.com
+# 目标: JingDong
 DOMAIN-SUFFIX,360top.com
+# 目标: JingDong
 DOMAIN-SUFFIX,7fresh.com
+# 目标: JingDong
 DOMAIN-SUFFIX,baitiao.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,baitiao.com
+# 目标: JingDong
 DOMAIN-SUFFIX,blackdragon.com
+# 目标: JingDong
 DOMAIN-SUFFIX,buyjingxi.com
+# 目标: JingDong
 DOMAIN-SUFFIX,caiyu.com
+# 目标: JingDong
 DOMAIN-SUFFIX,chicalot.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,chinabank.com.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-beijing.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-hebi.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-ningbo.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-ordos.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-shenzhen.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-shiyan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-wuhan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-xian.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-xm.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-zhaoqing.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloud-zhongwei.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudanqing.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudbaoshan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudbeibei.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudbinzhou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudchangde.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudchangsha.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudchangzhou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudchaozhou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudchengde.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudchengdu.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudchuzhou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudczs.com
+# 目标: JingDong
 DOMAIN-SUFFIX,clouddalian.com
+# 目标: JingDong
 DOMAIN-SUFFIX,clouddatong.com
+# 目标: JingDong
 DOMAIN-SUFFIX,clouddongying.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudfoshan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudfuqing.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudganzhou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudguangzhou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudhaidong.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudhefei.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudhengshui.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudhuaihua.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudhuizhou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudjinan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudjinchang.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudjingzhou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudjining.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudjiujiang.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudkunming.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudleshan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudlijiang.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudlishui.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudluohe.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudluoyang.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudmeishan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudnanan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudnanjing.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudnanning.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudnantong.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudquanzhou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudsanya.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudshanghai.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudshaoyang.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudshenfuxingqu.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudsiping.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudsuqian.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudtangshan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudtianjin.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudtongchuan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudtongliang.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudweinan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudxiangtan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudxianyou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudxining.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudyanan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudyancheng.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudyantai.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudyinchuan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudyueyang.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudyuncheng.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudyuxi.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudzhongshan.com
+# 目标: JingDong
 DOMAIN-SUFFIX,cloudzhuhai.com
+# 目标: JingDong
 DOMAIN-SUFFIX,dao123.com
+# 目标: JingDong
 DOMAIN-SUFFIX,duiou.com.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,goselling.com
+# 目标: JingDong
 DOMAIN-SUFFIX,ibaitiao.com
+# 目标: JingDong
 DOMAIN-SUFFIX,info-insur.com
+# 目标: JingDong
 DOMAIN-SUFFIX,isvjcloud.com
+# 目标: JingDong
 DOMAIN-SUFFIX,isvjd.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloud-cache.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloud-cache.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloud-cdn.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloud-live.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloud-oss.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloud.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudcache.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudcache.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudcs.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jclouddn.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jclouddns.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jclouddns.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudec.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudedge.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudedge.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudgslb.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudgslb.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudimg.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudimg.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudlb.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudlb.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudlive.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudlv.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudoss.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudresolve.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudresolve.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudss.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudstatic.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudstatic.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudvideo.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudvideo.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudwaf.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudwaftest.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudwaftest.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jcloudwaftest.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jclps.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jd-app.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jd-ex.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,jd-ex.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jd-ex.com.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,jd-ex.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jd.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,jd.co.th
+# 目标: JingDong
 DOMAIN-SUFFIX,jd.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jd.com.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,jd.hk
+# 目标: JingDong
 DOMAIN-SUFFIX,jd.id
+# 目标: JingDong
 DOMAIN-SUFFIX,jd.ru
+# 目标: JingDong
 DOMAIN-SUFFIX,jd.shop
+# 目标: JingDong
 DOMAIN-SUFFIX,jdbusiness.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcache.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcdn.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud-api.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud-api.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud-edu.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud-elite.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud-elive.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud-livebuy.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud-mail.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud-openapi.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud-oss.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloud.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudcache.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudcache.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudcdn.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudcdn.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudcs.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdclouddns.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdclouddns.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudedge.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudedge.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudlb.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudlb.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudlive.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudlive.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudresolve.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudresolve.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudsite.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudstatic.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudstatic.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudstatus.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudstatus.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudvideo.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudvideo.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcloudwaf.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdcontent.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdd-global.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jddapeigou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jddebug.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jddglobal.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jddtv.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,jddtv.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdemall.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdfeijing.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdfinance.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdfmgt.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdfw1.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdgslb.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdgslb.net
+# 目标: JingDong
 DOMAIN-SUFFIX,jdjinrong.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdl.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,jdl.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdl.com.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,jdlike.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,jdpay.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdpaydns.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdsmartkf.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdwl.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdworldwide.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jdx.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jhscm.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jingdong.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jingdongjinrong.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jingpinhui.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jingxi.com
+# 目标: JingDong
 DOMAIN-SUFFIX,jkcsjd.com
+# 目标: JingDong
 DOMAIN-SUFFIX,joybuy.com
+# 目标: JingDong
 DOMAIN-SUFFIX,joybuy.es
+# 目标: JingDong
 DOMAIN-SUFFIX,linglonglife.com
+# 目标: JingDong
 DOMAIN-SUFFIX,logiseasy.com
+# 目标: JingDong
 DOMAIN-SUFFIX,mayshijia.com
+# 目标: JingDong
 DOMAIN-SUFFIX,minitiao.com
+# 目标: JingDong
 DOMAIN-SUFFIX,missjia.net
+# 目标: JingDong
 DOMAIN-SUFFIX,ocwms.com
+# 目标: JingDong
 DOMAIN-SUFFIX,paidaojia.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,paipai.com
+# 目标: JingDong
 DOMAIN-SUFFIX,prestodb-china.com
+# 目标: JingDong
 DOMAIN-SUFFIX,prestodb.net.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,qianxun.com
+# 目标: JingDong
 DOMAIN-SUFFIX,qingzhouip.com
+# 目标: JingDong
 DOMAIN-SUFFIX,sgsic.com
+# 目标: JingDong
 DOMAIN-SUFFIX,shlsyb.com
+# 目标: JingDong
 DOMAIN-SUFFIX,tjjt360.com
+# 目标: JingDong
 DOMAIN-SUFFIX,toplife.com
+# 目标: JingDong
 DOMAIN-SUFFIX,vg.com
+# 目标: JingDong
 DOMAIN-SUFFIX,wanggou.com
+# 目标: JingDong
 DOMAIN-SUFFIX,wangyin.com
+# 目标: JingDong
 DOMAIN-SUFFIX,wdfok.com
+# 目标: JingDong
 DOMAIN-SUFFIX,wuliujie.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,wuliujie.com
+# 目标: JingDong
 DOMAIN-SUFFIX,xianjiqun.com
+# 目标: JingDong
 DOMAIN-SUFFIX,xjoycity.com
+# 目标: JingDong
 DOMAIN-SUFFIX,yhcdn.cn
+# 目标: JingDong
 DOMAIN-SUFFIX,yhd.com
+# 目标: JingDong
 DOMAIN-SUFFIX,yihaodian.com
+# 目标: JingDong
 DOMAIN-SUFFIX,yihaodianimg.com
+# 目标: JingDong
 DOMAIN-SUFFIX,yihaomall.com
+# 目标: JingDong
 DOMAIN-SUFFIX,yixun.com
+# 目标: JingDong
 DOMAIN-SUFFIX,yiyaojd.com
+# 目标: JingDong
 DOMAIN-SUFFIX,yizhitou.com

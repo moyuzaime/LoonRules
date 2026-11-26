@@ -1,234 +1,465 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Scholar/Scholar.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Scholar/Scholar.list
 # 规则数: 231
+# 目标: Scholar
 DOMAIN,scholar.google.com
+# 目标: Scholar
 DOMAIN-SUFFIX,1lib.cloud
+# 目标: Scholar
 DOMAIN-SUFFIX,1lib.domains
+# 目标: Scholar
 DOMAIN-SUFFIX,1lib.education
+# 目标: Scholar
 DOMAIN-SUFFIX,1lib.eu
+# 目标: Scholar
 DOMAIN-SUFFIX,1lib.limited
+# 目标: Scholar
 DOMAIN-SUFFIX,1lib.pl
+# 目标: Scholar
 DOMAIN-SUFFIX,1lib.to
+# 目标: Scholar
 DOMAIN-SUFFIX,1lib.tw
+# 目标: Scholar
 DOMAIN-SUFFIX,2lib.org
+# 目标: Scholar
 DOMAIN-SUFFIX,3lib.net
+# 目标: Scholar
 DOMAIN-SUFFIX,aclweb.org
+# 目标: Scholar
 DOMAIN-SUFFIX,acm.org
+# 目标: Scholar
 DOMAIN-SUFFIX,acs.org
+# 目标: Scholar
 DOMAIN-SUFFIX,aiaa.org
+# 目标: Scholar
 DOMAIN-SUFFIX,aip.org
+# 目标: Scholar
 DOMAIN-SUFFIX,altmetric.com
+# 目标: Scholar
 DOMAIN-SUFFIX,amamanualofstyle.com
+# 目标: Scholar
 DOMAIN-SUFFIX,ams.org
+# 目标: Scholar
 DOMAIN-SUFFIX,analytictech.com
+# 目标: Scholar
 DOMAIN-SUFFIX,anb.org
+# 目标: Scholar
 DOMAIN-SUFFIX,annualreviews.org
+# 目标: Scholar
 DOMAIN-SUFFIX,apa.org
+# 目标: Scholar
 DOMAIN-SUFFIX,apress.com
+# 目标: Scholar
 DOMAIN-SUFFIX,aps.org
+# 目标: Scholar
 DOMAIN-SUFFIX,art1lib.com
+# 目标: Scholar
 DOMAIN-SUFFIX,arxiv.org
+# 目标: Scholar
 DOMAIN-SUFFIX,ascelibrary.org
+# 目标: Scholar
 DOMAIN-SUFFIX,asha.org
+# 目标: Scholar
 DOMAIN-SUFFIX,asm.org
+# 目标: Scholar
 DOMAIN-SUFFIX,asme.org
+# 目标: Scholar
 DOMAIN-SUFFIX,astm.org
+# 目标: Scholar
 DOMAIN-SUFFIX,b-ok.africa
+# 目标: Scholar
 DOMAIN-SUFFIX,b-ok.asia
+# 目标: Scholar
 DOMAIN-SUFFIX,b-ok.cc
+# 目标: Scholar
 DOMAIN-SUFFIX,b-ok.global
+# 目标: Scholar
 DOMAIN-SUFFIX,b-ok.org
+# 目标: Scholar
 DOMAIN-SUFFIX,berkeley.edu
+# 目标: Scholar
 DOMAIN-SUFFIX,biomedcentral.com
+# 目标: Scholar
 DOMAIN-SUFFIX,biorxiv.org
+# 目标: Scholar
 DOMAIN-SUFFIX,blackstonespoliceservice.com
+# 目标: Scholar
 DOMAIN-SUFFIX,blackwell-synergy.com
+# 目标: Scholar
 DOMAIN-SUFFIX,bmj.com
+# 目标: Scholar
 DOMAIN-SUFFIX,book4you.org
+# 目标: Scholar
 DOMAIN-SUFFIX,bookfi.net
+# 目标: Scholar
 DOMAIN-SUFFIX,booksc.eu
+# 目标: Scholar
 DOMAIN-SUFFIX,booksc.me
+# 目标: Scholar
 DOMAIN-SUFFIX,booksc.org
+# 目标: Scholar
 DOMAIN-SUFFIX,booksc.xyz
+# 目标: Scholar
 DOMAIN-SUFFIX,bookshome.info
+# 目标: Scholar
 DOMAIN-SUFFIX,bookshome.net
+# 目标: Scholar
 DOMAIN-SUFFIX,bookshome.world
+# 目标: Scholar
 DOMAIN-SUFFIX,brill.com
+# 目标: Scholar
 DOMAIN-SUFFIX,cabdirect.org
+# 目标: Scholar
 DOMAIN-SUFFIX,cambridge.org
+# 目标: Scholar
 DOMAIN-SUFFIX,cambridgedigital.net
+# 目标: Scholar
 DOMAIN-SUFFIX,cambridgemaths.org
+# 目标: Scholar
 DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
+# 目标: Scholar
 DOMAIN-SUFFIX,cas.org
+# 目标: Scholar
 DOMAIN-SUFFIX,cell.com
+# 目标: Scholar
 DOMAIN-SUFFIX,clarivate.com
+# 目标: Scholar
 DOMAIN-SUFFIX,cnki.net
+# 目标: Scholar
 DOMAIN-SUFFIX,computer.org
+# 目标: Scholar
 DOMAIN-SUFFIX,computingreviews.com
+# 目标: Scholar
 DOMAIN-SUFFIX,cqvip.com
+# 目标: Scholar
 DOMAIN-SUFFIX,crossref.org
+# 目标: Scholar
 DOMAIN-SUFFIX,csiro.au
+# 目标: Scholar
 DOMAIN-SUFFIX,de1lib.org
+# 目标: Scholar
 DOMAIN-SUFFIX,deepdyve.com
+# 目标: Scholar
 DOMAIN-SUFFIX,degruyter.com
+# 目标: Scholar
 DOMAIN-SUFFIX,dentalhypotheses.com
+# 目标: Scholar
 DOMAIN-SUFFIX,doi.info
+# 目标: Scholar
 DOMAIN-SUFFIX,doi.org
+# 目标: Scholar
 DOMAIN-SUFFIX,ebscohost.com
+# 目标: Scholar
 DOMAIN-SUFFIX,elifesciences.org
+# 目标: Scholar
 DOMAIN-SUFFIX,els-cdn.com
+# 目标: Scholar
 DOMAIN-SUFFIX,elsevier-ae.com
+# 目标: Scholar
 DOMAIN-SUFFIX,elsevier.com
+# 目标: Scholar
 DOMAIN-SUFFIX,elsevier.io
+# 目标: Scholar
 DOMAIN-SUFFIX,emerald.com
+# 目标: Scholar
 DOMAIN-SUFFIX,endnote.com
+# 目标: Scholar
 DOMAIN-SUFFIX,engineeringvillage.com
+# 目标: Scholar
 DOMAIN-SUFFIX,epigeum.com
+# 目标: Scholar
 DOMAIN-SUFFIX,europepmc.org
+# 目标: Scholar
 DOMAIN-SUFFIX,evise.com
+# 目标: Scholar
 DOMAIN-SUFFIX,frontiersin.org
+# 目标: Scholar
 DOMAIN-SUFFIX,gale.com
+# 目标: Scholar
 DOMAIN-SUFFIX,galegroup.com
+# 目标: Scholar
 DOMAIN-SUFFIX,geoscienceworld.org
+# 目标: Scholar
 DOMAIN-SUFFIX,ggsrv.com
+# 目标: Scholar
 DOMAIN-SUFFIX,hindawi.com
+# 目标: Scholar
 DOMAIN-SUFFIX,hk1lib.org
+# 目标: Scholar
 DOMAIN-SUFFIX,ic.ac.uk
+# 目标: Scholar
 DOMAIN-SUFFIX,icevirtuallibrary.com
+# 目标: Scholar
 DOMAIN-SUFFIX,ieee.org
+# 目标: Scholar
 DOMAIN-SUFFIX,ieeecomputer.org
+# 目标: Scholar
 DOMAIN-SUFFIX,ieeecomputersociety.org
+# 目标: Scholar
 DOMAIN-SUFFIX,imf.org
+# 目标: Scholar
 DOMAIN-SUFFIX,imperial.ac.uk
+# 目标: Scholar
 DOMAIN-SUFFIX,imperial.insendi.com
+# 目标: Scholar
 DOMAIN-SUFFIX,imperialbusiness.school
+# 目标: Scholar
 DOMAIN-SUFFIX,informs.org
+# 目标: Scholar
 DOMAIN-SUFFIX,iop.org
+# 目标: Scholar
 DOMAIN-SUFFIX,isca-speech.org
+# 目标: Scholar
 DOMAIN-SUFFIX,isiknowledge.com
+# 目标: Scholar
 DOMAIN-SUFFIX,jamanetwork.com
+# 目标: Scholar
 DOMAIN-SUFFIX,japanknowledge.com
+# 目标: Scholar
 DOMAIN-SUFFIX,jbc.org
+# 目标: Scholar
 DOMAIN-SUFFIX,jbe-platform.com
+# 目标: Scholar
 DOMAIN-SUFFIX,jhu.edu
+# 目标: Scholar
 DOMAIN-SUFFIX,jmlr.org
+# 目标: Scholar
 DOMAIN-SUFFIX,jneurosci.org
+# 目标: Scholar
 DOMAIN-SUFFIX,jstor.org
+# 目标: Scholar
 DOMAIN-SUFFIX,karger.com
+# 目标: Scholar
 DOMAIN-SUFFIX,knovel.com
+# 目标: Scholar
 DOMAIN-SUFFIX,kuke.com
+# 目标: Scholar
 DOMAIN-SUFFIX,lawdata.com.tw
+# 目标: Scholar
 DOMAIN-SUFFIX,libguides.com
+# 目标: Scholar
 DOMAIN-SUFFIX,libsolutions.app
+# 目标: Scholar
 DOMAIN-SUFFIX,libsolutions.domains
+# 目标: Scholar
 DOMAIN-SUFFIX,libsolutions.net
+# 目标: Scholar
 DOMAIN-SUFFIX,liebertpub.com
+# 目标: Scholar
 DOMAIN-SUFFIX,literatumonline.com
+# 目标: Scholar
 DOMAIN-SUFFIX,ma1lib.org
+# 目标: Scholar
 DOMAIN-SUFFIX,madsrevolution.net
+# 目标: Scholar
 DOMAIN-SUFFIX,mdpi.com
+# 目标: Scholar
 DOMAIN-SUFFIX,mit
+# 目标: Scholar
 DOMAIN-SUFFIX,mit.edu
+# 目标: Scholar
 DOMAIN-SUFFIX,mit.net
+# 目标: Scholar
 DOMAIN-SUFFIX,mitpressjournals.org
+# 目标: Scholar
 DOMAIN-SUFFIX,mpg.de
+# 目标: Scholar
 DOMAIN-SUFFIX,myilibrary.com
+# 目标: Scholar
 DOMAIN-SUFFIX,nature.com
+# 目标: Scholar
 DOMAIN-SUFFIX,ncbi.nlm.nih.gov
+# 目标: Scholar
 DOMAIN-SUFFIX,nejm.org
+# 目标: Scholar
 DOMAIN-SUFFIX,neurology.org
+# 目标: Scholar
 DOMAIN-SUFFIX,newisiknowledge.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oecd-ilibrary.org
+# 目标: Scholar
 DOMAIN-SUFFIX,oed.com
+# 目标: Scholar
 DOMAIN-SUFFIX,omscr.com
+# 目标: Scholar
 DOMAIN-SUFFIX,optica.org
+# 目标: Scholar
 DOMAIN-SUFFIX,osapublishing.org
+# 目标: Scholar
 DOMAIN-SUFFIX,oup.com
+# 目标: Scholar
 DOMAIN-SUFFIX,ouplaw.com
+# 目标: Scholar
 DOMAIN-SUFFIX,ovid.com
+# 目标: Scholar
 DOMAIN-SUFFIX,ox.ac.uk
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordaasc.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordartonline.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordbibliographies.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordclinicalpsych.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxforddnb.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordfirstsource.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordhandbooks.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordlawtrove.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordmedicine.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordmusiconline.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordpoliticstrove.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordre.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordreference.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordscholarlyeditions.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordscholarship.com
+# 目标: Scholar
 DOMAIN-SUFFIX,oxfordwesternmusic.com
+# 目标: Scholar
 DOMAIN-SUFFIX,peerj.com
+# 目标: Scholar
 DOMAIN-SUFFIX,physiology.org
+# 目标: Scholar
 DOMAIN-SUFFIX,pkulaw.com
+# 目标: Scholar
 DOMAIN-SUFFIX,plos.org
+# 目标: Scholar
 DOMAIN-SUFFIX,pnas.org
+# 目标: Scholar
 DOMAIN-SUFFIX,princeton.edu
+# 目标: Scholar
 DOMAIN-SUFFIX,proquest.com
+# 目标: Scholar
 DOMAIN-SUFFIX,psyccareers.com
+# 目标: Scholar
 DOMAIN-SUFFIX,readcube.com
+# 目标: Scholar
 DOMAIN-SUFFIX,researchgate.net
+# 目标: Scholar
 DOMAIN-SUFFIX,routledgehandbooks.com
+# 目标: Scholar
 DOMAIN-SUFFIX,royalsocietypublishing.org
+# 目标: Scholar
 DOMAIN-SUFFIX,rsc.org
+# 目标: Scholar
 DOMAIN-SUFFIX,sagepub.com
+# 目标: Scholar
 DOMAIN-SUFFIX,scholarpedia.org
+# 目标: Scholar
 DOMAIN-SUFFIX,sci-hub.tw
+# 目标: Scholar
 DOMAIN-SUFFIX,science.org
+# 目标: Scholar
 DOMAIN-SUFFIX,sciencedirect.com
+# 目标: Scholar
 DOMAIN-SUFFIX,sciencedirectassets.com
+# 目标: Scholar
 DOMAIN-SUFFIX,sciencemag.org
+# 目标: Scholar
 DOMAIN-SUFFIX,sciencenets.com
+# 目标: Scholar
 DOMAIN-SUFFIX,scientificamerican.com
+# 目标: Scholar
 DOMAIN-SUFFIX,scitation.org
+# 目标: Scholar
 DOMAIN-SUFFIX,scopus.com
+# 目标: Scholar
 DOMAIN-SUFFIX,semanticscholar.org
+# 目标: Scholar
 DOMAIN-SUFFIX,serialssolutions.com
+# 目标: Scholar
 DOMAIN-SUFFIX,sg1lib.org
+# 目标: Scholar
 DOMAIN-SUFFIX,siam.org
+# 目标: Scholar
 DOMAIN-SUFFIX,silverchair-cdn.com
+# 目标: Scholar
 DOMAIN-SUFFIX,singlelogin.app
+# 目标: Scholar
 DOMAIN-SUFFIX,singlelogin.me
+# 目标: Scholar
 DOMAIN-SUFFIX,sipriyearbook.org
+# 目标: Scholar
 DOMAIN-SUFFIX,spiedigitallibrary.org
+# 目标: Scholar
 DOMAIN-SUFFIX,springer.com
+# 目标: Scholar
 DOMAIN-SUFFIX,springerlink.com
+# 目标: Scholar
 DOMAIN-SUFFIX,springernature.com
+# 目标: Scholar
 DOMAIN-SUFFIX,statsmakemecry.com
+# 目标: Scholar
 DOMAIN-SUFFIX,tandf.co.uk
+# 目标: Scholar
 DOMAIN-SUFFIX,tandfonline.com
+# 目标: Scholar
 DOMAIN-SUFFIX,taylorandfrancis.com
+# 目标: Scholar
 DOMAIN-SUFFIX,taylorfrancis.com
+# 目标: Scholar
 DOMAIN-SUFFIX,thelancet.com
+# 目标: Scholar
 DOMAIN-SUFFIX,turnitin.com
+# 目标: Scholar
 DOMAIN-SUFFIX,uchicago.edu
+# 目标: Scholar
 DOMAIN-SUFFIX,ucla.edu
+# 目标: Scholar
 DOMAIN-SUFFIX,ukwhoswho.com
+# 目标: Scholar
 DOMAIN-SUFFIX,umass.edu
+# 目标: Scholar
 DOMAIN-SUFFIX,un.org
+# 目标: Scholar
 DOMAIN-SUFFIX,uni-bielefeld.de
+# 目标: Scholar
 DOMAIN-SUFFIX,universitypressscholarship.com
+# 目标: Scholar
 DOMAIN-SUFFIX,uq.edu.au
+# 目标: Scholar
 DOMAIN-SUFFIX,uq.h5p.com
+# 目标: Scholar
 DOMAIN-SUFFIX,veryshortintroductions.com
+# 目标: Scholar
 DOMAIN-SUFFIX,wanfangdata.com
+# 目标: Scholar
 DOMAIN-SUFFIX,wanfangdata.com.cn
+# 目标: Scholar
 DOMAIN-SUFFIX,webofknowledge.com
+# 目标: Scholar
 DOMAIN-SUFFIX,webofscience.com
+# 目标: Scholar
 DOMAIN-SUFFIX,westlaw.com
+# 目标: Scholar
 DOMAIN-SUFFIX,westlawchina.com
+# 目标: Scholar
 DOMAIN-SUFFIX,wiley.com
+# 目标: Scholar
 DOMAIN-SUFFIX,wkap.nl
+# 目标: Scholar
 DOMAIN-SUFFIX,worldbank.org
+# 目标: Scholar
 DOMAIN-SUFFIX,worldscientific.com
+# 目标: Scholar
 DOMAIN-SUFFIX,yale.edu
+# 目标: Scholar
 DOMAIN-SUFFIX,z-lib.org
+# 目标: Scholar
 DOMAIN-SUFFIX,zlib.life
+# 目标: Scholar
 DOMAIN-SUFFIX,zlibcdn.com
+# 目标: Scholar
 DOMAIN-SUFFIX,zlibcdn2.com
+# 目标: Scholar
 DOMAIN-SUFFIX,zotero.org

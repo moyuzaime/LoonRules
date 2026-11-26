@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Identrust
 # 合并来源: blackmatrix7/ios_rule_script Identrust
 # 规则数: 3
+# 目标: Identrust
 DOMAIN-SUFFIX,identrust.co.uk
+# 目标: Identrust
 DOMAIN-SUFFIX,identrust.com
+# 目标: Identrust
 DOMAIN-SUFFIX,identrust.net

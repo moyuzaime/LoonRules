@@ -1,14 +1,25 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Slack/Slack.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Slack/Slack.list
 # 规则数: 11
+# 目标: Slack
 DOMAIN-SUFFIX,slack-core.com
+# 目标: Slack
 DOMAIN-SUFFIX,slack-edge.com
+# 目标: Slack
 DOMAIN-SUFFIX,slack-files.com
+# 目标: Slack
 DOMAIN-SUFFIX,slack-imgs.com
+# 目标: Slack
 DOMAIN-SUFFIX,slack-msgs.com
+# 目标: Slack
 DOMAIN-SUFFIX,slack-redir.net
+# 目标: Slack
 DOMAIN-SUFFIX,slack.com
+# 目标: Slack
 DOMAIN-SUFFIX,slackb.com
+# 目标: Slack
 DOMAIN-SUFFIX,slackcertified.com
+# 目标: Slack
 DOMAIN-SUFFIX,slackdemo.com
+# 目标: Slack
 DOMAIN-SUFFIX,slackhq.com

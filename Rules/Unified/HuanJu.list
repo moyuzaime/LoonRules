@@ -1,23 +1,44 @@
 # 统一规则库 | 分类: HuanJu
 # 合并来源: blackmatrix7/ios_rule_script HuanJu
+# 说明: 欢聚时代
 # 规则数: 20
+# 目标: HuanJu
 DOMAIN-SUFFIX,5253.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,blogchina.org
+# 目标: HuanJu
 DOMAIN-SUFFIX,c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net
+# 目标: HuanJu
 DOMAIN-SUFFIX,chinaduo.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,duowan.cn
+# 目标: HuanJu
 DOMAIN-SUFFIX,duowan.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,duowan.com.cn
+# 目标: HuanJu
 DOMAIN-SUFFIX,dwstatic.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,hiido.cn
+# 目标: HuanJu
 DOMAIN-SUFFIX,hiido.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,hiido.net
+# 目标: HuanJu
 DOMAIN-SUFFIX,huanju.cn
+# 目标: HuanJu
 DOMAIN-SUFFIX,huanju.net
+# 目标: HuanJu
 DOMAIN-SUFFIX,huanjuyun.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,yy.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,yy.com.cn
+# 目标: HuanJu
 DOMAIN-SUFFIX,yyclouds.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,yygamedev.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,yystatic.com
+# 目标: HuanJu
 DOMAIN-SUFFIX,zhiniu8.com

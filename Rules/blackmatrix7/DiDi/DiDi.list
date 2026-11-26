@@ -1,28 +1,54 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DiDi/DiDi.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DiDi/DiDi.list
+# 说明: 滴滴出行
 # 规则数: 25
+# 目标: DiDi
 DOMAIN-SUFFIX,apptaxi.com.cn
+# 目标: DiDi
 DOMAIN-SUFFIX,cxyule.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didi-food.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didi.cn
+# 目标: DiDi
 DOMAIN-SUFFIX,didi.xin
+# 目标: DiDi
 DOMAIN-SUFFIX,didialift.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didiapp.net.cn
+# 目标: DiDi
 DOMAIN-SUFFIX,didiaustralia.blog
+# 目标: DiDi
 DOMAIN-SUFFIX,didichuxing.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didiglobal.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didimobility.co.jp
+# 目标: DiDi
 DOMAIN-SUFFIX,didimobility.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didiopenapi.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didiqiche.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didistatic.com
+# 目标: DiDi
 DOMAIN-SUFFIX,diditaxi.com
+# 目标: DiDi
 DOMAIN-SUFFIX,diditaxi.com.cn
+# 目标: DiDi
 DOMAIN-SUFFIX,didiwuxian.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didiyun.com
+# 目标: DiDi
 DOMAIN-SUFFIX,didiyun.org
+# 目标: DiDi
 DOMAIN-SUFFIX,didiyunapi.com
+# 目标: DiDi
 DOMAIN-SUFFIX,juyanwenjuan.com
+# 目标: DiDi
 DOMAIN-SUFFIX,udache.com
+# 目标: DiDi
 DOMAIN-SUFFIX,xiaojuchefu.cn
+# 目标: DiDi
 DOMAIN-SUFFIX,xiaojukeji.com

@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: EHGallery
 # 合并来源: blackmatrix7/ios_rule_script EHGallery
 # 规则数: 8
+# 目标: EHGallery
 DOMAIN-SUFFIX,e-hentai.org
+# 目标: EHGallery
 DOMAIN-SUFFIX,ehgt.org
+# 目标: EHGallery
 DOMAIN-SUFFIX,ehwiki.org
+# 目标: EHGallery
 DOMAIN-SUFFIX,exhentai.org
+# 目标: EHGallery
 DOMAIN-SUFFIX,hath.network
+# 目标: EHGallery
 DOMAIN-SUFFIX,hentaiverse.org
+# 目标: EHGallery
 IP-CIDR,178.175.128.0/21,no-resolve
+# 目标: EHGallery
 IP-CIDR,178.175.128.0/21

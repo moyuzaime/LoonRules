@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: CETV
 # 合并来源: blackmatrix7/ios_rule_script CETV
+# 说明: 中国教育电视台
 # 规则数: 3
+# 目标: CETV
 DOMAIN-SUFFIX,centv.cn
+# 目标: CETV
 DOMAIN-SUFFIX,centv.net.cn
+# 目标: CETV
 DOMAIN-SUFFIX,cetv.cn

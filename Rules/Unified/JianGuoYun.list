@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: JianGuoYun
 # 合并来源: blackmatrix7/ios_rule_script JianGuoYun
+# 说明: 坚果云
 # 规则数: 5
+# 目标: JianGuoYun
 DOMAIN-SUFFIX,gdfgq.club
+# 目标: JianGuoYun
 DOMAIN-SUFFIX,jianguopuzi.com
+# 目标: JianGuoYun
 DOMAIN-SUFFIX,jianguoyun.com
+# 目标: JianGuoYun
 DOMAIN-SUFFIX,nutstore.net
+# 目标: JianGuoYun
 DOMAIN-SUFFIX,nutstorehq.com

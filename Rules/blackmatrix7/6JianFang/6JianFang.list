@@ -1,22 +1,42 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/6JianFang/6JianFang.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/6JianFang/6JianFang.list
+# 说明: 六间房
 # 规则数: 19
+# 目标: 6JianFang
 DOMAIN-SUFFIX,6.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,6.com.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,6imgcss.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,6resource.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,6rooms.com
+# 目标: 6JianFang
 DOMAIN-SUFFIX,6static.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,6staticcdn.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,6webimg.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,ccpod.com
+# 目标: 6JianFang
 DOMAIN-SUFFIX,faceroom.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,footbig.com
+# 目标: 6JianFang
 DOMAIN-SUFFIX,huanpeng.com
+# 目标: 6JianFang
 DOMAIN-SUFFIX,imgjs6.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,luyanhui.com
+# 目标: 6JianFang
 DOMAIN-SUFFIX,sixresource.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,sixstatic.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,webimgs.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,wwwstatic.cn
+# 目标: 6JianFang
 DOMAIN-SUFFIX,xiu123.cn

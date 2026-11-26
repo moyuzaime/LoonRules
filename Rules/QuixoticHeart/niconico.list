@@ -1,14 +1,25 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/niconico.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/niconico.list
 # 规则数: 11
+# 目标: niconico
 DOMAIN-SUFFIX,nico
+# 目标: niconico
 DOMAIN-SUFFIX,nico.ms
+# 目标: niconico
 DOMAIN-SUFFIX,nicochannel.jp
+# 目标: niconico
 DOMAIN-SUFFIX,nicodic.jp
+# 目标: niconico
 DOMAIN-SUFFIX,nicomanga.jp
+# 目标: niconico
 DOMAIN-SUFFIX,niconico.com
+# 目标: niconico
 DOMAIN-SUFFIX,nicoseiga.jp
+# 目标: niconico
 DOMAIN-SUFFIX,nicovideo.jp
+# 目标: niconico
 DOMAIN-SUFFIX,nimg.jp
+# 目标: niconico
 DOMAIN-SUFFIX,simg.jp
+# 目标: niconico
 DOMAIN-SUFFIX,socdm.com

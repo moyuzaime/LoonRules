@@ -1,20 +1,37 @@
 # 统一规则库 | 分类: SteamCN
 # 合并来源: blackmatrix7/ios_rule_script SteamCN
 # 规则数: 17
+# 目标: SteamCN
 DOMAIN,csgo.wmsj.cn
+# 目标: SteamCN
 DOMAIN,dl.steam.clngaa.com
+# 目标: SteamCN
 DOMAIN,dl.steam.ksyna.com
+# 目标: SteamCN
 DOMAIN,dota2.wmsj.cn
+# 目标: SteamCN
 DOMAIN,st.dl.bscstorage.net
+# 目标: SteamCN
 DOMAIN,st.dl.eccdnx.com
+# 目标: SteamCN
 DOMAIN,st.dl.pinyuncloud.com
+# 目标: SteamCN
 DOMAIN,steampipe.steamcontent.tnkjmec.com
+# 目标: SteamCN
 DOMAIN,steampowered.com.8686c.com
+# 目标: SteamCN
 DOMAIN,steamstatic.com.8686c.com
+# 目标: SteamCN
 DOMAIN,wmsjsteam.com
+# 目标: SteamCN
 DOMAIN,xz.pphimalayanrt.com
+# 目标: SteamCN
 DOMAIN-SUFFIX,cm.steampowered.com
+# 目标: SteamCN
 DOMAIN-SUFFIX,steamchina.com
+# 目标: SteamCN
 DOMAIN-SUFFIX,steamcontent.com
+# 目标: SteamCN
 DOMAIN-SUFFIX,steamserver.net
+# 目标: SteamCN
 DOMAIN-SUFFIX,steamusercontent.com

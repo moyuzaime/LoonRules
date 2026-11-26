@@ -1,15 +1,27 @@
 # 统一规则库 | 分类: LinkedIn
 # 合并来源: blackmatrix7/ios_rule_script LinkedIn
 # 规则数: 12
+# 目标: LinkedIn
 DOMAIN,e122475.dscg.akamaiedge.net
+# 目标: LinkedIn
 DOMAIN,licdn.cn.cdn20.com
+# 目标: LinkedIn
 DOMAIN,linkedin.sc.omtrdc.net
+# 目标: LinkedIn
 DOMAIN-SUFFIX,bizographics.com
+# 目标: LinkedIn
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
+# 目标: LinkedIn
 DOMAIN-SUFFIX,l-0005.l-msedge.net
+# 目标: LinkedIn
 DOMAIN-SUFFIX,licdn.cn
+# 目标: LinkedIn
 DOMAIN-SUFFIX,licdn.com
+# 目标: LinkedIn
 DOMAIN-SUFFIX,linkedin.at
+# 目标: LinkedIn
 DOMAIN-SUFFIX,linkedin.cn
+# 目标: LinkedIn
 DOMAIN-SUFFIX,linkedin.com
+# 目标: LinkedIn
 DOMAIN-SUFFIX,lnkd.in

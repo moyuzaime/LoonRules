@@ -1,25 +1,48 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/RuanMei/RuanMei.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/RuanMei/RuanMei.list
+# 说明: 软媒
 # 规则数: 22
+# 目标: RuanMei
 DOMAIN-SUFFIX,6655.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,cike.cn
+# 目标: RuanMei
 DOMAIN-SUFFIX,cooldock.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,dnsnut.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,fengkeji.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,henku.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,ithome.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,ithome.net
+# 目标: RuanMei
 DOMAIN-SUFFIX,jimeng.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,lapin365.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,loogoo.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,ruanmei.cn
+# 目标: RuanMei
 DOMAIN-SUFFIX,ruanmei.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,saayaa.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,souxia.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,tweakcube.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,vista123.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,wanhongbao.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,win7china.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,win8china.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,yaodu365.com
+# 目标: RuanMei
 DOMAIN-SUFFIX,zuihuimai.com

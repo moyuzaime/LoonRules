@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: ChinaNews
 # 合并来源: blackmatrix7/ios_rule_script ChinaNews
+# 说明: 中国新闻网
 # 规则数: 4
+# 目标: ChinaNews
 DOMAIN-SUFFIX,chinanews.com
+# 目标: ChinaNews
 DOMAIN-SUFFIX,chinanews.com.cn
+# 目标: ChinaNews
 DOMAIN-SUFFIX,cns.com.cn
+# 目标: ChinaNews
 DOMAIN-SUFFIX,ecns.cn

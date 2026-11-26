@@ -1,21 +1,40 @@
 # 统一规则库 | 分类: MingLueZhaoHui
 # 合并来源: blackmatrix7/ios_rule_script MingLueZhaoHui
+# 说明: 明略昭辉
 # 规则数: 18
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,3wnet.cn
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,admonitor.org
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,grpindex.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,miaozhen.cn
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,miaozhen.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,mlt.pub
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,momentad.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,mzfile.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,mzhen.cn
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,mzhen.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,mzsvn.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,stfile.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,supertool.net.cn
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,touchjoin.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,touchjoint.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,withdata.cn
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,withwinds.com
+# 目标: MingLueZhaoHui
 DOMAIN-SUFFIX,xueto.com

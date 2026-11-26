@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: YouZan
 # 合并来源: blackmatrix7/ios_rule_script YouZan
+# 说明: 有赞
 # 规则数: 3
+# 目标: YouZan
 DOMAIN-SUFFIX,youzan.com
+# 目标: YouZan
 DOMAIN-SUFFIX,youzanyun.com
+# 目标: YouZan
 DOMAIN-SUFFIX,yzcdn.cn

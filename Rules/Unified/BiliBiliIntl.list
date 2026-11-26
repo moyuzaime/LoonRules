@@ -1,4 +1,5 @@
 # 统一规则库 | 分类: BiliBiliIntl
 # 合并来源: blackmatrix7/ios_rule_script BiliBiliIntl
 # 规则数: 1
+# 目标: BiliBiliIntl
 DOMAIN-SUFFIX,bilibili.tv

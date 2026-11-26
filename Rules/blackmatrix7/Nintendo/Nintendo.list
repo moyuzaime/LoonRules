@@ -1,129 +1,255 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Nintendo/Nintendo.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Nintendo/Nintendo.list
 # 规则数: 126
+# 目标: Nintendo
 DOMAIN-SUFFIX,100classicbooks.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,ac-pocketcamp.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,amiibo.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,ayudanintendo.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,bowsersinsidestory.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,dialga.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,diddykongracing.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,dkr.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,drmario-world.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,excitebots.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,fire-emblem-heroes.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,fireemblemawakening.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,flipnotestudio.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,giratina.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,gloryofheracles.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,hackyourconsole.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,kirbysepicyarn.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,kirbysuperstarultra.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,kyurem.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,legendofzelda.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,legendofzelda.com.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,marioandluigidreamteam.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,mariobroswii.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,mariokart.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,mariokart.com.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,mariokart7.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,mariokart8.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,mariosupersluggers.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,miitomo.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,miitomo.com.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,miiverse.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,newsupermariobrosu.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo-europe-sales.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo-europe.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.at
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.be
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.ch
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.co.jp
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.co.kr
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.co.uk
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.co.za
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.com.au
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.com.hk
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.com.pt
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.de
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.dk
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.es
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.eu
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.fi
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.fr
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.it
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.jp
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.net
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.nl
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.no
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.pt
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.ru
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.se
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo.tw
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendo3ds.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendodsi.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendoeurope.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendolabo.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendonetwork.net
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendonyc.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendostore.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendoswitch.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendoswitch.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendoswitch.com.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendoswitch.net
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendoswitchtogether.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendowifi.net
+# 目标: Nintendo
 DOMAIN-SUFFIX,nintendowii.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,personaltrainermath.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,playnintendo.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokedex3d.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemon-moon.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemon-sun.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemon-sunmoon.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemon.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonbank.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonblackwhite.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonbw.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonchampionships.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemongoldsilver.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonhome.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonletsgoeevee.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonletsgopikachu.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonmysterydungeon.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonpicross.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonplatinum.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonrubysapphire.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonsunmoon.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonswordshield.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonultrasunmoon.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonvgc.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,pokemonwifi.net
+# 目标: Nintendo
 DOMAIN-SUFFIX,splatoon2tournament.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,starfox.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,supermario.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,supermario3dworld.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,supermariobros.com.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,supermariogalaxy.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,supermariorun.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,superpapermario.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,supersmashbros.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,supersmashbros.com.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,thelegendarystarfy.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,thewonderful101.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wariolandshakeit.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wariowarediy.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wii-u.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wiifit.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wiifitu.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wiipartyu.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wiisports.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wiisportsresort.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wiiugamepad.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,wiivc.net
+# 目标: Nintendo
 DOMAIN-SUFFIX,xenoblade.com
+# 目标: Nintendo
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
+# 目标: Nintendo
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
+# 目标: Nintendo
 DOMAIN-SUFFIX,yoshisnewisland.com
+# 目标: Nintendo
 IP-CIDR,35.192.0.0/12,no-resolve

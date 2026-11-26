@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: Vancl
 # 合并来源: blackmatrix7/ios_rule_script Vancl
+# 说明: 凡客
 # 规则数: 3
+# 目标: Vancl
 DOMAIN-SUFFIX,vancl.com
+# 目标: Vancl
 DOMAIN-SUFFIX,vanclimg.com
+# 目标: Vancl
 DOMAIN-SUFFIX,vcimg.com

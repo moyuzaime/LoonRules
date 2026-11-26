@@ -1,13 +1,23 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/1337x/1337x.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/1337x/1337x.list
 # 规则数: 10
+# 目标: 1337x
 DOMAIN-SUFFIX,1337x.gd
+# 目标: 1337x
 DOMAIN-SUFFIX,1337x.is
+# 目标: 1337x
 DOMAIN-SUFFIX,1337x.st
+# 目标: 1337x
 DOMAIN-SUFFIX,1337x.to
+# 目标: 1337x
 DOMAIN-SUFFIX,1337x.tw
+# 目标: 1337x
 DOMAIN-SUFFIX,1337xto.to
+# 目标: 1337x
 DOMAIN-SUFFIX,1337xx.to
+# 目标: 1337x
 DOMAIN-SUFFIX,x1337x.eu
+# 目标: 1337x
 DOMAIN-SUFFIX,x1337x.se
+# 目标: 1337x
 DOMAIN-SUFFIX,x1337x.ws

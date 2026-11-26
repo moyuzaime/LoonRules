@@ -1,121 +1,239 @@
 # 统一规则库 | 分类: Cisco
 # 合并来源: blackmatrix7/ios_rule_script Cisco
 # 规则数: 118
+# 目标: Cisco
 DOMAIN-SUFFIX,academynetriders.com
+# 目标: Cisco
 DOMAIN-SUFFIX,app-dynamics.com
+# 目标: Cisco
 DOMAIN-SUFFIX,appdynamics.co.uk
+# 目标: Cisco
 DOMAIN-SUFFIX,appdynamics.com
+# 目标: Cisco
 DOMAIN-SUFFIX,appdynamics.de
+# 目标: Cisco
 DOMAIN-SUFFIX,appdynamics.fr
+# 目标: Cisco
 DOMAIN-SUFFIX,appdynamics.info
+# 目标: Cisco
 DOMAIN-SUFFIX,appdynamics.jp
+# 目标: Cisco
 DOMAIN-SUFFIX,appdynamics.org
+# 目标: Cisco
 DOMAIN-SUFFIX,cciernslabs.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cciesecuritylabs.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ccievoicelabs.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ccna5.net
+# 目标: Cisco
 DOMAIN-SUFFIX,cisco
+# 目标: Cisco
 DOMAIN-SUFFIX,cisco-returns.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cisco-warrantyfinder.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cisco.cn
+# 目标: Cisco
 DOMAIN-SUFFIX,cisco.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cisco.com.cn
+# 目标: Cisco
 DOMAIN-SUFFIX,cisco.evergage.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cisco.mobi
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoccservice.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoconnectcloud.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoconnectcloud.net
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoconnectcloud.org
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscocontest.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoerate.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscofax.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoinvestments.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscojabbervideo.net
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscokinetic.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoknowledgenetwork.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscolearningsociety.org
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscolearningsystem.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscolive.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscolivehls-i.akamaihd.net
+# 目标: Cisco
 DOMAIN-SUFFIX,cisconetapp.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cisconetspace.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cisconetspace.info
+# 目标: Cisco
 DOMAIN-SUFFIX,cisconetspace.net
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscopartnermarketing.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscopowercube.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoprice.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoresearch.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscosoftware.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscospark.ca
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscospark.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscospark.jp
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscotaccc.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscotr.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscoturk.net
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscovideo.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ciscowebseminars.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cloudlock.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cloupia.com
+# 目标: Cisco
 DOMAIN-SUFFIX,cloupia.net
+# 目标: Cisco
 DOMAIN-SUFFIX,connect-in-canada.com
+# 目标: Cisco
 DOMAIN-SUFFIX,coreoptics.net
+# 目标: Cisco
 DOMAIN-SUFFIX,cs.co
+# 目标: Cisco
 DOMAIN-SUFFIX,devm2m.com
+# 目标: Cisco
 DOMAIN-SUFFIX,dnaspaces.io
+# 目标: Cisco
 DOMAIN-SUFFIX,flipshare.com
+# 目标: Cisco
 DOMAIN-SUFFIX,gpstheseries.com
+# 目标: Cisco
 DOMAIN-SUFFIX,inlethd.com
+# 目标: Cisco
 DOMAIN-SUFFIX,internetofeverything.com
+# 目标: Cisco
 DOMAIN-SUFFIX,ioe.com
+# 目标: Cisco
 DOMAIN-SUFFIX,kscisco.com
+# 目标: Cisco
 DOMAIN-SUFFIX,m2m.com
+# 目标: Cisco
 DOMAIN-SUFFIX,mcisco.com
+# 目标: Cisco
 DOMAIN-SUFFIX,mearki.com
+# 目标: Cisco
 DOMAIN-SUFFIX,mediafiles-cisco.com
+# 目标: Cisco
 DOMAIN-SUFFIX,meraki-go.com
+# 目标: Cisco
 DOMAIN-SUFFIX,meraki.hk
+# 目标: Cisco
 DOMAIN-SUFFIX,merakigo.com
+# 目标: Cisco
 DOMAIN-SUFFIX,metacloud.com
+# 目标: Cisco
 DOMAIN-SUFFIX,mindmeld.com
+# 目标: Cisco
 DOMAIN-SUFFIX,multiplydiversity.com
+# 目标: Cisco
 DOMAIN-SUFFIX,myciscobenefits.com
+# 目标: Cisco
 DOMAIN-SUFFIX,mysdn.com
+# 目标: Cisco
 DOMAIN-SUFFIX,mysdn.info
+# 目标: Cisco
 DOMAIN-SUFFIX,mysdn.net
+# 目标: Cisco
 DOMAIN-SUFFIX,netacad.com
+# 目标: Cisco
 DOMAIN-SUFFIX,netacad.net
+# 目标: Cisco
 DOMAIN-SUFFIX,network-auth.cn
+# 目标: Cisco
 DOMAIN-SUFFIX,observable.net
+# 目标: Cisco
 DOMAIN-SUFFIX,obsrvbl.com
+# 目标: Cisco
 DOMAIN-SUFFIX,parstream.com
+# 目标: Cisco
 DOMAIN-SUFFIX,parstream.net
+# 目标: Cisco
 DOMAIN-SUFFIX,parstream.org
+# 目标: Cisco
 DOMAIN-SUFFIX,services-exchange.com
+# 目标: Cisco
 DOMAIN-SUFFIX,static-cisco.com
+# 目标: Cisco
 DOMAIN-SUFFIX,tail-f.com
+# 目标: Cisco
 DOMAIN-SUFFIX,tailf.com
+# 目标: Cisco
 DOMAIN-SUFFIX,tandberg-china.com
+# 目标: Cisco
 DOMAIN-SUFFIX,tandberg.com
+# 目标: Cisco
 DOMAIN-SUFFIX,versly.com
+# 目标: Cisco
 DOMAIN-SUFFIX,videochampion.com
+# 目标: Cisco
 DOMAIN-SUFFIX,virtuata.com
+# 目标: Cisco
 DOMAIN-SUFFIX,wballiance.com
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.ca
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.co.in
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.co.it
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.co.jp
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.co.kr
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.co.nz
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.co.uk
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.com
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.com.au
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.com.br
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.com.cn
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.com.hk
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.com.mx
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.de
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.es
+# 目标: Cisco
 DOMAIN-SUFFIX,webex.fr
+# 目标: Cisco
 DOMAIN-SUFFIX,whyiwantciscotelepresence.com
+# 目标: Cisco
 DOMAIN-SUFFIX,wifi-mx.com
+# 目标: Cisco
 DOMAIN-SUFFIX,youtubecisco.com

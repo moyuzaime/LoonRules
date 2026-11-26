@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Haveibeenpwned
 # 合并来源: blackmatrix7/ios_rule_script Haveibeenpwned
 # 规则数: 2
+# 目标: Haveibeenpwned
 DOMAIN-SUFFIX,haveibeenpwned.com
+# 目标: Haveibeenpwned
 DOMAIN-SUFFIX,pwnedpasswords.com

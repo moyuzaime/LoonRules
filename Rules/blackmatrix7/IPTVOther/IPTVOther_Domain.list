@@ -1,2302 +1,4602 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/IPTVOther/IPTVOther_Domain.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/IPTVOther/IPTVOther_Domain.list
+# 说明: IPTV其他
 # 条目数: 2299
+# 目标: IPTVOther
 0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 0cf4f660964046daa9e0b7b6467a4e84.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 1-fss-fso35.streamhoster.com
+# 目标: IPTVOther
 1.rtmp.org
+# 目标: IPTVOther
 100automoto.tv
+# 目标: IPTVOther
 106a0d4b0.vws.vegacdn.vn
+# 目标: IPTVOther
 10tv.lincoln.ne.gov
+# 目标: IPTVOther
 1111296894.rsc.cdn77.org
+# 目标: IPTVOther
 123tv-mx1.flex-cdn.net
+# 目标: IPTVOther
 123tv.cdn.ses-ps.com
+# 目标: IPTVOther
 156zy.suyunbo.tv
+# 目标: IPTVOther
 15799848.s21v.faiusr.com
+# 目标: IPTVOther
 16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net
+# 目标: IPTVOther
 1aadf145546f475282c5b4e658c0ac4b.msvdn.net
+# 目标: IPTVOther
 1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 1hdru-hls-otcnet.cdnvideo.ru
+# 目标: IPTVOther
 1music.hu
+# 目标: IPTVOther
 20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net
+# 目标: IPTVOther
 2122248074.duhnet.tv
+# 目标: IPTVOther
 2459f78c2f5d42c996bb24407b76877a.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net
+# 目标: IPTVOther
 27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net
+# 目标: IPTVOther
 2807722353b745629456a555257b16bc.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net
+# 目标: IPTVOther
 2e9acc44.kartoshkaka.ru
+# 目标: IPTVOther
 2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 3026552983.cloudvdn.com
+# 目标: IPTVOther
 30515.hlsplay.aodianyun.com
+# 目标: IPTVOther
 30539.hlsplay.aodianyun.com
+# 目标: IPTVOther
 30814.hlsplay.aodianyun.com
+# 目标: IPTVOther
 30a-tv.com
+# 目标: IPTVOther
 31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net
+# 目标: IPTVOther
 31182.hlsplay.aodianyun.com
+# 目标: IPTVOther
 32.shqiptv.org
+# 目标: IPTVOther
 34766.hlsplay.aodianyun.com
+# 目标: IPTVOther
 369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 3g.dzsm.com
+# 目标: IPTVOther
 3gvod.zjgonline.com.cn
+# 目标: IPTVOther
 4197b1f4.kazaktelekom.org
+# 目标: IPTVOther
 443-1.autopo.st
+# 目标: IPTVOther
 45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 4k-server-mia.2cdn.eu
+# 目标: IPTVOther
 5421175365ea3.streamlock.net
+# 目标: IPTVOther
 547f72e6652371c3.mediapackage.us-east-1.amazonaws.com
+# 目标: IPTVOther
 558bd16067b67.streamlock.net
+# 目标: IPTVOther
 5592f056abba8.streamlock.net
+# 目标: IPTVOther
 55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 56b50ada2d659.streamlock.net
+# 目标: IPTVOther
 57068da1deb21.streamlock.net
+# 目标: IPTVOther
 578d8e1867e87.streamlock.net
+# 目标: IPTVOther
 5790d294af2dc.streamlock.net
+# 目标: IPTVOther
 57d6b85685bb8.streamlock.net
+# 目标: IPTVOther
 584097344c1f0.streamlock.net
+# 目标: IPTVOther
 584b0aa350b92.streamlock.net
+# 目标: IPTVOther
 5852afe96c9bb.streamlock.net
+# 目标: IPTVOther
 5856e1a25f71a.streamlock.net
+# 目标: IPTVOther
 5857499ee635b.streamlock.net
+# 目标: IPTVOther
 5857db5306b83.streamlock.net
+# 目标: IPTVOther
 585b674743bbb.streamlock.net
+# 目标: IPTVOther
 5864df9ceac85.streamlock.net
+# 目标: IPTVOther
 586fb512206e4.streamlock.net
+# 目标: IPTVOther
 5889e7d0d6e28.streamlock.net
+# 目标: IPTVOther
 589ff3c36f7e8.streamlock.net
+# 目标: IPTVOther
 58a4464faef53.streamlock.net
+# 目标: IPTVOther
 58af0c57eaf3e.streamlock.net
+# 目标: IPTVOther
 58bd5b7a98e04.streamlock.net
+# 目标: IPTVOther
 58cc65c534c67.streamlock.net
+# 目标: IPTVOther
 58d921499d3d3.streamlock.net
+# 目标: IPTVOther
 58e4d59f4ba2c.streamlock.net
+# 目标: IPTVOther
 58f12ffd2447a.streamlock.net
+# 目标: IPTVOther
 59132e529e3d1.streamlock.net
+# 目标: IPTVOther
 5924d3ad0efcf.streamlock.net
+# 目标: IPTVOther
 5926fc9c7c5b2.streamlock.net
+# 目标: IPTVOther
 5929b138b139d.streamlock.net
+# 目标: IPTVOther
 592f1881b3d5f.streamlock.net
+# 目标: IPTVOther
 593aed234297b.streamlock.net
+# 目标: IPTVOther
 593b04c4c5670.streamlock.net
+# 目标: IPTVOther
 5940924978228.streamlock.net
+# 目标: IPTVOther
 59514edd5dd8e.streamlock.net
+# 目标: IPTVOther
 59537faa0729a.streamlock.net
+# 目标: IPTVOther
 596639ebdd89b.streamlock.net
+# 目标: IPTVOther
 597f64b67707a.streamlock.net
+# 目标: IPTVOther
 59825a54e4454.streamlock.net
+# 目标: IPTVOther
 5983a4e15f07f.streamlock.net
+# 目标: IPTVOther
 59959724487e3.streamlock.net
+# 目标: IPTVOther
 59a564764e2b6.streamlock.net
+# 目标: IPTVOther
 59b954022ec35.streamlock.net
+# 目标: IPTVOther
 59c3c7bda15f4.streamlock.net
+# 目标: IPTVOther
 59c3ec70cfde0.streamlock.net
+# 目标: IPTVOther
 59cba4d34b678.streamlock.net
+# 目标: IPTVOther
 59d39900ebfb8.streamlock.net
+# 目标: IPTVOther
 59d52c5a5ce5e.streamlock.net
+# 目标: IPTVOther
 59d7d6f47d7fc.streamlock.net
+# 目标: IPTVOther
 59d8c0cee6f3d.streamlock.net
+# 目标: IPTVOther
 59e8e1c60a2b2.streamlock.net
+# 目标: IPTVOther
 59f1cbe63db89.streamlock.net
+# 目标: IPTVOther
 59f2354c05961.streamlock.net
+# 目标: IPTVOther
 59ffdfa4495c3.streamlock.net
+# 目标: IPTVOther
 5a0e89631aa14.streamlock.net
+# 目标: IPTVOther
 5a1178b42cc03.streamlock.net
+# 目标: IPTVOther
 5a1c76baf08c0.streamlock.net
+# 目标: IPTVOther
 5a2a51fc4cfde.streamlock.net
+# 目标: IPTVOther
 5a32c05065c79.streamlock.net
+# 目标: IPTVOther
 5a3ed7a72ed4b.streamlock.net
+# 目标: IPTVOther
 5a44e5b800a41.streamlock.net
+# 目标: IPTVOther
 5a8308add0b31.streamlock.net
+# 目标: IPTVOther
 5aa8c7549bfa9.streamlock.net
+# 目标: IPTVOther
 5aafcc5de91f1.streamlock.net
+# 目标: IPTVOther
 5ab29cc78f681.streamlock.net
+# 目标: IPTVOther
 5ab772334c39c.streamlock.net
+# 目标: IPTVOther
 5ac31d8a4c9af.streamlock.net
+# 目标: IPTVOther
 5acade5fc0c29.streamlock.net
+# 目标: IPTVOther
 5acf9f9415a10.streamlock.net
+# 目标: IPTVOther
 5ad386ff92705.streamlock.net
+# 目标: IPTVOther
 5ad482a77183d.streamlock.net
+# 目标: IPTVOther
 5aec29c5dd23b.streamlock.net
+# 目标: IPTVOther
 5afd52b55ff79.streamlock.net
+# 目标: IPTVOther
 5b3050bb1b2d8.streamlock.net
+# 目标: IPTVOther
 5b33b873179a2.streamlock.net
+# 目标: IPTVOther
 5b464b69d264e.streamlock.net
+# 目标: IPTVOther
 5b57bb229a2e6.streamlock.net
+# 目标: IPTVOther
 5b622f07944df.streamlock.net
+# 目标: IPTVOther
 5bc45691ca49f.streamlock.net
+# 目标: IPTVOther
 5be5d840359c6.streamlock.net
+# 目标: IPTVOther
 5bf8041cb3fed.streamlock.net
+# 目标: IPTVOther
 5c3639aa99149.streamlock.net
+# 目标: IPTVOther
 5c389faa13be3.streamlock.net
+# 目标: IPTVOther
 5c3fb01839654.streamlock.net
+# 目标: IPTVOther
 5c46fa289c89f.streamlock.net
+# 目标: IPTVOther
 5c483b9d1019c.streamlock.net
+# 目标: IPTVOther
 5c7b683162943.streamlock.net
+# 目标: IPTVOther
 5ca3e84a76d30.streamlock.net
+# 目标: IPTVOther
 5ca49f2417d90.streamlock.net
+# 目标: IPTVOther
 5ca9af4645e15.streamlock.net
+# 目标: IPTVOther
 5caf24a595d94.streamlock.net
+# 目标: IPTVOther
 5cbd3bc28341f.streamlock.net
+# 目标: IPTVOther
 5cd577a3dd8ec.streamlock.net
+# 目标: IPTVOther
 5ce9406b73c33.streamlock.net
+# 目标: IPTVOther
 5cefcbf58ba2e.streamlock.net
+# 目标: IPTVOther
 5cf4a2c2512a2.streamlock.net
+# 目标: IPTVOther
 5d00db0e0fcd5.streamlock.net
+# 目标: IPTVOther
 5d658d7e9f562.streamlock.net
+# 目标: IPTVOther
 5d8d85cf2c308.streamlock.net
+# 目标: IPTVOther
 5d94523502c2d.streamlock.net
+# 目标: IPTVOther
 5db1ab4f970be.streamlock.net
+# 目标: IPTVOther
 5db313b643fd8.streamlock.net
+# 目标: IPTVOther
 5dc143936e9ae.streamlock.net
+# 目标: IPTVOther
 5dcab9aed5331.streamlock.net
+# 目标: IPTVOther
 5dcabf026b188.streamlock.net
+# 目标: IPTVOther
 5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com
+# 目标: IPTVOther
 5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com
+# 目标: IPTVOther
 5e50264bd6766.streamlock.net
+# 目标: IPTVOther
 5e7c60955a878.streamlock.net
+# 目标: IPTVOther
 5e7cdf2370883.streamlock.net
+# 目标: IPTVOther
 5e837408ea907.streamlock.net
+# 目标: IPTVOther
 5e85d90130e77.streamlock.net
+# 目标: IPTVOther
 5eae379fb77bb.streamlock.net
+# 目标: IPTVOther
 5ed325193d4e1.streamlock.net
+# 目标: IPTVOther
 5ee0faac3bbae.streamlock.net
+# 目标: IPTVOther
 5ee50688d7b5d.streamlock.net
+# 目标: IPTVOther
 5eff35271151c.streamlock.net
+# 目标: IPTVOther
 5f204aff97bee.streamlock.net
+# 目标: IPTVOther
 5f22d76e220e1.streamlock.net
+# 目标: IPTVOther
 5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com
+# 目标: IPTVOther
 5f4db0f94b000.streamlock.net
+# 目标: IPTVOther
 5f593df7851db.streamlock.net
+# 目标: IPTVOther
 5f700d5b2c46f.streamlock.net
+# 目标: IPTVOther
 5fa5de1a545ae.streamlock.net
+# 目标: IPTVOther
 5fb24b460df87.streamlock.net
+# 目标: IPTVOther
 5fc584f3f19c9.streamlock.net
+# 目标: IPTVOther
 5fd5567570c0e.streamlock.net
+# 目标: IPTVOther
 5tv.lincoln.ne.gov
+# 目标: IPTVOther
 60015180a7f57.streamlock.net
+# 目标: IPTVOther
 602ccc850c9bb.streamlock.net
+# 目标: IPTVOther
 60417ddeaf0d9.streamlock.net
+# 目标: IPTVOther
 6096a9cf11ae5.streamlock.net
+# 目标: IPTVOther
 6284rn2xr7xv-hls-live.wmncdn.net
+# 目标: IPTVOther
 6n3yogbnd9ok-hls-live.5centscdn.com
+# 目标: IPTVOther
 7.innovatestream.pe
+# 目标: IPTVOther
 7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 80tv.lincoln.ne.gov
+# 目标: IPTVOther
 88b9da48.kazmazpaz.ru
+# 目标: IPTVOther
 8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 8noro432dm6g-hls-live.wmncdn.net
+# 目标: IPTVOther
 90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 932y4x26ljv8-hls-live.5centscdn.com
+# 目标: IPTVOther
 95-213-224-183.livesports24.online
+# 目标: IPTVOther
 95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 95eryw39dwn4-hls-live.wmncdn.net
+# 目标: IPTVOther
 98d91ca32ff6fbca255f6ec9f29fc4d0-httpcache0-19333-cachelive0.dna.ip-only.net
+# 目标: IPTVOther
 9cc8074b.melpakomn.ru
+# 目标: IPTVOther
 a.jsrdn.com
+# 目标: IPTVOther
 a.xttv.top
+# 目标: IPTVOther
 a3569455801-s26881.cdn.ngenix.net
+# 目标: IPTVOther
 a500d902bdf94ea69ad343720add6036.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 aaaaa.pejian.com
+# 目标: IPTVOther
 abc-iview-mediapackagestreams-2.akamaized.net
+# 目标: IPTVOther
 abcnews-streams.akamaized.net
+# 目标: IPTVOther
 abp-i.akamaihd.net
+# 目标: IPTVOther
 abpasmita-lh.akamaihd.net
+# 目标: IPTVOther
 abr.de1se01.v2beat.live
+# 目标: IPTVOther
 abscbn-ono.akamaized.net
+# 目标: IPTVOther
 acv.asianetmobiletvplus.com
+# 目标: IPTVOther
 ad-hls-rentv.cdnvideo.ru
+# 目标: IPTVOther
 ad-hls-tvc.cdnvideo.ru
+# 目标: IPTVOther
 ad-playlistserver.aws.syncbak.com
+# 目标: IPTVOther
 admdn2.cdn.mangomolo.com
+# 目标: IPTVOther
 adtv.ercdn.net
+# 目标: IPTVOther
 aenetworks-ae-1.samsung.wurl.com
+# 目标: IPTVOther
 aenetworks-crime360-1.samsung.wurl.com
+# 目标: IPTVOther
 africatv.live.net.sa
+# 目标: IPTVOther
 aftonbladetlive-lh.akamaihd.net
+# 目标: IPTVOther
 ahhs.chinashadt.com
+# 目标: IPTVOther
 air.tvk6.ru
+# 目标: IPTVOther
 aka-amd-njpwworld-hls-enlive.akamaized.net
+# 目标: IPTVOther
 akaal.zecast.net
+# 目标: IPTVOther
 akaku.vod.castus.tv
+# 目标: IPTVOther
 akalmultimedia.net
+# 目标: IPTVOther
 akritastv1.flashmediacast.com
+# 目标: IPTVOther
 alaraby.cdn.octivid.com
+# 目标: IPTVOther
 albmusic.dyndns.tv
+# 目标: IPTVOther
 albportal.net
+# 目标: IPTVOther
 albuk.dyndns.tv
+# 目标: IPTVOther
 alex-stream.rosebud-media.de
+# 目标: IPTVOther
 aljazeera-balkans-apple-live.adaptive.level3.net
+# 目标: IPTVOther
 aljazeera-eng-hd-live.hls.adaptive.level3.net
+# 目标: IPTVOther
 amc-absolutereality-1.imdbtv.wurl.com
+# 目标: IPTVOther
 amc-absolutereality-1.vizio.wurl.com
+# 目标: IPTVOther
 amc-allweddings-1.vizio.wurl.com
+# 目标: IPTVOther
 amc-amcpresents-1.imdbtv.wurl.com
+# 目标: IPTVOther
 amc-ifc-films-picks-1.imdbtv.wurl.com
+# 目标: IPTVOther
 amc-ifc-films-picks-1.vizio.wurl.com
+# 目标: IPTVOther
 amc-rushbyamc-1.imdbtv.wurl.com
+# 目标: IPTVOther
 amc-rushbyamc-1.vizio.wurl.com
+# 目标: IPTVOther
 amc-slightly-off-by-amc-1.imdbtv.wurl.com
+# 目标: IPTVOther
 amc-slightly-off-by-amc-1.vizio.wurl.com
+# 目标: IPTVOther
 amdlive-ch01-ctnd-com.akamaized.net
+# 目标: IPTVOther
 amdlive-ch01.ctnd.com.edgesuite.net
+# 目标: IPTVOther
 amdlive-ch03.ctnd.com.edgesuite.net
+# 目标: IPTVOther
 amdlive.ctnd.com.edgesuite.net
+# 目标: IPTVOther
 americaneagle-lh.akamaihd.net
+# 目标: IPTVOther
 amg01573-7nn-7nnono-ono-pcdj3.amagi.tv
+# 目标: IPTVOther
 ammantv.c.s73cdn.net
+# 目标: IPTVOther
 ammo-espanol-plex.amagi.tv
+# 目标: IPTVOther
 ams-lp10.9c9media.com
+# 目标: IPTVOther
 ams-lp5.9c9media.com
+# 目标: IPTVOther
 ams-lp6.9c9media.com
+# 目标: IPTVOther
 anren.live
+# 目标: IPTVOther
 antennaamdnoenc.akamaized.net
+# 目标: IPTVOther
 antvlive.ab5c6921.cdnviet.com
+# 目标: IPTVOther
 aod.xjbs.com.cn
+# 目标: IPTVOther
 ap02.iqplay.tv
+# 目标: IPTVOther
 api.leonardpark.dev
+# 目标: IPTVOther
 api.visionip.tv
+# 目标: IPTVOther
 app.live.112.events
+# 目标: IPTVOther
 app.xygdcm.com
+# 目标: IPTVOther
 appavang.flashmediacast.com
+# 目标: IPTVOther
 appletree-mytime-samsungbrazil.amagi.tv
+# 目标: IPTVOther
 appletree-mytime-samsungmexico.amagi.tv
+# 目标: IPTVOther
 appletree-mytimespain-rakuten.amagi.tv
+# 目标: IPTVOther
 arcast.net
+# 目标: IPTVOther
 arhat.tv
+# 目标: IPTVOther
 asdiuhiu12.myvodu.app
+# 目标: IPTVOther
 asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.com
+# 目标: IPTVOther
 ashrafichannel.livebox.co.in
+# 目标: IPTVOther
 asylum-stirr.amagi.tv
+# 目标: IPTVOther
 audiolive.rbc.cn
+# 目标: IPTVOther
 audiotvserver.net
+# 目标: IPTVOther
 ausbiztv-ausbiz-1-au.samsung.wurl.com
+# 目标: IPTVOther
 austchannel-live.akamaized.net
+# 目标: IPTVOther
 autopilot.catcast.tv
+# 目标: IPTVOther
 awanitv.akamaized.net
+# 目标: IPTVOther
 ax.micaesoft.com
+# 目标: IPTVOther
 azroe0x-lh.akamaihd.net
+# 目标: IPTVOther
 b01c02nl.mediatriple.net
+# 目标: IPTVOther
 b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 b1news.beritasatumedia.com
+# 目标: IPTVOther
 b29da26d9a17436eafe339c08e488f33.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 b2everyrai-lh.akamaihd.net
+# 目标: IPTVOther
 b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 ba5729d5.krasnafhg.ru
+# 目标: IPTVOther
 backup.superstreaming.inaria.me
+# 目标: IPTVOther
 badentv-stream2.siebnich.info
+# 目标: IPTVOther
 baltlive.tv3.lt
+# 目标: IPTVOther
 bamus-eng-roku.amagi.tv
+# 目标: IPTVOther
 bbcwshdlive01-lh.akamaihd.net
+# 目标: IPTVOther
 bbcwssc.ic.llnwd.net
+# 目标: IPTVOther
 bbe19a83414b545d91f32f94316aab71-httpcache0-19333-cachelive0.dna.ip-only.net
+# 目标: IPTVOther
 bbstv.clouducs.com
+# 目标: IPTVOther
 bcliveuniv-lh.akamaihd.net
+# 目标: IPTVOther
 bcliveunivsecure-lh.akamaihd.net
+# 目标: IPTVOther
 bcoveliveios-i.akamaihd.net
+# 目标: IPTVOther
 bcovlive-a.akamaihd.net
+# 目标: IPTVOther
 bcsecurelivehls-i.akamaihd.net
+# 目标: IPTVOther
 bel-lh.akamaihd.net
+# 目标: IPTVOther
 belnovosti.cdn.easyhoster.ru
+# 目标: IPTVOther
 betamg-i.akamaihd.net
+# 目标: IPTVOther
 bf75c7afaa4f8698042ab38336a843a0-httpcache0-19333-cachelive0.dna.ip-only.net
+# 目标: IPTVOther
 bfmbusinesshds-lh.akamaihd.net
+# 目标: IPTVOther
 bfmlyon-lh.akamaihd.net
+# 目标: IPTVOther
 bfmparishdslive-lh.akamaihd.net
+# 目标: IPTVOther
 bfmtvalive1-a.akamaihd.net
+# 目标: IPTVOther
 bibeltv03.iptv-playoutcenter.de
+# 目标: IPTVOther
 biglife.sinclair.wurl.com
+# 目标: IPTVOther
 bililive.kksmg.com
+# 目标: IPTVOther
 biptv.tv
+# 目标: IPTVOther
 bitcdn-kronehit.bitmovin.com
+# 目标: IPTVOther
 bizcommon.alicdn.com
+# 目标: IPTVOther
 bk7l298nyx53-hls-live.5centscdn.com
+# 目标: IPTVOther
 bk7l2pn7dx53-hls-live.5centscdn.com
+# 目标: IPTVOther
 bk7l2w4nlx53-hls-live.5centscdn.com
+# 目标: IPTVOther
 bktvplay.gdnewmedia.cc
+# 目标: IPTVOther
 bl.uma.media
+# 目标: IPTVOther
 bloomberg-bloomberg-1-be.samsung.wurl.com
+# 目标: IPTVOther
 bloomberg-bloombergtv-1-es.samsung.wurl.com
+# 目标: IPTVOther
 bloomberg-bloombergtv-1-gb.samsung.wurl.com
+# 目标: IPTVOther
 bloomberg-bloombergtv-1-it.samsung.wurl.com
+# 目标: IPTVOther
 bloomberg-quicktake-1-au.samsung.wurl.com
+# 目标: IPTVOther
 bnwdplewrp3a-hls-live.wmncdn.net
+# 目标: IPTVOther
 bobross-xumous-ingest.cinedigm.com
+# 目标: IPTVOther
 boliviatv1.srfms.com
+# 目标: IPTVOther
 bozztv.com
+# 目标: IPTVOther
 bqgsd19q.rocketcdn.com
+# 目标: IPTVOther
 brat-rakuten.amagi.tv
+# 目标: IPTVOther
 brics.bonus-tv.ru
+# 目标: IPTVOther
 bris4bcvid-lh.akamaihd.net
+# 目标: IPTVOther
 brlive-lh.akamaihd.net
+# 目标: IPTVOther
 broadcasttr.com
+# 目标: IPTVOther
 bsttv.bonus-tv.ru
+# 目标: IPTVOther
 butv10-livestream.bu.edu
+# 目标: IPTVOther
 buzzr-samsungus.amagi.tv
+# 目标: IPTVOther
 c.mjh.nz
+# 目标: IPTVOther
 c0.cdn.trinity-tv.net
+# 目标: IPTVOther
 c2.manasat.com
+# 目标: IPTVOther
 c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 c4635.cdn.xsg.ge
+# 目标: IPTVOther
 camara.02.cl.cdnz.cl
+# 目标: IPTVOther
 camara.03.cl.cdnz.cl
+# 目标: IPTVOther
 canadaremar2.todostreaming.es
+# 目标: IPTVOther
 canal2000.berkano-systems.net
+# 目标: IPTVOther
 canalalphaju.vedge.infomaniak.com
+# 目标: IPTVOther
 canale10.cloud
+# 目标: IPTVOther
 canalregional.md
+# 目标: IPTVOther
 canbroadcast.com
+# 目标: IPTVOther
 canli.tvden.com.tr
+# 目标: IPTVOther
 capital-live-tv-01-hls.akamai.media.kataweb.it
+# 目标: IPTVOther
 carolburnett-roku.amagi.tv
+# 目标: IPTVOther
 catchup.yuppcdn.net
+# 目标: IPTVOther
 catholictvhd-lh.akamaihd.net
+# 目标: IPTVOther
 cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 cbcnewshd-f.akamaihd.net
+# 目标: IPTVOther
 cbctvlive.flashmediacast.com
+# 目标: IPTVOther
 cbs-live.gscdn.com
+# 目标: IPTVOther
 cbsnews.akamaized.net
+# 目标: IPTVOther
 cbsnewshd-lh.akamaihd.net
+# 目标: IPTVOther
 cbsnhls-i.akamaihd.net
+# 目标: IPTVOther
 cclive.aniu.tv
+# 目标: IPTVOther
 cclive2.aniu.tv
+# 目标: IPTVOther
 ccma-tva-int-abertis-live.hls.adaptive.level3.net
+# 目标: IPTVOther
 cctvalih5ca.v.myalicdn.com
+# 目标: IPTVOther
 cctvcnch5ca.v.wscdns.com
+# 目标: IPTVOther
 cctvtxyh5c.liveplay.myqcloud.com
+# 目标: IPTVOther
 cctvtxyh5ca.liveplay.myqcloud.com
+# 目标: IPTVOther
 cczylive.chuangwanghulian.cn
+# 目标: IPTVOther
 cd-live-stream.news.cctvplus.com
+# 目标: IPTVOther
 cdg3.edge.tmed.pw
+# 目标: IPTVOther
 cdn-01.bonus-tv.ru
+# 目标: IPTVOther
 cdn-berattv.yayin.com.tr
+# 目标: IPTVOther
 cdn-bursatv.yayin.com.tr
+# 目标: IPTVOther
 cdn-canalpaulo.ciclano.io
+# 目标: IPTVOther
 cdn-cdn-iguacu.ciclano.io
+# 目标: IPTVOther
 cdn-cekmekoybeltv.yayin.com.tr
+# 目标: IPTVOther
 cdn-fundacao-2110.ciclano.io
+# 目标: IPTVOther
 cdn-haber61tv.yayin.com.tr
+# 目标: IPTVOther
 cdn-hls.globecast.tv
+# 目标: IPTVOther
 cdn-kanal10.crossnet.net
+# 目标: IPTVOther
 cdn-live1.qvc.jp
+# 目标: IPTVOther
 cdn-lt-hls-vod.tv2fyn.dk
+# 目标: IPTVOther
 cdn-lt-hls-vod.tv2lorry.dk
+# 目标: IPTVOther
 cdn-lt-live.tvsyd.dk
+# 目标: IPTVOther
 cdn-samsuncanlihabertv.yayin.com.tr
+# 目标: IPTVOther
 cdn-shop-lc-01.akamaized.net
+# 目标: IPTVOther
 cdn-tvem.yayin.com.tr
+# 目标: IPTVOther
 cdn-videos.akamaized.net
+# 目标: IPTVOther
 cdn.adultiptv.net
+# 目标: IPTVOther
 cdn.appv.jagobd.com
+# 目标: IPTVOther
 cdn.catiacast.video
+# 目标: IPTVOther
 cdn.credonet.tv
+# 目标: IPTVOther
 cdn.deepcore.online
+# 目标: IPTVOther
 cdn.dovecher.tv
+# 目标: IPTVOther
 cdn.elsalvadordigital.com
+# 目标: IPTVOther
 cdn.gdlive.gdmain.com
+# 目标: IPTVOther
 cdn.hkdtmb.com
+# 目标: IPTVOther
 cdn.hklive.tv
+# 目标: IPTVOther
 cdn.icu.de
+# 目标: IPTVOther
 cdn.igocast.com
+# 目标: IPTVOther
 cdn.jmvstream.com
+# 目标: IPTVOther
 cdn.jwplayer.com
+# 目标: IPTVOther
 cdn.logicwebs.in
+# 目标: IPTVOther
 cdn.media9.truegod.tv
+# 目标: IPTVOther
 cdn.mediavisionuae.com
+# 目标: IPTVOther
 cdn.onarmtv.com
+# 目标: IPTVOther
 cdn.pride-east.in
+# 目标: IPTVOther
 cdn.rtvdrenthe.nl
+# 目标: IPTVOther
 cdn.setar.aw
+# 目标: IPTVOther
 cdn.smartstream.video
+# 目标: IPTVOther
 cdn.streamingmedia.cl
+# 目标: IPTVOther
 cdn.tvseventeen.com
+# 目标: IPTVOther
 cdn.universmotri.ru
+# 目标: IPTVOther
 cdn.vms.grupoz.cl
+# 目标: IPTVOther
 cdn.yayin.com.tr
+# 目标: IPTVOther
 cdn01.yowi.tv
+# 目标: IPTVOther
 cdn1-europe.smartcast.tv
+# 目标: IPTVOther
 cdn1.live-tv.od.ua
+# 目标: IPTVOther
 cdn1.live.irib.ir
+# 目标: IPTVOther
 cdn1.mobiletv.bg
+# 目标: IPTVOther
 cdn1.rea.cdn.moderntv.eu
+# 目标: IPTVOther
 cdn1.ujjina.com
+# 目标: IPTVOther
 cdn10-alvinchannel.yayin.com.tr
+# 目标: IPTVOther
 cdn10.live-tv.od.ua
+# 目标: IPTVOther
 cdn11.live247stream.com
+# 目标: IPTVOther
 cdn12.henico.net
+# 目标: IPTVOther
 cdn12.mudu.tv
+# 目标: IPTVOther
 cdn18.live247stream.com
+# 目标: IPTVOther
 cdn19.live247stream.com
+# 目标: IPTVOther
 cdn2.envivo.win
+# 目标: IPTVOther
 cdn2.live247stream.com
+# 目标: IPTVOther
 cdn2.ujjina.com
+# 目标: IPTVOther
 cdn2.zencast.tv
+# 目标: IPTVOther
 cdn25.live247stream.com
+# 目标: IPTVOther
 cdn27.live247stream.com
+# 目标: IPTVOther
 cdn30.liveonlineservices.com
+# 目标: IPTVOther
 cdn4.hostlagarto.com
+# 目标: IPTVOther
 cdn5.live247stream.com
+# 目标: IPTVOther
 cdn7.live247stream.com
+# 目标: IPTVOther
 cdn8.live247stream.com
+# 目标: IPTVOther
 cdn87.theus6tv.tk
+# 目标: IPTVOther
 cdn9.live247stream.com
+# 目标: IPTVOther
 cdnamd-hls-globecast.akamaized.net
+# 目标: IPTVOther
 cdnapi.kaltura.com
+# 目标: IPTVOther
 cdnapisec.kaltura.com
+# 目标: IPTVOther
 cdnh4.iblups.com
+# 目标: IPTVOther
 cdnh8.iblups.com
+# 目标: IPTVOther
 cdnhd.iblups.com
+# 目标: IPTVOther
 cdnlive.irib.ir
+# 目标: IPTVOther
 cdnmg.secure.live.rtr-vesti.ru
+# 目标: IPTVOther
 cgntv-glive.ofsdelivery.net
+# 目标: IPTVOther
 ch.iptvmate.net
+# 目标: IPTVOther
 channel.streams.ovh
+# 目标: IPTVOther
 chanson-video.hostingradio.ru
+# 目标: IPTVOther
 chaoan.chaoantv.com
+# 目标: IPTVOther
 cheddar-cheddar-3.roku.wurl.com
+# 目标: IPTVOther
 cheddar-news12ny-1.plex.wurl.com
+# 目标: IPTVOther
 chgtrk.ru
+# 目标: IPTVOther
 churchrus2-lh.akamaihd.net
+# 目标: IPTVOther
 cineapp.org
+# 目标: IPTVOther
 circle-roku.amagi.tv
+# 目标: IPTVOther
 cld04wz.tv2000.it
+# 目标: IPTVOther
 clients.apsny.camera
+# 目标: IPTVOther
 cloud.logicwebs.in
+# 目标: IPTVOther
 cloud.streamingconnect.tv
+# 目标: IPTVOther
 cloud2.streaminglivehd.com
+# 目标: IPTVOther
 cloudflare-cdn301.ottpro.in
+# 目标: IPTVOther
 cloudflare.streamgato.us
+# 目标: IPTVOther
 cloudflare.tv
+# 目标: IPTVOther
 cloudfront44.lexanetwork.com
+# 目标: IPTVOther
 cloudvideo.servers10.com
+# 目标: IPTVOther
 clubbingtv-rakuten.amagi.tv
+# 目标: IPTVOther
 clubbingtv-samsunguk.amagi.tv
+# 目标: IPTVOther
 cm.hostlagarto.com
+# 目标: IPTVOther
 cms-wowza.lunabyte.io
+# 目标: IPTVOther
 cnbcawaaz-lh.akamaihd.net
+# 目标: IPTVOther
 cnbctv18-lh.akamaihd.net
+# 目标: IPTVOther
 cnn-cnninternational-1-de.samsung.wurl.com
+# 目标: IPTVOther
 cnn-cnninternational-1-eu.rakuten.wurl.com
+# 目标: IPTVOther
 cnn-cnninternational-1-gb.samsung.wurl.com
+# 目标: IPTVOther
 cnnsanjuan.com
+# 目标: IPTVOther
 comedy-redbox.amagi.tv
+# 目标: IPTVOther
 common01.todostreaming.es
+# 目标: IPTVOther
 congresodirecto-f.akamaihd.net
+# 目标: IPTVOther
 coninfo.net
+# 目标: IPTVOther
 connectiktv.ddns.net
+# 目标: IPTVOther
 contact-lh.akamaihd.net
+# 目标: IPTVOther
 contact.gostreaming.tv
+# 目标: IPTVOther
 contactvision.flashmediacast.com
+# 目标: IPTVOther
 content.uplynk.com
+# 目标: IPTVOther
 contributionstreams.ashttp9.visionip.tv
+# 目标: IPTVOther
 contv.sinclair.wurl.com
+# 目标: IPTVOther
 cp.sradiotv.com
+# 目标: IPTVOther
 cpd.bailen.tv
+# 目标: IPTVOther
 cpdc101-lh.akamaihd.net
+# 目标: IPTVOther
 cqnygl001.morequick.cn
+# 目标: IPTVOther
 crackle-plex.amagi.tv
+# 目标: IPTVOther
 crackle-xumo.amagi.tv
+# 目标: IPTVOther
 crimetimebamca-roku.amagi.tv
+# 目标: IPTVOther
 cs.ebmcdn.net
+# 目标: IPTVOther
 csm-e-boxplus.tls1.yospace.com
+# 目标: IPTVOther
 csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video
+# 目标: IPTVOther
 csm-e-stv.tls1.yospace.com
+# 目标: IPTVOther
 csm-e.cds1.yospace.com
+# 目标: IPTVOther
 csvl03.manasat.com
+# 目标: IPTVOther
 csvl04.manasat.com
+# 目标: IPTVOther
 d10rltuy0iweup.cloudfront.net
+# 目标: IPTVOther
 d12a2vxqkkh1bo.cloudfront.net
+# 目标: IPTVOther
 d13anarbtxy8c5.cloudfront.net
+# 目标: IPTVOther
 d15690s323oesy.cloudfront.net
+# 目标: IPTVOther
 d18b0e6mopany4.cloudfront.net
+# 目标: IPTVOther
 d18dyiwu97wm6q.cloudfront.net
+# 目标: IPTVOther
 d18fcxaqfnwjhj.cloudfront.net
+# 目标: IPTVOther
 d1ewctnvcwvvvu.cloudfront.net
+# 目标: IPTVOther
 d1h1d6qoy9vnra.cloudfront.net
+# 目标: IPTVOther
 d1k6kax80wecy5.cloudfront.net
+# 目标: IPTVOther
 d1lv1lpzlrjn3y.cloudfront.net
+# 目标: IPTVOther
 d1mpprlbe8tn2j.cloudfront.net
+# 目标: IPTVOther
 d1pz8zear993v8.cloudfront.net
+# 目标: IPTVOther
 d1qaz9zojo1ayt.cloudfront.net
+# 目标: IPTVOther
 d1x82nydcxndze.cloudfront.net
+# 目标: IPTVOther
 d2dslh4sd7yvc1.cloudfront.net
+# 目标: IPTVOther
 d2dw21aq0j0l5c.cloudfront.net
+# 目标: IPTVOther
 d2dy6pkj44n6e7.cloudfront.net
+# 目标: IPTVOther
 d2e1asnsl7br7b.cloudfront.net
+# 目标: IPTVOther
 d2e809bgs49c6y.cloudfront.net
+# 目标: IPTVOther
 d2eit0bra9qkiw.cloudfront.net
+# 目标: IPTVOther
 d2fxrfbiedz1tm.cloudfront.net
+# 目标: IPTVOther
 d2g7v53450s2i2.cloudfront.net
+# 目标: IPTVOther
 d2hrvno5bw6tg2.cloudfront.net
+# 目标: IPTVOther
 d2klx6wjx7p5vm.cloudfront.net
+# 目标: IPTVOther
 d2nt5wxzqbe1ad.cloudfront.net
+# 目标: IPTVOther
 d2p372oxiwmcn1.cloudfront.net
+# 目标: IPTVOther
 d2q8p4pe5spbak.cloudfront.net
+# 目标: IPTVOther
 d2rwmwucnr0d10.cloudfront.net
+# 目标: IPTVOther
 d2rwx6gwduugne.cloudfront.net
+# 目标: IPTVOther
 d2tuwvs0ja335j.cloudfront.net
+# 目标: IPTVOther
 d2up1hmow19bcd.cloudfront.net
+# 目标: IPTVOther
 d2v42hnvh68zz7.cloudfront.net
+# 目标: IPTVOther
 d2xeo83q8fcni6.cloudfront.net
+# 目标: IPTVOther
 d33zah5htxvoxb.cloudfront.net
+# 目标: IPTVOther
 d34e90s3s13i7n.cloudfront.net
+# 目标: IPTVOther
 d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 d39jokgb64z0et.cloudfront.net
+# 目标: IPTVOther
 d3b2epqdk0p7vd.cloudfront.net
+# 目标: IPTVOther
 d3cbe0gidjd4k2.cloudfront.net
+# 目标: IPTVOther
 d3isaxd2t6q8zm.cloudfront.net
+# 目标: IPTVOther
 d3jxchypmk8fja.cloudfront.net
+# 目标: IPTVOther
 d3kr0d4mfjxpbv.cloudfront.net
+# 目标: IPTVOther
 d3ktuc8v2sjk6m.cloudfront.net
+# 目标: IPTVOther
 d3lzjtrf5mvf3p.cloudfront.net
+# 目标: IPTVOther
 d3nljkrx6mjqra.cloudfront.net
+# 目标: IPTVOther
 d3nzocdfkx2ybv.cloudfront.net
+# 目标: IPTVOther
 d3pvma9xb2775h.cloudfront.net
+# 目标: IPTVOther
 d3qm7vzp07vxse.cloudfront.net
+# 目标: IPTVOther
 d3r4bk4fg0k2xi.cloudfront.net
+# 目标: IPTVOther
 d3s1xaoyhrialn.cloudfront.net
+# 目标: IPTVOther
 d3svwuchx5fp62.cloudfront.net
+# 目标: IPTVOther
 d3thiix3tzne5u.cloudfront.net
+# 目标: IPTVOther
 d3uyzhwvmemdyf.cloudfront.net
+# 目标: IPTVOther
 d3w4n3hhseniak.cloudfront.net
+# 目标: IPTVOther
 d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com
+# 目标: IPTVOther
 d7z3qjdsxbwoq.cloudfront.net
+# 目标: IPTVOther
 d83tn4bh2lria.cloudfront.net
+# 目标: IPTVOther
 d9quh89lh7dtw.cloudfront.net
+# 目标: IPTVOther
 dagestan.mediacdn.ru
+# 目标: IPTVOther
 dai2-playlistserver.aws.syncbak.com
+# 目标: IPTVOther
 dai2-xumo.fubo.tv
+# 目标: IPTVOther
 damkf751d85s1.cloudfront.net
+# 目标: IPTVOther
 dammikartmp.tulix.tv
+# 目标: IPTVOther
 dangertv.samsung.wurl.com
+# 目标: IPTVOther
 darkmatter-por-samsungbrazil.amagi.tv
+# 目标: IPTVOther
 dbiptv.sn.chinamobile.com
+# 目标: IPTVOther
 dbmtv.vedge.infomaniak.com
+# 目标: IPTVOther
 dc1.webstream.eu
+# 目标: IPTVOther
 dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 dcunilive159-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive21-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive258-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive262-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive265-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive266-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive30-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive36-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive38-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive83-lh.akamaihd.net
+# 目标: IPTVOther
 dcunilive93-lh.akamaihd.net
+# 目标: IPTVOther
 de1se01.v2beat.live
+# 目标: IPTVOther
 dee7mwgg9dzvl.cloudfront.net
+# 目标: IPTVOther
 demandafrica-klowdtv.amagi.tv
+# 目标: IPTVOther
 demandafrica-samsungmexico.amagi.tv
+# 目标: IPTVOther
 derste247liveint.akamaized.net
+# 目标: IPTVOther
 devlivepull.migucloud.com
+# 目标: IPTVOther
 dhx-degrassi-2-ca.samsung.wurl.tv
+# 目标: IPTVOther
 digicom.hls.iptvdc.com
+# 目标: IPTVOther
 digitalmediarights-retrocrush-1.sinclair.wurl.com
+# 目标: IPTVOther
 dikcfc9915kp8.cloudfront.net
+# 目标: IPTVOther
 directes-tv-int.ccma.cat
+# 目标: IPTVOther
 divineplayout-us2.tulix.tv
+# 目标: IPTVOther
 dk7psf0dh3v1r.cloudfront.net
+# 目标: IPTVOther
 dltv-live-edge.catcdn.cloud
+# 目标: IPTVOther
 dmiffthvll.cdn.mangomolo.com
+# 目标: IPTVOther
 dminnvll.cdn.mangomolo.com
+# 目标: IPTVOther
 dmisxthvll.cdn.mangomolo.com
+# 目标: IPTVOther
 dmithrvll.cdn.mangomolo.com
+# 目标: IPTVOther
 dmitnthvll.cdn.mangomolo.com
+# 目标: IPTVOther
 dmitwlvvll.cdn.mangomolo.com
+# 目标: IPTVOther
 dmtv-plex.amagi.tv
+# 目标: IPTVOther
 dns2.rtvbn.com
+# 目标: IPTVOther
 dpp-qmusicnl-live.akamaized.net
+# 目标: IPTVOther
 drtdnglive.e49a7c38.cdnviet.com
+# 目标: IPTVOther
 dslive.grtn.cn
+# 目标: IPTVOther
 dstpush1.retalltech.com
+# 目标: IPTVOther
 dust-gb.samsung.wurl.com
+# 目标: IPTVOther
 dust.sinclair.wurl.com
+# 目标: IPTVOther
 dvr.ch20-cdnwiz.com
+# 目标: IPTVOther
 dwamdstream102.akamaized.net
+# 目标: IPTVOther
 dwamdstream103.akamaized.net
+# 目标: IPTVOther
 dwamdstream104.akamaized.net
+# 目标: IPTVOther
 dwstream2-lh.akamaihd.net
+# 目标: IPTVOther
 dwstream4-lh.akamaihd.net
+# 目标: IPTVOther
 e-e.cyou
+# 目标: IPTVOther
 e1.vdowowza.vip.hk1.tvb.com
+# 目标: IPTVOther
 e2.online.video.rbc.ru
+# 目标: IPTVOther
 e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 e3.online.video.rbc.ru
+# 目标: IPTVOther
 e6.online.video.rbc.ru
+# 目标: IPTVOther
 ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com
+# 目标: IPTVOther
 ebsonair.ebs.co.kr
+# 目标: IPTVOther
 ebsonairios.ebs.co.kr
+# 目标: IPTVOther
 ec.playmedia.fr
+# 目标: IPTVOther
 eco.streams.ovh
+# 目标: IPTVOther
 ecuastreamhd.com
+# 目标: IPTVOther
 ed1ov.live.opencaster.com
+# 目标: IPTVOther
 edge-ind.inapcdn.in
+# 目标: IPTVOther
 edge-live-ger1.ovstream.com
+# 目标: IPTVOther
 edge-telia1.tiesraides.lv
+# 目标: IPTVOther
 edge.linknetott.swiftserve.com
+# 目标: IPTVOther
 edge.metrotvnews.com
+# 目标: IPTVOther
 edge.vediostream.com
+# 目标: IPTVOther
 edge01.cdn.aws.subset.host
+# 目标: IPTVOther
 edge1.cdn.bg
+# 目标: IPTVOther
 edge1.iptv.macc.com.ua
+# 目标: IPTVOther
 edge1.socialsmart.tv
+# 目标: IPTVOther
 edge1.tvdirect13.com
+# 目标: IPTVOther
 edge10.vedge.infomaniak.com
+# 目标: IPTVOther
 edge15.cdn.bg
+# 目标: IPTVOther
 edge2-tv-ll.facecast.io
+# 目标: IPTVOther
 edge2.everyon.tv
+# 目标: IPTVOther
 edge2.iptv.macc.com.ua
+# 目标: IPTVOther
 edge3-hr.cvattv.com.ar
+# 目标: IPTVOther
 edge3.iptv.macc.com.ua
+# 目标: IPTVOther
 edge4.vedge.infomaniak.com
+# 目标: IPTVOther
 edge5.vedge.infomaniak.com
+# 目标: IPTVOther
 edge7.vedge.infomaniak.com
+# 目标: IPTVOther
 edge8.vedge.infomaniak.com
+# 目标: IPTVOther
 edge9.iptvnetwork.net
+# 目标: IPTVOther
 edge9.vedge.infomaniak.com
+# 目标: IPTVOther
 edgesport-samsungus.amagi.tv
+# 目标: IPTVOther
 edgesports-plex.amagi.tv
+# 目标: IPTVOther
 edgesports-sportstribal.amagi.tv
+# 目标: IPTVOther
 edu.leominster.tv
+# 目标: IPTVOther
 elastic10.todostreaming.es
+# 目标: IPTVOther
 eleven-rebroadcast-samsung.roku.wurl.com
+# 目标: IPTVOther
 elevensports-uk.samsung.wurl.com
+# 目标: IPTVOther
 ellastv.gotdns.com
+# 目标: IPTVOther
 em.21dtv.com
+# 目标: IPTVOther
 emci-fr-hls.akamaized.net
+# 目标: IPTVOther
 emci-td-hls.akamaized.net
+# 目标: IPTVOther
 emisoras.hn
+# 目标: IPTVOther
 endemol-dealornodeal-1.sinclair.wurl.com
+# 目标: IPTVOther
 envivo.galacticatv.com
+# 目标: IPTVOther
 epg.112114.xyz
+# 目标: IPTVOther
 epg.pm
+# 目标: IPTVOther
 errstreams4.cdn.eurovisioncdn.net
+# 目标: IPTVOther
 ert-live-bcbs15228.siliconweb.com
+# 目标: IPTVOther
 esmhls1-i.akamaihd.net
+# 目标: IPTVOther
 esmhls2-i.akamaihd.net
+# 目标: IPTVOther
 esmhls3-i.akamaihd.net
+# 目标: IPTVOther
 estrellanews-plex.amagi.tv
+# 目标: IPTVOther
 estrellatv-plex.amagi.tv
+# 目标: IPTVOther
 estv-rakuten-samsung.amagi.tv
+# 目标: IPTVOther
 etbvnogeo-lh.akamaihd.net
+# 目标: IPTVOther
 etnowweblive-lh.akamaihd.net
+# 目标: IPTVOther
 etv-oriya.akamaized.net
+# 目标: IPTVOther
 eu-nl-012.worldcast.tv
+# 目标: IPTVOther
 eu.live.skyfolk.mk
+# 目标: IPTVOther
 eu.streamjo.com
+# 目标: IPTVOther
 eu1.servers10.com
+# 目标: IPTVOther
 eu10b.serverse.com
+# 目标: IPTVOther
 eu2.tv4e.gr
+# 目标: IPTVOther
 eurodance90.catcast.tv
+# 目标: IPTVOther
 euronews-euronews-portugues-1-br.samsung.wurl.com
+# 目标: IPTVOther
 euronews-euronews-spanish-2-mx.samsung.wurl.com
+# 目标: IPTVOther
 euronews-euronews-world-1-au.samsung.wurl.com
+# 目标: IPTVOther
 europa-crtvg.flumotion.com
+# 目标: IPTVOther
 europe2.livetv.az
+# 目标: IPTVOther
 eustr73.mediatriple.net
+# 目标: IPTVOther
 euvia-live.hls.adaptive.level3.net
+# 目标: IPTVOther
 euvia.cdn.ses-ps.com
+# 目标: IPTVOther
 everyrai-lh.akamaihd.net
+# 目标: IPTVOther
 evo.eltelon.com
+# 目标: IPTVOther
 evpp.mm.uol.com.br
+# 目标: IPTVOther
 eyeonesports.com
+# 目标: IPTVOther
 f1.stream.devkom.pro
+# 目标: IPTVOther
 f24hls-i.akamaihd.net
+# 目标: IPTVOther
 fa.imamhusseintv.com
+# 目标: IPTVOther
 failarmy-linear.vizio.wurl.com
+# 目标: IPTVOther
 faraztv.net
+# 目标: IPTVOther
 fashiontv-fashiontv-1-eu.rakuten.wurl.com
+# 目标: IPTVOther
 fashiontv-fashiontv-1-gb.samsung.wurl.com
+# 目标: IPTVOther
 fashiontv-fashiontv-2-es.samsung.wurl.com
+# 目标: IPTVOther
 fashiontv-fashiontv-3-it.samsung.wurl.com
+# 目标: IPTVOther
 fashiontv-fashiontv-4-de.samsung.wurl.com
+# 目标: IPTVOther
 fashiontv-fashiontv-loriginal-fr.samsung.wurl.com
+# 目标: IPTVOther
 fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com
+# 目标: IPTVOther
 feed.play.mv
+# 目标: IPTVOther
 feed.resrc.svideo.sogoucdn.com
+# 目标: IPTVOther
 feeds.intoday.in
+# 目标: IPTVOther
 fidotv-roku.amagi.tv
+# 目标: IPTVOther
 file.hhtv.cc
+# 目标: IPTVOther
 file.ncntv.com.cn
+# 目标: IPTVOther
 file.xsbnrtv.cn
+# 目标: IPTVOther
 fl1.mediastreaming.it
+# 目标: IPTVOther
 flash.softhost.com.br
+# 目标: IPTVOther
 flash0.19333-live0.dna.qbrick.com
+# 目标: IPTVOther
 flash1.crossdigital.com.br
+# 目标: IPTVOther
 flash2.xdevel.com
+# 目标: IPTVOther
 flash5.streaming.xdevel.com
+# 目标: IPTVOther
 flash7.streaming.xdevel.com
+# 目标: IPTVOther
 flash7.xdevel.com
+# 目标: IPTVOther
 flash8.crossdigital.com.br
+# 目标: IPTVOther
 flu.vtv.by
+# 目标: IPTVOther
 flusonic-1.platinum-tv.com
+# 目标: IPTVOther
 flusonic-4.platinum-tv.com
+# 目标: IPTVOther
 flv.drs.tv.yatv.tv
+# 目标: IPTVOther
 flv3948069e.live.126.net
+# 目标: IPTVOther
 fms-https1.mediadirect.ro
+# 目标: IPTVOther
 fms.nrwision.de
+# 目标: IPTVOther
 fms.tvavicenza.it
+# 目标: IPTVOther
 fnurtmp-f.akamaihd.net
+# 目标: IPTVOther
 forerunnerrtmp.livestreamingcdn.com
+# 目标: IPTVOther
 fox-foxnewsnow-samsungus.amagi.tv
+# 目标: IPTVOther
 fox-foxsoul-roku.amagi.tv
+# 目标: IPTVOther
 fox-foxsoul-samsungus.amagi.tv
+# 目标: IPTVOther
 freespeech.akamaized.net
+# 目标: IPTVOther
 freshtv.catcast.tv
+# 目标: IPTVOther
 frikanalen.no
+# 目标: IPTVOther
 frontdoor.wcat-tv.org
+# 目标: IPTVOther
 fs.live.sr.de
+# 目标: IPTVOther
 ft-ifood-roku.amagi.tv
+# 目标: IPTVOther
 ftp.orbita.dn.ua
+# 目标: IPTVOther
 ftp.tiscali.it
+# 目标: IPTVOther
 fueltv-fueltv-14-nl.samsung.wurl.com
+# 目标: IPTVOther
 fujitv1.mov3.co
+# 目标: IPTVOther
 futuretoday-afv-family-1-be.samsung.wurl.com
+# 目标: IPTVOther
 futuretoday-happykids-1-eu.rakuten.wurl.com
+# 目标: IPTVOther
 g5nl6xx5lpq6-hls-live.5centscdn.com
+# 目标: IPTVOther
 gannan.hfmt.net
+# 目标: IPTVOther
 gargoyle.tomkow.pl
+# 目标: IPTVOther
 gayotv.net
+# 目标: IPTVOther
 gcalic.v.myalicdn.com
+# 目标: IPTVOther
 gcbsc.v.live.baishancdnx.cn
+# 目标: IPTVOther
 gccncc.v.wscdns.com
+# 目标: IPTVOther
 gctxyc.liveplay.myqcloud.com
+# 目标: IPTVOther
 gddb.chinashadt.com
+# 目标: IPTVOther
 gemstv.wide-stream.net
+# 目标: IPTVOther
 gg.gg
+# 目标: IPTVOther
 ghaasiflu.online
+# 目标: IPTVOther
 glas.org.ua
+# 目标: IPTVOther
 glasdrine.cutuk.net
+# 目标: IPTVOther
 godsong.bs2dl.yy.com
+# 目标: IPTVOther
 gov.leominster.tv
+# 目标: IPTVOther
 granicusliveus1-a.akamaihd.net
+# 目标: IPTVOther
 granicusliveus12-a.akamaihd.net
+# 目标: IPTVOther
 granicusliveus2-a.akamaihd.net
+# 目标: IPTVOther
 granicusliveus3-a.akamaihd.net
+# 目标: IPTVOther
 granicusliveus4-a.akamaihd.net
+# 目标: IPTVOther
 granicusliveus6-a.akamaihd.net
+# 目标: IPTVOther
 granicusliveus8-a.akamaihd.net
+# 目标: IPTVOther
 granicusliveus9-a.akamaihd.net
+# 目标: IPTVOther
 gravitas-movies.sinclair.wurl.com
+# 目标: IPTVOther
 gslbmeiah.cdn.hk.chinamobile.com
+# 目标: IPTVOther
 gsn-gameshowchannnel-1.vizio.wurl.com
+# 目标: IPTVOther
 gstream4.panet.co.il
+# 目标: IPTVOther
 gtrkchita.ru
+# 目标: IPTVOther
 gtv.live.cdn.bitgravity.com
+# 目标: IPTVOther
 gustotv-samsung-au.samsung.wurl.com
+# 目标: IPTVOther
 gustotv-samsung-gb.samsung.wurl.com
+# 目标: IPTVOther
 gustotv-samsung-in.samsung.wurl.com
+# 目标: IPTVOther
 gxfrg007.8800.org
+# 目标: IPTVOther
 h6le2.babahhcdn.com
+# 目标: IPTVOther
 haiyan.liveyun.hoge.cn
+# 目标: IPTVOther
 hamada.gaki-no-tsukai.eu
+# 目标: IPTVOther
 happykidsjunior-vizio.amagi.tv
+# 目标: IPTVOther
 haunttv-roku.amagi.tv
+# 目标: IPTVOther
 hb2stream1.baoxinwen.com
+# 目标: IPTVOther
 hbbtvlive.v3.tvp.pl
+# 目标: IPTVOther
 hbbtvlive3.v3.tvp.pl
+# 目标: IPTVOther
 hbbz.chinashadt.com
+# 目标: IPTVOther
 hbdg.chinashadt.com
+# 目标: IPTVOther
 hbhh.chinashadt.com
+# 目标: IPTVOther
 hbjx.chinashadt.com
+# 目标: IPTVOther
 hblh.chinashadt.com
+# 目标: IPTVOther
 hblq.chinashadt.com
+# 目标: IPTVOther
 hblxx.chinashadt.com
+# 目标: IPTVOther
 hbpx.chinashadt.com
+# 目标: IPTVOther
 hbxx.chinashadt.com
+# 目标: IPTVOther
 hbzx.chinashadt.com
+# 目标: IPTVOther
 hd.chileservidores.cl
+# 目标: IPTVOther
 hd1.91kds.cn
+# 目标: IPTVOther
 hdserver.7starcloud.com
+# 目标: IPTVOther
 hebcx.chinashadt.com
+# 目标: IPTVOther
 hgwfkx5eb6j8bf3pd0c.exp.bcelive.com
+# 目标: IPTVOther
 hi.hi-back.masuk.web.id
+# 目标: IPTVOther
 highvolume04.streampartner.nl
+# 目标: IPTVOther
 hindiabp-lh.akamaihd.net
+# 目标: IPTVOther
 hithd.camsh.orsk.ru
+# 目标: IPTVOther
 hitmusic.hu
+# 目标: IPTVOther
 hls-eniseytv.cdnvideo.ru
+# 目标: IPTVOther
 hls-igi.cdnvideo.ru
+# 目标: IPTVOther
 hls-mycdn08724960135.cdnvideo.ru
+# 目标: IPTVOther
 hls-myudm.cdnvideo.ru
+# 目标: IPTVOther
 hls-ott-zhibo.wasu.tv
+# 目标: IPTVOther
 hls-rossp.cdnvideo.ru
+# 目标: IPTVOther
 hls-shansontv.cdnvideo.ru
+# 目标: IPTVOther
 hls-tvsoyuz.cdnvideo.ru
+# 目标: IPTVOther
 hls-video01.cdnvideo.ru
+# 目标: IPTVOther
 hls.brasilstream.com.br
+# 目标: IPTVOther
 hls.cdn.bg
+# 目标: IPTVOther
 hls.cdn.ua
+# 目标: IPTVOther
 hls.drochia.tv
+# 目标: IPTVOther
 hls.goodgame.ru
+# 目标: IPTVOther
 hls.hsrtv.cn
+# 目标: IPTVOther
 hls.jingchangkan.tv
+# 目标: IPTVOther
 hls.ksl.com
+# 目标: IPTVOther
 hls.mirtv.cdnvideo.ru
+# 目标: IPTVOther
 hls.nntv.cn
+# 目标: IPTVOther
 hls.pmchd.live
+# 目标: IPTVOther
 hls.protv.md
+# 目标: IPTVOther
 hls.rt.com
+# 目标: IPTVOther
 hls.shansontv.cdnvideo.ru
+# 目标: IPTVOther
 hls.simon.ua
+# 目标: IPTVOther
 hls.tmacaraibes.com
+# 目标: IPTVOther
 hls.tv.3angels.ru
+# 目标: IPTVOther
 hls.tvsoyuz.cdnvideo.ru
+# 目标: IPTVOther
 hls.voceabasarabiei.md
+# 目标: IPTVOther
 hls.volgograd1vtv.cdnvideo.ru
+# 目标: IPTVOther
 hls.weathertv.cn
+# 目标: IPTVOther
 hls.wiseqx.com
+# 目标: IPTVOther
 hls.yourtime.live
+# 目标: IPTVOther
 hls1.livestreamingcdn.com
+# 目标: IPTVOther
 hls1.wtnet.de
+# 目标: IPTVOther
 hlsdpi-cdn-chqtx02.totalstream.net
+# 目标: IPTVOther
 hlsliveamdgl0-lh.akamaihd.net
+# 目标: IPTVOther
 hlstv.canalextremadura.es
+# 目标: IPTVOther
 hlsv2.quklive.com
+# 目标: IPTVOther
 hms363nc1880172761.live.aikan.miguvideo.com
+# 目标: IPTVOther
 hncfree-samsung-uk.amagi.tv
+# 目标: IPTVOther
 hncfree-samsungau.amagi.tv
+# 目标: IPTVOther
 hncfree-vizio.amagi.tv
+# 目标: IPTVOther
 hndxrm1.8686c.com
+# 目标: IPTVOther
 hnsf.chinashadt.com
+# 目标: IPTVOther
 hnyz.chinashadt.com
+# 目标: IPTVOther
 hoabinhtvlive.746b3ddb.cdnviet.com
+# 目标: IPTVOther
 hollywire.samsung.wurl.com
+# 目标: IPTVOther
 host.onlineradyotv.net
+# 目标: IPTVOther
 host02.media-gather.jp
+# 目标: IPTVOther
 hrhls.akamaized.net
+# 目标: IPTVOther
 hse24.akamaized.net
+# 目标: IPTVOther
 hse24extra.akamaized.net
+# 目标: IPTVOther
 hse24trend.akamaized.net
+# 目标: IPTVOther
 hsn.samsung.wurl.com
+# 目标: IPTVOther
 hsplay-360.v.btime.com
+# 目标: IPTVOther
 httpcache0-00688-cacheliveedge0.dna.qbrick.com
+# 目标: IPTVOther
 httpcache0-03837-cachelive2.dna.qbrick.com
+# 目标: IPTVOther
 htvajyal.mada.ps
+# 目标: IPTVOther
 htvint.mada.ps
+# 目标: IPTVOther
 htvmada.mada.ps
+# 目标: IPTVOther
 htvpalsat.mada.ps
+# 目标: IPTVOther
 hvtrafico.ddns.net
+# 目标: IPTVOther
 hw-m-l.cztv.com
+# 目标: IPTVOther
 hwapi.yunshicloud.com
+# 目标: IPTVOther
 hwrr.jx.chinamobile.com
+# 目标: IPTVOther
 hwzbout.yunshicloud.com
+# 目标: IPTVOther
 hz1.teleport.cc
+# 目标: IPTVOther
 iamchannel.org
+# 目标: IPTVOther
 icable.cdn.utvhk.com
+# 目标: IPTVOther
 ign-plex.amagi.tv
+# 目标: IPTVOther
 ign-sportstribal.amagi.tv
+# 目标: IPTVOther
 ikomg2.s.llnwi.net
+# 目标: IPTVOther
 iliketot.dyndns.tv
+# 目标: IPTVOther
 img-edgesport.samsung.wurl.com
+# 目标: IPTVOther
 imob.dunyanews.tv
+# 目标: IPTVOther
 in.uaimacks.net.br
+# 目标: IPTVOther
 indiatodaylive.akamaized.net
+# 目标: IPTVOther
 infochh.trkeurasia.ru
+# 目标: IPTVOther
 infochhdcdn.trkeurasia.ru
+# 目标: IPTVOther
 inliveserver.com
+# 目标: IPTVOther
 inshort-samsungindia.amagi.tv
+# 目标: IPTVOther
 insighttv-samsung-canada.amagi.tv
+# 目标: IPTVOther
 insighttv-samsung-uk.amagi.tv
+# 目标: IPTVOther
 insighttv-samsungau.amagi.tv
+# 目标: IPTVOther
 inspnetworks-lh.akamaihd.net
+# 目标: IPTVOther
 introuble-rakuten.amagi.tv
+# 目标: IPTVOther
 introuble-samsung.amagi.tv
+# 目标: IPTVOther
 introuble-samsungau.amagi.tv
+# 目标: IPTVOther
 inwild-samsung-uk.amagi.tv
+# 目标: IPTVOther
 inwild-samsungau.amagi.tv
+# 目标: IPTVOther
 inwonder-samsung-canada.amagi.tv
+# 目标: IPTVOther
 inwonder-samsungau.amagi.tv
+# 目标: IPTVOther
 inwonder-tcl.amagi.tv
+# 目标: IPTVOther
 ion-ion-plus-1.vizio.wurl.com
+# 目标: IPTVOther
 ion-plus.samsung.wurl.com
+# 目标: IPTVOther
 ion-qubo-1.samsung.wurl.com
+# 目标: IPTVOther
 ion-qubo-1.vizio.wurl.com
+# 目标: IPTVOther
 ios-stream.qvc.de
+# 目标: IPTVOther
 ip.opoja.tv
+# 目标: IPTVOther
 ipm.oncast.me
+# 目标: IPTVOther
 iptv.52qdg.com
+# 目标: IPTVOther
 iptv.arianaafgtv.com
+# 目标: IPTVOther
 iptv.btpba1.es.network.do
+# 目标: IPTVOther
 iptv.mihantv.com
+# 目标: IPTVOther
 iptv.negahtv.com
+# 目标: IPTVOther
 iptv.perueduca.pe
+# 目标: IPTVOther
 iptv.rangarang.us
+# 目标: IPTVOther
 iptv.rtv-ooe.at
+# 目标: IPTVOther
 iptv.salaamtv.org
+# 目标: IPTVOther
 iptv.tapesh.tv
+# 目标: IPTVOther
 iptv1.privateiptv.club
+# 目标: IPTVOther
 iptvdom.my1.ru
+# 目标: IPTVOther
 iptvtree.net
+# 目标: IPTVOther
 isar-tv.iptv-playoutcenter.de
+# 目标: IPTVOther
 istream.binarywaves.com
+# 目标: IPTVOther
 itv.streams.ovh
+# 目标: IPTVOther
 j78dpa3edq5r-hls-live.5centscdn.com
+# 目标: IPTVOther
 janson-supersimplesongs-1.vizio.wurl.com
+# 目标: IPTVOther
 jiangjinlive.cbg.cn
+# 目标: IPTVOther
 jk3lz82elw79-hls-live.5centscdn.com
+# 目标: IPTVOther
 jmc-live.ercdn.net
+# 目标: IPTVOther
 johnnycarson-localnow.amagi.tv
+# 目标: IPTVOther
 jola.live
+# 目标: IPTVOther
 jpts.sinovision.net
+# 目标: IPTVOther
 jrtv-live.ercdn.net
+# 目标: IPTVOther
 js1.amtb.cn
+# 目标: IPTVOther
 jsbh.chinashadt.com
+# 目标: IPTVOther
 jsylivealone302.iqilu.com
+# 目标: IPTVOther
 judge-faith-1.vizio.wurl.com
+# 目标: IPTVOther
 jukin-weatherspy-1.vizio.wurl.com
+# 目标: IPTVOther
 jukin-weatherspy-2-ca.samsung.wurl.com
+# 目标: IPTVOther
 juyunlive.juyun.tv
+# 目标: IPTVOther
 jxgz1.jilu8.cn
+# 目标: IPTVOther
 jxyx.chinashadt.com
+# 目标: IPTVOther
 jxyz.chinashadt.com
+# 目标: IPTVOther
 jzlive.jztvnews.com
+# 目标: IPTVOther
 k3.usastreams.com
+# 目标: IPTVOther
 k4.usastreams.com
+# 目标: IPTVOther
 kaixianlive.cbg.cn
+# 目标: IPTVOther
 kanlivep2event-i.akamaihd.net
+# 目标: IPTVOther
 kbs-dokdo.gscdn.com
+# 目标: IPTVOther
 kcltv.livebox.co.in
+# 目标: IPTVOther
 keshethlslive-lh.akamaihd.net
+# 目标: IPTVOther
 kidoodletv-kdtv-3.vizio.wurl.com
+# 目标: IPTVOther
 klive-a.akamaihd.net
+# 目标: IPTVOther
 kntvlive-f.akamaihd.net
+# 目标: IPTVOther
 kontralive.siliconweb.com
+# 目标: IPTVOther
 kprf-htlive.cdn.ngenix.net
+# 目标: IPTVOther
 kurir-tv.haste-cdn.net
+# 目标: IPTVOther
 kuzeykibris.tv
+# 目标: IPTVOther
 l.cztvcloud.com
+# 目标: IPTVOther
 l3.cloudskep.com
+# 目标: IPTVOther
 l5.cloudskep.com
+# 目标: IPTVOther
 l8.cloudskep.com
+# 目标: IPTVOther
 la7-vh.akamaihd.net
+# 目标: IPTVOther
 lalegultv.netmedya.net
+# 目标: IPTVOther
 langate.tv
+# 目标: IPTVOther
 latele.vedge.infomaniak.com
+# 目标: IPTVOther
 lawandcrime.samsung.wurl.com
+# 目标: IPTVOther
 lb.streaming.sk
+# 目标: IPTVOther
 lb00zdigital.streamprolive.com
+# 目标: IPTVOther
 lbbf9.com
+# 目标: IPTVOther
 lci-hls-live-ssl.tf1.fr
+# 目标: IPTVOther
 lds-realfamilies-plex.amagi.tv
+# 目标: IPTVOther
 lds-realfamilies-samsunguau.amagi.tv
+# 目标: IPTVOther
 lds-realstories-plex.amagi.tv
+# 目标: IPTVOther
 lds-realstories-samsungau.amagi.tv
+# 目标: IPTVOther
 lds-timeline-plex.amagi.tv
+# 目标: IPTVOther
 lds-timeline-samsungau.amagi.tv
+# 目标: IPTVOther
 lds-wonder-samsungau.amagi.tv
+# 目标: IPTVOther
 legochannel-roku.amagi.tv
+# 目标: IPTVOther
 legochannel-vizio.amagi.tv
+# 目标: IPTVOther
 lifetv.bitflip.ee
+# 目标: IPTVOther
 lightning-tracesport-samsungau.amagi.tv
+# 目标: IPTVOther
 lightning-traceurban-samsungau.amagi.tv
+# 目标: IPTVOther
 limited09.todostreaming.es
+# 目标: IPTVOther
 limited11.todostreaming.es
+# 目标: IPTVOther
 limited12.todostreaming.es
+# 目标: IPTVOther
 limited2.todostreaming.es
+# 目标: IPTVOther
 limited31.todostreaming.es
+# 目标: IPTVOther
 limited35.todostreaming.es
+# 目标: IPTVOther
 limited38.todostreaming.es
+# 目标: IPTVOther
 linear-11.frequency.stream
+# 目标: IPTVOther
 linear-119.frequency.stream
+# 目标: IPTVOther
 linear-12.frequency.stream
+# 目标: IPTVOther
 linear-120.frequency.stream
+# 目标: IPTVOther
 linear-125.frequency.stream
+# 目标: IPTVOther
 linear-127.frequency.stream
+# 目标: IPTVOther
 linear-128.frequency.stream
+# 目标: IPTVOther
 linear-133.frequency.stream
+# 目标: IPTVOther
 linear-134.frequency.stream
+# 目标: IPTVOther
 linear-135.frequency.stream
+# 目标: IPTVOther
 linear-136.frequency.stream
+# 目标: IPTVOther
 linear-137.frequency.stream
+# 目标: IPTVOther
 linear-141.frequency.stream
+# 目标: IPTVOther
 linear-143.frequency.stream
+# 目标: IPTVOther
 linear-144.frequency.stream
+# 目标: IPTVOther
 linear-145.frequency.stream
+# 目标: IPTVOther
 linear-152.frequency.stream
+# 目标: IPTVOther
 linear-153.frequency.stream
+# 目标: IPTVOther
 linear-154.frequency.stream
+# 目标: IPTVOther
 linear-163.frequency.stream
+# 目标: IPTVOther
 linear-165.frequency.stream
+# 目标: IPTVOther
 linear-167.frequency.stream
+# 目标: IPTVOther
 linear-168.frequency.stream
+# 目标: IPTVOther
 linear-169.frequency.stream
+# 目标: IPTVOther
 linear-170.frequency.stream
+# 目标: IPTVOther
 linear-171.frequency.stream
+# 目标: IPTVOther
 linear-172.frequency.stream
+# 目标: IPTVOther
 linear-182.frequency.stream
+# 目标: IPTVOther
 linear-201.frequency.stream
+# 目标: IPTVOther
 linear-202.frequency.stream
+# 目标: IPTVOther
 linear-203.frequency.stream
+# 目标: IPTVOther
 linear-204.frequency.stream
+# 目标: IPTVOther
 linear-207.frequency.stream
+# 目标: IPTVOther
 linear-208.frequency.stream
+# 目标: IPTVOther
 linear-209.frequency.stream
+# 目标: IPTVOther
 linear-210.frequency.stream
+# 目标: IPTVOther
 linear-211.frequency.stream
+# 目标: IPTVOther
 linear-214.frequency.stream
+# 目标: IPTVOther
 linear-218.frequency.stream
+# 目标: IPTVOther
 linear-44.frequency.stream
+# 目标: IPTVOther
 linear-46.frequency.stream
+# 目标: IPTVOther
 linear-59.frequency.stream
+# 目标: IPTVOther
 linear-64.frequency.stream
+# 目标: IPTVOther
 linear-68.frequency.stream
+# 目标: IPTVOther
 linear-73.frequency.stream
+# 目标: IPTVOther
 linear-80.frequency.stream
+# 目标: IPTVOther
 linear-81.frequency.stream
+# 目标: IPTVOther
 linear-82.frequency.stream
+# 目标: IPTVOther
 linear-86.frequency.stream
+# 目标: IPTVOther
 linear-88.frequency.stream
+# 目标: IPTVOther
 linear-89.frequency.stream
+# 目标: IPTVOther
 linear-90.frequency.stream
+# 目标: IPTVOther
 link.frontlayer.com
+# 目标: IPTVOther
 live-1.linuxway.info
+# 目标: IPTVOther
 live-1.otcnet.ru
+# 目标: IPTVOther
 live-24kz.cdnvideo.ru
+# 目标: IPTVOther
 live-350k.streamingfast.net
+# 目标: IPTVOther
 live-almatytv.cdnvideo.ru
+# 目标: IPTVOther
 live-anandtv.anandmedia.net
+# 目标: IPTVOther
 live-atameken.cdnvideo.ru
+# 目标: IPTVOther
 live-cdn.gxxw.com
+# 目标: IPTVOther
 live-cdn.xzxwhcb.com
+# 目标: IPTVOther
 live-dft-hls-yf.jstv.com
+# 目标: IPTVOther
 live-echotv.cdnvideo.ru
+# 目标: IPTVOther
 live-edge-bhs-1.cdn.enetres.net
+# 目标: IPTVOther
 live-edge01.telecentro.net.ar
+# 目标: IPTVOther
 live-hls-web-aja.getaj.net
+# 目标: IPTVOther
 live-hls-web-aje.getaj.net
+# 目标: IPTVOther
 live-indiatvnews.akamaized.net
+# 目标: IPTVOther
 live-k2301-kbp.1plus1.video
+# 目标: IPTVOther
 live-k2302-kbp.1plus1.video
+# 目标: IPTVOther
 live-k2309-kbp.1plus1.video
+# 目标: IPTVOther
 live-krtv.cdnvideo.ru
+# 目标: IPTVOther
 live-minidey.cdnvideo.ru
+# 目标: IPTVOther
 live-mordovia24.cdnvideo.ru
+# 目标: IPTVOther
 live-nikatv.cdnvideo.ru
+# 目标: IPTVOther
 live-ntm13.cdnvideo.ru
+# 目标: IPTVOther
 live-ratnik.cdnvideo.ru
+# 目标: IPTVOther
 live-rostovpapa.cdnvideo.ru
+# 目标: IPTVOther
 live-rtmp.lotustv.duolaibo.cn
+# 目标: IPTVOther
 live-saha.cdnvideo.ru
+# 目标: IPTVOther
 live-trc33.cdnvideo.ru
+# 目标: IPTVOther
 live-trknadym.cdnvideo.ru
+# 目标: IPTVOther
 live-tvhope.cdnvideo.ru
+# 目标: IPTVOther
 live-tvr24.cdnvideo.ru
+# 目标: IPTVOther
 live-uchalytv.cdnvideo.ru
+# 目标: IPTVOther
 live-uvelirochka.cdnvideo.ru
+# 目标: IPTVOther
 live-vestinn.cdnvideo.ru
+# 目标: IPTVOther
 live-vrt.akamaized.net
+# 目标: IPTVOther
 live.0561rtv.cn
+# 目标: IPTVOther
 live.0793.tv
+# 目标: IPTVOther
 live.826pc.com
+# 目标: IPTVOther
 live.admefy.com
+# 目标: IPTVOther
 live.agmediachandigarh.com
+# 目标: IPTVOther
 live.ahsz.tv
+# 目标: IPTVOther
 live.al-zahratv.com
+# 目标: IPTVOther
 live.albavision.net
+# 目标: IPTVOther
 live.alittihad.tv
+# 目标: IPTVOther
 live.alsace20.fr
+# 目标: IPTVOther
 live.apollon.tv
+# 目标: IPTVOther
 live.apostoltv.hu
+# 目标: IPTVOther
 live.appwuhan.com
+# 目标: IPTVOther
 live.arkumedia.com
+# 目标: IPTVOther
 live.atameken.cdnvideo.ru
+# 目标: IPTVOther
 live.azstartv.com
+# 目标: IPTVOther
 live.beitolabbas.tv
+# 目标: IPTVOther
 live.btgdt.com
+# 目标: IPTVOther
 live.cast-control.eu
+# 目标: IPTVOther
 live.cdn.upx.com
+# 目标: IPTVOther
 live.cgtn.com
+# 目标: IPTVOther
 live.chdrstatic.com
+# 目标: IPTVOther
 live.china-latv.com
+# 目标: IPTVOther
 live.chosun.gscdn.com
+# 目标: IPTVOther
 live.ciguang.tv
+# 目标: IPTVOther
 live.corusdigitaldev.com
+# 目标: IPTVOther
 live.creacast.com
+# 目标: IPTVOther
 live.cretetv.gr
+# 目标: IPTVOther
 live.dxhmt.cn
+# 目标: IPTVOther
 live.ezotv.pl
+# 目标: IPTVOther
 live.funhillrm.com
+# 目标: IPTVOther
 live.geermurmt.com
+# 目标: IPTVOther
 live.gtrk.tv
+# 目标: IPTVOther
 live.guberniatv.cdnvideo.ru
+# 目标: IPTVOther
 live.hastitv.com
+# 目标: IPTVOther
 live.hd.hdbs.cn
+# 目标: IPTVOther
 live.hnxttv.com
+# 目标: IPTVOther
 live.hnzzzzzdst.com
+# 目标: IPTVOther
 live.hoolo.tv
+# 目标: IPTVOther
 live.ilinyi.net
+# 目标: IPTVOther
 live.imamhossaintv.com
+# 目标: IPTVOther
 live.impresa.pt
+# 目标: IPTVOther
 live.jagobd.com
+# 目标: IPTVOther
 live.jintv.org
+# 目标: IPTVOther
 live.jmtv.com.cn
+# 目标: IPTVOther
 live.kanaknews.com
+# 目标: IPTVOther
 live.kanal7.com
+# 目标: IPTVOther
 live.kanshitv.co.uk
+# 目标: IPTVOther
 live.katun24.ru
+# 目标: IPTVOther
 live.lachainenormande.fr
+# 目标: IPTVOther
 live.latinosnc.tv
+# 目标: IPTVOther
 live.livestreamtv.ca
+# 目标: IPTVOther
 live.livevideosolution.it
+# 目标: IPTVOther
 live.lpszstv.com
+# 目标: IPTVOther
 live.lyg1.com
+# 目标: IPTVOther
 live.lytv.net.cn
+# 目标: IPTVOther
 live.m2.tv
+# 目标: IPTVOther
 live.mariatvcdn.com
+# 目标: IPTVOther
 live.mastvnet.com
+# 目标: IPTVOther
 live.matele.be
+# 目标: IPTVOther
 live.mediacdn.ru
+# 目标: IPTVOther
 live.mediaforall.net
+# 目标: IPTVOther
 live.mudu.tv
+# 目标: IPTVOther
 live.nbs.cn
+# 目标: IPTVOther
 live.nddst.com
+# 目标: IPTVOther
 live.neatv.gr
+# 目标: IPTVOther
 live.neestream.com
+# 目标: IPTVOther
 live.netd.com.tr
+# 目标: IPTVOther
 live.netmaxtv.com
+# 目标: IPTVOther
 live.noroc.tv
+# 目标: IPTVOther
 live.ntdimg.com
+# 目标: IPTVOther
 live.palitranews.ge
+# 目标: IPTVOther
 live.pars-israel.com
+# 目标: IPTVOther
 live.prd.go.th
+# 目标: IPTVOther
 live.presstv.ir
+# 目标: IPTVOther
 live.ptv.com.pk
+# 目标: IPTVOther
 live.pybtv.cn
+# 目标: IPTVOther
 live.qvcde.simplestreamcdn.com
+# 目标: IPTVOther
 live.qvcuk.simplestreamcdn.com
+# 目标: IPTVOther
 live.qxndt.com
+# 目标: IPTVOther
 live.rdxmt.com
+# 目标: IPTVOther
 live.realitatea.net
+# 目标: IPTVOther
 live.rednet.rs
+# 目标: IPTVOther
 live.redtraffic.net
+# 目标: IPTVOther
 live.redtraffic.xyz
+# 目标: IPTVOther
 live.rudana.com.ua
+# 目标: IPTVOther
 live.salto.nl
+# 目标: IPTVOther
 live.scbtv.cn
+# 目标: IPTVOther
 live.sctvcloud.com
+# 目标: IPTVOther
 live.sgdf24.cdnvideo.ru
+# 目标: IPTVOther
 live.shaoxing.com.cn
+# 目标: IPTVOther
 live.sjsrm.com
+# 目标: IPTVOther
 live.sloode.com
+# 目标: IPTVOther
 live.stranafm.cdnvideo.ru
+# 目标: IPTVOther
 live.stream.cdn.pamirtv.com
+# 目标: IPTVOther
 live.streamingfast.net
+# 目标: IPTVOther
 live.streams.ovh
+# 目标: IPTVOther
 live.syri.tv
+# 目标: IPTVOther
 live.tamilvision.tv
+# 目标: IPTVOther
 live.teledom.info
+# 目标: IPTVOther
 live.teleliguriasud.it
+# 目标: IPTVOther
 live.thairath.co.th
+# 目标: IPTVOther
 live.thaqalayn.tv
+# 目标: IPTVOther
 live.tkr.cdnvideo.ru
+# 目标: IPTVOther
 live.topestrada.com
+# 目标: IPTVOther
 live.trk-luch.ru
+# 目标: IPTVOther
 live.trkmillet.ru
+# 目标: IPTVOther
 live.tv2bornholm.dk
+# 目标: IPTVOther
 live.tvlux.sk
+# 目标: IPTVOther
 live.ugratv.cdnvideo.ru
+# 目标: IPTVOther
 live.video.globo.com
+# 目标: IPTVOther
 live.wifizs.cn
+# 目标: IPTVOther
 live.wjyanghu.com
+# 目标: IPTVOther
 live.wmncdn.net
+# 目标: IPTVOther
 live.worktv.or.kr
+# 目标: IPTVOther
 live.wzqmt.com
+# 目标: IPTVOther
 live.xmcdn.com
+# 目标: IPTVOther
 live.xtgdw.cn
+# 目标: IPTVOther
 live.ybtvyun.com
+# 目标: IPTVOther
 live.yjtvw.com
+# 目标: IPTVOther
 live.ynurl.com
+# 目标: IPTVOther
 live.zjmc.tv
+# 目标: IPTVOther
 live.zohi.tv
+# 目标: IPTVOther
 live1.cloud.nbtv.cn
+# 目标: IPTVOther
 live1.hrtonline.cn
+# 目标: IPTVOther
 live1.krttv.com.tr
+# 目标: IPTVOther
 live1.lytv.com.cn
+# 目标: IPTVOther
 live1.markenfunk.com
+# 目标: IPTVOther
 live1.presstv.ir
+# 目标: IPTVOther
 live1.sxrtv.com
+# 目标: IPTVOther
 live1.wuhubtv.com
+# 目标: IPTVOther
 live2-radio-mediaset-it.akamaized.net
+# 目标: IPTVOther
 live2.canaloncelive.tv
+# 目标: IPTVOther
 live2.hzitv.cn
+# 目标: IPTVOther
 live2.mediacdn.ru
+# 目标: IPTVOther
 live2.ntdimg.com
+# 目标: IPTVOther
 live2.parnian.tv
+# 目标: IPTVOther
 live2.plus.hebtv.com
+# 目标: IPTVOther
 live2.sxrtv.com
+# 目标: IPTVOther
 live2.telvi.de
+# 目标: IPTVOther
 live3-radio-mediaset-it.akamaized.net
+# 目标: IPTVOther
 live3.plus.hebtv.com
+# 目标: IPTVOther
 live3.sxrtv.com
+# 目标: IPTVOther
 live5.plus.hebtv.com
+# 目标: IPTVOther
 live6.plus.hebtv.com
+# 目标: IPTVOther
 live7.plus.hebtv.com
+# 目标: IPTVOther
 liveali.ifeng.com
+# 目标: IPTVOther
 livealone302.iqilu.com
+# 目标: IPTVOther
 liveanevia.mncnow.id
+# 目标: IPTVOther
 livear.cgtn.com
+# 目标: IPTVOther
 livebeta.publika.md
+# 目标: IPTVOther
 livecdn.fptplay.net
+# 目标: IPTVOther
 livecdn1.news.cn
+# 目标: IPTVOther
 livecdnh1.tvanywhere.ae
+# 目标: IPTVOther
 livedoc.cgtn.com
+# 目标: IPTVOther
 livees.cgtn.com
+# 目标: IPTVOther
 livefa.marjaeyattv.com
+# 目标: IPTVOther
 livefta.malimarcdn.com
+# 目标: IPTVOther
 livehdkto-lh.akamaihd.net
+# 目标: IPTVOther
 livehuiz.chinamcache.com
+# 目标: IPTVOther
 livehyw.sobeycache.com
+# 目标: IPTVOther
 liveko24-manminglobal3.ktcdn.co.kr
+# 目标: IPTVOther
 livelist01.yowi.tv
+# 目标: IPTVOther
 livem.gsshop.com
+# 目标: IPTVOther
 liveorigin01.hbogoasia.com
+# 目标: IPTVOther
 liveprodapnortheast.akamaized.net
+# 目标: IPTVOther
 liveprodeuwest.akamaized.net
+# 目标: IPTVOther
 liveproduseast.akamaized.net
+# 目标: IPTVOther
 liveprodusphoenixeast.akamaized.net
+# 目标: IPTVOther
 liveru.cgtn.com
+# 目标: IPTVOther
 lives.jnnews.tv
+# 目标: IPTVOther
 lives.myun.tv
+# 目标: IPTVOther
 livesd2.vedge.infomaniak.com
+# 目标: IPTVOther
 livesec.mudu.tv
+# 目标: IPTVOther
 livestream.5centscdn.com
+# 目标: IPTVOther
 livestream.gruppocdt.ch
+# 目标: IPTVOther
 livestream.palitra.ge
+# 目标: IPTVOther
 livestream.pbskids.org
+# 目标: IPTVOther
 livestream.tvvalkenburg.tv
+# 目标: IPTVOther
 livestreamcdn.net
+# 目标: IPTVOther
 livestreaming.videolina.it
+# 目标: IPTVOther
 livestreaming5.onlinehorizons.net
+# 目标: IPTVOther
 livestreams.br.de
+# 目标: IPTVOther
 livetv.powerapp.com.tr
+# 目标: IPTVOther
 livetvsteam.com
+# 目标: IPTVOther
 livevideo.infomaniak.com
+# 目标: IPTVOther
 lonestar-rakuten.amagi.tv
+# 目标: IPTVOther
 loop-90s-1.roku.wurl.com
+# 目标: IPTVOther
 loop-country-1.roku.wurl.com
+# 目标: IPTVOther
 loop-hip-hop-1.roku.wurl.com
+# 目标: IPTVOther
 loop-hottest-1.roku.wurl.com
+# 目标: IPTVOther
 loop-party-1.roku.wurl.com
+# 目标: IPTVOther
 lova.me
+# 目标: IPTVOther
 loveworldusa-lh.akamaihd.net
+# 目标: IPTVOther
 ls.qingting.fm
+# 目标: IPTVOther
 ls1.serverdump.com
+# 目标: IPTVOther
 lsqvc1uscln-lh.akamaihd.net
+# 目标: IPTVOther
 lsqvc2us-lh.akamaihd.net
+# 目标: IPTVOther
 lsqvc3us-lh.akamaihd.net
+# 目标: IPTVOther
 lsqvc4us-lh.akamaihd.net
+# 目标: IPTVOther
 lxlive-lh.akamaihd.net
+# 目标: IPTVOther
 lzlive.vojs.cn
+# 目标: IPTVOther
 m-1.data.lt
+# 目标: IPTVOther
 m.567it.com
+# 目标: IPTVOther
 m2otv-lh.akamaihd.net
+# 目标: IPTVOther
 m3u8.34cdn.com
+# 目标: IPTVOther
 m3u8.41cdn.com
+# 目标: IPTVOther
 m3u8.46cdn.com
+# 目标: IPTVOther
 m3u8.48cdn.com
+# 目标: IPTVOther
 m3u8.channel.ganzitv.com
+# 目标: IPTVOther
 m3u8.channel.wsrtv.com.cn
+# 目标: IPTVOther
 m3u8.channel.yatv.tv
+# 目标: IPTVOther
 m3u8.channellive.dzxw.net
+# 目标: IPTVOther
 ma.anixa.tv
+# 目标: IPTVOther
 madnitv.vdn.dstreamone.net
+# 目标: IPTVOther
 magselect-stirr.amagi.tv
+# 目标: IPTVOther
 makkahtv.srfms.com
+# 目标: IPTVOther
 manar.live
+# 目标: IPTVOther
 master.starmena-cloud.com
+# 目标: IPTVOther
 master.tucableip.com
+# 目标: IPTVOther
 maverick-maverick-black-cinema-2.vizio.wurl.com
+# 目标: IPTVOther
 mavtv-1.vizio.wurl.com
+# 目标: IPTVOther
 mavtv-mavtvglobal-1-eu.rakuten.wurl.com
+# 目标: IPTVOther
 mbnhls-lh.akamaihd.net
+# 目标: IPTVOther
 mbningestworld-i.akamaihd.net
+# 目标: IPTVOther
 mbnowweb-lh.akamaihd.net
+# 目标: IPTVOther
 mbnvvideoingest-i.akamaihd.net
+# 目标: IPTVOther
 mdslivehlsb-i.akamaihd.net
+# 目标: IPTVOther
 mdstrm.com
+# 目标: IPTVOther
 mecliscanlitv-lh.akamaihd.net
+# 目标: IPTVOther
 media.7starcloud.com
+# 目标: IPTVOther
 media.az-mediaserver.com
+# 目标: IPTVOther
 media.bbrtv.com
+# 目标: IPTVOther
 media.fantv.hk
+# 目标: IPTVOther
 media.finest.tv
+# 目标: IPTVOther
 media.islamexplained.com
+# 目标: IPTVOther
 media.joycorp.co.kr
+# 目标: IPTVOther
 media.mohabat.tv
+# 目标: IPTVOther
 media.netd.com.tr
+# 目标: IPTVOther
 media.neuquen.gov.ar
+# 目标: IPTVOther
 media.rtvutrecht.nl
+# 目标: IPTVOther
 media.smc-host.com
+# 目标: IPTVOther
 media.streambrothers.com
+# 目标: IPTVOther
 media.trrtv.com
+# 目标: IPTVOther
 media.vtibet.com
+# 目标: IPTVOther
 media02.webtvlive.eu
+# 目标: IPTVOther
 media1.adventist.no
+# 目标: IPTVOther
 media1.livaat.com
+# 目标: IPTVOther
 media1.tvnatura.cz
+# 目标: IPTVOther
 media2.cdnlayer.biz
+# 目标: IPTVOther
 media2.livaat.com
+# 目标: IPTVOther
 media3.sinovision.net
+# 目标: IPTVOther
 media3.smc-host.com
+# 目标: IPTVOther
 media6.smc-host.com
+# 目标: IPTVOther
 mediacdn.rtvoost.nl
+# 目标: IPTVOther
 mediacp.hostradios.com.ar
+# 目标: IPTVOther
 mediapolis.rai.it
+# 目标: IPTVOther
 mediapolisevent.rai.it
+# 目标: IPTVOther
 medias.sgr.globo.com
+# 目标: IPTVOther
 mediaspar-live.hls.adaptive.level3.net
+# 目标: IPTVOther
 mediastreamm.com
+# 目标: IPTVOther
 mediaworks-i.akamaihd.net
+# 目标: IPTVOther
 mediaworks.dema.mil.kr
+# 目标: IPTVOther
 megastreamm.com
+# 目标: IPTVOther
 melb3awvid-lh.akamaihd.net
+# 目标: IPTVOther
 mellitv.tulix.tv
+# 目标: IPTVOther
 mgugaklive.nowcdn.co.kr
+# 目标: IPTVOther
 mi1.wz.tv2000.it
+# 目标: IPTVOther
 mirtv.club
+# 目标: IPTVOther
 mlive.lahorenews.tv
+# 目标: IPTVOther
 mmm-ducktv-2-it.samsung.wurl.com
+# 目标: IPTVOther
 mms.ldntv.cn
+# 目标: IPTVOther
 mn-nl.mncdn.com
+# 目标: IPTVOther
 mntv.livebox.co.in
+# 目标: IPTVOther
 mobile.ccdntech.com
+# 目标: IPTVOther
 moiptvhls-i.akamaihd.net
+# 目标: IPTVOther
 morningside-lh.akamaihd.net
+# 目标: IPTVOther
 movie.mcas.jp
+# 目标: IPTVOther
 moviemix.samsung.wurl.com
+# 目标: IPTVOther
 moviesphere-plex.amagi.tv
+# 目标: IPTVOther
 moviesphere-roku.amagi.tv
+# 目标: IPTVOther
 moviesphereuk-samsunguk.amagi.tv
+# 目标: IPTVOther
 movil.ejeserver.com
+# 目标: IPTVOther
 mr2live.1tvcrimea.ru
+# 目标: IPTVOther
 mrlive.1tvcrimea.ru
+# 目标: IPTVOther
 ms003.happytv.com.tw
+# 目标: IPTVOther
 ms2.mx-cd.net
+# 目标: IPTVOther
 ms3.yichuntv.com
+# 目标: IPTVOther
 ms7.mx-cd.net
+# 目标: IPTVOther
 msk3.peers.tv
+# 目标: IPTVOther
 msl.tvbayoplus.com
+# 目标: IPTVOther
 mst3k-localnow.amagi.tv
+# 目标: IPTVOther
 mst3k-redbox.amagi.tv
+# 目标: IPTVOther
 mtulqxgomrllive.mediatriple.net
+# 目标: IPTVOther
 mtxstr001.matrixdata.nl
+# 目标: IPTVOther
 muenchentv.iptv-playoutcenter.de
+# 目标: IPTVOther
 mv2.tvfrancophonie.org
+# 目标: IPTVOther
 mytime-tcl.amagi.tv
+# 目标: IPTVOther
 myun-hw-s3.myun.tv
+# 目标: IPTVOther
 n1.klowdtv.net
+# 目标: IPTVOther
 n1.slavmir.tv
+# 目标: IPTVOther
 n24-cdn-live.ntv.co.jp
+# 目标: IPTVOther
 na-all15.secdn.net
+# 目标: IPTVOther
 nadiya.home-net.com.ua
+# 目标: IPTVOther
 namdhari.tv
+# 目标: IPTVOther
 nanchuanlive.cbg.cn
+# 目标: IPTVOther
 nano.teleservice.su
+# 目标: IPTVOther
 natv.cnjrna.com
+# 目标: IPTVOther
 nbcnews-lh.akamaihd.net
+# 目标: IPTVOther
 nbcnews2.akamaized.net
+# 目标: IPTVOther
 nbcnewshls-i.akamaihd.net
+# 目标: IPTVOther
 nbcnewshls.akamaized.net
+# 目标: IPTVOther
 ndrevent-lh.akamaihd.net
+# 目标: IPTVOther
 ndrfs-lh.akamaihd.net
+# 目标: IPTVOther
 ndtv24x7elemarchana.akamaized.net
+# 目标: IPTVOther
 ndtvindiaelemarchana.akamaized.net
+# 目标: IPTVOther
 ndtvprofitelemarchana.akamaized.net
+# 目标: IPTVOther
 necgokr2-724.acs.wecandeo.com
+# 目标: IPTVOther
 netstreaming.eu
+# 目标: IPTVOther
 nettvpro.live
+# 目标: IPTVOther
 nettvstreampaid.flashmediacast.com
+# 目标: IPTVOther
 newcntv.qcloudcdn.com
+# 目标: IPTVOther
 news.ashttp9.visionip.tv
+# 目标: IPTVOther
 news.cgtn.com
+# 目标: IPTVOther
 news1.live14.com
+# 目标: IPTVOther
 news18assam-lh.akamaihd.net
+# 目标: IPTVOther
 news18bangla-lh.akamaihd.net
+# 目标: IPTVOther
 news18bihar-lh.akamaihd.net
+# 目标: IPTVOther
 news18gujarati-lh.akamaihd.net
+# 目标: IPTVOther
 news18haryana-lh.akamaihd.net
+# 目标: IPTVOther
 news18india-lh.akamaihd.net
+# 目标: IPTVOther
 news18kannada-lh.akamaihd.net
+# 目标: IPTVOther
 news18kerala-lh.akamaihd.net
+# 目标: IPTVOther
 news18lokmat-lh.akamaihd.net
+# 目标: IPTVOther
 news18mp-lh.akamaihd.net
+# 目标: IPTVOther
 news18rajasthan-lh.akamaihd.net
+# 目标: IPTVOther
 news18tamil-lh.akamaihd.net
+# 目标: IPTVOther
 news18up-lh.akamaihd.net
+# 目标: IPTVOther
 news18urdu-lh.akamaihd.net
+# 目标: IPTVOther
 newsjatt.camdvr.org
+# 目标: IPTVOther
 newyorkstream.ddns.net
+# 目标: IPTVOther
 ngcdn001.cnr.cn
+# 目标: IPTVOther
 ngcdn002.cnr.cn
+# 目标: IPTVOther
 ngcdn003.cnr.cn
+# 目标: IPTVOther
 ngcdn004.cnr.cn
+# 目标: IPTVOther
 ngcdn005.cnr.cn
+# 目标: IPTVOther
 ngcdn006.cnr.cn
+# 目标: IPTVOther
 ngcdn007.cnr.cn
+# 目标: IPTVOther
 ngcdn008.cnr.cn
+# 目标: IPTVOther
 ngcdn010.cnr.cn
+# 目标: IPTVOther
 ngcdn011.cnr.cn
+# 目标: IPTVOther
 ngcdn012.cnr.cn
+# 目标: IPTVOther
 ngcdn013.cnr.cn
+# 目标: IPTVOther
 ngcdn014.cnr.cn
+# 目标: IPTVOther
 ngcdn016.cnr.cn
+# 目标: IPTVOther
 ngcdn017.cnr.cn
+# 目标: IPTVOther
 ngcdn025.cnr.cn
+# 目标: IPTVOther
 nhk1.mov3.co
+# 目标: IPTVOther
 nhkw-zh-hlscomp.akamaized.net
+# 目标: IPTVOther
 nhkwlive-ojp.akamaized.net
+# 目标: IPTVOther
 nhkwlive-ojp.webcdn.stream.ne.jp
+# 目标: IPTVOther
 nhkwlive-xjp.akamaized.net
+# 目标: IPTVOther
 nhkworld.webcdn.stream.ne.jp
+# 目标: IPTVOther
 nicls1-lh.akamaihd.net
+# 目标: IPTVOther
 njzb.scnj.tv
+# 目标: IPTVOther
 nlive.zjkgdcs.com
+# 目标: IPTVOther
 nmxlive.akamaized.net
+# 目标: IPTVOther
 nosey-realnosey-1.vizio.wurl.com
+# 目标: IPTVOther
 novapress.ro
+# 目标: IPTVOther
 ns8.indexforce.com
+# 目标: IPTVOther
 ntv-hls-orig.cdnvideo.ru
+# 目标: IPTVOther
 ntv-st01-vod01-bts10-stage.orange.sk
+# 目标: IPTVOther
 ntv1.akamaized.net
+# 目标: IPTVOther
 ntv1.mov3.co
+# 目标: IPTVOther
 ntv2.akamaized.net
+# 目标: IPTVOther
 ntvlivehls-lh.akamaihd.net
+# 目标: IPTVOther
 nws.nice264.com
+# 目标: IPTVOther
 oberpfalztv.iptv-playoutcenter.de
+# 目标: IPTVOther
 ocb-lh.akamaihd.net
+# 目标: IPTVOther
 ocj2.kksmg.com
+# 目标: IPTVOther
 ocko-live-dash.ssl.cdn.cra.cz
+# 目标: IPTVOther
 ocko-live.ssl.cdn.cra.cz
+# 目标: IPTVOther
 odiehls-i.akamaihd.net
+# 目标: IPTVOther
 og2qd3aal7an-hls-live.5centscdn.com
+# 目标: IPTVOther
 oj7lng29dg82-hls-live.5centscdn.com
+# 目标: IPTVOther
 oneamericanews-roku-us.amagi.tv
+# 目标: IPTVOther
 online-video.rbc.ru
+# 目标: IPTVOther
 online.tvm.co.mz
+# 目标: IPTVOther
 online.video.rbc.ru
+# 目标: IPTVOther
 onlinetv.ktrk.kg
+# 目标: IPTVOther
 onntv.vantrix.tv
+# 目标: IPTVOther
 ooyalahd2-f.akamaihd.net
+# 目标: IPTVOther
 open-cdn.lanet.tv
+# 目标: IPTVOther
 origin-http-delivery.isilive.ca
+# 目标: IPTVOther
 ott-linear-channels.stingray.com
+# 目标: IPTVOther
 ott.inmart.tv
+# 目标: IPTVOther
 ott.mobcrush.com
+# 目标: IPTVOther
 ott.streann.com
+# 目标: IPTVOther
 ott.watch
+# 目标: IPTVOther
 ottproxy2.mott.tv
+# 目标: IPTVOther
 otv3.ocfl.net
+# 目标: IPTVOther
 outdoorchannel-samsungau.amagi.tv
+# 目标: IPTVOther
 outside-tv-samsung-ca.samsung.wurl.com
+# 目标: IPTVOther
 outside-tv.samsung.wurl.com
+# 目标: IPTVOther
 outsidetvplus-xumo.amagi.tv
+# 目标: IPTVOther
 p1.worldkast.com
+# 目标: IPTVOther
 p2.weizan.cn
+# 目标: IPTVOther
 p3-6.mov.at
+# 目标: IPTVOther
 pac12-redbox.amagi.tv
+# 目标: IPTVOther
 pac12-roku-us.amagi.tv
+# 目标: IPTVOther
 pac12-samsungus.amagi.tv
+# 目标: IPTVOther
 pac12-sportstribal.amagi.tv
+# 目标: IPTVOther
 painelvj.com.br
+# 目标: IPTVOther
 palestiniantv.origin.technostreaming.net
+# 目标: IPTVOther
 palive.patv123.com
+# 目标: IPTVOther
 panel.dattalive.com
+# 目标: IPTVOther
 panel.streamingtv-mediacp.online
+# 目标: IPTVOther
 panel.streamparis.fr
+# 目标: IPTVOther
 parh.rtrs.tv
+# 目标: IPTVOther
 partne.cdn.mangomolo.com
+# 目标: IPTVOther
 partwo.cdn.mangomolo.com
+# 目标: IPTVOther
 pbs-samsunguk.amagi.tv
+# 目标: IPTVOther
 pengshuilive.cbg.cn
+# 目标: IPTVOther
 peopletv-oo.akamaized.net
+# 目标: IPTVOther
 peqk71plnjy.a.trbcdn.net
+# 目标: IPTVOther
 pershij-dlovij-hls1.cosmonova.net.ua
+# 目标: IPTVOther
 pershij-dlovij-hls3.cosmonova.net.ua
+# 目标: IPTVOther
 persik.by
+# 目标: IPTVOther
 pili-live-hdl.qhmywl.com
+# 目标: IPTVOther
 pili-live-hls.140.i2863.com
+# 目标: IPTVOther
 pili-live-hls.gxyl2.tianma3600.com
+# 目标: IPTVOther
 pili-live-hls.hebitv.com
+# 目标: IPTVOther
 pili-live-rtmp.tvliving.gdmztv.com
+# 目标: IPTVOther
 pili-live-rtmp.wdit.com.cn
+# 目标: IPTVOther
 pilotfm.ru
+# 目标: IPTVOther
 play-live.ifeng.com
+# 目标: IPTVOther
 play.amelbasoluciones.co
+# 目标: IPTVOther
 play.cdn.enetres.net
+# 目标: IPTVOther
 play.streamkit.tv
+# 目标: IPTVOther
 playbackn5.aotg-video.astro.com.my
+# 目标: IPTVOther
 player.200877926.top
+# 目标: IPTVOther
 player.internetaovivo.com
+# 目标: IPTVOther
 player.tvnet.lv
+# 目标: IPTVOther
 playerssl.telemia.tv
+# 目标: IPTVOther
 playerstv-samsungca.amagi.tv
+# 目标: IPTVOther
 playout4multirtmp.tulix.tv
+# 目标: IPTVOther
 playplusmao-lh.akamaihd.net
+# 目标: IPTVOther
 playtv-live.ifeng.com
+# 目标: IPTVOther
 playworksdigital-hometalk-1.vizio.wurl.com
+# 目标: IPTVOther
 pluto-live.plutotv.net
+# 目标: IPTVOther
 pocketwatch-vizio.amagi.tv
+# 目标: IPTVOther
 pravdatytkievshina-hls2.cosmonova.net.ua
+# 目标: IPTVOther
 prd-hometv-live-open.spectar.tv
+# 目标: IPTVOther
 primary-out.iptv-global.net
+# 目标: IPTVOther
 primeasia.dyndns.tv
+# 目标: IPTVOther
 proxy.bihnet.net
+# 目标: IPTVOther
 public.streaming.matur-tv.ru
+# 目标: IPTVOther
 pull.dayuntongzhou.com
+# 目标: IPTVOther
 pull.hnedutv.com
+# 目标: IPTVOther
 pull.kktv8.com
+# 目标: IPTVOther
 pull.leshantangjt.com
+# 目标: IPTVOther
 pulltv1.wanfudaluye.com
+# 目标: IPTVOther
 pulltv2.wanfudaluye.com
+# 目标: IPTVOther
 pulltv3.wanfudaluye.com
+# 目标: IPTVOther
 pursuitup.samsung.wurl.com
+# 目标: IPTVOther
 qatartv.akamaized.net
+# 目标: IPTVOther
 qdntv96789.applinzi.com
+# 目标: IPTVOther
 qrg.akamaized.net
+# 目标: IPTVOther
 qukufile2.qianqian.com
+# 目标: IPTVOther
 qvmstream.tulix.tv
+# 目标: IPTVOther
 qxlmlive.cbg.cn
+# 目标: IPTVOther
 racingvic-i.akamaized.net
+# 目标: IPTVOther
 radio-live-mg.rtr-vesti.ru
+# 目标: IPTVOther
 radio24-lh.akamaihd.net
+# 目标: IPTVOther
 radioitaliatv-lh.akamaihd.net
+# 目标: IPTVOther
 rainews1-live.akamaized.net
+# 目标: IPTVOther
 rakuten-africanews-1-dk.samsung.wurl.com
+# 目标: IPTVOther
 rakuten-africanews-2-be.samsung.wurl.com
+# 目标: IPTVOther
 rakuten-euronews-1-gb.samsung.wurl.com
+# 目标: IPTVOther
 rakuten-euronews-2-be.samsung.wurl.com
+# 目标: IPTVOther
 rakuten-euronews-3-it.samsung.wurl.com
+# 目标: IPTVOther
 rakuten-euronews-4-es.samsung.wurl.com
+# 目标: IPTVOther
 rakuten-euronews-5-de.samsung.wurl.com
+# 目标: IPTVOther
 rbc.directradios.com
+# 目标: IPTVOther
 rbmn-live.akamaized.net
+# 目标: IPTVOther
 rcavlive.akamaized.net
+# 目标: IPTVOther
 rds3.desdeparaguay.net
+# 目标: IPTVOther
 readymedia.moderntv.cloud
+# 目标: IPTVOther
 realstories-samsung-uk.amagi.tv
+# 目标: IPTVOther
 redbox-blacknewschannel-xumo.amagi.tv
+# 目标: IPTVOther
 rede-muhler-recordnews-1-br.samsung.wurl.com
+# 目标: IPTVOther
 redseat-thefirst-glewedtv.amagi.tv
+# 目标: IPTVOther
 redseat-thefirst-klowdtv.amagi.tv
+# 目标: IPTVOther
 resource.yaokan.sogoucdn.com
+# 目标: IPTVOther
 retc.educom.ru
+# 目标: IPTVOther
 reuters-reuters-1-eu.rakuten.wurl.com
+# 目标: IPTVOther
 reuters-reutersnow-1.plex.wurl.com
+# 目标: IPTVOther
 reuters-reutersnow-1.roku.wurl.com
+# 目标: IPTVOther
 rfe-lh.akamaihd.net
+# 目标: IPTVOther
 rfo.iptv-playoutcenter.de
+# 目标: IPTVOther
 rialto-rialto-samsungaustralia.amagi.tv
+# 目标: IPTVOther
 rifftrax.samsung.wurl.com
+# 目标: IPTVOther
 rmc2hdslive-lh.akamaihd.net
+# 目标: IPTVOther
 rmtv24hweblive-lh.akamaihd.net
+# 目标: IPTVOther
 ron-i.akamaihd.net
+# 目标: IPTVOther
 rpn1.bozztv.com
+# 目标: IPTVOther
 rrr.sz.xlcdn.com
+# 目标: IPTVOther
 rrsatrtmp.tulix.tv
+# 目标: IPTVOther
 rt-arb.gcdn.co
+# 目标: IPTVOther
 rt-esp.gcdn.co
+# 目标: IPTVOther
 rt-fra.gcdn.co
+# 目标: IPTVOther
 rt-glb.gcdn.co
+# 目标: IPTVOther
 rt-glb.rttv.com
+# 目标: IPTVOther
 rt-rtd.gcdn.co
+# 目标: IPTVOther
 rt-rtd.rttv.com
+# 目标: IPTVOther
 rt-sib-krsk-htlive.cdn.ngenix.net
+# 目标: IPTVOther
 rt-uk.gcdn.co
+# 目标: IPTVOther
 rtcg2.videostreaming.rs
+# 目标: IPTVOther
 rthkaudio6-lh.akamaihd.net
+# 目标: IPTVOther
 rthkcnews-lh.akamaihd.net
+# 目标: IPTVOther
 rthklive1-lh.akamaihd.net
+# 目标: IPTVOther
 rthktv31-live.akamaized.net
+# 目标: IPTVOther
 rthktv32-live.akamaized.net
+# 目标: IPTVOther
 rtltvi-lh.akamaihd.net
+# 目标: IPTVOther
 rtmlive01tv.secureswiftcontent.com
+# 目标: IPTVOther
 rtmlive05tv.secureswiftcontent.com
+# 目标: IPTVOther
 rtmlive06tv.secureswiftcontent.com
+# 目标: IPTVOther
 rtmlive07tv.secureswiftcontent.com
+# 目标: IPTVOther
 rtmp.abnsat.com
+# 目标: IPTVOther
 rtmp.cdn.upx.net.br
+# 目标: IPTVOther
 rtmp.elektrika.cz
+# 目标: IPTVOther
 rtmp.info
+# 目标: IPTVOther
 rtmp.one.by
+# 目标: IPTVOther
 rtmp.ott.mx1.com
+# 目标: IPTVOther
 rtmp.ottdemo.rrsat.com
+# 目标: IPTVOther
 rtmp.radiogroup.com.ua
+# 目标: IPTVOther
 rtmp.santhoratv.zecast.net
+# 目标: IPTVOther
 rtmp.smartstream.video
+# 目标: IPTVOther
 rtmp.tvpro-online.ru
+# 目标: IPTVOther
 rtmp1.40e.hu
+# 目标: IPTVOther
 rtmp1.abnsat.com
+# 目标: IPTVOther
 rtmtv-samsung.samsung.wurl.com
+# 目标: IPTVOther
 rtsc3video-lh.akamaihd.net
+# 目标: IPTVOther
 rtsp.cdn.ua
+# 目标: IPTVOther
 rtvarberia4.flashmediacast.com
+# 目标: IPTVOther
 rtvcdn.com.au
+# 目标: IPTVOther
 rtvelivestreamv3.akamaized.net
+# 目标: IPTVOther
 rtvmir.info
+# 目标: IPTVOther
 rudong-hls-tv-yf.cm.jstv.com
+# 目标: IPTVOther
 runtimebrazil-samsungbrazil.amagi.tv
+# 目标: IPTVOther
 runtimemx-samsungmx.amagi.tv
+# 目标: IPTVOther
 rusevertv.ru
+# 目标: IPTVOther
 rush-redbox.amagi.tv
+# 目标: IPTVOther
 rutv.gcdn.co
+# 目标: IPTVOther
 ruvruverl-live.hls.adaptive.level3.net
+# 目标: IPTVOther
 s01.vpis.io
+# 目标: IPTVOther
 s02.diazol.hu
+# 目标: IPTVOther
 s1.abntelevision.com
+# 目标: IPTVOther
 s1.cystream.net
+# 目标: IPTVOther
 s1.media-planet.sk
+# 目标: IPTVOther
 s1.only4.tv
+# 目标: IPTVOther
 s1.streamnet.ro
+# 目标: IPTVOther
 s2.streamnet.ro
+# 目标: IPTVOther
 s3.smashmalta.com
+# 目标: IPTVOther
 s5.alfaomega.tv
+# 目标: IPTVOther
 s5.mexside.net
+# 目标: IPTVOther
 s8.stweb.tv
+# 目标: IPTVOther
 salto-streams.nl
+# 目标: IPTVOther
 sam629205.f3322.net
+# 目标: IPTVOther
 samsung-au.ott-channels.stingray.com
+# 目标: IPTVOther
 samsung-mx.ott-channels.stingray.com
+# 目标: IPTVOther
 samsung.ott-channels.stingray.com
+# 目标: IPTVOther
 samuelgoldwyn-classic-roku.amagi.tv
+# 目标: IPTVOther
 samuelgoldwyn-films-roku.amagi.tv
+# 目标: IPTVOther
 saratov24.tv
+# 目标: IPTVOther
 satellitepull.cnr.cn
+# 目标: IPTVOther
 sb.top-ix.org
+# 目标: IPTVOther
 sbs-live.akamaized.net
+# 目标: IPTVOther
 sbshdlu5-lh.akamaihd.net
+# 目标: IPTVOther
 sc.id-tv.kz
+# 目标: IPTVOther
 scgctvshow.sctv.com
+# 目标: IPTVOther
 sdm.telewebion.com
+# 目标: IPTVOther
 sdqz.chinashadt.com
+# 目标: IPTVOther
 sdw.telewebion.com
+# 目标: IPTVOther
 seb.sason.top
+# 目标: IPTVOther
 secure3.todostreaming.es
+# 目标: IPTVOther
 secure5.todostreaming.es
+# 目标: IPTVOther
 securecontributions.sechls01.visionip.tv
+# 目标: IPTVOther
 selpro1348.procergs.com.br
+# 目标: IPTVOther
 senato-live.morescreens.com
+# 目标: IPTVOther
 serv24.vintera.tv
+# 目标: IPTVOther
 serv25.vintera.tv
+# 目标: IPTVOther
 serv30.vintera.tv
+# 目标: IPTVOther
 server.flixtv.com.br
+# 目标: IPTVOther
 server1.oklanet.cl
+# 目标: IPTVOther
 server12.videostreaming.net
+# 目标: IPTVOther
 server3.prostudionetwork.com
+# 目标: IPTVOther
 servers.amelbasoluciones.co
+# 目标: IPTVOther
 service-stitcher.clusters.pluto.tv
+# 目标: IPTVOther
 seswa.bonce.tv
+# 目标: IPTVOther
 setlive-lh.akamaihd.net
+# 目标: IPTVOther
 shbu.live.bestvcdn.com.cn
+# 目标: IPTVOther
 shls-mbc1ksa-ak.akamaized.net
+# 目标: IPTVOther
 shoutfactory-redbox.amagi.tv
+# 目标: IPTVOther
 siloh.pluto.tv
+# 目标: IPTVOther
 sima-i.akamaihd.net
+# 目标: IPTVOther
 simultv.s.llnwi.net
+# 目标: IPTVOther
 sitv.ru
+# 目标: IPTVOther
 sj.smarttaixing.com
+# 目标: IPTVOther
 sk.cri.cn
+# 目标: IPTVOther
 skyanywhere3-i.akamaihd.net
+# 目标: IPTVOther
 skydvn-nowtv-atv-prod.skydvn.com
+# 目标: IPTVOther
 skyfolk.mk
+# 目标: IPTVOther
 skyianywhere2-i.akamaihd.net
+# 目标: IPTVOther
 skylivesky-i.akamaihd.net
+# 目标: IPTVOther
 skylivetab-i.akamaihd.net
+# 目标: IPTVOther
 skynews2-plutolive-vo.akamaized.net
+# 目标: IPTVOther
 skynewsau-live.akamaized.net
+# 目标: IPTVOther
 skystreams-lh.akamaihd.net
+# 目标: IPTVOther
 sl2.sigmatv.com
+# 目标: IPTVOther
 slagrtv-live-hls.ssl.cdn.cra.cz
+# 目标: IPTVOther
 slbps-ml-sambatech.akamaized.net
+# 目标: IPTVOther
 slive.sciencetv.kr
+# 目标: IPTVOther
 slive.ytn.co.kr
+# 目标: IPTVOther
 smithsonianaus-samsungau.amagi.tv
+# 目标: IPTVOther
 sochi.camera
+# 目标: IPTVOther
 sochinskayatrk.ru
+# 目标: IPTVOther
 sofa.resource.shida.sogoucdn.com
+# 目标: IPTVOther
 sofy-ger-samsung.amagi.tv
+# 目标: IPTVOther
 sofytv-samsunges.amagi.tv
+# 目标: IPTVOther
 sofytv-samsungfr.amagi.tv
+# 目标: IPTVOther
 sofytv-samsungit.amagi.tv
+# 目标: IPTVOther
 sofytv-samsunguk.amagi.tv
+# 目标: IPTVOther
 sonar.sinclair.wurl.com
+# 目标: IPTVOther
 sonlife10-i.akamaihd.net
+# 目标: IPTVOther
 sonlife5-i.akamaihd.net
+# 目标: IPTVOther
 sonlife7-i.akamaihd.net
+# 目标: IPTVOther
 source07.v.news.cn
+# 目标: IPTVOther
 spacetv.in
+# 目标: IPTVOther
 sparktv-samsunguk.amagi.tv
+# 目标: IPTVOther
 spas.mediacdn.ru
+# 目标: IPTVOther
 sports.ashttp9.visionip.tv
+# 目标: IPTVOther
 sportsgrid-plex.amagi.tv
+# 目标: IPTVOther
 sportsgrid-tribal.amagi.tv
+# 目标: IPTVOther
 spotlight-redbox.amagi.tv
+# 目标: IPTVOther
 spotlight-vizio.amagi.tv
+# 目标: IPTVOther
 sradio.ipradio.rs
+# 目标: IPTVOther
 srlive24-lh.akamaihd.net
+# 目标: IPTVOther
 srunserding-lh.akamaihd.net
+# 目标: IPTVOther
 srv.panelcast.net
+# 目标: IPTVOther
 srv.viiideo.gr
+# 目标: IPTVOther
 srv1.adriatelekom.com
+# 目标: IPTVOther
 srv1.mediastreamperu.com
+# 目标: IPTVOther
 srv1.zcast.com.br
+# 目标: IPTVOther
 srv3.meway.tv
+# 目标: IPTVOther
 srv3.zcast.com.br
+# 目标: IPTVOther
 srv4.zcast.com.br
+# 目标: IPTVOther
 srv5.zcast.com.br
+# 目标: IPTVOther
 srv6.zcast.com.br
+# 目标: IPTVOther
 srvx1.selftv.video
+# 目标: IPTVOther
 ss2.domint.net
+# 目标: IPTVOther
 ss3.domint.net
+# 目标: IPTVOther
 ss6.domint.net
+# 目标: IPTVOther
 ss8.domint.net
+# 目标: IPTVOther
 ssl4.radyotvonline.com
+# 目标: IPTVOther
 ssttvv1.6zxr.xyz
+# 目标: IPTVOther
 st2.worldkast.com
+# 目标: IPTVOther
 stadium-ringofhonor-1.sinclair.wurl.com
+# 目标: IPTVOther
 stadium.sinclair.wurl.com
+# 目标: IPTVOther
 starstv.live.e55-po.insyscd.net
+# 目标: IPTVOther
 start.agmediachandigarh.com
+# 目标: IPTVOther
 static.france24.com
+# 目标: IPTVOther
 stingray-karaoke-1-gb.samsung.wurl.com
+# 目标: IPTVOther
 stingray-karaoke-2-de.samsung.wurl.com
+# 目标: IPTVOther
 stingray-karaoke-3-se.samsung.wurl.com
+# 目标: IPTVOther
 stingray-karaoke-4-nl.samsung.wurl.com
+# 目标: IPTVOther
 stingray-naturescape-1-ca.samsung.wurl.com
+# 目标: IPTVOther
 stingray-naturescape-1.samsung.wurl.com
+# 目标: IPTVOther
 stingray-qelloconcerts-1-gb.samsung.wurl.com
+# 目标: IPTVOther
 stirr.ott-channels.stingray.com
+# 目标: IPTVOther
 stitcher.pluto.tv
+# 目标: IPTVOther
 stmv.panel.grupolimalive.com
+# 目标: IPTVOther
 stmv.panel.mivideo.pro
+# 目标: IPTVOther
 stmv.video.expressolider.com.br
+# 目标: IPTVOther
 stmv1.duvoxtv.com.br
+# 目标: IPTVOther
 stmv1.mipaneltv.com
+# 目标: IPTVOther
 stmv1.srvif.com
+# 目标: IPTVOther
 stmv1.srvsite.com
+# 目标: IPTVOther
 stmv1.srvstm.com
+# 目标: IPTVOther
 stmv1.voxtvhd.com.br
+# 目标: IPTVOther
 stmv1.zcastbr.com
+# 目标: IPTVOther
 stmv2.voxtvhd.com.br
+# 目标: IPTVOther
 stmv3.voxtvhd.com.br
+# 目标: IPTVOther
 stmv4.questreaming.com
+# 目标: IPTVOther
 stmv8.conectastm.com
+# 目标: IPTVOther
 stmvideo2.livecastv.com
+# 目标: IPTVOther
 str2.yodacdn.net
+# 目标: IPTVOther
 str81.creacast.com
+# 目标: IPTVOther
 stream-aleph.m.ro
+# 目标: IPTVOther
 stream-speed.extremesolution.mobi
+# 目标: IPTVOther
 stream-us-east-1.getpublica.com
+# 目标: IPTVOther
 stream.4fun.tv
+# 目标: IPTVOther
 stream.a1mediagroep.eu
+# 目标: IPTVOther
 stream.ads.ottera.tv
+# 目标: IPTVOther
 stream.adunity.com
+# 目标: IPTVOther
 stream.appwuhan.com
+# 目标: IPTVOther
 stream.atr.ua
+# 目标: IPTVOther
 stream.atv.hu
+# 目标: IPTVOther
 stream.atvsat.com
+# 目标: IPTVOther
 stream.battanet.hu
+# 目标: IPTVOther
 stream.bzcm.net
+# 目标: IPTVOther
 stream.chinasuntv.com
+# 目标: IPTVOther
 stream.cztv.tv
+# 目标: IPTVOther
 stream.dn.ua
+# 目标: IPTVOther
 stream.ecable.tv
+# 目标: IPTVOther
 stream.efir24.tv
+# 目标: IPTVOther
 stream.ets-sistemi.it
+# 目标: IPTVOther
 stream.euroasia.lfstrm.tv
+# 目标: IPTVOther
 stream.fion.es
+# 目标: IPTVOther
 stream.fs1.tv
+# 目标: IPTVOther
 stream.gmanews.tv
+# 目标: IPTVOther
 stream.grupoabchn.com
+# 目标: IPTVOther
 stream.guihet.com
+# 目标: IPTVOther
 stream.gxqztv.com
+# 目标: IPTVOther
 stream.habctv.com
+# 目标: IPTVOther
 stream.haixitv.cn
+# 目标: IPTVOther
 stream.hhek.cn
+# 目标: IPTVOther
 stream.hope.ua
+# 目标: IPTVOther
 stream.internet.one
+# 目标: IPTVOther
 stream.ioniantv.gr
+# 目标: IPTVOther
 stream.iphonewebtown.com
+# 目标: IPTVOther
 stream.iptvservice.eu
+# 目标: IPTVOther
 stream.jinjiang.tv
+# 目标: IPTVOther
 stream.jzgbdst.cn
+# 目标: IPTVOther
 stream.kkr.dk
+# 目标: IPTVOther
 stream.kuban24.tv
+# 目标: IPTVOther
 stream.live.novotempo.com
+# 目标: IPTVOther
 stream.logicideas.media
+# 目标: IPTVOther
 stream.lytv.net.cn
+# 目标: IPTVOther
 stream.lyxltv.com
+# 目标: IPTVOther
 stream.maestrat.tv
+# 目标: IPTVOther
 stream.mariatvcdn.com
+# 目标: IPTVOther
 stream.mastvnet.com
+# 目标: IPTVOther
 stream.mediawork.cz
+# 目标: IPTVOther
 stream.nmtv.cn
+# 目标: IPTVOther
 stream.novotempo.com
+# 目标: IPTVOther
 stream.ntktv.ua
+# 目标: IPTVOther
 stream.openplayout.org
+# 目标: IPTVOther
 stream.oursnetworktv.com
+# 目标: IPTVOther
 stream.pardesitv.online
+# 目标: IPTVOther
 stream.persiantv1.com
+# 目标: IPTVOther
 stream.pikanal.rs
+# 目标: IPTVOther
 stream.pivotalelements.com
+# 目标: IPTVOther
 stream.polar.cz
+# 目标: IPTVOther
 stream.pztv.online
+# 目标: IPTVOther
 stream.qhbtv.com
+# 目标: IPTVOther
 stream.radio350.nl
+# 目标: IPTVOther
 stream.rjtv.stream
+# 目标: IPTVOther
 stream.rtvmaastricht.nl
+# 目标: IPTVOther
 stream.sama-tv.net
+# 目标: IPTVOther
 stream.schweiz5.ch
+# 目标: IPTVOther
 stream.sen-gt.com
+# 目标: IPTVOther
 stream.sferatv.pl
+# 目标: IPTVOther
 stream.skynewsarabia.com
+# 目标: IPTVOther
 stream.smntv.cn
+# 目标: IPTVOther
 stream.srg-ssr.ch
+# 目标: IPTVOther
 stream.streaming4u.hu
+# 目标: IPTVOther
 stream.studio360.tv
+# 目标: IPTVOther
 stream.swagit.com
+# 目标: IPTVOther
 stream.sxsztv.com
+# 目标: IPTVOther
 stream.taksimbilisim.com
+# 目标: IPTVOther
 stream.tvdielli.com
+# 目标: IPTVOther
 stream.tvkujawy.pl
+# 目标: IPTVOther
 stream.uagit.tv
+# 目标: IPTVOther
 stream.unrealhosting.hu
+# 目标: IPTVOther
 stream.veseljak.tv
+# 目标: IPTVOther
 stream.wairarapatv.co.nz
+# 目标: IPTVOther
 stream.wfcmw.cn
+# 目标: IPTVOther
 stream.wifizs.cn
+# 目标: IPTVOther
 stream.ysbtv.net
+# 目标: IPTVOther
 stream.zhystv.com
+# 目标: IPTVOther
 stream.zjjrtv.com
+# 目标: IPTVOther
 stream.ztv.zp.ua
+# 目标: IPTVOther
 stream.zzgd.tv
+# 目标: IPTVOther
 stream0.tv41.ru
+# 目标: IPTVOther
 stream01.dqtv123.com
+# 目标: IPTVOther
 stream04.amp.csulb.edu
+# 目标: IPTVOther
 stream1.1616.ro
+# 目标: IPTVOther
 stream1.antenaplay.ro
+# 目标: IPTVOther
 stream1.aswifi.it
+# 目标: IPTVOther
 stream1.huaihai.tv
+# 目标: IPTVOther
 stream1.jlntv.cn
+# 目标: IPTVOther
 stream1.kanald.ro
+# 目标: IPTVOther
 stream1.luxnet.ua
+# 目标: IPTVOther
 stream1.profit.ro
+# 目标: IPTVOther
 stream1.rtkit.com
+# 目标: IPTVOther
 stream1.shopch.jp
+# 目标: IPTVOther
 stream14.polskieradio.pl
+# 目标: IPTVOther
 stream2.ba.gov.br
+# 目标: IPTVOther
 stream2.taksimbilisim.com
+# 目标: IPTVOther
 stream2.xdevel.com
+# 目标: IPTVOther
 stream2.xiancity.cn
+# 目标: IPTVOther
 stream3.hljtv.com
+# 目标: IPTVOther
 stream3.liveyun.hoge.cn
+# 目标: IPTVOther
 stream3.prostudionetwork.com
+# 目标: IPTVOther
 stream3.shopch.jp
+# 目标: IPTVOther
 stream3.xiancity.cn
+# 目标: IPTVOther
 stream4.jlntv.cn
+# 目标: IPTVOther
 stream4.liveyun.hoge.cn
+# 目标: IPTVOther
 stream5.shidur.net
+# 目标: IPTVOther
 stream7.xdevel.com
+# 目标: IPTVOther
 stream71.shidur.net
+# 目标: IPTVOther
 stream72.shidur.net
+# 目标: IPTVOther
 streamcdn.amarujala.com
+# 目标: IPTVOther
 streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net
+# 目标: IPTVOther
 streamcdnc3.mainstreaming.tv
+# 目标: IPTVOther
 streamcdng3.mainstreaming.tv
+# 目标: IPTVOther
 streamer-cache.grnet.gr
+# 目标: IPTVOther
 streamer.canalc.be
+# 目标: IPTVOther
 streamer.rtcommufa.ru
+# 目标: IPTVOther
 streamer01.myvideoplace.tv
+# 目标: IPTVOther
 streamer1.connectto.com
+# 目标: IPTVOther
 streamer1.streamhost.org
+# 目标: IPTVOther
 streamer104.neterra.tv
+# 目标: IPTVOther
 streamer12.elementssys.com
+# 目标: IPTVOther
 streamer12.vdn.dstreamone.net
+# 目标: IPTVOther
 streaming.aletejahtv.iq
+# 目标: IPTVOther
 streaming.astrakhan.ru
+# 目标: IPTVOther
 streaming.cloud.innovasur.es
+# 目标: IPTVOther
 streaming.enetres.net
+# 目标: IPTVOther
 streaming.meteonews.net
+# 目标: IPTVOther
 streaming.procergs.com.br
+# 目标: IPTVOther
 streaming.senecadot.com
+# 目标: IPTVOther
 streaming.telecablecentral.com.do
+# 目标: IPTVOther
 streaming.temple.edu
+# 目标: IPTVOther
 streaming.tootvs.com
+# 目标: IPTVOther
 streaming.toutech.net
+# 目标: IPTVOther
 streaming.viewmedia.tv
+# 目标: IPTVOther
 streaming.zaytonatube.com
+# 目标: IPTVOther
 streaming01.divercom.be
+# 目标: IPTVOther
 streaming01.gestec-video.com
+# 目标: IPTVOther
 streaming01.zas.media
+# 目标: IPTVOther
 streaming03.zas.media
+# 目标: IPTVOther
 streaming37.worldbbtv.com
+# 目标: IPTVOther
 streamingcontrol.com
+# 目标: IPTVOther
 streamingcws20.com
+# 目标: IPTVOther
 streamingwowza.com
+# 目标: IPTVOther
 streamipcf.akamaized.net
+# 目标: IPTVOther
 streams.livetv.az
+# 目标: IPTVOther
 streams.sibinformburo.cdnvideo.ru
+# 目标: IPTVOther
 streams.spacetoon.com
+# 目标: IPTVOther
 streams.uitzending.tv
+# 目标: IPTVOther
 streamservers.atv.hu
+# 目标: IPTVOther
 streamspub.manasat.com
+# 目标: IPTVOther
 streamtechglobal.akamaized.net
+# 目标: IPTVOther
 streamtv.cdn.dvmr.fr
+# 目标: IPTVOther
 streamvideol.luxnet.ua
+# 目标: IPTVOther
 streamvideol1.luxnet.ua
+# 目标: IPTVOther
 streamyes.alsolnet.com
+# 目标: IPTVOther
 streannunsec-lh.akamaihd.net
+# 目标: IPTVOther
 strm.yandex.ru
+# 目标: IPTVOther
 studio71-craftistry-roku.amagi.tv
+# 目标: IPTVOther
 studiocam-oe3.mdn.ors.at
+# 目标: IPTVOther
 stv.janus.cl
+# 目标: IPTVOther
 sv72.ecuaradiotv.net
+# 目标: IPTVOther
 svc-lvanvato-cxtv-whio.cmgvideo.com
+# 目标: IPTVOther
 svc-lvanvato-cxtv-wpxi.cmgvideo.com
+# 目标: IPTVOther
 swrdasdingvrhls-i.akamaihd.net
+# 目标: IPTVOther
 swrswr3vrhls-i.akamaihd.net
+# 目标: IPTVOther
 sxjc.chinashadt.com
+# 目标: IPTVOther
 sxws.chinashadt.com
+# 目标: IPTVOther
 symc-cdn.violin.co.th
+# 目标: IPTVOther
 szlive.grtn.cn
+# 目标: IPTVOther
 t06243a-lh.akamaihd.net
+# 目标: IPTVOther
 t06858-lh.akamaihd.net
+# 目标: IPTVOther
 t07113a-lh.akamaihd.net
+# 目标: IPTVOther
 t2.tvmak.com
+# 目标: IPTVOther
 tagesschau-lh.akamaihd.net
+# 目标: IPTVOther
 tastemade-de-samsung.amagi.tv
+# 目标: IPTVOther
 tastemade-es8intl-roku.amagi.tv
+# 目标: IPTVOther
 tastemade-gb.samsung.wurl.com
+# 目标: IPTVOther
 tastemade-pt16intl-samsungbrazil.amagi.tv
+# 目标: IPTVOther
 tastemadefr16min-redbox.amagi.tv
+# 目标: IPTVOther
 tastemadeintaus-smindia.amagi.tv
+# 目标: IPTVOther
 tastemadetravel-vizio.amagi.tv
+# 目标: IPTVOther
 tbs.mov3.co
+# 目标: IPTVOther
 tdameritrade-distro.amagi.tv
+# 目标: IPTVOther
 tdameritrade-vizio.amagi.tv
+# 目标: IPTVOther
 teledifusion.tv
+# 目标: IPTVOther
 teledunet.com
+# 目标: IPTVOther
 telefewhitehls-lh.akamaihd.net
+# 目标: IPTVOther
 tennischannel-int-samsunguk.amagi.tv
+# 目标: IPTVOther
 tennischannel-intl-samsung-uk.amagi.tv
+# 目标: IPTVOther
 tglmp02.akamaized.net
+# 目标: IPTVOther
 tglmp03.akamaized.net
+# 目标: IPTVOther
 tglmp04.akamaized.net
+# 目标: IPTVOther
 thaipbs-live.cdn.byteark.com
+# 目标: IPTVOther
 thaipbs-ujxrch.cdn.byteark.com
+# 目标: IPTVOther
 theblaze4.akamaized.net
+# 目标: IPTVOther
 thisoldhouse.samsung.wurl.com
+# 目标: IPTVOther
 thtg.vn
+# 目标: IPTVOther
 ti-samsung-ca.samsung.wurl.com
+# 目标: IPTVOther
 timeline-samsung-uk.amagi.tv
+# 目标: IPTVOther
 tiquiciatv.com
+# 目标: IPTVOther
 tln.srfms.com
+# 目标: IPTVOther
 tmpstream.hyrtv.cn
+# 目标: IPTVOther
 tna5.bozztv.com
+# 目标: IPTVOther
 tnv.bonus-tv.ru
+# 目标: IPTVOther
 topfi.ios.internapcdn.net
+# 目标: IPTVOther
 topwin-tv.my.id
+# 目标: IPTVOther
 toronto3.live247stream.com
+# 目标: IPTVOther
 tr.socialsmart.tv
+# 目标: IPTVOther
 trk555.tv
+# 目标: IPTVOther
 trtcanlitv-lh.akamaihd.net
+# 目标: IPTVOther
 trwamtv.live.e55-po.insyscd.net
+# 目标: IPTVOther
 trwamtv.live.e57-po.insyscd.net
+# 目标: IPTVOther
 trwamtv.live.e59-po.insyscd.net
+# 目标: IPTVOther
 ts2000tv.streaming.nextware.it
+# 目标: IPTVOther
 tscstreaming-lh.akamaihd.net
+# 目标: IPTVOther
 tstv-stream.tsm.utexas.edu
+# 目标: IPTVOther
 tsw.streamingwebtv24.it
+# 目标: IPTVOther
 turkmedya-live.ercdn.net
+# 目标: IPTVOther
 tv-topshop.netrack.ru
+# 目标: IPTVOther
 tv.artcom-venture.de
+# 目标: IPTVOther
 tv.balkanweb.com
+# 目标: IPTVOther
 tv.cdn.xsg.ge
+# 目标: IPTVOther
 tv.city.bg
+# 目标: IPTVOther
 tv.ctvcamau.vn
+# 目标: IPTVOther
 tv.ensonhaber.com
+# 目标: IPTVOther
 tv.geniusnet.sk
+# 目标: IPTVOther
 tv.hegyvidek.hu
+# 目标: IPTVOther
 tv.kgtv.vn
+# 目标: IPTVOther
 tv.lanjingfm.com
+# 目标: IPTVOther
 tv.mondeduloisir.fr
+# 目标: IPTVOther
 tv.nknews.org
+# 目标: IPTVOther
 tv.nrg91.gr
+# 目标: IPTVOther
 tv.oyotunstream.com
+# 目标: IPTVOther
 tv.portalfoxmix.club
+# 目标: IPTVOther
 tv.rdys888.top
+# 目标: IPTVOther
 tv.romanatv42.com
+# 目标: IPTVOther
 tv.scwlqw.cn
+# 目标: IPTVOther
 tv.siete.us
+# 目标: IPTVOther
 tv.syri.net
+# 目标: IPTVOther
 tv.teleunotv.cr
+# 目标: IPTVOther
 tv.ticosmedia.com
+# 目标: IPTVOther
 tv.tv-project.com
+# 目标: IPTVOther
 tv.tvalphanet.com.br
+# 目标: IPTVOther
 tv.tvcontrolcp.com
+# 目标: IPTVOther
 tv.unisc.br
+# 目标: IPTVOther
 tv.zkxww.com
+# 目标: IPTVOther
 tv01.logicahost.com.br
+# 目标: IPTVOther
 tv02.logicahost.com.br
+# 目标: IPTVOther
 tv1.mmg.ooo
+# 目标: IPTVOther
 tv1.wanfudaluye.com
+# 目标: IPTVOther
 tv2.abcnews.al
+# 目标: IPTVOther
 tv2.fastcast4u.com
+# 目标: IPTVOther
 tv2.wanfudaluye.com
+# 目标: IPTVOther
 tv3.streampulse.eu
+# 目标: IPTVOther
 tv3.wanfudaluye.com
+# 目标: IPTVOther
 tv5infohls-i.akamaihd.net
+# 目标: IPTVOther
 tv7.hdr-tv.com
+# 目标: IPTVOther
 tv7plus.com
+# 目标: IPTVOther
 tvaktuellr.iptv-playoutcenter.de
+# 目标: IPTVOther
 tvbilive14-i.akamaihd.net
+# 目标: IPTVOther
 tvcdn01.oktv.kz
+# 目标: IPTVOther
 tvchannelstream1.tvzvezda.ru
+# 目标: IPTVOther
 tvcom.stream.intelema.ru
+# 目标: IPTVOther
 tvdatta.com
+# 目标: IPTVOther
 tvdrs.weblz.com.cn
+# 目标: IPTVOther
 tvdrs.wsrtv.com.cn
+# 目标: IPTVOther
 tvgubernia-htlive.cdn.ngenix.net
+# 目标: IPTVOther
 tvhope.cdnvideo.ru
+# 目标: IPTVOther
 tvlakay.haitilive.net
+# 目标: IPTVOther
 tvlive.ynradio.com
+# 目标: IPTVOther
 tvm3.vedge.infomaniak.com
+# 目标: IPTVOther
 tvn.obix.tv
+# 目标: IPTVOther
 tvoberfranken.iptv-playoutcenter.de
+# 目标: IPTVOther
 tvpanoucom.srfms.com
+# 目标: IPTVOther
 tvreg.klemit.net
+# 目标: IPTVOther
 tvretropalmares.com
+# 目标: IPTVOther
 tvshops.bonus-tv.ru
+# 目标: IPTVOther
 tvsn-i.akamaihd.net
+# 目标: IPTVOther
 tvsoyuz.cdnvideo.ru
+# 目标: IPTVOther
 tvstream.rtvbn.com
+# 目标: IPTVOther
 tvstreaming.cl
+# 目标: IPTVOther
 two.alfajertv.com
+# 目标: IPTVOther
 tx.hls.huya.com
+# 目标: IPTVOther
 tx2play1.douyucdn.cn
+# 目标: IPTVOther
 tyt-xumo-us.amagi.tv
+# 目标: IPTVOther
 ucankus-live.cdnnew.com
+# 目标: IPTVOther
 uiptv.do.am
+# 目标: IPTVOther
 uk4.streamingpulse.com
+# 目标: IPTVOther
 uksono1-samsunguk.amagi.tv
+# 目标: IPTVOther
 umbriatv.stream.rubidia.it
+# 目标: IPTVOther
 unbeaten-roku.amagi.tv
+# 目标: IPTVOther
 uni01rtmp.tulix.tv
+# 目标: IPTVOther
 uni10rtmp.tulix.tv
+# 目标: IPTVOther
 uni5rtmp.tulix.tv
+# 目标: IPTVOther
 uni6rtmp.tulix.tv
+# 目标: IPTVOther
 uni8rtmp.tulix.tv
+# 目标: IPTVOther
 unilivemtveu-lh.akamaihd.net
+# 目标: IPTVOther
 unitvaovivo.ufrgs.br
+# 目标: IPTVOther
 unlimited1-cl-movistar.dps.live
+# 目标: IPTVOther
 unlimited1-us.dps.live
+# 目标: IPTVOther
 unlimited2-cl-movistar.dps.live
+# 目标: IPTVOther
 unlimited6-cl.dps.live
+# 目标: IPTVOther
 us.bestvideostreaming.is
+# 目标: IPTVOther
 us200.streamkit.tv
+# 目标: IPTVOther
 usb.bozztv.com
+# 目标: IPTVOther
 usgeowall.sinclairstoryline.com
+# 目标: IPTVOther
 uskudarunv.mediatriple.net
+# 目标: IPTVOther
 v1.proofix.ru
+# 目标: IPTVOther
 v2.91kds.cn
+# 目标: IPTVOther
 v2.catcast.tv
+# 目标: IPTVOther
 v3.mediacast.hk
+# 目标: IPTVOther
 v3.tustreaming.cl
+# 目标: IPTVOther
 v3plusinfo247hls-i.akamaihd.net
+# 目标: IPTVOther
 v4-slbps-sambavideos.akamaized.net
+# 目标: IPTVOther
 v4.tustreaming.cl
+# 目标: IPTVOther
 varoe24live.sf.apa.at
+# 目标: IPTVOther
 vasanth.live.cdn.bitgravity.com
+# 目标: IPTVOther
 vasilius.akciatv.ru
+# 目标: IPTVOther
 vcndstv.teleosmedia.com
+# 目标: IPTVOther
 vcnleomarkstudios.teleosmedia.com
+# 目标: IPTVOther
 vcp.myplaytv.com
+# 目标: IPTVOther
 vcp1.myplaytv.com
+# 目标: IPTVOther
 vd3.bdstatic.com
+# 目标: IPTVOther
 vd4.bdstatic.com
+# 目标: IPTVOther
 vdo.alphaserver.gr
+# 目标: IPTVOther
 vdo3.alphaserver.gr
+# 目标: IPTVOther
 vdse.bdstatic.com
+# 目标: IPTVOther
 ventdelnord.tv
+# 目标: IPTVOther
 vfile.cfrtv.cn
+# 目标: IPTVOther
 viacomitalytest-lh.akamaihd.net
+# 目标: IPTVOther
 vid.mega00.com
+# 目标: IPTVOther
 vidartv2.todostreaming.es
+# 目标: IPTVOther
 video-ar.radioradicale.it
+# 目标: IPTVOther
 video-auth2.iol.pt
+# 目标: IPTVOther
 video.blivenyc.com
+# 目标: IPTVOther
 video.cdmx.gob.mx
+# 目标: IPTVOther
 video.chaula.tv
+# 目标: IPTVOther
 video.dztv.tv
+# 目标: IPTVOther
 video.govoritmoskva.ru
+# 目标: IPTVOther
 video.misistemareseller.com
+# 目标: IPTVOther
 video.oct.dc.gov
+# 目标: IPTVOther
 video.penzainform.ru
+# 目标: IPTVOther
 video.produccionesmagicorp.com
+# 目标: IPTVOther
 video.rionitv.com
+# 目标: IPTVOther
 video.streams.ovh
+# 目标: IPTVOther
 video.telesafor.com
+# 目标: IPTVOther
 video.vtvplus.com.ua
+# 目标: IPTVOther
 video.zidivo.com
+# 目标: IPTVOther
 video01.kshost.com.br
+# 目标: IPTVOther
 video1.getstreamhosting.com
+# 目标: IPTVOther
 video13.virtualtronics.com
+# 目标: IPTVOther
 video2.lhdserver.es
+# 目标: IPTVOther
 videohd.live
+# 目标: IPTVOther
 videos.canal56.com
+# 目标: IPTVOther
 videostream.shockmedia.com.ar
+# 目标: IPTVOther
 vidnetcdn.vidgyor.com
+# 目标: IPTVOther
 vip2.liveanywhere.asia
+# 目标: IPTVOther
 vips-livecdn.fptplay.net
+# 目标: IPTVOther
 visit.jjbctv.com
+# 目标: IPTVOther
 vitor-tvclassics-1.plex.wurl.com
+# 目标: IPTVOther
 vmvideo.gcdn.co
+# 目标: IPTVOther
 voa-lh.akamaihd.net
+# 目标: IPTVOther
 vod.mpmbc.co.kr
+# 目标: IPTVOther
 vod.qhdcm.com
+# 目标: IPTVOther
 vod.streams.ovh
+# 目标: IPTVOther
 vod.tv7.fi
+# 目标: IPTVOther
 vod1.kronopress.com
+# 目标: IPTVOther
 vod1.laki.eu
+# 目标: IPTVOther
 vodcdn.video.taobao.com
+# 目标: IPTVOther
 vps1.lnx.pe
+# 目标: IPTVOther
 vs-cmaf-pushb-ww-live.akamaized.net
+# 目标: IPTVOther
 vs8.live.opencaster.com
+# 目标: IPTVOther
 vsn1-cdn-phx.icastcenter.com
+# 目标: IPTVOther
 vstream3.hadara.ps
+# 目标: IPTVOther
 w1.mediastreaming.it
+# 目标: IPTVOther
 w1.streamingmedia.it
+# 目标: IPTVOther
 w10.streamgb.com
+# 目标: IPTVOther
 w101.quickmedia.tv
+# 目标: IPTVOther
 w3.013.gostreaming.tv
+# 目标: IPTVOther
 w4.mostvideo.tv
+# 目标: IPTVOther
 wanzhoulive.cbg.cn
+# 目标: IPTVOther
 watch.haitilive.net
+# 目标: IPTVOther
 watcher-node5.apsny.camera
+# 目标: IPTVOther
 waw1.artiyerelmedya.net
+# 目标: IPTVOther
 waw2.artiyerelmedya.net
+# 目标: IPTVOther
 wdrfsww247.akamaized.net
+# 目标: IPTVOther
 wearelive.livebox.co.in
+# 目标: IPTVOther
 weathernationtv.samsung.wurl.com
+# 目标: IPTVOther
 web.onair-radio.eu
+# 目标: IPTVOther
 webcam.mosaiquefm.net
+# 目标: IPTVOther
 webmobile.xdev.ro
+# 目标: IPTVOther
 webtvmonacoinfo.mc
+# 目标: IPTVOther
 webtvstream.bhtelecom.ba
+# 目标: IPTVOther
 wescottcchls-lh.akamaihd.net
+# 目标: IPTVOther
 weyyak-live.akamaized.net
+# 目标: IPTVOther
 wfc.bonus-tv.ru
+# 目标: IPTVOther
 wfcint.mediacdn.ru
+# 目标: IPTVOther
 wgntribune-lh.akamaihd.net
+# 目标: IPTVOther
 wildearth-plex.amagi.tv
+# 目标: IPTVOther
 win2.yayin.com.tr
+# 目标: IPTVOther
 win20.yayin.com.tr
+# 目标: IPTVOther
 win29.yayin.com.tr
+# 目标: IPTVOther
 win4.yayin.com.tr
+# 目标: IPTVOther
 win8.yayin.com.tr
+# 目标: IPTVOther
 wlngstudiowebcam.srfms.com
+# 目标: IPTVOther
 wma10.fluidstream.net
+# 目标: IPTVOther
 wmaqlive-f.akamaihd.net
+# 目标: IPTVOther
 wms.brtk.net
+# 目标: IPTVOther
 wms.shared.streamshow.it
+# 目标: IPTVOther
 wms.tecnoxia.com
+# 目标: IPTVOther
 wms30.tecnoxia.com
+# 目标: IPTVOther
 wms4-kortv.akamaized.net
+# 目标: IPTVOther
 wonder-samsung-uk.amagi.tv
+# 目标: IPTVOther
 worcester.vod.castus.tv
+# 目标: IPTVOther
 wow01.105.net
+# 目标: IPTVOther
 wowza.istweb.tv
+# 目标: IPTVOther
 wowza.media-line.co.il
+# 目标: IPTVOther
 wowza.montevideo.com.uy
+# 目标: IPTVOther
 wowza.telpin.com.ar
+# 目标: IPTVOther
 wowza4.catve.com.br
+# 目标: IPTVOther
 wowza5.video-streams.nl
+# 目标: IPTVOther
 wowzacontrol.com
+# 目标: IPTVOther
 wowzaprod13-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod130-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod134-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod158-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod188-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod219-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod225-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod231-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod236-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod3-i.akamaihd.net
+# 目标: IPTVOther
 wowzaprod3-lh.akamaihd.net
+# 目标: IPTVOther
 wowzaprodhd84-lh.akamaihd.net
+# 目标: IPTVOther
 wowzastream.westmancom.com
+# 目标: IPTVOther
 wpc.d1627.nucdn.net
+# 目标: IPTVOther
 wpso.com
+# 目标: IPTVOther
 ws15-hls-live.akamaized.net
+# 目标: IPTVOther
 ws31-hls-live.akamaized.net
+# 目标: IPTVOther
 wshdl.load.cdn.zhanqi.tv
+# 目标: IPTVOther
 wsjlivehls-lh.akamaihd.net
+# 目标: IPTVOther
 wslb.dobratv.net
+# 目标: IPTVOther
 wttv-lh.akamaihd.net
+# 目标: IPTVOther
 www.10kanal.ru
+# 目标: IPTVOther
 www.336699.live
+# 目标: IPTVOther
 www.cbsnews.com
+# 目标: IPTVOther
 www.coninfo.net
+# 目标: IPTVOther
 www.cpmp3.com
+# 目标: IPTVOther
 www.dalitv.com.tw
+# 目标: IPTVOther
 www.elahmad.com
+# 目标: IPTVOther
 www.filmon.com
+# 目标: IPTVOther
 www.gtk.tv
+# 目标: IPTVOther
 www.intelintec.com.ar
+# 目标: IPTVOther
 www.livestreamcdn.net
+# 目标: IPTVOther
 www.liveviptv.xyz
+# 目标: IPTVOther
 www.maptvnews.ma
+# 目标: IPTVOther
 www.navchina.cf
+# 目标: IPTVOther
 www.news24.jp
+# 目标: IPTVOther
 www.onairport.live
+# 目标: IPTVOther
 www.pxitv.com
+# 目标: IPTVOther
 www.radiosargentina.com.ar
+# 目标: IPTVOther
 www.rthk.hk
+# 目标: IPTVOther
 www.rtmplus.cz
+# 目标: IPTVOther
 www.rtvcdn.com.au
+# 目标: IPTVOther
 www.sgmsw.cn
+# 目标: IPTVOther
 www.sonus.fm
+# 目标: IPTVOther
 www.tiszatv.hu
+# 目标: IPTVOther
 www.trimi.com.ar
+# 目标: IPTVOther
 www.uniqueradio.jp
+# 目标: IPTVOther
 wz3.dnip.com.br
+# 目标: IPTVOther
 wzstreaming.rai.it
+# 目标: IPTVOther
 xapp510394368c1000199.f.l.z.lb.core-cdn.net
+# 目标: IPTVOther
 xhalive.qwmedia.cn
+# 目标: IPTVOther
 xite-samsung-de.amagi.tv
+# 目标: IPTVOther
 xlbor3aadvaj-hls-live.wmncdn.net
+# 目标: IPTVOther
 xlpore-samsungus.amagi.tv
+# 目标: IPTVOther
 xumo-redbox.ott-channels.stingray.com
+# 目标: IPTVOther
 yahoofinance-localnow.amagi.tv
+# 目标: IPTVOther
 yayin.marmaratv.com.tr
+# 目标: IPTVOther
 yayin.netradyom.com
+# 目标: IPTVOther
 yayin3.canlitv.com
+# 目标: IPTVOther
 yd-m-l.cztv.com
+# 目标: IPTVOther
 yerelmedya.tv
+# 目标: IPTVOther
 yjh3p.stream.miraclechannel.com
+# 目标: IPTVOther
 yletvhdliveworld-lh.akamaihd.net
+# 目标: IPTVOther
 ynet-lh.akamaihd.net
+# 目标: IPTVOther
 ytnmmd.mmdlive.lldns.net
+# 目标: IPTVOther
 yuppcatchup.akamaized.net
+# 目标: IPTVOther
 yurgan.bonus-tv.ru
+# 目标: IPTVOther
 zabava-htlive.cdn.ngenix.net
+# 目标: IPTVOther
 zbbf2.ahtv.cn
+# 目标: IPTVOther
 zhibo.hkstv.tv
+# 目标: IPTVOther
 zjrtv.vip
+# 目标: IPTVOther
 zm6gdaxeyn93-hls-live.5centscdn.com
+# 目标: IPTVOther
 zoomoo-samsungau.amagi.tv
+# 目标: IPTVOther
 zouglalive-lh.akamaihd.net
+# 目标: IPTVOther
 zsxj.chinashadt.com
+# 目标: IPTVOther
 zuzenean.goienamedia.eus
+# 目标: IPTVOther
 zypelive-lh.akamaihd.net

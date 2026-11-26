@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: ATTWatchTV
 # 合并来源: blackmatrix7/ios_rule_script ATTWatchTV
 # 规则数: 6
+# 目标: ATTWatchTV
 DOMAIN-SUFFIX,att.tv
+# 目标: ATTWatchTV
 DOMAIN-SUFFIX,atttvnow.com
+# 目标: ATTWatchTV
 DOMAIN-SUFFIX,attwatchtv.com
+# 目标: ATTWatchTV
 DOMAIN-SUFFIX,directv.com
+# 目标: ATTWatchTV
 DOMAIN-SUFFIX,dtvce.com
+# 目标: ATTWatchTV
 DOMAIN-SUFFIX,nettyinternet.com

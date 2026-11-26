@@ -1,102 +1,201 @@
 # 统一规则库 | 分类: games-cn
 # 合并来源: QuixoticHeart/rule-set games-cn
 # 规则数: 99
+# 目标: games-cn
 DOMAIN,blzdist-d3.necdn.leihuo.netease.com
+# 目标: games-cn
 DOMAIN,blzdist-di.necdn.leihuo.netease.com
+# 目标: games-cn
 DOMAIN,blzdist-hs.necdn.leihuo.netease.com
+# 目标: games-cn
 DOMAIN,blzdist-ow.necdn.leihuo.netease.com
+# 目标: games-cn
 DOMAIN,blzdist-phx.necdn.leihuo.netease.com
+# 目标: games-cn
 DOMAIN,blzdist-wow.necdn.leihuo.netease.com
+# 目标: games-cn
 DOMAIN,dl.delivery.mp.microsoft.com
+# 目标: games-cn
 DOMAIN,dl.steam.ksyna.com
+# 目标: games-cn
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+# 目标: games-cn
 DOMAIN,gog.qtlglb.com
+# 目标: games-cn
 DOMAIN,lv.queniujq.cn
+# 目标: games-cn
 DOMAIN,st-bak.viv.wanwang.space
+# 目标: games-cn
 DOMAIN,steampipe.steamcontent.tnkjmec.com
+# 目标: games-cn
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
+# 目标: games-cn
 DOMAIN,trts.baishancdnx.cn
+# 目标: games-cn
 DOMAIN,ubisoftconnect.eo-edgefunctions7.com
+# 目标: games-cn
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+# 目标: games-cn
 DOMAIN,xz.pphimalayanrt.com
+# 目标: games-cn
 DOMAIN-SUFFIX,3dmjiasu.com
+# 目标: games-cn
 DOMAIN-SUFFIX,99jiasu.net
+# 目标: games-cn
 DOMAIN-SUFFIX,akspeedy.com
+# 目标: games-cn
 DOMAIN-SUFFIX,benfuip.com
+# 目标: games-cn
 DOMAIN-SUFFIX,biubiu001.com
+# 目标: games-cn
 DOMAIN-SUFFIX,bluearchive-cn.com
+# 目标: games-cn
 DOMAIN-SUFFIX,bohejiasuqi.com
+# 目标: games-cn
 DOMAIN-SUFFIX,ccspeed.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,client-update.queniuqe.com
+# 目标: games-cn
 DOMAIN-SUFFIX,cm.steampowered.com
+# 目标: games-cn
 DOMAIN-SUFFIX,csgo.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,dl.steam.clngaa.com
+# 目标: games-cn
 DOMAIN-SUFFIX,dota2.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,et-api.com
+# 目标: games-cn
 DOMAIN-SUFFIX,et001.com
+# 目标: games-cn
 DOMAIN-SUFFIX,fhyx.com
+# 目标: games-cn
 DOMAIN-SUFFIX,fnjiasu.com
+# 目标: games-cn
 DOMAIN-SUFFIX,funjsq.com
+# 目标: games-cn
 DOMAIN-SUFFIX,gangwan.com
+# 目标: games-cn
 DOMAIN-SUFFIX,ggkuai.com
+# 目标: games-cn
 DOMAIN-SUFFIX,gijsq.com
+# 目标: games-cn
 DOMAIN-SUFFIX,golink.com
+# 目标: games-cn
 DOMAIN-SUFFIX,golinkapi.com
+# 目标: games-cn
 DOMAIN-SUFFIX,golinkcn.com
+# 目标: games-cn
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
+# 目标: games-cn
 DOMAIN-SUFFIX,guaiku.com
+# 目标: games-cn
 DOMAIN-SUFFIX,htjsq.com
+# 目标: games-cn
 DOMAIN-SUFFIX,htjsq.mobi
+# 目标: games-cn
 DOMAIN-SUFFIX,jiasu.bohe.com
+# 目标: games-cn
 DOMAIN-SUFFIX,kk1.vip
+# 目标: games-cn
 DOMAIN-SUFFIX,leagueoflegends.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,legendofzelda.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,leigod.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,leigod.com
+# 目标: games-cn
 DOMAIN-SUFFIX,leigodjsq.com
+# 目标: games-cn
 DOMAIN-SUFFIX,liuxing.com
+# 目标: games-cn
 DOMAIN-SUFFIX,lorhf.com
+# 目标: games-cn
 DOMAIN-SUFFIX,lpl.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,ls66.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,lxjiasu.com
+# 目标: games-cn
 DOMAIN-SUFFIX,mariokart.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,mariokart.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,miitomo.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,nintendolabo.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,nintendoswitch.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,nintendoswitch.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,nn.com
+# 目标: games-cn
 DOMAIN-SUFFIX,nnbooster.com
+# 目标: games-cn
 DOMAIN-SUFFIX,oojsq.com
+# 目标: games-cn
 DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,qiyou.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,rmbgame.net
+# 目标: games-cn
 DOMAIN-SUFFIX,st.dl.bscstorage.net
+# 目标: games-cn
 DOMAIN-SUFFIX,st.dl.eccdnx.com
+# 目标: games-cn
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+# 目标: games-cn
 DOMAIN-SUFFIX,steam302.xyz
+# 目标: games-cn
 DOMAIN-SUFFIX,steamchina.com
+# 目标: games-cn
 DOMAIN-SUFFIX,steamcontent.com
+# 目标: games-cn
 DOMAIN-SUFFIX,steampowered.com.8686c.com
+# 目标: games-cn
 DOMAIN-SUFFIX,steampp.net
+# 目标: games-cn
 DOMAIN-SUFFIX,steamserver.net
+# 目标: games-cn
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
+# 目标: games-cn
 DOMAIN-SUFFIX,steamusercontent.com
+# 目标: games-cn
 DOMAIN-SUFFIX,supermariobros.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,supersmashbros.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,supersmashbros.com.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,tmjiasuqi.com
+# 目标: games-cn
 DOMAIN-SUFFIX,uu.163.com
+# 目标: games-cn
 DOMAIN-SUFFIX,waifushangcheng.com
+# 目标: games-cn
 DOMAIN-SUFFIX,wmsjsteam.com
+# 目标: games-cn
 DOMAIN-SUFFIX,xboxlive.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,xunyou.com
+# 目标: games-cn
 DOMAIN-SUFFIX,xunyou.mobi
+# 目标: games-cn
 DOMAIN-SUFFIX,xxghh.biz
+# 目标: games-cn
 DOMAIN-SUFFIX,yebaojiasu.com
+# 目标: games-cn
 DOMAIN-SUFFIX,yostar.cn
+# 目标: games-cn
 DOMAIN-SUFFIX,yuelun.com

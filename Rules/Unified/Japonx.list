@@ -1,13 +1,23 @@
 # 统一规则库 | 分类: Japonx
 # 合并来源: blackmatrix7/ios_rule_script Japonx
 # 规则数: 10
+# 目标: Japonx
 DOMAIN-SUFFIX,japonx.com
+# 目标: Japonx
 DOMAIN-SUFFIX,japonx.net
+# 目标: Japonx
 DOMAIN-SUFFIX,japonx.tv
+# 目标: Japonx
 DOMAIN-SUFFIX,japonx.vip
+# 目标: Japonx
 DOMAIN-SUFFIX,japronx.com
+# 目标: Japonx
 DOMAIN-SUFFIX,japronx.net
+# 目标: Japonx
 DOMAIN-SUFFIX,japronx.tv
+# 目标: Japonx
 DOMAIN-SUFFIX,japronx.vip
+# 目标: Japonx
 DOMAIN-KEYWORD,japonx
+# 目标: Japonx
 DOMAIN-KEYWORD,japronx

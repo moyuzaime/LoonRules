@@ -1,13 +1,23 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ParamountPlus/ParamountPlus.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ParamountPlus/ParamountPlus.list
 # 规则数: 10
+# 目标: ParamountPlus
 DOMAIN,cbsi.live.ott.irdeto.com
+# 目标: ParamountPlus
 DOMAIN,cbsplaylistserver.aws.syncbak.com
+# 目标: ParamountPlus
 DOMAIN,cbsservice.aws.syncbak.com
+# 目标: ParamountPlus
 DOMAIN,link.theplatform.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,cbsaavideo.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,cbsi.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,cbsivideo.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,paramountplus.com
+# 目标: ParamountPlus
 DOMAIN-SUFFIX,pplusstatic.com
+# 目标: ParamountPlus
 USER-AGENT,PPlus*

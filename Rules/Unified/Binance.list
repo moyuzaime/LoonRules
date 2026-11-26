@@ -1,15 +1,28 @@
 # 统一规则库 | 分类: Binance
 # 合并来源: blackmatrix7/ios_rule_script Binance
+# 说明: 币安交易所
 # 规则数: 12
+# 目标: Binance
 DOMAIN-SUFFIX,appsflayer.com
+# 目标: Binance
 DOMAIN-SUFFIX,binance.cloud
+# 目标: Binance
 DOMAIN-SUFFIX,binance.com
+# 目标: Binance
 DOMAIN-SUFFIX,binance.me
+# 目标: Binance
 DOMAIN-SUFFIX,binancecnt.com
+# 目标: Binance
 DOMAIN-SUFFIX,binancefuture.com
+# 目标: Binance
 DOMAIN-SUFFIX,bnappzh.co
+# 目标: Binance
 DOMAIN-SUFFIX,bnbstatic.com
+# 目标: Binance
 DOMAIN-SUFFIX,bnbzh.ac
+# 目标: Binance
 DOMAIN-SUFFIX,bntrace.com
+# 目标: Binance
 DOMAIN-SUFFIX,saasexch.cc
+# 目标: Binance
 DOMAIN-SUFFIX,saasexch.com

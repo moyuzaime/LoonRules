@@ -1,7 +1,12 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Weibo/Weibo.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Weibo/Weibo.list
+# 说明: 微博
 # 规则数: 4
+# 目标: Weibo
 DOMAIN-SUFFIX,weibo.cn
+# 目标: Weibo
 DOMAIN-SUFFIX,weibo.com
+# 目标: Weibo
 DOMAIN-SUFFIX,weibocdn.com
+# 目标: Weibo
 DOMAIN-KEYWORD,weibo

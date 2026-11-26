@@ -1,101 +1,199 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/USMedia/USMedia.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/USMedia/USMedia.list
 # 规则数: 98
+# 目标: USMedia
 DOMAIN,espn.api.edge.bamgrid.com
+# 目标: USMedia
 DOMAIN,espn.hb.omtrdc.net
+# 目标: USMedia
 DOMAIN,espndotcom.tt.omtrdc.net
+# 目标: USMedia
 DOMAIN,link.theplatform.com
+# 目标: USMedia
 DOMAIN-SUFFIX,112263.com
+# 目标: USMedia
 DOMAIN-SUFFIX,amlg.io
+# 目标: USMedia
 DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
+# 目标: USMedia
 DOMAIN-SUFFIX,callhulu.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbs.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsaavideo.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbscorporation.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsi.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsi.video
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsiam.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsig.net
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsimg.net
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsinteractive.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsistatic.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsivideo.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsnews.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbspressexpress.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsradio.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbssports.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsstatic.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbsstore.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbssvideo.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cbstelevisioncity.com
+# 目标: USMedia
 DOMAIN-SUFFIX,cws-hulu.conviva.com
+# 目标: USMedia
 DOMAIN-SUFFIX,dtci.co
+# 目标: USMedia
 DOMAIN-SUFFIX,dtci.technology
+# 目标: USMedia
 DOMAIN-SUFFIX,espn.co.uk
+# 目标: USMedia
 DOMAIN-SUFFIX,espn.com
+# 目标: USMedia
 DOMAIN-SUFFIX,espn.net
+# 目标: USMedia
 DOMAIN-SUFFIX,espncdn.com
+# 目标: USMedia
 DOMAIN-SUFFIX,espnqa.com
+# 目标: USMedia
 DOMAIN-SUFFIX,findyourlimits.com
+# 目标: USMedia
 DOMAIN-SUFFIX,freehulu.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hooloo.tv
+# 目标: USMedia
 DOMAIN-SUFFIX,hoolu.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hoolu.tv
+# 目标: USMedia
 DOMAIN-SUFFIX,hu1u.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huloo.cc
+# 目标: USMedia
 DOMAIN-SUFFIX,huloo.tv
+# 目标: USMedia
 DOMAIN-SUFFIX,hulu.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+# 目标: USMedia
 DOMAIN-SUFFIX,hulu.playback.edge.bamgrid.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+# 目标: USMedia
 DOMAIN-SUFFIX,hulu.tv
+# 目标: USMedia
 DOMAIN-SUFFIX,hulu.us
+# 目标: USMedia
 DOMAIN-SUFFIX,huluaction.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluad.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluapp.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluasks.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulucall.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulufree.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulugans.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulugermany.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulugo.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluim.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluinstantmessenger.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluitaly.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulunet.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulunetwork.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluplus.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulupremium.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulupurchase.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluqa.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulurussia.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluspain.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulusports.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulustream.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluteam.com
+# 目标: USMedia
 DOMAIN-SUFFIX,hulutv.com
+# 目标: USMedia
 DOMAIN-SUFFIX,huluusa.com
+# 目标: USMedia
 DOMAIN-SUFFIX,joinmaidez.com
+# 目标: USMedia
 DOMAIN-SUFFIX,mtvnservices.com
+# 目标: USMedia
 DOMAIN-SUFFIX,mushymush.tv
+# 目标: USMedia
 DOMAIN-SUFFIX,myhulu.com
+# 目标: USMedia
 DOMAIN-SUFFIX,originalhulu.com
+# 目标: USMedia
 DOMAIN-SUFFIX,paramount.com
+# 目标: USMedia
 DOMAIN-SUFFIX,paramountplus.com
+# 目标: USMedia
 DOMAIN-SUFFIX,payhulu.com
+# 目标: USMedia
 DOMAIN-SUFFIX,pluto.tv
+# 目标: USMedia
 DOMAIN-SUFFIX,pplusstatic.com
+# 目标: USMedia
 DOMAIN-SUFFIX,prod.hjholdings.tv
+# 目标: USMedia
 DOMAIN-SUFFIX,registerhulu.com
+# 目标: USMedia
 DOMAIN-SUFFIX,showtime.com
+# 目标: USMedia
 DOMAIN-SUFFIX,thehulubraintrust.com
+# 目标: USMedia
 DOMAIN-SUFFIX,viacbs.com
+# 目标: USMedia
 DOMAIN-SUFFIX,viacom.com
+# 目标: USMedia
 DOMAIN-SUFFIX,viacomcbs.com
+# 目标: USMedia
 DOMAIN-SUFFIX,viacomcbspressexpress.com
+# 目标: USMedia
 DOMAIN-SUFFIX,watchespn.com
+# 目标: USMedia
 DOMAIN-SUFFIX,wwwhuluplus.com
+# 目标: USMedia
 USER-AGENT,PPlus*

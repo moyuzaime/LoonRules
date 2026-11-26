@@ -1,9 +1,16 @@
 # 统一规则库 | 分类: ABC
 # 合并来源: blackmatrix7/ios_rule_script ABC
+# 说明: 农业银行
 # 规则数: 6
+# 目标: ABC
 DOMAIN-SUFFIX,95599.cn
+# 目标: ABC
 DOMAIN-SUFFIX,abchina.com
+# 目标: ABC
 DOMAIN-SUFFIX,bscabank.com
+# 目标: ABC
 DOMAIN-SUFFIX,openaboc.cn
+# 目标: ABC
 DOMAIN-SUFFIX,openaboc.com
+# 目标: ABC
 DOMAIN-SUFFIX,openaboc.com.cn

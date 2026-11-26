@@ -1,7 +1,11 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/IMDB/IMDB.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/IMDB/IMDB.list
 # 规则数: 4
+# 目标: IMDB
 DOMAIN-SUFFIX,boxofficemojo.com
+# 目标: IMDB
 DOMAIN-SUFFIX,imdb.com
+# 目标: IMDB
 DOMAIN-SUFFIX,imdb.to
+# 目标: IMDB
 DOMAIN-SUFFIX,media-imdb.com

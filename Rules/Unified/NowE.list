@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: NowE
 # 合并来源: blackmatrix7/ios_rule_script NowE
 # 规则数: 2
+# 目标: NowE
 DOMAIN-SUFFIX,nowe.com
+# 目标: NowE
 DOMAIN-SUFFIX,nowestatic.com

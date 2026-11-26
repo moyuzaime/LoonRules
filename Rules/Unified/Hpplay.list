@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: Hpplay
 # 合并来源: blackmatrix7/ios_rule_script Hpplay
+# 说明: 乐播投屏
 # 规则数: 5
+# 目标: Hpplay
 DOMAIN-SUFFIX,hpplay.cn
+# 目标: Hpplay
 DOMAIN-SUFFIX,hpplay.com.cn
+# 目标: Hpplay
 DOMAIN-SUFFIX,mirrorcast.cn
+# 目标: Hpplay
 DOMAIN-SUFFIX,mirrorcast.com.cn
+# 目标: Hpplay
 DOMAIN-SUFFIX,mirrorcast.tv

@@ -1,10 +1,17 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/TCL/TCL.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TCL/TCL.list
 # 规则数: 7
+# 目标: TCL
 DOMAIN-SUFFIX,alcatel-home.com
+# 目标: TCL
 DOMAIN-SUFFIX,alcatelmobile.com
+# 目标: TCL
 DOMAIN-SUFFIX,blackberry.com
+# 目标: TCL
 DOMAIN-SUFFIX,hmeng.cn
+# 目标: TCL
 DOMAIN-SUFFIX,hmeng.net.cn
+# 目标: TCL
 DOMAIN-SUFFIX,tcl.com
+# 目标: TCL
 DOMAIN-SUFFIX,tcl.com.cn

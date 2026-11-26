@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: LivePerson
 # 合并来源: blackmatrix7/ios_rule_script LivePerson
 # 规则数: 3
+# 目标: LivePerson
 DOMAIN-SUFFIX,liveperson.com
+# 目标: LivePerson
 DOMAIN-SUFFIX,liveperson.net
+# 目标: LivePerson
 DOMAIN-SUFFIX,lpsnmedia.net

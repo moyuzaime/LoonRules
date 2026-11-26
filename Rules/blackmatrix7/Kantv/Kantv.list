@@ -1,4 +1,5 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Kantv/Kantv.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Kantv/Kantv.list
 # 规则数: 1
+# 目标: Kantv
 DOMAIN-SUFFIX,imkan.tv

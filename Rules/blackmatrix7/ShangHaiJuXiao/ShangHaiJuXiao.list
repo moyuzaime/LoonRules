@@ -1,8 +1,14 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ShangHaiJuXiao/ShangHaiJuXiao.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ShangHaiJuXiao/ShangHaiJuXiao.list
+# 说明: 上海聚效
 # 规则数: 5
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,bubuying.net
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,kuaishuru.net
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,mdvdns.com
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,mediav.com
+# 目标: ShangHaiJuXiao
 DOMAIN-SUFFIX,mvad.com

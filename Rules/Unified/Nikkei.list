@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Nikkei
 # 合并来源: blackmatrix7/ios_rule_script Nikkei
 # 规则数: 3
+# 目标: Nikkei
 DOMAIN-SUFFIX,nikkei.co.jp
+# 目标: Nikkei
 DOMAIN-SUFFIX,nikkei.com
+# 目标: Nikkei
 DOMAIN-SUFFIX,nikkei.jp

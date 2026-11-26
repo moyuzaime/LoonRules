@@ -1,12 +1,21 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AppleTV/AppleTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleTV/AppleTV.list
 # 规则数: 9
+# 目标: AppleTV
 DOMAIN,hls-amt.itunes.apple.com
+# 目标: AppleTV
 DOMAIN,hls.itunes.apple.com
+# 目标: AppleTV
 DOMAIN,np-edge.itunes.apple.com
+# 目标: AppleTV
 DOMAIN,play-edge.itunes.apple.com
+# 目标: AppleTV
 DOMAIN,tv.applemusic.com
+# 目标: AppleTV
 DOMAIN,uts-api.itunes.apple.com
+# 目标: AppleTV
 DOMAIN-SUFFIX,tv.apple.com
+# 目标: AppleTV
 USER-AGENT,AppleTV*
+# 目标: AppleTV
 USER-AGENT,com.apple.tv*

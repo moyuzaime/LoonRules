@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: SoundCloud
 # 合并来源: blackmatrix7/ios_rule_script SoundCloud
 # 规则数: 4
+# 目标: SoundCloud
 DOMAIN-SUFFIX,p-cdn.us
+# 目标: SoundCloud
 DOMAIN-SUFFIX,sndcdn.com
+# 目标: SoundCloud
 DOMAIN-SUFFIX,soundcloud.com
+# 目标: SoundCloud
 USER-AGENT,SoundCloud*

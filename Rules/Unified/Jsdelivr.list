@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Jsdelivr
 # 合并来源: blackmatrix7/ios_rule_script Jsdelivr
 # 规则数: 3
+# 目标: Jsdelivr
 DOMAIN-SUFFIX,esm.run
+# 目标: Jsdelivr
 DOMAIN-SUFFIX,jsdelivr.com
+# 目标: Jsdelivr
 DOMAIN-SUFFIX,jsdelivr.net

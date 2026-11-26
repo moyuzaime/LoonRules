@@ -1,25 +1,47 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Zee/Zee.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Zee/Zee.list
 # 规则数: 22
+# 目标: Zee
 DOMAIN-SUFFIX,bgr.in
+# 目标: Zee
 DOMAIN-SUFFIX,bollywoodlife.com
+# 目标: Zee
 DOMAIN-SUFFIX,careerfundas.com
+# 目标: Zee
 DOMAIN-SUFFIX,cricketcountry.com
+# 目标: Zee
 DOMAIN-SUFFIX,dnai.in
+# 目标: Zee
 DOMAIN-SUFFIX,dnaindia.com
+# 目标: Zee
 DOMAIN-SUFFIX,earngeek.com
+# 目标: Zee
 DOMAIN-SUFFIX,ekhindi.com
+# 目标: Zee
 DOMAIN-SUFFIX,ind.sh
+# 目标: Zee
 DOMAIN-SUFFIX,india.com
+# 目标: Zee
 DOMAIN-SUFFIX,indiancolleges.com
+# 目标: Zee
 DOMAIN-SUFFIX,itripto.com
+# 目标: Zee
 DOMAIN-SUFFIX,oncars.in
+# 目标: Zee
 DOMAIN-SUFFIX,prepsure.com
+# 目标: Zee
 DOMAIN-SUFFIX,thehealthsite.com
+# 目标: Zee
 DOMAIN-SUFFIX,wionews.com
+# 目标: Zee
 DOMAIN-SUFFIX,yo1health.com
+# 目标: Zee
 DOMAIN-SUFFIX,zee.com
+# 目标: Zee
 DOMAIN-SUFFIX,zeebiz.com
+# 目标: Zee
 DOMAIN-SUFFIX,zeeentertainment.com
+# 目标: Zee
 DOMAIN-SUFFIX,zeenews-fonts.s3.amazonaws.com
+# 目标: Zee
 DOMAIN-SUFFIX,zeenews.com

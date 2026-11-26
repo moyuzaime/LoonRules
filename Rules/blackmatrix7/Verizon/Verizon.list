@@ -1,186 +1,369 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Verizon/Verizon.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Verizon/Verizon.list
 # 规则数: 183
+# 目标: Verizon
 DOMAIN-SUFFIX,advertising.com
+# 目标: Verizon
 DOMAIN-SUFFIX,aol.co.uk
+# 目标: Verizon
 DOMAIN-SUFFIX,aol.com
+# 目标: Verizon
 DOMAIN-SUFFIX,aol.de
+# 目标: Verizon
 DOMAIN-SUFFIX,aol.fr
+# 目标: Verizon
 DOMAIN-SUFFIX,aolcdn.com
+# 目标: Verizon
 DOMAIN-SUFFIX,autoblog.com
+# 目标: Verizon
 DOMAIN-SUFFIX,engadget.com
+# 目标: Verizon
 DOMAIN-SUFFIX,engagedaily.org
+# 目标: Verizon
 DOMAIN-SUFFIX,flickr.com
+# 目标: Verizon
 DOMAIN-SUFFIX,flickr.net
+# 目标: Verizon
 DOMAIN-SUFFIX,flurry.com
+# 目标: Verizon
 DOMAIN-SUFFIX,huffingtonpost.com
+# 目标: Verizon
 DOMAIN-SUFFIX,huffpost.com
+# 目标: Verizon
 DOMAIN-SUFFIX,intheknow.com
+# 目标: Verizon
 DOMAIN-SUFFIX,myguide.hk
+# 目标: Verizon
 DOMAIN-SUFFIX,oath.cloud
+# 目标: Verizon
 DOMAIN-SUFFIX,oath.com
+# 目标: Verizon
 DOMAIN-SUFFIX,ouroath.com
+# 目标: Verizon
 DOMAIN-SUFFIX,static-verizon.com
+# 目标: Verizon
 DOMAIN-SUFFIX,staticflickr.com
+# 目标: Verizon
 DOMAIN-SUFFIX,techcrunch.com
+# 目标: Verizon
 DOMAIN-SUFFIX,uplynk.com
+# 目标: Verizon
 DOMAIN-SUFFIX,verizon.com
+# 目标: Verizon
 DOMAIN-SUFFIX,verizon.net
+# 目标: Verizon
 DOMAIN-SUFFIX,verizonbusiness.com
+# 目标: Verizon
 DOMAIN-SUFFIX,verizonbusinessfios.com
+# 目标: Verizon
 DOMAIN-SUFFIX,verizondigitalmedia.com
+# 目标: Verizon
 DOMAIN-SUFFIX,verizonenterprise.com
+# 目标: Verizon
 DOMAIN-SUFFIX,verizonfios.com
+# 目标: Verizon
 DOMAIN-SUFFIX,verizonmedia.com
+# 目标: Verizon
 DOMAIN-SUFFIX,verizonwireless.com
+# 目标: Verizon
 DOMAIN-SUFFIX,vidible.tv
+# 目标: Verizon
 DOMAIN-SUFFIX,vzw.com
+# 目标: Verizon
 DOMAIN-SUFFIX,xo.com
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo-news.com.hk
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ae
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.am
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.as
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.at
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.az
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ba
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.be
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.bg
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.bi
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.bs
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.bt
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.by
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ca
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.cat
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.cd
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.cg
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ch
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.cl
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.cm
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.cn
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.ao
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.bw
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.ck
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.cr
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.id
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.il
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.in
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.jp
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.kr
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.mz
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.nz
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.th
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.tz
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.uk
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.uz
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.ve
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.vi
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.co.za
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.af
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.ag
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.ai
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.ar
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.bd
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.bo
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.br
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.bz
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.co
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.do
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.ec
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.eg
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.fj
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.gi
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.gt
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.hk
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.kw
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.lb
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.ly
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.mt
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.mx
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.my
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.na
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.nf
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.om
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.pa
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.pe
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.ph
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.pk
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.pr
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.py
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.sa
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.sb
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.sg
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.sv
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.tj
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.tr
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.tw
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.ua
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.uy
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.vc
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.com.vn
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.cz
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.de
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.dj
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.dk
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.dm
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ee
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.es
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.fi
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.fm
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.fr
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ge
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.gg
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.gl
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.gm
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.gp
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.gr
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.gy
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.hr
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.hu
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ie
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.im
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.is
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.it
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.je
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.jo
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.la
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.lt
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.lu
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.lv
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.md
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.me
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.mk
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.mw
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.net
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.nl
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.no
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.nu
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.pl
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.pn
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ps
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.pt
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ro
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ru
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.rw
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.se
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.sh
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.si
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.sk
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.sm
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.sn
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.so
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.sr
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.st
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.tg
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.tk
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.tl
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.tm
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.tn
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.vg
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoo.ws
+# 目标: Verizon
 DOMAIN-SUFFIX,yahooapis.com
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoodns.net
+# 目标: Verizon
 DOMAIN-SUFFIX,yahoosandbox.com
+# 目标: Verizon
 DOMAIN-SUFFIX,yimg.com
+# 目标: Verizon
 DOMAIN-SUFFIX,yimg.jp
+# 目标: Verizon
 DOMAIN-SUFFIX,yourdigitalrebatecenter.com

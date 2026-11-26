@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: WenJuanXing
 # 合并来源: blackmatrix7/ios_rule_script WenJuanXing
+# 说明: 问卷星
 # 规则数: 4
+# 目标: WenJuanXing
 DOMAIN-SUFFIX,sojump.com
+# 目标: WenJuanXing
 DOMAIN-SUFFIX,wjx.cn
+# 目标: WenJuanXing
 DOMAIN-SUFFIX,wjx.com
+# 目标: WenJuanXing
 DOMAIN-SUFFIX,wjx.top

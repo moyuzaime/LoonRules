@@ -1,56 +1,110 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Sohu/Sohu.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Sohu/Sohu.list
+# 说明: 搜狐
 # 规则数: 53
+# 目标: Sohu
 DOMAIN-SUFFIX,acoloo.com
+# 目标: Sohu
 DOMAIN-SUFFIX,baokang.com
+# 目标: Sohu
 DOMAIN-SUFFIX,didipai.com
+# 目标: Sohu
 DOMAIN-SUFFIX,dm518.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,domeos.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,domeos.com.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,focus.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,gfeel.com.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,ggoplay.com
+# 目标: Sohu
 DOMAIN-SUFFIX,ggowan.com
+# 目标: Sohu
 DOMAIN-SUFFIX,go2map.com
+# 目标: Sohu
 DOMAIN-SUFFIX,goodfeel.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,hixiaoe.com
+# 目标: Sohu
 DOMAIN-SUFFIX,imancheng.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,itc.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,itc.com.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,k.sohu
+# 目标: Sohu
 DOMAIN-SUFFIX,m.sohu
+# 目标: Sohu
 DOMAIN-SUFFIX,pinyin.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,qd.ink
+# 目标: Sohu
 DOMAIN-SUFFIX,sg.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,sgyeyou.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sgyouxi.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sogo.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sogou-inc.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sogou-op.org
+# 目标: Sohu
 DOMAIN-SUFFIX,sogou.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,sogou.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sogou.com.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,sogou.net
+# 目标: Sohu
 DOMAIN-SUFFIX,sogoucdn.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sohu-inc.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sohu.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,sohu.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sohu.com.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,sohuapps.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sohucs.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sohumail.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sohuora.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sohurdc.com
+# 目标: Sohu
 DOMAIN-SUFFIX,sohusce.com
+# 目标: Sohu
 DOMAIN-SUFFIX,soso.com
+# 目标: Sohu
 DOMAIN-SUFFIX,soso.com.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,sososnap.com
+# 目标: Sohu
 DOMAIN-SUFFIX,t.sohu
+# 目标: Sohu
 DOMAIN-SUFFIX,teemo.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,tv.sohu
+# 目标: Sohu
 DOMAIN-SUFFIX,v.sohu
+# 目标: Sohu
 DOMAIN-SUFFIX,wowenwen.com
+# 目标: Sohu
 DOMAIN-SUFFIX,xinyan.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,yeyousg.com
+# 目标: Sohu
 DOMAIN-SUFFIX,yidianliulan.cn
+# 目标: Sohu
 DOMAIN-SUFFIX,yidianliulan.com

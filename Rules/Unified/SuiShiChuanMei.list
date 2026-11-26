@@ -1,17 +1,32 @@
 # 统一规则库 | 分类: SuiShiChuanMei
 # 合并来源: blackmatrix7/ios_rule_script SuiShiChuanMei
+# 说明: 随视传媒
 # 规则数: 14
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,91friend.com
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,adsit.cn
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,aojiamarly.com
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,ebaidutv.com
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,mipujia.cn
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,mipujia.com
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,mobhui.cn
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,mobhui.com
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,quyaoya.cn
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,quyaoya.com
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,smartsocial.cn
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,socialjia.com
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,socialpls.com
+# 目标: SuiShiChuanMei
 DOMAIN-SUFFIX,weibopie.com

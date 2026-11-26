@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: HP
 # 合并来源: blackmatrix7/ios_rule_script HP
 # 规则数: 4
+# 目标: HP
 DOMAIN-SUFFIX,hp.com
+# 目标: HP
 DOMAIN-SUFFIX,hpstore-china.com
+# 目标: HP
 DOMAIN-SUFFIX,hpstore.com
+# 目标: HP
 DOMAIN-SUFFIX,hpstore.corpmerchandise.com

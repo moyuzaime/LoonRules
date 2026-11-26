@@ -1,35 +1,67 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AppleDaily/AppleDaily.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleDaily/AppleDaily.list
 # 规则数: 32
+# 目标: AppleDaily
 DOMAIN-SUFFIX,appledaily.com
+# 目标: AppleDaily
 DOMAIN-SUFFIX,appledaily.com.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,appledaily.com.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,appledaily.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,applefruity.com
+# 目标: AppleDaily
 DOMAIN-SUFFIX,applehealth.com.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,atnext.com
+# 目标: AppleDaily
 DOMAIN-SUFFIX,bestmallawards.com
+# 目标: AppleDaily
 DOMAIN-SUFFIX,deluxe.com.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,eracom.com.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,next.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextdigital.com.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextdigital.com.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextfilm.com.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextmag.com.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextmedia.com
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextmedia.com.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextmgz.com
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextplus.com.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nexttv.com.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextwork.com.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextwork.com.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextwork.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nextwork.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nxtdig.com.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,nxtdig.com.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,omoplanet.com
+# 目标: AppleDaily
 DOMAIN-SUFFIX,privilege.hk
+# 目标: AppleDaily
 DOMAIN-SUFFIX,privilege.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,sharpdaily.tw
+# 目标: AppleDaily
 DOMAIN-SUFFIX,tomonews.net
+# 目标: AppleDaily
 DOMAIN-SUFFIX,twnextdigital.com

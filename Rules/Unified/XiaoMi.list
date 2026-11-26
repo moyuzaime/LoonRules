@@ -1,169 +1,336 @@
 # 统一规则库 | 分类: XiaoMi
 # 合并来源: blackmatrix7/ios_rule_script XiaoMi
+# 说明: 小米
 # 规则数: 166
+# 目标: XiaoMi
 DOMAIN-SUFFIX,408399.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,408399.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,816798.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,account-cn.huami.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,addatachain.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,airstar.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,airstarfinance.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,aleenote.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,aleenote.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,alibiji.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,alinotes.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,aos-incentive.huami.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,api-aos-cnbj6.huami.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,api-mifit-cn.huami.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,api-mifit.huami.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,app-analytics-cn.huami.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,duokan.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,duokanbox.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,facephoto.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,fe-cdn.huami.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,fe-static.huami.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,growth.ai.srv
+# 目标: XiaoMi
 DOMAIN-SUFFIX,heihei.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,hongmi.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,i3ciebwk6ixfb.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,kewucool.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,kssdata-yz1.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,kssdata-yz2-lt.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,kssdata-yz2.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,kssm.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,kssv-w-yz01.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,leijun.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,m3-cloud.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mgslb.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mgslb.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mgslb.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mgslb.org
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-ae.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-ae.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-ae.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-ae.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-cache.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-cdn.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-customer.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-dun.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-idc.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-img.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-img1.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-img2.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-img3.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-img4.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-img5.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi-static.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi0.cc
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mi1.cc
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miav-cse.avlyun.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,micoce.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,micode.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,micode.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,micode.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mieco.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mifile.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,migames.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mij.cc
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mijia.tech
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mijiayoupin.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mikge.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miliao.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,milliant.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mioffice.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mios.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mios.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miot-spec.org
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mipay.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mipush.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miredian.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miren.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,misrm.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,misrm.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,misrm.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,misrm.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mitalk.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mitvos.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mitvos.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miui-fxcse.avlyun.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miui.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miui.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miwifi.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,mixinshe.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,miyun.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,openvela.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,peijian.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,qinghedaxue.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,qsb.browser.miui.srv
+# 目标: XiaoMi
 DOMAIN-SUFFIX,res.mi.baidu.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,restapi.amap.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,shunwei.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,singapore01.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,sodajs.org
+# 目标: XiaoMi
 DOMAIN-SUFFIX,store-cdn.huami.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,thumb-yz01.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,thumb-yz02.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,thumb-yz69.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,thumb-yz96.kuaipandata.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,timipc.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,tj1-miui-bn-stage01.kscn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,wali.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaoaiassist.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaoaiscan.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaoaisound.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomi.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomi.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomi.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomi.open.qingting.fm
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomi.org
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomicache.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomicorp.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomicorp.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomicorp.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomicorp.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomicp.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomidns.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomidns.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomidns.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomidns.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomiev.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomiinc.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomiinc.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomiinc.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomiinc.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomimimo.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomimobile.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaominr.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomiprint.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomisa.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomisa.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomisa.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomisa.org
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomiwear.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomixiaoai.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xiaomiyoupin.com
+# 目标: XiaoMi
 DOMAIN-SUFFIX,xlaomi.net
+# 目标: XiaoMi
 DOMAIN-SUFFIX,youpin.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,youpin.com.cn
+# 目标: XiaoMi
 DOMAIN-SUFFIX,zhutidasai.com
+# 目标: XiaoMi
 IP-CIDR,110.43.63.242/32,no-resolve
+# 目标: XiaoMi
 IP-CIDR,111.205.195.120/30,no-resolve
+# 目标: XiaoMi
 IP-CIDR,111.205.195.124/31,no-resolve
+# 目标: XiaoMi
 IP-CIDR,114.247.175.210/31,no-resolve
+# 目标: XiaoMi
 IP-CIDR,114.247.175.212/32,no-resolve
+# 目标: XiaoMi
 IP-CIDR,120.133.33.222/32,no-resolve
+# 目标: XiaoMi
 IP-CIDR,47.241.176.221/32,no-resolve
+# 目标: XiaoMi
 IP-CIDR,58.220.58.152/31,no-resolve
+# 目标: XiaoMi
 IP-CIDR,58.220.59.2/32,no-resolve
+# 目标: XiaoMi
 IP-CIDR,110.43.63.242/32
+# 目标: XiaoMi
 IP-CIDR,111.205.195.120/30
+# 目标: XiaoMi
 IP-CIDR,111.205.195.124/31
+# 目标: XiaoMi
 IP-CIDR,114.247.175.210/31
+# 目标: XiaoMi
 IP-CIDR,114.247.175.212/32
+# 目标: XiaoMi
 IP-CIDR,120.133.33.222/32
+# 目标: XiaoMi
 IP-CIDR,47.241.176.221/32
+# 目标: XiaoMi
 IP-CIDR,58.220.58.152/31
+# 目标: XiaoMi
 IP-CIDR,58.220.59.2/32

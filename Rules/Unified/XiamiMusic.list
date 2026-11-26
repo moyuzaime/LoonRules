@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: XiamiMusic
 # 合并来源: blackmatrix7/ios_rule_script XiamiMusic
+# 说明: 虾米音乐
 # 规则数: 5
+# 目标: XiamiMusic
 DOMAIN-SUFFIX,xiami.com
+# 目标: XiamiMusic
 DOMAIN-SUFFIX,xiami.fm
+# 目标: XiamiMusic
 DOMAIN-SUFFIX,xiami.net
+# 目标: XiamiMusic
 USER-AGENT,walkman*
+# 目标: XiamiMusic
 USER-AGENT,xiami*

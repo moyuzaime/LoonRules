@@ -1,192 +1,381 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/microsoft-cn.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/microsoft-cn.list
 # 规则数: 189
+# 目标: microsoft-cn
 DOMAIN,azuremigrate.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,azuremigratetest.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,azurestackhub.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,azurestackhubuat.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,b.c2r.ts.cdn.office.net
+# 目标: microsoft-cn
 DOMAIN,bj1.api.bing.com
+# 目标: microsoft-cn
 DOMAIN,cbdstest.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,cn.windowssearch.com
+# 目标: microsoft-cn
 DOMAIN,collaborate.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,collaborateppe.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,ctldl.windowsupdate.com
+# 目标: microsoft-cn
 DOMAIN,developer.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,download.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,download.visualstudio.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,dreamspark.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,dreamsparkuat.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,f.c2r.ts.cdn.office.net
+# 目标: microsoft-cn
 DOMAIN,itacademy.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,itacademyuat.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,lex.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,lexuat.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,mbs.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,mpnbenefits.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,mpnbenefitsrtluat.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,msdn.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,msdprod-ad.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,msproduct.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,myvs.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,oemsoc.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,oemsocuat.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,officecdn.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,officemkt.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,officemktuat.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,osrelease.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,rsm.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,sdx.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,shell.cdn.office.net
+# 目标: microsoft-cn
 DOMAIN,software.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,statics.teams.cdn.office.net
+# 目标: microsoft-cn
 DOMAIN,storecorefulfillment.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,storeedge.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,surface.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,surface.downloads.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,vlportal.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,volic.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,vscode.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,vz.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN,windbg.download.prss.microsoft.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,21vbc.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,21vbluecloud.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,21vbluecloud.net
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,aadrm.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,aggresmart.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,apihub-internal.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,appserviceenvironment.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdna.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnb.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnc.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnd.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdne.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnf.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdng.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnh.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdni.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnj.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnk.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnl.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnm.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnn.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdno.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnp.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnq.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdnr.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azchcdns.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azcrmc-test.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azcrmc.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azk8s.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,aznbcontent.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,aztask.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-api.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-apihub.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-automation.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-connectedvehicles.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-devices-provisioning.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-devices.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-1.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-10.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-2.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-3.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-4.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-5.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-6.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-7.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-8.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns-9.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-dns.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure-mobile.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azure.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azurecr-test.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azurecr.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azurehdinsight.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azureiotsuite.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azuremresolver.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azureprivatedns.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azurerms.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,azuresandbox.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,b2clogin.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,b3itech.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,bing.com.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,blueaggrestore.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,bluecloudprod.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,cegid-cloud.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,chinacloud-mobile.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,chinacloudapi.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,chinacloudapp.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,chinacloudsites.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,cn.bing.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,cn.bing.net
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,cn.mm.bing.net
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,dcg.microsoft.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,ditu.live.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,download.windowsupdate.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,dynamics.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,engkoo.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,hdinsightservices.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,lync.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,management-azure-devices.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,mcchcdn.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,mgmt-azure-api.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoft-smb.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftazurestatus.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftmetrics.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftnews.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftonline-i.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftonline-m-i.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftonline-m.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftonline-p-i.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftonline-p-i.net.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftonline-p.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftonline-p.net.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftonline.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftreactor.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsoftstore.com.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,microsofttranslator-int.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,mncmsidlab1.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msappproxy.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msauth.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msauthimages.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,mschcdn.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msftauth.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msftauthimages.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msftcloudes.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msidentity.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msidlabpbmc.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msn.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,mspil.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,msra.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,o365cn.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,o365files.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,office365-net.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,office365.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,officeplus.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,officewebapps.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,onmschina.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,outlook.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,pbiwebcontent.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,powerapps.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,powerappsportals.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,powerautomate.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,powerbi.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,r.bing.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,reactorms.com.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,sharepoint.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,sovcloud-mx.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,sovcloud-static.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,sovcloud-usercontent.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,sovcloud.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,th.bing.com
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,trafficmanager.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,trustcenter.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,windowsazure.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,windowsazurestatus.cn
+# 目标: microsoft-cn
 DOMAIN-SUFFIX,xboxlive.cn

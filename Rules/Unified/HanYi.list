@@ -1,12 +1,22 @@
 # 统一规则库 | 分类: HanYi
 # 合并来源: blackmatrix7/ios_rule_script HanYi
+# 说明: 汉仪
 # 规则数: 9
+# 目标: HanYi
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
+# 目标: HanYi
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
+# 目标: HanYi
 DOMAIN-SUFFIX,fontstar.com.cn
+# 目标: HanYi
 DOMAIN-SUFFIX,fontstudio.cn
+# 目标: HanYi
 DOMAIN-SUFFIX,hanyi.com
+# 目标: HanYi
 DOMAIN-SUFFIX,hanyi.com.cn
+# 目标: HanYi
 DOMAIN-SUFFIX,hellowebfont.com
+# 目标: HanYi
 DOMAIN-SUFFIX,ifont.cn
+# 目标: HanYi
 DOMAIN-SUFFIX,joytype.com

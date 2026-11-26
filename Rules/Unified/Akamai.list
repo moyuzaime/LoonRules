@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: Akamai
 # 合并来源: blackmatrix7/ios_rule_script Akamai
 # 规则数: 6
+# 目标: Akamai
 DOMAIN-SUFFIX,akamai.com
+# 目标: Akamai
 DOMAIN-SUFFIX,akamai.net
+# 目标: Akamai
 DOMAIN-SUFFIX,akamaiedge.net
+# 目标: Akamai
 DOMAIN-SUFFIX,akamaihd.net
+# 目标: Akamai
 DOMAIN-SUFFIX,akamaistream.net
+# 目标: Akamai
 DOMAIN-SUFFIX,akamaized.net

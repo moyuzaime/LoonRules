@@ -1,50 +1,97 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AmazonCN/AmazonCN.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AmazonCN/AmazonCN.list
 # 规则数: 47
+# 目标: AmazonCN
 DOMAIN-SUFFIX,a2z.org.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,aboutamazon.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,alexafund.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,alexafund.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazon.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonaws.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonaws.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonbusiness.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonbusiness.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonchoice.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonchoice.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonchoices.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonchoices.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazoninspire.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazoninspire.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonlaunchpad.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonlaunchpad.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonlending.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonnow.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonnow.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonprimevideo.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonwebservices.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonworkdocs.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,amazonworkdocs.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,asfiovnxocqpcry.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,assoc-amazon.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,aws-border.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,aws-icp-domain-manager.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,awsapps.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,awsapps.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,awsstatic.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,cloudfront-test.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,cloudfront.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,kindle.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,kindleoasis.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,kindleoasis.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,nwcdcloud.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,nwcdcloud.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,nwcddns.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,nwcdinfosec.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,primeday.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,primeday.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,route53.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,sagemaker.com.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,yamaxun.cn
+# 目标: AmazonCN
 DOMAIN-SUFFIX,z.cn

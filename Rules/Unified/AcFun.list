@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: AcFun
 # 合并来源: blackmatrix7/ios_rule_script AcFun
 # 规则数: 5
+# 目标: AcFun
 DOMAIN-SUFFIX,acfun.cn
+# 目标: AcFun
 DOMAIN-SUFFIX,acfun.com
+# 目标: AcFun
 DOMAIN-SUFFIX,acfun.tv
+# 目标: AcFun
 DOMAIN-SUFFIX,aixifan.com
+# 目标: AcFun
 USER-AGENT,AcFun*

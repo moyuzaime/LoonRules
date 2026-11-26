@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: Zendesk
 # 合并来源: blackmatrix7/ios_rule_script Zendesk
 # 规则数: 6
+# 目标: Zendesk
 DOMAIN-SUFFIX,outbound.io
+# 目标: Zendesk
 DOMAIN-SUFFIX,zdassets.com
+# 目标: Zendesk
 DOMAIN-SUFFIX,zdusercontent.com
+# 目标: Zendesk
 DOMAIN-SUFFIX,zendesk.com
+# 目标: Zendesk
 DOMAIN-SUFFIX,zndsk.com
+# 目标: Zendesk
 DOMAIN-SUFFIX,zopim.com

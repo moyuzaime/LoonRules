@@ -1,9 +1,16 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/BOCOM/BOCOM.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/BOCOM/BOCOM.list
+# 说明: 交通银行
 # 规则数: 6
+# 目标: BOCOM
 DOMAIN-SUFFIX,95559.com.cn
+# 目标: BOCOM
 DOMAIN-SUFFIX,95559.sh.cn
+# 目标: BOCOM
 DOMAIN-SUFFIX,bankcomm.com
+# 目标: BOCOM
 DOMAIN-SUFFIX,bankcomm.com.au
+# 目标: BOCOM
 DOMAIN-SUFFIX,bankcomm.com.mo
+# 目标: BOCOM
 DOMAIN-SUFFIX,bankcomm.com.tw

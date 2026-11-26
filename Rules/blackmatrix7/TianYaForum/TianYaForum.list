@@ -1,16 +1,30 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/TianYaForum/TianYaForum.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TianYaForum/TianYaForum.list
+# 说明: 天涯社区
 # 规则数: 13
+# 目标: TianYaForum
 DOMAIN-SUFFIX,gz12301.com
+# 目标: TianYaForum
 DOMAIN-SUFFIX,hainan.com
+# 目标: TianYaForum
 DOMAIN-SUFFIX,hainan.net
+# 目标: TianYaForum
 DOMAIN-SUFFIX,hi114.cn
+# 目标: TianYaForum
 DOMAIN-SUFFIX,hibusiness.com
+# 目标: TianYaForum
 DOMAIN-SUFFIX,hifortune.net
+# 目标: TianYaForum
 DOMAIN-SUFFIX,laibafile.cn
+# 目标: TianYaForum
 DOMAIN-SUFFIX,tianya.cn
+# 目标: TianYaForum
 DOMAIN-SUFFIX,tianya.com.cn
+# 目标: TianYaForum
 DOMAIN-SUFFIX,tianyablog.com
+# 目标: TianYaForum
 DOMAIN-SUFFIX,tianyaclub.com
+# 目标: TianYaForum
 DOMAIN-SUFFIX,tianyaui.com
+# 目标: TianYaForum
 DOMAIN-SUFFIX,tysurl.com

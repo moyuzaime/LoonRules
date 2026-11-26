@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: ZhuanZhuan
 # 合并来源: blackmatrix7/ios_rule_script ZhuanZhuan
+# 说明: 转转
 # 规则数: 4
+# 目标: ZhuanZhuan
 DOMAIN-SUFFIX,zhuan-zhuan.cn
+# 目标: ZhuanZhuan
 DOMAIN-SUFFIX,zhuancorp.com
+# 目标: ZhuanZhuan
 DOMAIN-SUFFIX,zhuanspirit.com
+# 目标: ZhuanZhuan
 DOMAIN-SUFFIX,zhuanzhuan.com

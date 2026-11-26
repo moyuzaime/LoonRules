@@ -1,4 +1,6 @@
 # 统一规则库 | 分类: Antutu
 # 合并来源: blackmatrix7/ios_rule_script Antutu
+# 说明: 安兔兔
 # 规则数: 1
+# 目标: Antutu
 DOMAIN-SUFFIX,antutu.com

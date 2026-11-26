@@ -1,264 +1,525 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Intel/Intel.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Intel/Intel.list
 # 规则数: 261
+# 目标: Intel
 DOMAIN-SUFFIX,01.org
+# 目标: Intel
 DOMAIN-SUFFIX,acpica.com
+# 目标: Intel
 DOMAIN-SUFFIX,altera.com
+# 目标: Intel
 DOMAIN-SUFFIX,alteraforum.com
+# 目标: Intel
 DOMAIN-SUFFIX,alteraforums.com
+# 目标: Intel
 DOMAIN-SUFFIX,alteraforums.net
+# 目标: Intel
 DOMAIN-SUFFIX,alterauserforum.com
+# 目标: Intel
 DOMAIN-SUFFIX,alterauserforum.net
+# 目标: Intel
 DOMAIN-SUFFIX,alterauserforums.com
+# 目标: Intel
 DOMAIN-SUFFIX,alterauserforums.net
+# 目标: Intel
 DOMAIN-SUFFIX,barefootnetworks.com
+# 目标: Intel
 DOMAIN-SUFFIX,buyaltera.com
+# 目标: Intel
 DOMAIN-SUFFIX,celeron.com
+# 目标: Intel
 DOMAIN-SUFFIX,celeron.net
+# 目标: Intel
 DOMAIN-SUFFIX,centrino.com
+# 目标: Intel
 DOMAIN-SUFFIX,centrino.net
+# 目标: Intel
 DOMAIN-SUFFIX,chips.com
+# 目标: Intel
 DOMAIN-SUFFIX,cilk.com
+# 目标: Intel
 DOMAIN-SUFFIX,cilk.net
+# 目标: Intel
 DOMAIN-SUFFIX,clearlinux.cn
+# 目标: Intel
 DOMAIN-SUFFIX,clearlinux.org
+# 目标: Intel
 DOMAIN-SUFFIX,cloudinsights.com
+# 目标: Intel
 DOMAIN-SUFFIX,clusterconnection.com
+# 目标: Intel
 DOMAIN-SUFFIX,coreduo.com
+# 目标: Intel
 DOMAIN-SUFFIX,coreextreme.com
+# 目标: Intel
 DOMAIN-SUFFIX,crosswalk-project.com
+# 目标: Intel
 DOMAIN-SUFFIX,crosswalk-project.net
+# 目标: Intel
 DOMAIN-SUFFIX,doceapower.com
+# 目标: Intel
 DOMAIN-SUFFIX,easic.com
+# 目标: Intel
 DOMAIN-SUFFIX,enpirion.com
+# 目标: Intel
 DOMAIN-SUFFIX,exascale-tech.com
+# 目标: Intel
 DOMAIN-SUFFIX,exploreintel.com
+# 目标: Intel
 DOMAIN-SUFFIX,gordonmoore.com
+# 目标: Intel
 DOMAIN-SUFFIX,hyperscan.io
+# 目标: Intel
 DOMAIN-SUFFIX,insidefilms.com
+# 目标: Intel
 DOMAIN-SUFFIX,intc.com
+# 目标: Intel
 DOMAIN-SUFFIX,intel-research.net
+# 目标: Intel
 DOMAIN-SUFFIX,intel-university-collaboration.net
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ac
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ae
+# 目标: Intel
 DOMAIN-SUFFIX,intel.af
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ag
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ai
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ar
+# 目标: Intel
 DOMAIN-SUFFIX,intel.at
+# 目标: Intel
 DOMAIN-SUFFIX,intel.az
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ba
+# 目标: Intel
 DOMAIN-SUFFIX,intel.bg
+# 目标: Intel
 DOMAIN-SUFFIX,intel.bh
+# 目标: Intel
 DOMAIN-SUFFIX,intel.bi
+# 目标: Intel
 DOMAIN-SUFFIX,intel.bo
+# 目标: Intel
 DOMAIN-SUFFIX,intel.bs
+# 目标: Intel
 DOMAIN-SUFFIX,intel.by
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ca
+# 目标: Intel
 DOMAIN-SUFFIX,intel.cc
+# 目标: Intel
 DOMAIN-SUFFIX,intel.cg
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ch
+# 目标: Intel
 DOMAIN-SUFFIX,intel.cl
+# 目标: Intel
 DOMAIN-SUFFIX,intel.cm
+# 目标: Intel
 DOMAIN-SUFFIX,intel.cn
+# 目标: Intel
 DOMAIN-SUFFIX,intel.co.ae
+# 目标: Intel
 DOMAIN-SUFFIX,intel.co.cr
+# 目标: Intel
 DOMAIN-SUFFIX,intel.co.id
+# 目标: Intel
 DOMAIN-SUFFIX,intel.co.il
+# 目标: Intel
 DOMAIN-SUFFIX,intel.co.jp
+# 目标: Intel
 DOMAIN-SUFFIX,intel.co.kr
+# 目标: Intel
 DOMAIN-SUFFIX,intel.co.uk
+# 目标: Intel
 DOMAIN-SUFFIX,intel.co.za
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.ar
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.au
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.bo
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.br
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.cn
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.co
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.ec
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.hk
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.jm
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.mx
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.my
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.pe
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.ph
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.pr
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.py
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.tr
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.tw
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.uy
+# 目标: Intel
 DOMAIN-SUFFIX,intel.com.ve
+# 目标: Intel
 DOMAIN-SUFFIX,intel.cr
+# 目标: Intel
 DOMAIN-SUFFIX,intel.cu
+# 目标: Intel
 DOMAIN-SUFFIX,intel.cz
+# 目标: Intel
 DOMAIN-SUFFIX,intel.de
+# 目标: Intel
 DOMAIN-SUFFIX,intel.dk
+# 目标: Intel
 DOMAIN-SUFFIX,intel.dz
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ec
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ee
+# 目标: Intel
 DOMAIN-SUFFIX,intel.eg
+# 目标: Intel
 DOMAIN-SUFFIX,intel.es
+# 目标: Intel
 DOMAIN-SUFFIX,intel.eu
+# 目标: Intel
 DOMAIN-SUFFIX,intel.fi
+# 目标: Intel
 DOMAIN-SUFFIX,intel.fr
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ga
+# 目标: Intel
 DOMAIN-SUFFIX,intel.gd
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ge
+# 目标: Intel
 DOMAIN-SUFFIX,intel.gl
+# 目标: Intel
 DOMAIN-SUFFIX,intel.gm
+# 目标: Intel
 DOMAIN-SUFFIX,intel.gr
+# 目标: Intel
 DOMAIN-SUFFIX,intel.gs
+# 目标: Intel
 DOMAIN-SUFFIX,intel.gt
+# 目标: Intel
 DOMAIN-SUFFIX,intel.gy
+# 目标: Intel
 DOMAIN-SUFFIX,intel.hk
+# 目标: Intel
 DOMAIN-SUFFIX,intel.hn
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ht
+# 目标: Intel
 DOMAIN-SUFFIX,intel.hu
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ie
+# 目标: Intel
 DOMAIN-SUFFIX,intel.in
+# 目标: Intel
 DOMAIN-SUFFIX,intel.io
+# 目标: Intel
 DOMAIN-SUFFIX,intel.it
+# 目标: Intel
 DOMAIN-SUFFIX,intel.je
+# 目标: Intel
 DOMAIN-SUFFIX,intel.jo
+# 目标: Intel
 DOMAIN-SUFFIX,intel.jp
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ke
+# 目标: Intel
 DOMAIN-SUFFIX,intel.la
+# 目标: Intel
 DOMAIN-SUFFIX,intel.lc
+# 目标: Intel
 DOMAIN-SUFFIX,intel.lk
+# 目标: Intel
 DOMAIN-SUFFIX,intel.lt
+# 目标: Intel
 DOMAIN-SUFFIX,intel.lu
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ly
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ma
+# 目标: Intel
 DOMAIN-SUFFIX,intel.md
+# 目标: Intel
 DOMAIN-SUFFIX,intel.me
+# 目标: Intel
 DOMAIN-SUFFIX,intel.mg
+# 目标: Intel
 DOMAIN-SUFFIX,intel.mk
+# 目标: Intel
 DOMAIN-SUFFIX,intel.mn
+# 目标: Intel
 DOMAIN-SUFFIX,intel.mp
+# 目标: Intel
 DOMAIN-SUFFIX,intel.mt
+# 目标: Intel
 DOMAIN-SUFFIX,intel.mu
+# 目标: Intel
 DOMAIN-SUFFIX,intel.mw
+# 目标: Intel
 DOMAIN-SUFFIX,intel.mx
+# 目标: Intel
 DOMAIN-SUFFIX,intel.my
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ng
+# 目标: Intel
 DOMAIN-SUFFIX,intel.nl
+# 目标: Intel
 DOMAIN-SUFFIX,intel.nu
+# 目标: Intel
 DOMAIN-SUFFIX,intel.nz
+# 目标: Intel
 DOMAIN-SUFFIX,intel.pa
+# 目标: Intel
 DOMAIN-SUFFIX,intel.pe
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ph
+# 目标: Intel
 DOMAIN-SUFFIX,intel.pl
+# 目标: Intel
 DOMAIN-SUFFIX,intel.pn
+# 目标: Intel
 DOMAIN-SUFFIX,intel.re
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ro
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ru
+# 目标: Intel
 DOMAIN-SUFFIX,intel.rw
+# 目标: Intel
 DOMAIN-SUFFIX,intel.sa
+# 目标: Intel
 DOMAIN-SUFFIX,intel.sc
+# 目标: Intel
 DOMAIN-SUFFIX,intel.se
+# 目标: Intel
 DOMAIN-SUFFIX,intel.sg
+# 目标: Intel
 DOMAIN-SUFFIX,intel.si
+# 目标: Intel
 DOMAIN-SUFFIX,intel.sk
+# 目标: Intel
 DOMAIN-SUFFIX,intel.sn
+# 目标: Intel
 DOMAIN-SUFFIX,intel.sr
+# 目标: Intel
 DOMAIN-SUFFIX,intel.st
+# 目标: Intel
 DOMAIN-SUFFIX,intel.sv
+# 目标: Intel
 DOMAIN-SUFFIX,intel.sx
+# 目标: Intel
 DOMAIN-SUFFIX,intel.sy
+# 目标: Intel
 DOMAIN-SUFFIX,intel.tf
+# 目标: Intel
 DOMAIN-SUFFIX,intel.tj
+# 目标: Intel
 DOMAIN-SUFFIX,intel.tl
+# 目标: Intel
 DOMAIN-SUFFIX,intel.tm
+# 目标: Intel
 DOMAIN-SUFFIX,intel.tn
+# 目标: Intel
 DOMAIN-SUFFIX,intel.tt
+# 目标: Intel
 DOMAIN-SUFFIX,intel.tv
+# 目标: Intel
 DOMAIN-SUFFIX,intel.tw
+# 目标: Intel
 DOMAIN-SUFFIX,intel.ua
+# 目标: Intel
 DOMAIN-SUFFIX,intel.uk
+# 目标: Intel
 DOMAIN-SUFFIX,intel.us
+# 目标: Intel
 DOMAIN-SUFFIX,intel.uy
+# 目标: Intel
 DOMAIN-SUFFIX,intel.uz
+# 目标: Intel
 DOMAIN-SUFFIX,intel.vg
+# 目标: Intel
 DOMAIN-SUFFIX,intel.vn
+# 目标: Intel
 DOMAIN-SUFFIX,intel.vu
+# 目标: Intel
 DOMAIN-SUFFIX,intel.wf
+# 目标: Intel
 DOMAIN-SUFFIX,intel.yt
+# 目标: Intel
 DOMAIN-SUFFIX,intelamericasstore.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelapacstore.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelatom.net
+# 目标: Intel
 DOMAIN-SUFFIX,intelcapital.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelcapital.net
+# 目标: Intel
 DOMAIN-SUFFIX,intelcloudbuilders.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelcloudfinder.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelemeastore.com
+# 目标: Intel
 DOMAIN-SUFFIX,inteleventexpress.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelforchange.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelfreepress.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelgo.net
+# 目标: Intel
 DOMAIN-SUFFIX,intelinsight.com
+# 目标: Intel
 DOMAIN-SUFFIX,inteliotmarketplace.com
+# 目标: Intel
 DOMAIN-SUFFIX,intell.com
+# 目标: Intel
 DOMAIN-SUFFIX,intellearningseries.com
+# 目标: Intel
 DOMAIN-SUFFIX,intellinuxgraphics.com
+# 目标: Intel
 DOMAIN-SUFFIX,intellinuxgraphics.net
+# 目标: Intel
 DOMAIN-SUFFIX,intellinuxwireless.net
+# 目标: Intel
 DOMAIN-SUFFIX,intelnervana.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelnet.component
+# 目标: Intel
 DOMAIN-SUFFIX,intelplay.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelquark.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelrealsense.cn
+# 目标: Intel
 DOMAIN-SUFFIX,intelrealsense.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelrxt.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelsalestraining.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelsecurity.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelserveredge.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelsoftwarenetwork.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelstore.com
+# 目标: Intel
 DOMAIN-SUFFIX,inteltechnologyprovider.com
+# 目标: Intel
 DOMAIN-SUFFIX,intelvmwarecybersecurity.com
+# 目标: Intel
 DOMAIN-SUFFIX,itnel.com
+# 目标: Intel
 DOMAIN-SUFFIX,latencytop.com
+# 目标: Intel
 DOMAIN-SUFFIX,lookinside.com
+# 目标: Intel
 DOMAIN-SUFFIX,makebettercode.com
+# 目标: Intel
 DOMAIN-SUFFIX,makesenseofdata.com
+# 目标: Intel
 DOMAIN-SUFFIX,movidius.com
+# 目标: Intel
 DOMAIN-SUFFIX,movidius.net
+# 目标: Intel
 DOMAIN-SUFFIX,nervanasys.com
+# 目标: Intel
 DOMAIN-SUFFIX,nevex.com
+# 目标: Intel
 DOMAIN-SUFFIX,nextgenerationcenter.com
+# 目标: Intel
 DOMAIN-SUFFIX,niosii.com
+# 目标: Intel
 DOMAIN-SUFFIX,niosii.net
+# 目标: Intel
 DOMAIN-SUFFIX,omekinteractive.com
+# 目标: Intel
 DOMAIN-SUFFIX,omnitek.tv
+# 目标: Intel
 DOMAIN-SUFFIX,oneapi.com
+# 目标: Intel
 DOMAIN-SUFFIX,openamt.com
+# 目标: Intel
 DOMAIN-SUFFIX,opendroneid.org
+# 目标: Intel
 DOMAIN-SUFFIX,openvinotoolkit.org
+# 目标: Intel
 DOMAIN-SUFFIX,optanedifference.com
+# 目标: Intel
 DOMAIN-SUFFIX,ospray.net
+# 目标: Intel
 DOMAIN-SUFFIX,ospray.org
+# 目标: Intel
 DOMAIN-SUFFIX,pc.com
+# 目标: Intel
 DOMAIN-SUFFIX,pentium.com
+# 目标: Intel
 DOMAIN-SUFFIX,pentium.net
+# 目标: Intel
 DOMAIN-SUFFIX,pintool.com
+# 目标: Intel
 DOMAIN-SUFFIX,poweredbyintel.com
+# 目标: Intel
 DOMAIN-SUFFIX,qualtrics.com
+# 目标: Intel
 DOMAIN-SUFFIX,reconinstruments.com
+# 目标: Intel
 DOMAIN-SUFFIX,reconjet.com
+# 目标: Intel
 DOMAIN-SUFFIX,researchintel.com
+# 目标: Intel
 DOMAIN-SUFFIX,saffrontech.com
+# 目标: Intel
 DOMAIN-SUFFIX,sensorynetworks.com
+# 目标: Intel
 DOMAIN-SUFFIX,siport.com
+# 目标: Intel
 DOMAIN-SUFFIX,smart-edge.com
+# 目标: Intel
 DOMAIN-SUFFIX,snap-telemetry.io
+# 目标: Intel
 DOMAIN-SUFFIX,theintelstore.com
+# 目标: Intel
 DOMAIN-SUFFIX,thunderbolttechnology.net
+# 目标: Intel
 DOMAIN-SUFFIX,trustedanalytics.com
+# 目标: Intel
 DOMAIN-SUFFIX,trustedanalytics.net
+# 目标: Intel
 DOMAIN-SUFFIX,vokevr.com
+# 目标: Intel
 DOMAIN-SUFFIX,vpro.com
+# 目标: Intel
 DOMAIN-SUFFIX,vpro.net
+# 目标: Intel
 DOMAIN-SUFFIX,xeon.com
+# 目标: Intel
 DOMAIN-SUFFIX,xn--ztsq84g.cn
+# 目标: Intel
 DOMAIN-SUFFIX,xscale.com

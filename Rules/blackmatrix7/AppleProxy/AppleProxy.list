@@ -1,47 +1,91 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AppleProxy/AppleProxy.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleProxy/AppleProxy.list
 # 规则数: 44
+# 目标: AppleProxy
 DOMAIN,api-glb-sea.smoot.apple.com
+# 目标: AppleProxy
 DOMAIN,apple.comscoreresearch.com
+# 目标: AppleProxy
 DOMAIN,books.itunes.apple.com
+# 目标: AppleProxy
 DOMAIN,cdn.apple-cloudkit.com
+# 目标: AppleProxy
 DOMAIN,cvws.icloud-content.com
+# 目标: AppleProxy
 DOMAIN,developer.apple.com
+# 目标: AppleProxy
 DOMAIN,devimages-cdn.apple.com
+# 目标: AppleProxy
 DOMAIN,devstreaming-cdn.apple.com
+# 目标: AppleProxy
 DOMAIN,docs-assets.developer.apple.com
+# 目标: AppleProxy
 DOMAIN,gspe1-ssl.ls.apple.com
+# 目标: AppleProxy
 DOMAIN,hls-svod.itunes.apple.com
+# 目标: AppleProxy
 DOMAIN,itunes.apple.com
+# 目标: AppleProxy
 DOMAIN,js-cdn.music.apple.com
+# 目标: AppleProxy
 DOMAIN,lookup-api.apple.com
+# 目标: AppleProxy
 DOMAIN,mask-api.icloud.com
+# 目标: AppleProxy
 DOMAIN,mask-h2.icloud.com
+# 目标: AppleProxy
 DOMAIN,mask.icloud.com
+# 目标: AppleProxy
 DOMAIN,news-assets.apple.com
+# 目标: AppleProxy
 DOMAIN,news-client.apple.com
+# 目标: AppleProxy
 DOMAIN,news-edge.apple.com
+# 目标: AppleProxy
 DOMAIN,news-events.apple.com
+# 目标: AppleProxy
 DOMAIN,np-edge.itunes.apple.com
+# 目标: AppleProxy
 DOMAIN,play-edge.itunes.apple.com
+# 目标: AppleProxy
 DOMAIN,sandbox.itunes.apple.com
+# 目标: AppleProxy
 DOMAIN,testflight.apple.com
+# 目标: AppleProxy
 DOMAIN,tv.applemusic.com
+# 目标: AppleProxy
 DOMAIN,uts-api.itunes.apple.com
+# 目标: AppleProxy
 DOMAIN-SUFFIX,apple-dns.net
+# 目标: AppleProxy
 DOMAIN-SUFFIX,apple.news
+# 目标: AppleProxy
 DOMAIN-SUFFIX,apps.apple.com
+# 目标: AppleProxy
 DOMAIN-SUFFIX,appsto.re
+# 目标: AppleProxy
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+# 目标: AppleProxy
 DOMAIN-SUFFIX,blobstore.apple.com
+# 目标: AppleProxy
 DOMAIN-SUFFIX,cdn-apple.com
+# 目标: AppleProxy
 DOMAIN-SUFFIX,digicert.com
+# 目标: AppleProxy
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+# 目标: AppleProxy
 DOMAIN-SUFFIX,hls.itunes.apple.com
+# 目标: AppleProxy
 DOMAIN-SUFFIX,ocsp.apple.com
+# 目标: AppleProxy
 DOMAIN-SUFFIX,tv.apple.com
+# 目标: AppleProxy
 USER-AGENT,AppleNews*
+# 目标: AppleProxy
 USER-AGENT,AppleTV*
+# 目标: AppleProxy
 USER-AGENT,com.apple.news*
+# 目标: AppleProxy
 USER-AGENT,com.apple.trustd*
+# 目标: AppleProxy
 USER-AGENT,com.apple.tv*

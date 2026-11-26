@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: DigitalOcean
 # 合并来源: blackmatrix7/ios_rule_script DigitalOcean
 # 规则数: 4
+# 目标: DigitalOcean
 DOMAIN-SUFFIX,digitalocean.com
+# 目标: DigitalOcean
 DOMAIN-SUFFIX,digitaloceanspaces.com
+# 目标: DigitalOcean
 DOMAIN-SUFFIX,do.co
+# 目标: DigitalOcean
 DOMAIN-SUFFIX,nginxconfig.io

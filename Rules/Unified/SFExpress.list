@@ -1,23 +1,44 @@
 # 统一规则库 | 分类: SFExpress
 # 合并来源: blackmatrix7/ios_rule_script SFExpress
+# 说明: 顺丰速运
 # 规则数: 20
+# 目标: SFExpress
 DOMAIN-SUFFIX,feng1.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,fslinker.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,hbjia.net
+# 目标: SFExpress
 DOMAIN-SUFFIX,rongechain.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-airlines.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-cityrush.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-express.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-financial.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-intra-city.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-jf.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-saas.cn
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-saas.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-saas.com.cn
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf-tech.com.cn
+# 目标: SFExpress
 DOMAIN-SUFFIX,sf.cn
+# 目标: SFExpress
 DOMAIN-SUFFIX,sfair.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sfbuy.com
+# 目标: SFExpress
 DOMAIN-SUFFIX,sfcar.hk
+# 目标: SFExpress
 DOMAIN-SUFFIX,sffix.cn
+# 目标: SFExpress
 DOMAIN-SUFFIX,sfgy.org

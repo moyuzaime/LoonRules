@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Peacock/Peacock.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Peacock/Peacock.list
 # 规则数: 2
+# 目标: Peacock
 DOMAIN-SUFFIX,peacocktv.com
+# 目标: Peacock
 USER-AGENT,PeacockMobile*

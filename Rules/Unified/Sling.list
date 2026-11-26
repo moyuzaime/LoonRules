@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: Sling
 # 合并来源: blackmatrix7/ios_rule_script Sling
 # 规则数: 5
+# 目标: Sling
 DOMAIN-SUFFIX,dishworld.com
+# 目标: Sling
 DOMAIN-SUFFIX,movenetworks.com
+# 目标: Sling
 DOMAIN-SUFFIX,movetv.com
+# 目标: Sling
 DOMAIN-SUFFIX,sling.com
+# 目标: Sling
 DOMAIN-SUFFIX,slinginternational.com

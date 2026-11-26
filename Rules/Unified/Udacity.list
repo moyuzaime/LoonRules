@@ -1,4 +1,5 @@
 # 统一规则库 | 分类: Udacity
 # 合并来源: blackmatrix7/ios_rule_script Udacity
 # 规则数: 1
+# 目标: Udacity
 DOMAIN-SUFFIX,udacity.com

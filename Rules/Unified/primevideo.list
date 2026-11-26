@@ -1,36 +1,69 @@
 # 统一规则库 | 分类: primevideo
 # 合并来源: QuixoticHeart/rule-set primevideo; blackmatrix7/ios_rule_script PrimeVideo
 # 规则数: 33
+# 目标: primevideo
 DOMAIN,atv-ps.amazon.com
+# 目标: primevideo
 DOMAIN,avodmp4s3ww-a.akamaihd.net
+# 目标: primevideo
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+# 目标: primevideo
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
+# 目标: primevideo
 DOMAIN,d25xi40x97liuc.cloudfront.net
+# 目标: primevideo
 DOMAIN,d27xxe7juh1us6.cloudfront.net
+# 目标: primevideo
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
+# 目标: primevideo
 DOMAIN,fls-na.amazon.com
+# 目标: primevideo
 DOMAIN,images-eu.ssl-images-amazon.com
+# 目标: primevideo
 DOMAIN,images-fe.ssl-images-amazon.com
+# 目标: primevideo
 DOMAIN,images-na.ssl-images-amazon.com
+# 目标: primevideo
 DOMAIN,msh.amazon.co.uk
+# 目标: primevideo
 DOMAIN,static.siege-amazon.com
+# 目标: primevideo
 DOMAIN,www.amazon.com
+# 目标: primevideo
 DOMAIN-SUFFIX,aiv-cdn.net
+# 目标: primevideo
 DOMAIN-SUFFIX,aiv-delivery.net
+# 目标: primevideo
 DOMAIN-SUFFIX,amazonprimevideo.cn
+# 目标: primevideo
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
+# 目标: primevideo
 DOMAIN-SUFFIX,amazonprimevideos.com
+# 目标: primevideo
 DOMAIN-SUFFIX,amazonvideo.cc
+# 目标: primevideo
 DOMAIN-SUFFIX,amazonvideo.com
+# 目标: primevideo
 DOMAIN-SUFFIX,media-amazon.com
+# 目标: primevideo
 DOMAIN-SUFFIX,prime-video.com
+# 目标: primevideo
 DOMAIN-SUFFIX,primevideo.cc
+# 目标: primevideo
 DOMAIN-SUFFIX,primevideo.com
+# 目标: primevideo
 DOMAIN-SUFFIX,primevideo.info
+# 目标: primevideo
 DOMAIN-SUFFIX,primevideo.org
+# 目标: primevideo
 DOMAIN-SUFFIX,primevideo.tv
+# 目标: primevideo
 DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
+# 目标: primevideo
 DOMAIN-SUFFIX,pv-cdn.net
+# 目标: primevideo
 DOMAIN-KEYWORD,avoddashs
+# 目标: primevideo
 USER-AGENT,InstantVideo.US*
+# 目标: primevideo
 USER-AGENT,Prime%20Video*

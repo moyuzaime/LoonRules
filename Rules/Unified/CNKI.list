@@ -1,20 +1,38 @@
 # 统一规则库 | 分类: CNKI
 # 合并来源: blackmatrix7/ios_rule_script CNKI
+# 说明: 中国知网
 # 规则数: 17
+# 目标: CNKI
 DOMAIN-SUFFIX,bbf.org.cn
+# 目标: CNKI
 DOMAIN-SUFFIX,bjsbnet.com
+# 目标: CNKI
 DOMAIN-SUFFIX,chndoi.cn
+# 目标: CNKI
 DOMAIN-SUFFIX,chndoi.com
+# 目标: CNKI
 DOMAIN-SUFFIX,chndoi.com.cn
+# 目标: CNKI
 DOMAIN-SUFFIX,chndoi.net
+# 目标: CNKI
 DOMAIN-SUFFIX,chndoi.org
+# 目标: CNKI
 DOMAIN-SUFFIX,cnki.net
+# 目标: CNKI
 DOMAIN-SUFFIX,cnkidoi.cn
+# 目标: CNKI
 DOMAIN-SUFFIX,cnkidoi.com
+# 目标: CNKI
 DOMAIN-SUFFIX,cnkidoi.net
+# 目标: CNKI
 DOMAIN-SUFFIX,cnkidoi.org
+# 目标: CNKI
 DOMAIN-SUFFIX,wuxizazhi.cn
+# 目标: CNKI
 DOMAIN-SUFFIX,wuxizazhi.com
+# 目标: CNKI
 DOMAIN-SUFFIX,wuxizazhi.com.cn
+# 目标: CNKI
 DOMAIN-SUFFIX,wuxizazhi.net
+# 目标: CNKI
 DOMAIN-SUFFIX,wuxizazhi.net.cn

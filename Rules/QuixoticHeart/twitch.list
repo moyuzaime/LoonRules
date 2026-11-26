@@ -1,53 +1,103 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/twitch.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/twitch.list
 # 规则数: 50
+# 目标: twitch
 DOMAIN,d1g1f25tn8m2e6.cloudfront.net
+# 目标: twitch
 DOMAIN,d1m7jfoe9zdc1j.cloudfront.net
+# 目标: twitch
 DOMAIN,d1mhjrowxxagfy.cloudfront.net
+# 目标: twitch
 DOMAIN,d1ndex63qxojbr.cloudfront.net
+# 目标: twitch
 DOMAIN,d1oca24q5dwo6d.cloudfront.net
+# 目标: twitch
 DOMAIN,d1w2poirtb3as9.cloudfront.net
+# 目标: twitch
 DOMAIN,d1xhnb4ptk05mw.cloudfront.net
+# 目标: twitch
 DOMAIN,d1ymi26ma8va5x.cloudfront.net
+# 目标: twitch
 DOMAIN,d2aba1wr3818hz.cloudfront.net
+# 目标: twitch
 DOMAIN,d2dylwb3shzel1.cloudfront.net
+# 目标: twitch
 DOMAIN,d2e2de1etea730.cloudfront.net
+# 目标: twitch
 DOMAIN,d2nvs31859zcd8.cloudfront.net
+# 目标: twitch
 DOMAIN,d2um2qdswy1tb0.cloudfront.net
+# 目标: twitch
 DOMAIN,d2vjef5jvl6bfs.cloudfront.net
+# 目标: twitch
 DOMAIN,d2xmjdvx03ij56.cloudfront.net
+# 目标: twitch
 DOMAIN,d36nr0u3xmc4mm.cloudfront.net
+# 目标: twitch
 DOMAIN,d3aqoihi2n8ty8.cloudfront.net
+# 目标: twitch
 DOMAIN,d3c27h4odz752x.cloudfront.net
+# 目标: twitch
 DOMAIN,d3stzm2eumvgb4.cloudfront.net
+# 目标: twitch
 DOMAIN,d3vd9lfkzbru3h.cloudfront.net
+# 目标: twitch
 DOMAIN,d6d4ismr40iw.cloudfront.net
+# 目标: twitch
 DOMAIN,d6tizftlrpuof.cloudfront.net
+# 目标: twitch
 DOMAIN,ddacn6pr5v0tl.cloudfront.net
+# 目标: twitch
 DOMAIN,dgeft87wbj63p.cloudfront.net
+# 目标: twitch
 DOMAIN,dqrpb9wgowsf5.cloudfront.net
+# 目标: twitch
 DOMAIN,ds0h3roq6wcgc.cloudfront.net
+# 目标: twitch
 DOMAIN,dykkng5hnh52u.cloudfront.net
+# 目标: twitch
 DOMAIN-SUFFIX,ext-twitch.tv
+# 目标: twitch
 DOMAIN-SUFFIX,jtvnw.net
+# 目标: twitch
 DOMAIN-SUFFIX,live-video.net
+# 目标: twitch
 DOMAIN-SUFFIX,ttvnw.net
+# 目标: twitch
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
+# 目标: twitch
 DOMAIN-SUFFIX,twitch.tv
+# 目标: twitch
 DOMAIN-SUFFIX,twitchcdn.net
+# 目标: twitch
 DOMAIN-SUFFIX,twitchcon.com
+# 目标: twitch
 DOMAIN-SUFFIX,twitchsvc.net
+# 目标: twitch
 DOMAIN-KEYWORD,ttvnw
+# 目标: twitch
 IP-CIDR,103.53.48.0/23,no-resolve
+# 目标: twitch
 IP-CIDR,185.42.204.0/22,no-resolve
+# 目标: twitch
 IP-CIDR,192.108.239.0/24,no-resolve
+# 目标: twitch
 IP-CIDR,192.16.64.0/21,no-resolve
+# 目标: twitch
 IP-CIDR,199.9.248.0/21,no-resolve
+# 目标: twitch
 IP-CIDR,23.160.0.0/24,no-resolve
+# 目标: twitch
 IP-CIDR,45.113.128.0/22,no-resolve
+# 目标: twitch
 IP-CIDR,52.223.192.0/20,no-resolve
+# 目标: twitch
 IP-CIDR,52.223.208.0/21,no-resolve
+# 目标: twitch
 IP-CIDR,52.223.224.0/19,no-resolve
+# 目标: twitch
 IP-CIDR,99.181.64.0/18,no-resolve
+# 目标: twitch
 IP-CIDR6,2402:2a80::/32,no-resolve
+# 目标: twitch
 PROCESS-NAME,tv.twitch.android.app

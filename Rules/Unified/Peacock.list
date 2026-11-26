@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Peacock
 # 合并来源: blackmatrix7/ios_rule_script Peacock
 # 规则数: 2
+# 目标: Peacock
 DOMAIN-SUFFIX,peacocktv.com
+# 目标: Peacock
 USER-AGENT,PeacockMobile*

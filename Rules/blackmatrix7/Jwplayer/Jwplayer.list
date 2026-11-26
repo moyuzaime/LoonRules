@@ -1,8 +1,13 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Jwplayer/Jwplayer.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Jwplayer/Jwplayer.list
 # 规则数: 5
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwpcdn.com
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwplatform.com
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwplayer.com
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwpltx.com
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwpsrv.com

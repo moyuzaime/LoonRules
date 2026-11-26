@@ -1,9 +1,16 @@
 # 统一规则库 | 分类: KuaiDi100
 # 合并来源: blackmatrix7/ios_rule_script KuaiDi100
+# 说明: 快递100
 # 规则数: 6
+# 目标: KuaiDi100
 DOMAIN-SUFFIX,baidiapp.com
+# 目标: KuaiDi100
 DOMAIN-SUFFIX,baidinet.com
+# 目标: KuaiDi100
 DOMAIN-SUFFIX,ckd.im
+# 目标: KuaiDi100
 DOMAIN-SUFFIX,kd100.com
+# 目标: KuaiDi100
 DOMAIN-SUFFIX,kuaidi100.com
+# 目标: KuaiDi100
 DOMAIN-SUFFIX,kuaidilab.com

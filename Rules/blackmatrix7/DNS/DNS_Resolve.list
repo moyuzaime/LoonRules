@@ -1,122 +1,241 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DNS/DNS_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DNS/DNS_Resolve.list
 # 规则数: 119
+# 目标: DNS
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+# 目标: DNS
 DOMAIN,8888.google
+# 目标: DNS
 DOMAIN,adblock.mydns.network
+# 目标: DNS
 DOMAIN,applied-privacy.net
+# 目标: DNS
 DOMAIN,cdn-doh.ssnm.xyz
+# 目标: DNS
 DOMAIN,chrome.cloudflare-dns.com
+# 目标: DNS
 DOMAIN,cloudflare-dns.com
+# 目标: DNS
 DOMAIN,dns-family.adguard.com
+# 目标: DNS
 DOMAIN,dns-nyc.aaflalo.me
+# 目标: DNS
 DOMAIN,dns-tls.qis.io
+# 目标: DNS
 DOMAIN,dns-unfiltered.adguard.com
+# 目标: DNS
 DOMAIN,dns.aa.net.uk
+# 目标: DNS
 DOMAIN,dns.aaflalo.me
+# 目标: DNS
 DOMAIN,dns.adguard.com
+# 目标: DNS
 DOMAIN,dns.alidns.com
+# 目标: DNS
 DOMAIN,dns.cfiec.net
+# 目标: DNS
 DOMAIN,dns.cloudflare.com
+# 目标: DNS
 DOMAIN,dns.containerpi.com
+# 目标: DNS
 DOMAIN,dns.dns-over-https.com
+# 目标: DNS
 DOMAIN,dns.dnsoverhttps.net
+# 目标: DNS
 DOMAIN,dns.flatuslifir.is
+# 目标: DNS
 DOMAIN,dns.google
+# 目标: DNS
 DOMAIN,dns.google.com
+# 目标: DNS
 DOMAIN,dns.hostux.net
+# 目标: DNS
 DOMAIN,dns.ipv6dns.com
+# 目标: DNS
 DOMAIN,dns.keweon.center
+# 目标: DNS
 DOMAIN,dns.nextdns.io
+# 目标: DNS
 DOMAIN,dns.quad9.net
+# 目标: DNS
 DOMAIN,dns.rubyfish.cn
+# 目标: DNS
 DOMAIN,dns.sb
+# 目标: DNS
 DOMAIN,dns.surfshark.com
+# 目标: DNS
 DOMAIN,dns.twnic.tw
+# 目标: DNS
 DOMAIN,dns10.quad9.net
+# 目标: DNS
 DOMAIN,dns11.quad9.net
+# 目标: DNS
 DOMAIN,dns9.quad9.net
+# 目标: DNS
 DOMAIN,doh-de.blahdns.com
+# 目标: DNS
 DOMAIN,doh-fi.blahdns.com
+# 目标: DNS
 DOMAIN,doh-jp.blahdns.com
+# 目标: DNS
 DOMAIN,doh-pure.onedns.net
+# 目标: DNS
 DOMAIN,doh.42l.fr
+# 目标: DNS
 DOMAIN,doh.armadillodns.net
+# 目标: DNS
 DOMAIN,doh.centraleu.pi-dns.com
+# 目标: DNS
 DOMAIN,doh.cleanbrowsing.org
+# 目标: DNS
 DOMAIN,doh.crypto.sx
+# 目标: DNS
 DOMAIN,doh.dns.sb
+# 目标: DNS
 DOMAIN,doh.dnslify.com
+# 目标: DNS
 DOMAIN,doh.eastus.pi-dns.com
+# 目标: DNS
 DOMAIN,doh.familyshield.opendns.com
+# 目标: DNS
 DOMAIN,doh.ffmuc.net
+# 目标: DNS
 DOMAIN,doh.li
+# 目标: DNS
 DOMAIN,doh.libredns.gr
+# 目标: DNS
 DOMAIN,doh.mullvad.net
+# 目标: DNS
 DOMAIN,doh.northeu.pi-dns.com
+# 目标: DNS
 DOMAIN,doh.onedns.net
+# 目标: DNS
 DOMAIN,doh.opendns.com
+# 目标: DNS
 DOMAIN,doh.powerdns.com
+# 目标: DNS
 DOMAIN,doh.powerdns.org
+# 目标: DNS
 DOMAIN,doh.pub
+# 目标: DNS
 DOMAIN,doh.qis.io
+# 目标: DNS
 DOMAIN,doh.sb
+# 目标: DNS
 DOMAIN,doh.seby.io
+# 目标: DNS
 DOMAIN,doh.securedns.eu
+# 目标: DNS
 DOMAIN,doh.tiar.app
+# 目标: DNS
 DOMAIN,doh.tiarap.org
+# 目标: DNS
 DOMAIN,doh.westus.pi-dns.com
+# 目标: DNS
 DOMAIN,doh.xfinity.com
+# 目标: DNS
 DOMAIN,dohdot.coxlab.net
+# 目标: DNS
 DOMAIN,dot-pure.onedns.net
+# 目标: DNS
 DOMAIN,dot.onedns.net
+# 目标: DNS
 DOMAIN,edns.233py.com
+# 目标: DNS
 DOMAIN,example.doh.blockerdns.com
+# 目标: DNS
 DOMAIN,family.canadianshield.cira.ca
+# 目标: DNS
 DOMAIN,family.cloudflare-dns.com
+# 目标: DNS
 DOMAIN,i.233py.com
+# 目标: DNS
 DOMAIN,ibksturm.synology.me
+# 目标: DNS
 DOMAIN,ibuki.cgnat.net
+# 目标: DNS
 DOMAIN,jcdns.fun
+# 目标: DNS
 DOMAIN,jp.tiar.app
+# 目标: DNS
 DOMAIN,jp.tiarap.org
+# 目标: DNS
 DOMAIN,mozilla.cloudflare-dns.com
+# 目标: DNS
 DOMAIN,odvr.nic.cz
+# 目标: DNS
 DOMAIN,one.one.one.one
+# 目标: DNS
 DOMAIN,opera.cloudflare-dns.com
+# 目标: DNS
 DOMAIN,ordns.he.net
+# 目标: DNS
 DOMAIN,private.canadianshield.cira.ca
+# 目标: DNS
 DOMAIN,protected.canadianshield.cira.ca
+# 目标: DNS
 DOMAIN,rdns.faelix.net
+# 目标: DNS
 DOMAIN,rubyfish.cn
+# 目标: DNS
 DOMAIN,sdns.233py.com
+# 目标: DNS
 DOMAIN,security-filter-dns.cleanbrowsing.org
+# 目标: DNS
 DOMAIN,security.cloudflare-dns.com
+# 目标: DNS
 DOMAIN,sm2.doh.pub
+# 目标: DNS
 DOMAIN,unfiltered.adguard-dns.com
+# 目标: DNS
 IP-CIDR,1.0.0.2/31
+# 目标: DNS
 IP-CIDR,1.1.1.1/32
+# 目标: DNS
 IP-CIDR,1.1.1.2/31
+# 目标: DNS
 IP-CIDR,101.101.101.101/32
+# 目标: DNS
 IP-CIDR,114.114.114.114/32
+# 目标: DNS
 IP-CIDR,117.50.22.22/32
+# 目标: DNS
 IP-CIDR,118.89.110.78/32
+# 目标: DNS
 IP-CIDR,119.29.107.85/32
+# 目标: DNS
 IP-CIDR,119.29.29.29/32
+# 目标: DNS
 IP-CIDR,12.159.2.159/32
+# 目标: DNS
 IP-CIDR,136.243.69.38/32
+# 目标: DNS
 IP-CIDR,176.103.130.130/32
+# 目标: DNS
 IP-CIDR,176.9.62.58/32
+# 目标: DNS
 IP-CIDR,185.184.222.222/32
+# 目标: DNS
 IP-CIDR,185.222.222.222/32
+# 目标: DNS
 IP-CIDR,213.239.207.143/32
+# 目标: DNS
 IP-CIDR,220.248.179.9/32
+# 目标: DNS
 IP-CIDR,223.5.5.5/32
+# 目标: DNS
 IP-CIDR,223.6.6.6/32
+# 目标: DNS
 IP-CIDR,47.96.179.163/32
+# 目标: DNS
 IP-CIDR,52.80.66.66/32
+# 目标: DNS
 IP-CIDR,58.20.127.170/32
+# 目标: DNS
 IP-CIDR,58.20.127.238/32
+# 目标: DNS
 IP-CIDR,8.8.4.4/32
+# 目标: DNS
 IP-CIDR,8.8.8.8/32
+# 目标: DNS
 IP-CIDR,9.9.9.9/32

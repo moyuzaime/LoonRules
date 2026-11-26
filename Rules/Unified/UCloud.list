@@ -1,40 +1,78 @@
 # 统一规则库 | 分类: UCloud
 # 合并来源: blackmatrix7/ios_rule_script UCloud
+# 说明: 优刻得
 # 规则数: 37
+# 目标: UCloud
 DOMAIN-SUFFIX,cdndo.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ecloud-gdu.com
+# 目标: UCloud
 DOMAIN-SUFFIX,fshark.cn
+# 目标: UCloud
 DOMAIN-SUFFIX,ibusre.cn
+# 目标: UCloud
 DOMAIN-SUFFIX,ipbaohe.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ipssh.net
+# 目标: UCloud
 DOMAIN-SUFFIX,u-cdn.com
+# 目标: UCloud
 DOMAIN-SUFFIX,u-cdn.net
+# 目标: UCloud
 DOMAIN-SUFFIX,ucgslb.cn
+# 目标: UCloud
 DOMAIN-SUFFIX,ucgslb.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ucgslb.info
+# 目标: UCloud
 DOMAIN-SUFFIX,ucgslb.net
+# 目标: UCloud
 DOMAIN-SUFFIX,ucgslb.top
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloud.cn
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloud.com.cn
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloud365.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloudadmin.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloudapi.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloudgda.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloudoss.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloudstack.cn
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloudstack.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloudstack.net
+# 目标: UCloud
 DOMAIN-SUFFIX,uclouduewaf.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ucloudufile.com
+# 目标: UCloud
 DOMAIN-SUFFIX,uewaf.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ufileos.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ugslb.cn
+# 目标: UCloud
 DOMAIN-SUFFIX,ugslb.com
+# 目标: UCloud
 DOMAIN-SUFFIX,ugslb.info
+# 目标: UCloud
 DOMAIN-SUFFIX,ugslb.net
+# 目标: UCloud
 DOMAIN-SUFFIX,ugslb.top
+# 目标: UCloud
 DOMAIN-SUFFIX,ugslb2.net
+# 目标: UCloud
 DOMAIN-SUFFIX,uhasadmin.com
+# 目标: UCloud
 DOMAIN-SUFFIX,unaming.net
+# 目标: UCloud
 DOMAIN-SUFFIX,urome.cn
+# 目标: UCloud
 DOMAIN-SUFFIX,urtc.com.cn

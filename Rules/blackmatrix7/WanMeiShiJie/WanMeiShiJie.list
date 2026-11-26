@@ -1,14 +1,26 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/WanMeiShiJie/WanMeiShiJie.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WanMeiShiJie/WanMeiShiJie.list
+# 说明: 完美世界
 # 规则数: 11
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,counter-strike.cn
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,counter-strike.com.cn
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,csgo.com.cn
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,laohu.com
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,pwrdoverseagame.com
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,pwrdoverseas.com
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,wanmei.com
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,wanmei.net
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,wmupd.com
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,wmupd.com.cn
+# 目标: WanMeiShiJie
 DOMAIN-SUFFIX,wmwm.com

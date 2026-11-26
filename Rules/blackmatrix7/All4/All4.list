@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/All4/All4.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/All4/All4.list
 # 规则数: 3
+# 目标: All4
 DOMAIN-SUFFIX,c4assets.com
+# 目标: All4
 DOMAIN-SUFFIX,channel4.com
+# 目标: All4
 USER-AGENT,All4*

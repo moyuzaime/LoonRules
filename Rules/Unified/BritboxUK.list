@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: BritboxUK
 # 合并来源: blackmatrix7/ios_rule_script BritboxUK
 # 规则数: 8
+# 目标: BritboxUK
 DOMAIN,itvpnp.live.ott.irdeto.com
+# 目标: BritboxUK
 DOMAIN,itvpnp.stage.ott.irdeto.com
+# 目标: BritboxUK
 DOMAIN-SUFFIX,bb-static.com
+# 目标: BritboxUK
 DOMAIN-SUFFIX,bbc.co.uk
+# 目标: BritboxUK
 DOMAIN-SUFFIX,britbox.co.uk
+# 目标: BritboxUK
 DOMAIN-SUFFIX,britbox.com
+# 目标: BritboxUK
 DOMAIN-SUFFIX,itv.com
+# 目标: BritboxUK
 DOMAIN-SUFFIX,massive-itv.com

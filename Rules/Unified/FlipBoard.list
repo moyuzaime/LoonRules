@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: FlipBoard
 # 合并来源: blackmatrix7/ios_rule_script FlipBoard
 # 规则数: 2
+# 目标: FlipBoard
 DOMAIN-SUFFIX,flipboard.com
+# 目标: FlipBoard
 DOMAIN-SUFFIX,flipchina.cn

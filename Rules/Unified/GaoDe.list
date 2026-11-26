@@ -1,12 +1,22 @@
 # 统一规则库 | 分类: GaoDe
 # 合并来源: blackmatrix7/ios_rule_script GaoDe
+# 说明: 高德
 # 规则数: 9
+# 目标: GaoDe
 DOMAIN-SUFFIX,a-map.cn
+# 目标: GaoDe
 DOMAIN-SUFFIX,a-map.co
+# 目标: GaoDe
 DOMAIN-SUFFIX,a-map.link
+# 目标: GaoDe
 DOMAIN-SUFFIX,a-map.vip
+# 目标: GaoDe
 DOMAIN-SUFFIX,amap.com
+# 目标: GaoDe
 DOMAIN-SUFFIX,amapauto.com
+# 目标: GaoDe
 DOMAIN-SUFFIX,anav.com
+# 目标: GaoDe
 DOMAIN-SUFFIX,autonavi.com
+# 目标: GaoDe
 DOMAIN-SUFFIX,gaode.com

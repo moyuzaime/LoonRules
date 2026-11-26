@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: Camera360
 # 合并来源: blackmatrix7/ios_rule_script Camera360
 # 规则数: 8
+# 目标: Camera360
 DOMAIN-SUFFIX,360in.com
+# 目标: Camera360
 DOMAIN-SUFFIX,52photo.com
+# 目标: Camera360
 DOMAIN-SUFFIX,c360dn.com
+# 目标: Camera360
 DOMAIN-SUFFIX,camera360.com
+# 目标: Camera360
 DOMAIN-SUFFIX,saladvideo.com
+# 目标: Camera360
 DOMAIN-SUFFIX,yipai.info
+# 目标: Camera360
 DOMAIN-SUFFIX,yipai360.com
+# 目标: Camera360
 DOMAIN-SUFFIX,ypjc.cloud

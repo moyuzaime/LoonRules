@@ -1,15 +1,27 @@
 # 统一规则库 | 分类: Mail
 # 合并来源: blackmatrix7/ios_rule_script Mail
 # 规则数: 12
+# 目标: Mail
 DOMAIN,apple.imap.mail.yahoo.com
+# 目标: Mail
 DOMAIN,apple.smtp.mail.yahoo.com
+# 目标: Mail
 DOMAIN,imap-mail.outlook.com
+# 目标: Mail
 DOMAIN,imap.gmail.com
+# 目标: Mail
 DOMAIN,outlook.office365.com
+# 目标: Mail
 DOMAIN,pop.gmail.com
+# 目标: Mail
 DOMAIN,smtp-mail.outlook.com
+# 目标: Mail
 DOMAIN,smtp.gmail.com
+# 目标: Mail
 DOMAIN,smtp.office365.com
+# 目标: Mail
 DOMAIN-SUFFIX,imap.yandex.com
+# 目标: Mail
 DOMAIN-SUFFIX,m.hotmail.com
+# 目标: Mail
 DOMAIN-SUFFIX,smtp.yandex.com

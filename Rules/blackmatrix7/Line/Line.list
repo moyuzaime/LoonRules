@@ -1,27 +1,51 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Line/Line.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Line/Line.list
 # 规则数: 24
+# 目标: Line
 DOMAIN-SUFFIX,lin.ee
+# 目标: Line
 DOMAIN-SUFFIX,line-apps.com
+# 目标: Line
 DOMAIN-SUFFIX,line-cdn.net
+# 目标: Line
 DOMAIN-SUFFIX,line-scdn.net
+# 目标: Line
 DOMAIN-SUFFIX,line.me
+# 目标: Line
 DOMAIN-SUFFIX,linecorp.com
+# 目标: Line
 DOMAIN-SUFFIX,naver.jp
+# 目标: Line
 DOMAIN-SUFFIX,nhncorp.jp
+# 目标: Line
 IP-CIDR,103.2.28.0/22,no-resolve
+# 目标: Line
 IP-CIDR,119.235.224.0/21,no-resolve
+# 目标: Line
 IP-CIDR,119.235.232.0/23,no-resolve
+# 目标: Line
 IP-CIDR,119.235.235.0/24,no-resolve
+# 目标: Line
 IP-CIDR,119.235.236.0/23,no-resolve
+# 目标: Line
 IP-CIDR,125.209.208.0/20,no-resolve
+# 目标: Line
 IP-CIDR,125.209.252.103/32,no-resolve
+# 目标: Line
 IP-CIDR,125.209.252.208/32,no-resolve
+# 目标: Line
 IP-CIDR,125.6.146.0/24,no-resolve
+# 目标: Line
 IP-CIDR,125.6.149.0/24,no-resolve
+# 目标: Line
 IP-CIDR,125.6.190.0/24,no-resolve
+# 目标: Line
 IP-CIDR,147.92.128.0/17,no-resolve
+# 目标: Line
 IP-CIDR,203.104.103.0/24,no-resolve
+# 目标: Line
 IP-CIDR,203.104.128.0/19,no-resolve
+# 目标: Line
 IP-CIDR,203.174.66.64/26,no-resolve
+# 目标: Line
 IP-CIDR,203.174.77.0/24,no-resolve

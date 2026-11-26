@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: YiZhiBo
 # 合并来源: blackmatrix7/ios_rule_script YiZhiBo
+# 说明: 易直播
 # 规则数: 5
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,hifengli.com
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,liexiulive.com
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,sndks.com
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,yizhibo.com
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,yzbo.tv

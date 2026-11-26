@@ -1,10 +1,18 @@
 # 统一规则库 | 分类: MeiTuan
 # 合并来源: blackmatrix7/ios_rule_script MeiTuan
+# 说明: 美团
 # 规则数: 7
+# 目标: MeiTuan
 DOMAIN-SUFFIX,dianping.com
+# 目标: MeiTuan
 DOMAIN-SUFFIX,maoyan.com
+# 目标: MeiTuan
 DOMAIN-SUFFIX,meituan.com
+# 目标: MeiTuan
 DOMAIN-SUFFIX,meituan.net
+# 目标: MeiTuan
 DOMAIN-SUFFIX,mtyun.com
+# 目标: MeiTuan
 DOMAIN-SUFFIX,neixin.cn
+# 目标: MeiTuan
 DOMAIN-SUFFIX,sankuai.com

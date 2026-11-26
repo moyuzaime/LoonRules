@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: OKX
 # 合并来源: blackmatrix7/ios_rule_script OKX
 # 规则数: 3
+# 目标: OKX
 DOMAIN-SUFFIX,okex.com
+# 目标: OKX
 DOMAIN-SUFFIX,oklink.com
+# 目标: OKX
 DOMAIN-SUFFIX,okx.com

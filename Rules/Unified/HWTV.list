@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: HWTV
 # 合并来源: blackmatrix7/ios_rule_script HWTV
 # 规则数: 3
+# 目标: HWTV
 DOMAIN-SUFFIX,5itv.tv
+# 目标: HWTV
 DOMAIN-SUFFIX,ocnttv.com
+# 目标: HWTV
 USER-AGENT,HWTVMobile*

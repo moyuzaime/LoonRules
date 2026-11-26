@@ -1,54 +1,105 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/VOA/VOA.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/VOA/VOA.list
 # 规则数: 51
+# 目标: VOA
 DOMAIN-SUFFIX,amerikaninsesi.com
+# 目标: VOA
 DOMAIN-SUFFIX,amerikaninsesi.org
+# 目标: VOA
 DOMAIN-SUFFIX,amerikaovozi.com
+# 目标: VOA
 DOMAIN-SUFFIX,amerikayidzayn.com
+# 目标: VOA
 DOMAIN-SUFFIX,amerikiskhma.com
+# 目标: VOA
 DOMAIN-SUFFIX,bbg.gov
+# 目标: VOA
 DOMAIN-SUFFIX,dandalinvoa.com
+# 目标: VOA
 DOMAIN-SUFFIX,darivoa.com
+# 目标: VOA
 DOMAIN-SUFFIX,dengeamerika.com
+# 目标: VOA
 DOMAIN-SUFFIX,dengiamerika.com
+# 目标: VOA
 DOMAIN-SUFFIX,glasamerike.net
+# 目标: VOA
 DOMAIN-SUFFIX,golos-ameriki.ru
+# 目标: VOA
 DOMAIN-SUFFIX,golosameriki.com
+# 目标: VOA
 DOMAIN-SUFFIX,insidevoa.com
+# 目标: VOA
 DOMAIN-SUFFIX,pashtovoa.com
+# 目标: VOA
 DOMAIN-SUFFIX,persagg.com
+# 目标: VOA
 DOMAIN-SUFFIX,radiyoyacuvoa.com
+# 目标: VOA
 DOMAIN-SUFFIX,urduvoa.com
+# 目标: VOA
 DOMAIN-SUFFIX,voa-11.akacast.akamaistream.net
+# 目标: VOA
 DOMAIN-SUFFIX,voa.gov
+# 目标: VOA
 DOMAIN-SUFFIX,voa.mobi
+# 目标: VOA
 DOMAIN-SUFFIX,voaafaanoromoo.com
+# 目标: VOA
 DOMAIN-SUFFIX,voaafrique.com
+# 目标: VOA
 DOMAIN-SUFFIX,voabambara.com
+# 目标: VOA
 DOMAIN-SUFFIX,voabangla.com
+# 目标: VOA
 DOMAIN-SUFFIX,voacambodia.com
+# 目标: VOA
 DOMAIN-SUFFIX,voacantonese.com
+# 目标: VOA
 DOMAIN-SUFFIX,voachinese.com
+# 目标: VOA
 DOMAIN-SUFFIX,voachineseblog.com
+# 目标: VOA
 DOMAIN-SUFFIX,voadeewanews.com
+# 目标: VOA
 DOMAIN-SUFFIX,voadeewaradio.com
+# 目标: VOA
 DOMAIN-SUFFIX,voahausa.com
+# 目标: VOA
 DOMAIN-SUFFIX,voaindonesia.com
+# 目标: VOA
 DOMAIN-SUFFIX,voakorea.com
+# 目标: VOA
 DOMAIN-SUFFIX,voalingala.com
+# 目标: VOA
 DOMAIN-SUFFIX,voandebele.com
+# 目标: VOA
 DOMAIN-SUFFIX,voanews.com
+# 目标: VOA
 DOMAIN-SUFFIX,voanews.eu
+# 目标: VOA
 DOMAIN-SUFFIX,voanoticias.com
+# 目标: VOA
 DOMAIN-SUFFIX,voanouvel.com
+# 目标: VOA
 DOMAIN-SUFFIX,voaportugues.com
+# 目标: VOA
 DOMAIN-SUFFIX,voashona.com
+# 目标: VOA
 DOMAIN-SUFFIX,voasomali.com
+# 目标: VOA
 DOMAIN-SUFFIX,voaswahili.com
+# 目标: VOA
 DOMAIN-SUFFIX,voathai.com
+# 目标: VOA
 DOMAIN-SUFFIX,voatibetan.com
+# 目标: VOA
 DOMAIN-SUFFIX,voatibetanenglish.com
+# 目标: VOA
 DOMAIN-SUFFIX,voatiengviet.com
+# 目标: VOA
 DOMAIN-SUFFIX,voatour.com
+# 目标: VOA
 DOMAIN-SUFFIX,voazimbabwe.com
+# 目标: VOA
 DOMAIN-SUFFIX,zeriamerikes.com

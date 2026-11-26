@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: PlayStation
 # 合并来源: blackmatrix7/ios_rule_script PlayStation
 # 规则数: 4
+# 目标: PlayStation
 DOMAIN-SUFFIX,playstation.com
+# 目标: PlayStation
 DOMAIN-SUFFIX,playstation.net
+# 目标: PlayStation
 DOMAIN-SUFFIX,playstationnetwork.com
+# 目标: PlayStation
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com

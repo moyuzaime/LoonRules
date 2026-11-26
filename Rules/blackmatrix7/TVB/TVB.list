@@ -1,26 +1,49 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/TVB/TVB.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TVB/TVB.list
 # 规则数: 23
+# 目标: TVB
 DOMAIN,bcbolt446c5271-a.akamaihd.net
+# 目标: TVB
 DOMAIN,edge.api.brightcove.com
+# 目标: TVB
 DOMAIN,tvbtracking.azurewebsites.net
+# 目标: TVB
 DOMAIN-SUFFIX,bigbigchannel.com.hk
+# 目标: TVB
 DOMAIN-SUFFIX,bigbigshop.com
+# 目标: TVB
 DOMAIN-SUFFIX,content.jwplatform.com
+# 目标: TVB
 DOMAIN-SUFFIX,encoretvb.com
+# 目标: TVB
 DOMAIN-SUFFIX,mytvsuper.com
+# 目标: TVB
 DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
+# 目标: TVB
 DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
+# 目标: TVB
 DOMAIN-SUFFIX,tvb.com
+# 目标: TVB
 DOMAIN-SUFFIX,tvb.com.au
+# 目标: TVB
 DOMAIN-SUFFIX,tvbanywhere.com
+# 目标: TVB
 DOMAIN-SUFFIX,tvbanywhere.com.sg
+# 目标: TVB
 DOMAIN-SUFFIX,tvbc.com.cn
+# 目标: TVB
 DOMAIN-SUFFIX,tvbeventpower.com.hk
+# 目标: TVB
 DOMAIN-SUFFIX,tvbusa.com
+# 目标: TVB
 DOMAIN-SUFFIX,tvbweekly.com
+# 目标: TVB
 DOMAIN-SUFFIX,tvmedia.net.au
+# 目标: TVB
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
+# 目标: TVB
 DOMAIN-SUFFIX,youboranqs01.com
+# 目标: TVB
 USER-AGENT,encoreTVB*
+# 目标: TVB
 USER-AGENT,mytv*

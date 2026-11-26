@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: MicrosoftEdge
 # 合并来源: blackmatrix7/ios_rule_script MicrosoftEdge
 # 规则数: 4
+# 目标: MicrosoftEdge
 DOMAIN,edge.activity.windows.com
+# 目标: MicrosoftEdge
 DOMAIN,edge.microsoft.com
+# 目标: MicrosoftEdge
 DOMAIN,iecvlist.microsoft.com
+# 目标: MicrosoftEdge
 DOMAIN,msedge.api.cdp.microsoft.com

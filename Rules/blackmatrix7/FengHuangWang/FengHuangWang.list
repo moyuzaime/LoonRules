@@ -1,12 +1,22 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/FengHuangWang/FengHuangWang.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FengHuangWang/FengHuangWang.list
+# 说明: 凤凰网
 # 规则数: 9
+# 目标: FengHuangWang
 DOMAIN-SUFFIX,fengcx.com
+# 目标: FengHuangWang
 DOMAIN-SUFFIX,fengedu.com
+# 目标: FengHuangWang
 DOMAIN-SUFFIX,fengzhibo.com.cn
+# 目标: FengHuangWang
 DOMAIN-SUFFIX,ifeng.com
+# 目标: FengHuangWang
 DOMAIN-SUFFIX,ifengimg.com
+# 目标: FengHuangWang
 DOMAIN-SUFFIX,ifengweekly.com
+# 目标: FengHuangWang
 DOMAIN-SUFFIX,phoenixcenter.cn
+# 目标: FengHuangWang
 DOMAIN-SUFFIX,phoenixtv.com
+# 目标: FengHuangWang
 DOMAIN-SUFFIX,phoenixtv.com.cn

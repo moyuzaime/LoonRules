@@ -1,16 +1,30 @@
 # 统一规则库 | 分类: CKJR
 # 合并来源: blackmatrix7/ios_rule_script CKJR
+# 说明: 创客匠人
 # 规则数: 13
+# 目标: CKJR
 DOMAIN-SUFFIX,51ckjr.com
+# 目标: CKJR
 DOMAIN-SUFFIX,ckjr001.cn
+# 目标: CKJR
 DOMAIN-SUFFIX,ckjr001.com
+# 目标: CKJR
 DOMAIN-SUFFIX,ckjryy.com
+# 目标: CKJR
 DOMAIN-SUFFIX,meituo.shop
+# 目标: CKJR
 DOMAIN-SUFFIX,myckjr.cn
+# 目标: CKJR
 DOMAIN-SUFFIX,myckjr.com
+# 目标: CKJR
 DOMAIN-SUFFIX,qxckjr.com
+# 目标: CKJR
 DOMAIN-SUFFIX,sxyckjr.com
+# 目标: CKJR
 DOMAIN-SUFFIX,tengkackjr.com
+# 目标: CKJR
 DOMAIN-SUFFIX,tengkaxx.com
+# 目标: CKJR
 DOMAIN-SUFFIX,tjckjr.com
+# 目标: CKJR
 DOMAIN-SUFFIX,tkckjr.com

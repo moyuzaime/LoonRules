@@ -1,14 +1,26 @@
 # 统一规则库 | 分类: AnTianKeJi
 # 合并来源: blackmatrix7/ios_rule_script AnTianKeJi
+# 说明: 安天科技
 # 规则数: 11
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,antiy.cn
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,antiy.com
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,antiy.net.cn
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,antiycloud.com
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,avlinsight.com
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,avlsec.com
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,avlyun.cn
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,avlyun.com
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,avlyun.net
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,avlyun.org
+# 目标: AnTianKeJi
 DOMAIN-SUFFIX,cloud-backup.com.cn

@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: DynDNS
 # 合并来源: blackmatrix7/ios_rule_script DynDNS
 # 规则数: 8
+# 目标: DynDNS
 DOMAIN-SUFFIX,blogdns.org
+# 目标: DynDNS
 DOMAIN-SUFFIX,dyn.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,dyndns-ip.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,dyndns-pics.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,dyndns.org
+# 目标: DynDNS
 DOMAIN-SUFFIX,from-pr.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,from-sd.com
+# 目标: DynDNS
 DOMAIN-SUFFIX,is-a-hunter.com

@@ -1,16 +1,29 @@
 # 统一规则库 | 分类: Samsung
 # 合并来源: blackmatrix7/ios_rule_script Samsung
 # 规则数: 13
+# 目标: Samsung
 DOMAIN-SUFFIX,anrdoezrs.net
+# 目标: Samsung
 DOMAIN-SUFFIX,galaxyappstore.com
+# 目标: Samsung
 DOMAIN-SUFFIX,galaxymobile.jp
+# 目标: Samsung
 DOMAIN-SUFFIX,game-platform.net
+# 目标: Samsung
 DOMAIN-SUFFIX,knoxemm.com
+# 目标: Samsung
 DOMAIN-SUFFIX,samsung.com
+# 目标: Samsung
 DOMAIN-SUFFIX,samsungapps.com
+# 目标: Samsung
 DOMAIN-SUFFIX,samsungcloud.com
+# 目标: Samsung
 DOMAIN-SUFFIX,samsungdm.com
+# 目标: Samsung
 DOMAIN-SUFFIX,samsungeshop.com.cn
+# 目标: Samsung
 DOMAIN-SUFFIX,samsunggalaxyfriends.com
+# 目标: Samsung
 DOMAIN-SUFFIX,samsungknox.com
+# 目标: Samsung
 DOMAIN-SUFFIX,samsungqbe.com

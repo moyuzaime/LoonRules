@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: 2KGames
 # 合并来源: blackmatrix7/ios_rule_script 2KGames
 # 规则数: 4
+# 目标: 2KGames
 DOMAIN-SUFFIX,2k.com
+# 目标: 2KGames
 DOMAIN-SUFFIX,2kcoretech.online
+# 目标: 2KGames
 DOMAIN-SUFFIX,2kgames.com
+# 目标: 2KGames
 DOMAIN-SUFFIX,take2games.com

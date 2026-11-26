@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: NYPost
 # 合并来源: blackmatrix7/ios_rule_script NYPost
 # 规则数: 3
+# 目标: NYPost
 DOMAIN-SUFFIX,nypost.com
+# 目标: NYPost
 DOMAIN-SUFFIX,nypost.help
+# 目标: NYPost
 DOMAIN-SUFFIX,nypostreprints.com

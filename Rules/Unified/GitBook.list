@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: GitBook
 # 合并来源: blackmatrix7/ios_rule_script GitBook
 # 规则数: 3
+# 目标: GitBook
 DOMAIN-SUFFIX,gitbook.com
+# 目标: GitBook
 DOMAIN-SUFFIX,gitbook.io
+# 目标: GitBook
 DOMAIN-SUFFIX,gitbook.zendesk.com

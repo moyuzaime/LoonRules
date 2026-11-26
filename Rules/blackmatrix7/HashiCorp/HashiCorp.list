@@ -1,11 +1,19 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/HashiCorp/HashiCorp.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HashiCorp/HashiCorp.list
 # 规则数: 8
+# 目标: HashiCorp
 DOMAIN-SUFFIX,consul.io
+# 目标: HashiCorp
 DOMAIN-SUFFIX,hashicorp.com
+# 目标: HashiCorp
 DOMAIN-SUFFIX,nomadproject.io
+# 目标: HashiCorp
 DOMAIN-SUFFIX,packer.io
+# 目标: HashiCorp
 DOMAIN-SUFFIX,terraform.io
+# 目标: HashiCorp
 DOMAIN-SUFFIX,vagrantcloud.com
+# 目标: HashiCorp
 DOMAIN-SUFFIX,vagrantup.com
+# 目标: HashiCorp
 DOMAIN-SUFFIX,vaultproject.io

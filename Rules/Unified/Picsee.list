@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: Picsee
 # 合并来源: blackmatrix7/ios_rule_script Picsee
 # 规则数: 6
+# 目标: Picsee
 DOMAIN-SUFFIX,pics.ee
+# 目标: Picsee
 DOMAIN-SUFFIX,picsee.co
+# 目标: Picsee
 DOMAIN-SUFFIX,picsee.pro
+# 目标: Picsee
 DOMAIN-SUFFIX,pise.pw
+# 目标: Picsee
 DOMAIN-SUFFIX,pros.ee
+# 目标: Picsee
 DOMAIN-SUFFIX,pse.is

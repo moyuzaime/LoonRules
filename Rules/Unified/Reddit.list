@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: Reddit
 # 合并来源: blackmatrix7/ios_rule_script Reddit
 # 规则数: 8
+# 目标: Reddit
 DOMAIN-SUFFIX,redd.it
+# 目标: Reddit
 DOMAIN-SUFFIX,reddit.com
+# 目标: Reddit
 DOMAIN-SUFFIX,redditmail.com
+# 目标: Reddit
 DOMAIN-SUFFIX,redditmedia.com
+# 目标: Reddit
 DOMAIN-SUFFIX,redditstatic.com
+# 目标: Reddit
 DOMAIN-SUFFIX,reddituploads.com
+# 目标: Reddit
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+# 目标: Reddit
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com

@@ -1,10 +1,17 @@
 # 统一规则库 | 分类: Cake
 # 合并来源: blackmatrix7/ios_rule_script Cake
 # 规则数: 7
+# 目标: Cake
 DOMAIN,d1koerlbtsmkf8.cloudfront.net
+# 目标: Cake
 DOMAIN,d31wl6mro6753i.cloudfront.net
+# 目标: Cake
 DOMAIN,static-mycake.pstatic.net
+# 目标: Cake
 DOMAIN,vstatic-mycake.pstatic.net
+# 目标: Cake
 DOMAIN-SUFFIX,cake.day
+# 目标: Cake
 DOMAIN-SUFFIX,cakeapp.me
+# 目标: Cake
 DOMAIN-SUFFIX,mycake.me

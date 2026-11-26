@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Tmdb
 # 合并来源: blackmatrix7/ios_rule_script Tmdb
 # 规则数: 2
+# 目标: Tmdb
 DOMAIN-SUFFIX,themoviedb.org
+# 目标: Tmdb
 DOMAIN-SUFFIX,tmdb.org

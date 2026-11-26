@@ -1,149 +1,296 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/NetEase/NetEase_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NetEase/NetEase_Resolve.list
+# 说明: 网易
 # 规则数: 146
+# 目标: NetEase
 DOMAIN,netease.ugcvideoss.ourdvs.com
+# 目标: NetEase
 DOMAIN-SUFFIX,126.am
+# 目标: NetEase
 DOMAIN-SUFFIX,126.com
+# 目标: NetEase
 DOMAIN-SUFFIX,126.fm
+# 目标: NetEase
 DOMAIN-SUFFIX,126.link
+# 目标: NetEase
 DOMAIN-SUFFIX,126.net
+# 目标: NetEase
 DOMAIN-SUFFIX,127.com
+# 目标: NetEase
 DOMAIN-SUFFIX,127.net
+# 目标: NetEase
 DOMAIN-SUFFIX,127cdn.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163.fm
+# 目标: NetEase
 DOMAIN-SUFFIX,163.link
+# 目标: NetEase
 DOMAIN-SUFFIX,163adl.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163cms.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,163cms.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163fen.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163img.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,163img.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163industry.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163jiasu.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163kada.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163mail.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163mail.net
+# 目标: NetEase
 DOMAIN-SUFFIX,163nasa.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163nos.com
+# 目标: NetEase
 DOMAIN-SUFFIX,163yun.com
+# 目标: NetEase
 DOMAIN-SUFFIX,166.com
+# 目标: NetEase
 DOMAIN-SUFFIX,166.net
+# 目标: NetEase
 DOMAIN-SUFFIX,166cdn.com
+# 目标: NetEase
 DOMAIN-SUFFIX,166dns.com
+# 目标: NetEase
 DOMAIN-SUFFIX,188.com
+# 目标: NetEase
 DOMAIN-SUFFIX,188.net
+# 目标: NetEase
 DOMAIN-SUFFIX,188cdn.com
+# 目标: NetEase
 DOMAIN-SUFFIX,21cntx.com
+# 目标: NetEase
 DOMAIN-SUFFIX,321fenx.com
+# 目标: NetEase
 DOMAIN-SUFFIX,adl163.com
+# 目标: NetEase
 DOMAIN-SUFFIX,chatnos.com
+# 目标: NetEase
 DOMAIN-SUFFIX,dingwei.link
+# 目标: NetEase
 DOMAIN-SUFFIX,easebar.com
+# 目标: NetEase
 DOMAIN-SUFFIX,easebar.net
+# 目标: NetEase
 DOMAIN-SUFFIX,gamehaopu.com
+# 目标: NetEase
 DOMAIN-SUFFIX,gameviewer.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,gameviewer.com
+# 目标: NetEase
 DOMAIN-SUFFIX,haowu.link
+# 目标: NetEase
 DOMAIN-SUFFIX,huihui.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,hukeck.com
+# 目标: NetEase
 DOMAIN-SUFFIX,hukecs.com
+# 目标: NetEase
 DOMAIN-SUFFIX,hukecwx.com
+# 目标: NetEase
 DOMAIN-SUFFIX,hukefjb.com
+# 目标: NetEase
 DOMAIN-SUFFIX,hukehyh.com
+# 目标: NetEase
 DOMAIN-SUFFIX,hukelc.com
+# 目标: NetEase
 DOMAIN-SUFFIX,hukenb.com
+# 目标: NetEase
 DOMAIN-SUFFIX,hukesxm.com
+# 目标: NetEase
 DOMAIN-SUFFIX,hukewq.com
+# 目标: NetEase
 DOMAIN-SUFFIX,hukexyy.com
+# 目标: NetEase
 DOMAIN-SUFFIX,icourse163.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,icourse163.com
+# 目标: NetEase
 DOMAIN-SUFFIX,icourse163.org
+# 目标: NetEase
 DOMAIN-SUFFIX,icourses163.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,icourses163.com
+# 目标: NetEase
 DOMAIN-SUFFIX,icourses163.org
+# 目标: NetEase
 DOMAIN-SUFFIX,infiniteborders3kingdoms.com
+# 目标: NetEase
 DOMAIN-SUFFIX,kada.com
+# 目标: NetEase
 DOMAIN-SUFFIX,kada163.com
+# 目标: NetEase
 DOMAIN-SUFFIX,laiqukankan.com
+# 目标: NetEase
 DOMAIN-SUFFIX,lf126.net
+# 目标: NetEase
 DOMAIN-SUFFIX,lf127.net
+# 目标: NetEase
 DOMAIN-SUFFIX,lofter.com
+# 目标: NetEase
 DOMAIN-SUFFIX,marvelunlimitedresources.com
+# 目标: NetEase
 DOMAIN-SUFFIX,nbhuke.com
+# 目标: NetEase
 DOMAIN-SUFFIX,ndiip.com
+# 目标: NetEase
 DOMAIN-SUFFIX,nease.net
+# 目标: NetEase
 DOMAIN-SUFFIX,netease-inc.com
+# 目标: NetEase
 DOMAIN-SUFFIX,netease.com
+# 目标: NetEase
 DOMAIN-SUFFIX,netease.im
+# 目标: NetEase
 DOMAIN-SUFFIX,neteasegame.com
+# 目标: NetEase
 DOMAIN-SUFFIX,neteasegame.net
+# 目标: NetEase
 DOMAIN-SUFFIX,neteasegames.com
+# 目标: NetEase
 DOMAIN-SUFFIX,neteasegames.net
+# 目标: NetEase
 DOMAIN-SUFFIX,netstatic.net
+# 目标: NetEase
 DOMAIN-SUFFIX,njdiip.com
+# 目标: NetEase
 DOMAIN-SUFFIX,ntes53.com
+# 目标: NetEase
 DOMAIN-SUFFIX,ntes53.net
+# 目标: NetEase
 DOMAIN-SUFFIX,ntescdn.com
+# 目标: NetEase
 DOMAIN-SUFFIX,playdisorder.com
+# 目标: NetEase
 DOMAIN-SUFFIX,playfab.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,qiyukf.com
+# 目标: NetEase
 DOMAIN-SUFFIX,qiyukf.net
+# 目标: NetEase
 DOMAIN-SUFFIX,static163.net
+# 目标: NetEase
 DOMAIN-SUFFIX,tx163.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yaoluu.com
+# 目标: NetEase
 DOMAIN-SUFFIX,ydstatic.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,ydstatic.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yeah.net
+# 目标: NetEase
 DOMAIN-SUFFIX,yodao.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,yodao.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yodao.com.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,yodao.info
+# 目标: NetEase
 DOMAIN-SUFFIX,yodao.net
+# 目标: NetEase
 DOMAIN-SUFFIX,yodao.org
+# 目标: NetEase
 DOMAIN-SUFFIX,youdao.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yqkk.link
+# 目标: NetEase
 DOMAIN-SUFFIX,ytiao.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,ytiny.cn
+# 目标: NetEase
 DOMAIN-SUFFIX,yun-app.net
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxin163.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxinapi.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxindns.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxinfw.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxingslb.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxinhi.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxinhy.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxinrtc.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxinsvip.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxinsvr.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxinvcloud.com
+# 目标: NetEase
 DOMAIN-SUFFIX,yunxinvideo.com
+# 目标: NetEase
 DOMAIN-SUFFIX,zhuanzfx.com
+# 目标: NetEase
 IP-CIDR,101.71.154.241/32
+# 目标: NetEase
 IP-CIDR,103.126.92.132/31
+# 目标: NetEase
 IP-CIDR,112.13.119.17/32
+# 目标: NetEase
 IP-CIDR,112.13.119.18/32
+# 目标: NetEase
 IP-CIDR,112.13.122.1/32
+# 目标: NetEase
 IP-CIDR,112.13.122.4/32
+# 目标: NetEase
 IP-CIDR,115.236.118.33/32
+# 目标: NetEase
 IP-CIDR,115.236.118.34/32
+# 目标: NetEase
 IP-CIDR,115.236.121.1/32
+# 目标: NetEase
 IP-CIDR,115.236.121.4/32
+# 目标: NetEase
 IP-CIDR,118.24.63.156/32
+# 目标: NetEase
 IP-CIDR,182.92.170.253/32
+# 目标: NetEase
 IP-CIDR,193.112.159.225/32
+# 目标: NetEase
 IP-CIDR,223.252.199.66/31
+# 目标: NetEase
 IP-CIDR,39.105.175.128/32
+# 目标: NetEase
 IP-CIDR,39.105.63.80/32
+# 目标: NetEase
 IP-CIDR,45.254.48.1/32
+# 目标: NetEase
 IP-CIDR,47.100.127.239/32
+# 目标: NetEase
 IP-CIDR,59.111.160.195/32
+# 目标: NetEase
 IP-CIDR,59.111.160.197/32
+# 目标: NetEase
 IP-CIDR,59.111.179.214/32
+# 目标: NetEase
 IP-CIDR,59.111.181.155/32
+# 目标: NetEase
 IP-CIDR,59.111.181.35/32
+# 目标: NetEase
 IP-CIDR,59.111.181.38/32
+# 目标: NetEase
 IP-CIDR,59.111.181.60/32
+# 目标: NetEase
 IP-CIDR,59.111.19.33/32
+# 目标: NetEase
 IP-CIDR,59.111.21.14/31
+# 目标: NetEase
 IP-CIDR,59.111.238.29/32

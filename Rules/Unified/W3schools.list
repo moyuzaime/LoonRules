@@ -1,4 +1,5 @@
 # 统一规则库 | 分类: W3schools
 # 合并来源: blackmatrix7/ios_rule_script W3schools
 # 规则数: 1
+# 目标: W3schools
 DOMAIN-SUFFIX,w3schools.com

@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: YiChe
 # 合并来源: blackmatrix7/ios_rule_script YiChe
+# 说明: 易车
 # 规则数: 5
+# 目标: YiChe
 DOMAIN-SUFFIX,bitauto.com
+# 目标: YiChe
 DOMAIN-SUFFIX,bitautoimg.com
+# 目标: YiChe
 DOMAIN-SUFFIX,cheyisou.com
+# 目标: YiChe
 DOMAIN-SUFFIX,yccdn.com
+# 目标: YiChe
 DOMAIN-SUFFIX,yiche.com

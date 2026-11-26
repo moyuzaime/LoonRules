@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: Jwplayer
 # 合并来源: blackmatrix7/ios_rule_script Jwplayer
 # 规则数: 5
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwpcdn.com
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwplatform.com
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwplayer.com
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwpltx.com
+# 目标: Jwplayer
 DOMAIN-SUFFIX,jwpsrv.com

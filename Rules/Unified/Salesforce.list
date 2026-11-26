@@ -1,16 +1,29 @@
 # 统一规则库 | 分类: Salesforce
 # 合并来源: blackmatrix7/ios_rule_script Salesforce
 # 规则数: 13
+# 目标: Salesforce
 DOMAIN-SUFFIX,force.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,heroku.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,herokuapp.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,herokucdn.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,mulesoft.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,salesforce.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,salesforce.org
+# 目标: Salesforce
 DOMAIN-SUFFIX,salesforceliveagent.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,sfdcdigital.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,sfdcstatic.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,tableau.com
+# 目标: Salesforce
 DOMAIN-SUFFIX,trailblazer.me
+# 目标: Salesforce
 DOMAIN-SUFFIX,trailhead.com

@@ -1,29 +1,56 @@
 # 统一规则库 | 分类: ZhangYue
 # 合并来源: blackmatrix7/ios_rule_script ZhangYue
+# 说明: 掌阅
 # 规则数: 26
+# 目标: ZhangYue
 DOMAIN-SUFFIX,corp3g.cn
+# 目标: ZhangYue
 DOMAIN-SUFFIX,ireader.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,ireader.com.cn
+# 目标: ZhangYue
 DOMAIN-SUFFIX,ireader.live
+# 目标: ZhangYue
 DOMAIN-SUFFIX,ireader.mobi
+# 目标: ZhangYue
 DOMAIN-SUFFIX,ireaderm.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,ireaderm.net
+# 目标: ZhangYue
 DOMAIN-SUFFIX,iremaker.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,mgcube.cn
+# 目标: ZhangYue
 DOMAIN-SUFFIX,palmebook.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,palmeread.cn
+# 目标: ZhangYue
 DOMAIN-SUFFIX,palmeread.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,palmestore.cn
+# 目标: ZhangYue
 DOMAIN-SUFFIX,palmestore.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,transmonkey.cn
+# 目标: ZhangYue
 DOMAIN-SUFFIX,transmonkey.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,transmonkey.net
+# 目标: ZhangYue
 DOMAIN-SUFFIX,z3.cn
+# 目标: ZhangYue
 DOMAIN-SUFFIX,zhangyue.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,zhangyue.net
+# 目标: ZhangYue
 DOMAIN-SUFFIX,zhangyue01.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,zhangyue02.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,zhangyue03.com
+# 目标: ZhangYue
 DOMAIN-SUFFIX,zhi3.com.cn
+# 目标: ZhangYue
 DOMAIN-SUFFIX,zhi3.net
+# 目标: ZhangYue
 DOMAIN-SUFFIX,zuoshujiang.com

@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: QuickConnect
 # 合并来源: blackmatrix7/ios_rule_script QuickConnect
 # 规则数: 6
+# 目标: QuickConnect
 DOMAIN,account.synology.com
+# 目标: QuickConnect
 DOMAIN,global.quickconnect.cn
+# 目标: QuickConnect
 DOMAIN,sns.synology.com
+# 目标: QuickConnect
 DOMAIN-SUFFIX,download.synology.com
+# 目标: QuickConnect
 DOMAIN-SUFFIX,quickconnect.com
+# 目标: QuickConnect
 DOMAIN-SUFFIX,quickconnect.to

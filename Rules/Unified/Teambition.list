@@ -1,13 +1,23 @@
 # 统一规则库 | 分类: Teambition
 # 合并来源: blackmatrix7/ios_rule_script Teambition
 # 规则数: 10
+# 目标: Teambition
 DOMAIN-SUFFIX,jianliao.com
+# 目标: Teambition
 DOMAIN-SUFFIX,project.ai
+# 目标: Teambition
 DOMAIN-SUFFIX,talk.ai
+# 目标: Teambition
 DOMAIN-SUFFIX,tbapp.com
+# 目标: Teambition
 DOMAIN-SUFFIX,tburl.in
+# 目标: Teambition
 DOMAIN-SUFFIX,teambition.com
+# 目标: Teambition
 DOMAIN-SUFFIX,teambition.io
+# 目标: Teambition
 DOMAIN-SUFFIX,teambition.net
+# 目标: Teambition
 DOMAIN-SUFFIX,teambitionapis.com
+# 目标: Teambition
 DOMAIN-SUFFIX,today.ai

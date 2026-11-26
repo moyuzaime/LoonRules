@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: TestFlight
 # 合并来源: blackmatrix7/ios_rule_script TestFlight
 # 规则数: 3
+# 目标: TestFlight
 DOMAIN,beta.apple.com
+# 目标: TestFlight
 DOMAIN,testflight.apple.com
+# 目标: TestFlight
 DOMAIN-KEYWORD,testflight

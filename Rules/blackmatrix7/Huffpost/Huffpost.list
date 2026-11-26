@@ -1,21 +1,39 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Huffpost/Huffpost.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Huffpost/Huffpost.list
 # 规则数: 18
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.ca
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.co.uk
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.co.za
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.com
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.com.au
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.com.mx
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.de
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.es
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.fr
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.gr
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.in
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.it
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.jp
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffingtonpost.kr
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffpost.com
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffpostarabi.com
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffpostbrasil.com
+# 目标: Huffpost
 DOMAIN-SUFFIX,huffpostmaghreb.com

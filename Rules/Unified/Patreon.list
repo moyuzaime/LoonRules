@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Patreon
 # 合并来源: blackmatrix7/ios_rule_script Patreon
 # 规则数: 4
+# 目标: Patreon
 DOMAIN,live-patreon-marketing.pantheonsite.io
+# 目标: Patreon
 DOMAIN-SUFFIX,patreon.com
+# 目标: Patreon
 DOMAIN-SUFFIX,patreoncommunity.com
+# 目标: Patreon
 DOMAIN-SUFFIX,patreonusercontent.com

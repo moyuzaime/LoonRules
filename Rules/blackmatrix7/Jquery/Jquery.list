@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Jquery/Jquery.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Jquery/Jquery.list
 # 规则数: 3
+# 目标: Jquery
 DOMAIN-SUFFIX,jquery.com
+# 目标: Jquery
 DOMAIN-SUFFIX,jquerymobile.com
+# 目标: Jquery
 DOMAIN-SUFFIX,jqueryui.com

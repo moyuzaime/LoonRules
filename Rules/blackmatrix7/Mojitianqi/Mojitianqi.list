@@ -1,10 +1,18 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Mojitianqi/Mojitianqi.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Mojitianqi/Mojitianqi.list
+# 说明: 墨迹天气
 # 规则数: 7
+# 目标: Mojitianqi
 DOMAIN-SUFFIX,airnut.com
+# 目标: Mojitianqi
 DOMAIN-SUFFIX,moji.com
+# 目标: Mojitianqi
 DOMAIN-SUFFIX,mojicb.com
+# 目标: Mojitianqi
 DOMAIN-SUFFIX,mojichina.com
+# 目标: Mojitianqi
 DOMAIN-SUFFIX,mojitest.com
+# 目标: Mojitianqi
 DOMAIN-SUFFIX,moweather.com
+# 目标: Mojitianqi
 DOMAIN-SUFFIX,xiaomo.cn

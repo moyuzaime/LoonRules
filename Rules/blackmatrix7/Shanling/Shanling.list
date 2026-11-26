@@ -1,5 +1,8 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Shanling/Shanling.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Shanling/Shanling.list
+# 说明: 山灵音响
 # 规则数: 2
+# 目标: Shanling
 DOMAIN-SUFFIX,onixhiend.com
+# 目标: Shanling
 DOMAIN-SUFFIX,shanling.com

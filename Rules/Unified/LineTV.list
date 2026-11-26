@@ -1,12 +1,21 @@
 # 统一规则库 | 分类: LineTV
 # 合并来源: blackmatrix7/ios_rule_script LineTV
 # 规则数: 9
+# 目标: LineTV
 DOMAIN,d17lx9ucc6k9fc.cloudfront.net
+# 目标: LineTV
 DOMAIN,d3pgb93pk7bvxj.cloudfront.net
+# 目标: LineTV
 DOMAIN,d3vm9lcxb6xcm4.cloudfront.net
+# 目标: LineTV
 DOMAIN-SUFFIX,chocotv.com.tw
+# 目标: LineTV
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
+# 目标: LineTV
 DOMAIN-SUFFIX,line-cdn.net
+# 目标: LineTV
 DOMAIN-SUFFIX,line-scdn.net
+# 目标: LineTV
 DOMAIN-SUFFIX,linetv.tw
+# 目标: LineTV
 USER-AGENT,LINE%20TV*

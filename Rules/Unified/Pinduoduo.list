@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: Pinduoduo
 # 合并来源: blackmatrix7/ios_rule_script Pinduoduo
+# 说明: 拼多多
 # 规则数: 3
+# 目标: Pinduoduo
 DOMAIN-SUFFIX,pddpic.com
+# 目标: Pinduoduo
 DOMAIN-SUFFIX,pinduoduo.com
+# 目标: Pinduoduo
 DOMAIN-SUFFIX,yangkeduo.com

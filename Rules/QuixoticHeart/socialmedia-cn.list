@@ -1,63 +1,123 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/socialmedia-cn.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/socialmedia-cn.list
 # 规则数: 60
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,178.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,97973.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,askdiandian.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,coolapk.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,coolapkmarket.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,coolapkmarket.net
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,diandianlife.top
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,douban.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,douban.fm
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,doubanio.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,fengkongcloud.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,krcom.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,laiyagushi.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,nga.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,ngabbs.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,ngacn.cc
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,picself.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,redelight.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,rednote.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,rednote.com.my
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,rednotecdn.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,rnote.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sina
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sina.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sina.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sina.com.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sina.net
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sinaapp.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sinaedge.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sinaimg.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sinaimg.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sinajs.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,sinajs.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,t.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,videoself.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,vzuu.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,wbimg.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,wbimg.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,wcdn.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,weibo
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,weibo.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,weibo.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,weibo.com.cn
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,weibocdn.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,weibopay.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,xhaiwai.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,xhscdn.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,xhscdn.net
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,xhslink.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,xhsrcdn.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,xiaohongshu.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,xn--9krt00a
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,zhihu.com
+# 目标: socialmedia-cn
 DOMAIN-SUFFIX,zhimg.com
+# 目标: socialmedia-cn
 DOMAIN-KEYWORD,weibo
+# 目标: socialmedia-cn
 IP-CIDR,103.41.167.226/32,no-resolve
+# 目标: socialmedia-cn
 IP-CIDR,103.41.167.234/31,no-resolve
+# 目标: socialmedia-cn
 IP-CIDR,103.41.167.236/32,no-resolve
+# 目标: socialmedia-cn
 IP-CIDR,118.89.204.198/32,no-resolve
+# 目标: socialmedia-cn
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve

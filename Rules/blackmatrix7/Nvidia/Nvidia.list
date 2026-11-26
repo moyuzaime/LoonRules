@@ -1,65 +1,127 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Nvidia/Nvidia.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Nvidia/Nvidia.list
 # 规则数: 62
+# 目标: Nvidia
 DOMAIN-SUFFIX,geforce.cn
+# 目标: Nvidia
 DOMAIN-SUFFIX,geforce.co.kr
+# 目标: Nvidia
 DOMAIN-SUFFIX,geforce.co.uk
+# 目标: Nvidia
 DOMAIN-SUFFIX,geforce.com
+# 目标: Nvidia
 DOMAIN-SUFFIX,geforce.com.tw
+# 目标: Nvidia
 DOMAIN-SUFFIX,gputechconf.cn
+# 目标: Nvidia
 DOMAIN-SUFFIX,gputechconf.co.kr
+# 目标: Nvidia
 DOMAIN-SUFFIX,gputechconf.com
+# 目标: Nvidia
 DOMAIN-SUFFIX,gputechconf.com.au
+# 目标: Nvidia
 DOMAIN-SUFFIX,gputechconf.com.tw
+# 目标: Nvidia
 DOMAIN-SUFFIX,gputechconf.eu
+# 目标: Nvidia
 DOMAIN-SUFFIX,gputechconf.in
+# 目标: Nvidia
 DOMAIN-SUFFIX,gputechconf.jp
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.asia
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.at
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.be
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.ch
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.cn
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.co.at
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.co.in
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.co.jp
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.co.kr
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.co.uk
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com.au
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com.br
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com.mx
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com.pe
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com.pl
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com.tr
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com.tw
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com.ua
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.com.ve
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.cz
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.de
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.dk
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.es
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.eu
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.fi
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.fr
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.in
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.it
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.jp
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.lu
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.mx
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.nl
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.no
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.pl
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.ro
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.ru
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.se
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.tt.omtrdc.net
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidia.tw
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidiaforhp.com
+# 目标: Nvidia
 DOMAIN-SUFFIX,nvidiagrid.net
+# 目标: Nvidia
 DOMAIN-SUFFIX,shotwithgeforce.com
+# 目标: Nvidia
 DOMAIN-SUFFIX,tegrazone.co
+# 目标: Nvidia
 DOMAIN-SUFFIX,tegrazone.co.kr
+# 目标: Nvidia
 DOMAIN-SUFFIX,tegrazone.com
+# 目标: Nvidia
 DOMAIN-SUFFIX,tegrazone.jp
+# 目标: Nvidia
 DOMAIN-SUFFIX,tegrazone.kr

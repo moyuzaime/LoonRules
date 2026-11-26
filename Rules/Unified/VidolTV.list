@@ -1,4 +1,5 @@
 # 统一规则库 | 分类: VidolTV
 # 合并来源: blackmatrix7/ios_rule_script VidolTV
 # 规则数: 1
+# 目标: VidolTV
 DOMAIN-SUFFIX,vidol.tv

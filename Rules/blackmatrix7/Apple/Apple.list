@@ -1,46 +1,89 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Apple/Apple.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apple/Apple.list
 # 规则数: 43
+# 目标: Apple
 DOMAIN-KEYWORD,apple-support.akadns.net
+# 目标: Apple
 DOMAIN-KEYWORD,apple.com.akadns.net
+# 目标: Apple
 DOMAIN-KEYWORD,apple.com.edgekey.net
+# 目标: Apple
 DOMAIN-KEYWORD,buy.itunes.apple.com
+# 目标: Apple
 DOMAIN-KEYWORD,smp-device
+# 目标: Apple
 DOMAIN-KEYWORD,testflight
+# 目标: Apple
 DOMAIN-KEYWORD,icloud.com.akadns.net
+# 目标: Apple
 USER-AGENT,*FindMyiPhone?
+# 目标: Apple
 USER-AGENT,*Music?
+# 目标: Apple
 USER-AGENT,*WeatherFoundation*
+# 目标: Apple
 USER-AGENT,*com.apple.Maps?
+# 目标: Apple
 USER-AGENT,*com.apple.mobileme.fmip1
+# 目标: Apple
 USER-AGENT,FMDClient*
+# 目标: Apple
 USER-AGENT,FMFD*
+# 目标: Apple
 USER-AGENT,FindMyFriends*
+# 目标: Apple
 USER-AGENT,FindMyiPhone*
+# 目标: Apple
 USER-AGENT,Maps*
+# 目标: Apple
 USER-AGENT,Wallet*
+# 目标: Apple
 USER-AGENT,com.apple.Maps
+# 目标: Apple
 USER-AGENT,com.apple.appstored*
+# 目标: Apple
 USER-AGENT,fmflocatord*
+# 目标: Apple
 USER-AGENT,geod*
+# 目标: Apple
 USER-AGENT,locationd*
+# 目标: Apple
 USER-AGENT,passd*
+# 目标: Apple
 USER-AGENT,Music*
+# 目标: Apple
 USER-AGENT,AppleNews*
+# 目标: Apple
 USER-AGENT,AppleTV*
+# 目标: Apple
 USER-AGENT,com.apple.news*
+# 目标: Apple
 USER-AGENT,com.apple.trustd*
+# 目标: Apple
 USER-AGENT,com.apple.tv*
+# 目标: Apple
 IP-CIDR,139.178.128.0/18,no-resolve
+# 目标: Apple
 IP-CIDR,144.178.0.0/19,no-resolve
+# 目标: Apple
 IP-CIDR,144.178.36.0/22,no-resolve
+# 目标: Apple
 IP-CIDR,144.178.48.0/20,no-resolve
+# 目标: Apple
 IP-CIDR,17.0.0.0/8,no-resolve
+# 目标: Apple
 IP-CIDR,192.35.50.0/24,no-resolve
+# 目标: Apple
 IP-CIDR,198.183.17.0/24,no-resolve
+# 目标: Apple
 IP-CIDR,205.180.175.0/24,no-resolve
+# 目标: Apple
 IP-CIDR,63.92.224.0/19,no-resolve
+# 目标: Apple
 IP-CIDR,65.199.22.0/23,no-resolve
+# 目标: Apple
 IP-CIDR6,2403:300::/32,no-resolve
+# 目标: Apple
 IP-CIDR6,2620:149::/32,no-resolve
+# 目标: Apple
 IP-CIDR6,2a01:b740::/32,no-resolve

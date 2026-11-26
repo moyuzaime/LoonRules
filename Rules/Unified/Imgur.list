@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Imgur
 # 合并来源: blackmatrix7/ios_rule_script Imgur
 # 规则数: 2
+# 目标: Imgur
 DOMAIN-SUFFIX,imgur.com
+# 目标: Imgur
 DOMAIN-SUFFIX,imgurinc.com

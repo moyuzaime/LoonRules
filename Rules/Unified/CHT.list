@@ -1,10 +1,17 @@
 # 统一规则库 | 分类: CHT
 # 合并来源: blackmatrix7/ios_rule_script CHT
 # 规则数: 7
+# 目标: CHT
 DOMAIN-SUFFIX,cht.com.tw
+# 目标: CHT
 DOMAIN-SUFFIX,chtf.org.tw
+# 目标: CHT
 DOMAIN-SUFFIX,emome.net
+# 目标: CHT
 DOMAIN-SUFFIX,gtlsca.nat.gov.tw
+# 目标: CHT
 DOMAIN-SUFFIX,hinet.net
+# 目标: CHT
 DOMAIN-SUFFIX,litv.tv
+# 目标: CHT
 DOMAIN-SUFFIX,xuite.net

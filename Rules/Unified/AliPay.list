@@ -1,24 +1,46 @@
 # 统一规则库 | 分类: AliPay
 # 合并来源: blackmatrix7/ios_rule_script AliPay
+# 说明: 支付宝
 # 规则数: 21
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay-corp.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay-eco.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay-inc.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay-traffic.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay.cn
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay.com.cn
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay.hk
+# 目标: AliPay
 DOMAIN-SUFFIX,alipay.net
+# 目标: AliPay
 DOMAIN-SUFFIX,alipaydesign.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipaydev.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipaydns.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipayeshop.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipaylog.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipaymo.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipayobjects.com
+# 目标: AliPay
 DOMAIN-SUFFIX,alipayplus.com
+# 目标: AliPay
 DOMAIN-SUFFIX,ifaa.org.cn
+# 目标: AliPay
 DOMAIN-SUFFIX,luohanacademy.com
+# 目标: AliPay
 DOMAIN-SUFFIX,sinopayment.com.cn

@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: Olevod
 # 合并来源: blackmatrix7/ios_rule_script Olevod
 # 规则数: 5
+# 目标: Olevod
 DOMAIN-SUFFIX,haiwaikan.com
+# 目标: Olevod
 DOMAIN-SUFFIX,iole.tv
+# 目标: Olevod
 DOMAIN-SUFFIX,olehd.com
+# 目标: Olevod
 DOMAIN-SUFFIX,olelive.com
+# 目标: Olevod
 DOMAIN-KEYWORD,olevod

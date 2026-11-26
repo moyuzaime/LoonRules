@@ -1,573 +1,1143 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Facebook/Facebook.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Facebook/Facebook.list
 # 规则数: 570
+# 目标: Facebook
 DOMAIN-SUFFIX,aboutfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,accessfacebookfromschool.com
+# 目标: Facebook
 DOMAIN-SUFFIX,accountkit.com
+# 目标: Facebook
 DOMAIN-SUFFIX,acebooik.com
+# 目标: Facebook
 DOMAIN-SUFFIX,acebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,achat-followers-instagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,acheter-followers-instagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,acheterfollowersinstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,advancediddetection.com
+# 目标: Facebook
 DOMAIN-SUFFIX,askfacebook.net
+# 目标: Facebook
 DOMAIN-SUFFIX,askfacebook.org
+# 目标: Facebook
 DOMAIN-SUFFIX,atdmt2.com
+# 目标: Facebook
 DOMAIN-SUFFIX,atlasdmt.com
+# 目标: Facebook
 DOMAIN-SUFFIX,atlasonepoint.com
+# 目标: Facebook
 DOMAIN-SUFFIX,atscaleconference.com
+# 目标: Facebook
 DOMAIN-SUFFIX,binoculus.com
+# 目标: Facebook
 DOMAIN-SUFFIX,bookstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,botorch.org
+# 目标: Facebook
 DOMAIN-SUFFIX,buck.build
+# 目标: Facebook
 DOMAIN-SUFFIX,buckbuild.com
+# 目标: Facebook
 DOMAIN-SUFFIX,buyingfacebooklikes.com
+# 目标: Facebook
 DOMAIN-SUFFIX,buyoculus.com
+# 目标: Facebook
 DOMAIN-SUFFIX,careersatfb.com
+# 目标: Facebook
 DOMAIN-SUFFIX,carstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,cdninstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,celebgramme.com
+# 目标: Facebook
 DOMAIN-SUFFIX,chickstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,china-facebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,click-url.com
+# 目标: Facebook
 DOMAIN-SUFFIX,como-hackearfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,componentkit.org
+# 目标: Facebook
 DOMAIN-SUFFIX,crowdtangle.com
+# 目标: Facebook
 DOMAIN-SUFFIX,dacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,dlfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,dotfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,dotfacebook.net
+# 目标: Facebook
 DOMAIN-SUFFIX,draftjs.org
+# 目标: Facebook
 DOMAIN-SUFFIX,expresswifi.com
+# 目标: Facebook
 DOMAIN-SUFFIX,f8.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faacebok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faasbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facbebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facbeok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facboo.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facbool.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facboox.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faccebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faccebookk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facdbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facdebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,face-book.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceabook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebboc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebboook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebcook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebdok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebgook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebhook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebkkk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebo-ok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboak.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebock.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebocke.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebof.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboik.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebokbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebokc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebokk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebokok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboks.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebol.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebolk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebomok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboo.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooa.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboob.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboobok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboock.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebood.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooe.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboof.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooi.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooik.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooik.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooj.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-corp.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-covid-19.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-ebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-forum.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-hardware.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-inc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-login.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-newsroom.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-newsroom.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-pmdcenter.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-pmdcenter.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-pmdcenter.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-privacy.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-program.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-studio.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-support.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-texas-holdem.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook-texas-holdem.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.br
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.ca
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.cc
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.design
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.hu
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.in
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.nl
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.se
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.shop
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.tv
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.us
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook.wang
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook123.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook30.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook30.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook30.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebook4business.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookads.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookadvertisingsecrets.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookappcenter.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookappcenter.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookappcenter.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookatschool.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookawards.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookblueprint.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookbrand.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookbrand.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookcanadianelectionintegrityinitiative.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookcareer.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookcheats.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookck.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookclub.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookcom.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookconnect.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookconsultant.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookcoronavirus.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookcovers.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookcredits.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookdating.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookdevelopergarage.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookdusexe.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookemail.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookenespanol.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookexchange.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookexchange.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookflow.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookgames.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookgraphsearch.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookgraphsearch.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookgroups.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookhome.cc
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookhome.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookhome.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookhub.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooki.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookinc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookland.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooklikeexchange.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooklive.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooklivestaging.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooklivestaging.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooklogin.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooklogin.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookloginhelp.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooklogs.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookmail.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookmail.tv
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookmanager.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookmarketing.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookmarketingpartner.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookmarketingpartners.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookmobile.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookmsn.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooknews.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooknfl.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooknude.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookofsex.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookpaper.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookpay.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookphonenumber.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookphoto.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookphotos.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookpmdcenter.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookpoke.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookpoke.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookpoker.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookpokerchips.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookporn.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookporn.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookporno.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookportal.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookquotes4u.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooks.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooksafety.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooksecurity.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookshop.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooksignup.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooksite.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookstories.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookstudios.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookstudios.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooksupplier.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooksuppliers.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookswagemea.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookswagstore.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooksz.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookthreads.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooktv.net
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooktv.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookvacation.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookw.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookwork.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebookworld.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebool.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebool.info
+# 目标: Facebook
 DOMAIN-SUFFIX,facebooll.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboom.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboon.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboonk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboooik.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboop.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboot.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceboox.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebopk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebpook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebuk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebuok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebvook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebyook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facebzook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facecbgook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facecbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facecbook.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facecook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facecook.org
+# 目标: Facebook
 DOMAIN-SUFFIX,facedbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceebok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceebot.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facegbok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facegbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceobk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceobok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceobook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faceook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facerbooik.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facerbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facesbooc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facesounds.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facetook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facevbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facewbook.co
+# 目标: Facebook
 DOMAIN-SUFFIX,facewook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facfebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faciometrics.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fackebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facnbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facrbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facvebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facwebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,facxebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fadebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faebok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faebookc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faeboook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faecebok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faesebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fafacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faicbooc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fasebokk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fasebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faseboox.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fasttext.cc
+# 目标: Facebook
 DOMAIN-SUFFIX,favebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,faycbok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fb.careers
+# 目标: Facebook
 DOMAIN-SUFFIX,fb.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fb.me
+# 目标: Facebook
 DOMAIN-SUFFIX,fbacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbaddins.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbbmarket.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbboostyourbusiness.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbcdn-a.akamaihd.net
+# 目标: Facebook
 DOMAIN-SUFFIX,fbcdn.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbcdn.net
+# 目标: Facebook
 DOMAIN-SUFFIX,fbf8.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbfeedback.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbhome.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbidb.io
+# 目标: Facebook
 DOMAIN-SUFFIX,fbinc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbinfer.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbinnovation.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fblitho.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbmarketing.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbmessenger.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbredex.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbreg.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbrell.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbrpms.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbsbx.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbsbx.net
+# 目标: Facebook
 DOMAIN-SUFFIX,fbsupport-covid.net
+# 目标: Facebook
 DOMAIN-SUFFIX,fbthirdpartypixel.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbthirdpartypixel.net
+# 目标: Facebook
 DOMAIN-SUFFIX,fbthirdpartypixel.org
+# 目标: Facebook
 DOMAIN-SUFFIX,fburl.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fbworkmail.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fcacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fcaebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fcebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fcebookk.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fcfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fdacebook.info
+# 目标: Facebook
 DOMAIN-SUFFIX,feacboo.com
+# 目标: Facebook
 DOMAIN-SUFFIX,feacbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,feacbooke.com
+# 目标: Facebook
 DOMAIN-SUFFIX,feacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fecbbok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fecbooc.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fecbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,feceboock.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fecebook.net
+# 目标: Facebook
 DOMAIN-SUFFIX,feceboox.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fececbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,feook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,ferabook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fescebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fesebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,ffacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fgacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,ficeboock.com
+# 目标: Facebook
 DOMAIN-SUFFIX,flow.dev
+# 目标: Facebook
 DOMAIN-SUFFIX,flow.org
+# 目标: Facebook
 DOMAIN-SUFFIX,flowtype.org
+# 目标: Facebook
 DOMAIN-SUFFIX,fmcebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fnacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fosebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fpacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fqcebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fracebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,freeb.com
+# 目标: Facebook
 DOMAIN-SUFFIX,freebasics.com
+# 目标: Facebook
 DOMAIN-SUFFIX,freebasics.net
+# 目标: Facebook
 DOMAIN-SUFFIX,freebs.com
+# 目标: Facebook
 DOMAIN-SUFFIX,freefacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,freefacebook.net
+# 目标: Facebook
 DOMAIN-SUFFIX,freefacebookads.net
+# 目标: Facebook
 DOMAIN-SUFFIX,freefblikes.com
+# 目标: Facebook
 DOMAIN-SUFFIX,freindfeed.com
+# 目标: Facebook
 DOMAIN-SUFFIX,frescolib.org
+# 目标: Facebook
 DOMAIN-SUFFIX,friendbook.info
+# 目标: Facebook
 DOMAIN-SUFFIX,friendfed.com
+# 目标: Facebook
 DOMAIN-SUFFIX,friendfeed-api.com
+# 目标: Facebook
 DOMAIN-SUFFIX,friendfeed-media.com
+# 目标: Facebook
 DOMAIN-SUFFIX,friendfeed.com
+# 目标: Facebook
 DOMAIN-SUFFIX,friendfeedmedia.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fsacebok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fscebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,fundraisingwithfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,funnyfacebook.org
+# 目标: Facebook
 DOMAIN-SUFFIX,futureofbusinesssurvey.org
+# 目标: Facebook
 DOMAIN-SUFFIX,gacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,gameroom.com
+# 目标: Facebook
 DOMAIN-SUFFIX,gfacecbook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,groups.com
+# 目标: Facebook
 DOMAIN-SUFFIX,hackerfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,hackfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,hackfacebookid.com
+# 目标: Facebook
 DOMAIN-SUFFIX,hacklang.org
+# 目标: Facebook
 DOMAIN-SUFFIX,hhvm.com
+# 目标: Facebook
 DOMAIN-SUFFIX,hifacebook.info
+# 目标: Facebook
 DOMAIN-SUFFIX,howtohackfacebook-account.com
+# 目标: Facebook
 DOMAIN-SUFFIX,hsfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,httpfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,httpsfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,httpwwwfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,i.org
+# 目标: Facebook
 DOMAIN-SUFFIX,ig.me
+# 目标: Facebook
 DOMAIN-SUFFIX,igcdn.com
+# 目标: Facebook
 DOMAIN-SUFFIX,igsonar.com
+# 目标: Facebook
 DOMAIN-SUFFIX,igtv.com
+# 目标: Facebook
 DOMAIN-SUFFIX,imstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,imtagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instaadder.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instachecker.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instafallow.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instafollower.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagainer.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagda.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagify.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagmania.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagor.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagr.am
+# 目标: Facebook
 DOMAIN-SUFFIX,instagram-brand.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagram-engineering.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagram-help.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagram-press.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagram-press.net
+# 目标: Facebook
 DOMAIN-SUFFIX,instagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramci.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramcn.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramdi.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramhashtags.net
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramhilecim.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramhilesi.org
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramium.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramizlenme.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramkusu.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramlogin.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramm.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramn.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagrampartners.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramphoto.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramq.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramsepeti.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramtakipcisatinal.net
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramtakiphilesi.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramtips.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagramtr.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagran.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagranm.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagrem.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagrm.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagtram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instagy.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instamgram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instangram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instanttelegram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,instaplayer.net
+# 目标: Facebook
 DOMAIN-SUFFIX,instastyle.tv
+# 目标: Facebook
 DOMAIN-SUFFIX,instgram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,intagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,intagrm.com
+# 目标: Facebook
 DOMAIN-SUFFIX,internet.org
+# 目标: Facebook
 DOMAIN-SUFFIX,intgram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,ip6.static.sl-reverse.com
+# 目标: Facebook
 DOMAIN-SUFFIX,kingstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,klik.me
+# 目标: Facebook
 DOMAIN-SUFFIX,liverail.com
+# 目标: Facebook
 DOMAIN-SUFFIX,liverail.tv
+# 目标: Facebook
 DOMAIN-SUFFIX,lnstagram-help.com
+# 目标: Facebook
 DOMAIN-SUFFIX,login-account.net
+# 目标: Facebook
 DOMAIN-SUFFIX,m.me
+# 目标: Facebook
 DOMAIN-SUFFIX,makeitopen.com
+# 目标: Facebook
 DOMAIN-SUFFIX,markzuckerberg.com
+# 目标: Facebook
 DOMAIN-SUFFIX,mcrouter.net
+# 目标: Facebook
 DOMAIN-SUFFIX,mcrouter.org
+# 目标: Facebook
 DOMAIN-SUFFIX,messenger.com
+# 目标: Facebook
 DOMAIN-SUFFIX,messengerdevelopers.com
+# 目标: Facebook
 DOMAIN-SUFFIX,meta.com
+# 目标: Facebook
 DOMAIN-SUFFIX,midentsolutions.com
+# 目标: Facebook
 DOMAIN-SUFFIX,mobilefacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,moneywithfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,myfbfans.com
+# 目标: Facebook
 DOMAIN-SUFFIX,nbabot.net
+# 目标: Facebook
 DOMAIN-SUFFIX,newsfeed.com
+# 目标: Facebook
 DOMAIN-SUFFIX,nextstop.com
+# 目标: Facebook
 DOMAIN-SUFFIX,ocul.us
+# 目标: Facebook
 DOMAIN-SUFFIX,oculus-china.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculus.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculus2014.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculus3d.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculusblog.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculusbrand.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculuscasino.net
+# 目标: Facebook
 DOMAIN-SUFFIX,oculuscdn.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculusconnect.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculusdiving.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculusforbusiness.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculusrift.com
+# 目标: Facebook
 DOMAIN-SUFFIX,oculusvr.com
+# 目标: Facebook
 DOMAIN-SUFFIX,ogp.me
+# 目标: Facebook
 DOMAIN-SUFFIX,oninstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,online-deals.net
+# 目标: Facebook
 DOMAIN-SUFFIX,online-instagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,onlineinstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,opencreate.org
+# 目标: Facebook
 DOMAIN-SUFFIX,opengraphprotocol.com
+# 目标: Facebook
 DOMAIN-SUFFIX,opengraphprotocol.org
+# 目标: Facebook
 DOMAIN-SUFFIX,parse.com
+# 目标: Facebook
 DOMAIN-SUFFIX,powersunitedvr.com
+# 目标: Facebook
 DOMAIN-SUFFIX,pyrobot.org
+# 目标: Facebook
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,react.com
+# 目标: Facebook
 DOMAIN-SUFFIX,reactjs.com
+# 目标: Facebook
 DOMAIN-SUFFIX,reactjs.org
+# 目标: Facebook
 DOMAIN-SUFFIX,recoiljs.org
+# 目标: Facebook
 DOMAIN-SUFFIX,redkix.com
+# 目标: Facebook
 DOMAIN-SUFFIX,rocksdb.com
+# 目标: Facebook
 DOMAIN-SUFFIX,rocksdb.net
+# 目标: Facebook
 DOMAIN-SUFFIX,rocksdb.org
+# 目标: Facebook
 DOMAIN-SUFFIX,shopfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,sportsfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,sportstream.com
+# 目标: Facebook
 DOMAIN-SUFFIX,supportfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,terragraph.com
+# 目标: Facebook
 DOMAIN-SUFFIX,thefacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,thefacebook.net
+# 目标: Facebook
 DOMAIN-SUFFIX,thefind.com
+# 目标: Facebook
 DOMAIN-SUFFIX,theinstagramhack.com
+# 目标: Facebook
 DOMAIN-SUFFIX,toplayerserver.com
+# 目标: Facebook
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,wa.me
+# 目标: Facebook
 DOMAIN-SUFFIX,web-instagram.net
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp-plus.info
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp-plus.me
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp-plus.net
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp.biz
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp.cc
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp.com
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp.info
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp.net
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp.org
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsapp.tv
+# 目标: Facebook
 DOMAIN-SUFFIX,whatsappbrand.com
+# 目标: Facebook
 DOMAIN-SUFFIX,whyfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,workplace.com
+# 目标: Facebook
 DOMAIN-SUFFIX,workplaceusecases.com
+# 目标: Facebook
 DOMAIN-SUFFIX,worldhack.com
+# 目标: Facebook
 DOMAIN-SUFFIX,www-facebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,wwwfacebok.com
+# 目标: Facebook
 DOMAIN-SUFFIX,wwwfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,wwwinstagram.com
+# 目标: Facebook
 DOMAIN-SUFFIX,wwwmfacebook.com
+# 目标: Facebook
 DOMAIN-SUFFIX,yogalayout.com
+# 目标: Facebook
 DOMAIN-SUFFIX,zuckerberg.com
+# 目标: Facebook
 DOMAIN-SUFFIX,zuckerberg.net
+# 目标: Facebook
 DOMAIN-KEYWORD,facebook
+# 目标: Facebook
 DOMAIN-KEYWORD,fbcdn
+# 目标: Facebook
 IP-ASN,32934,no-resolve
+# 目标: Facebook
 IP-CIDR,108.168.176.192/26,no-resolve
+# 目标: Facebook
 IP-CIDR,108.168.177.0/27,no-resolve
+# 目标: Facebook
 IP-CIDR,108.168.180.96/27,no-resolve
+# 目标: Facebook
 IP-CIDR,108.168.254.65/32,no-resolve
+# 目标: Facebook
 IP-CIDR,108.168.255.224/32,no-resolve
+# 目标: Facebook
 IP-CIDR,108.168.255.227/32,no-resolve
+# 目标: Facebook
 IP-CIDR,108.177.8.0/21,no-resolve
+# 目标: Facebook
 IP-CIDR,119.235.224.0/24,no-resolve
+# 目标: Facebook
 IP-CIDR,119.235.232.0/24,no-resolve
+# 目标: Facebook
 IP-CIDR,119.235.236.0/23,no-resolve
+# 目标: Facebook
 IP-CIDR,129.134.0.0/17,no-resolve
+# 目标: Facebook
 IP-CIDR,157.240.0.0/17,no-resolve
+# 目标: Facebook
 IP-CIDR,169.45.248.118/32,no-resolve
+# 目标: Facebook
 IP-CIDR,173.252.64.0/18,no-resolve
+# 目标: Facebook
 IP-CIDR,3.123.36.126/32,no-resolve
+# 目标: Facebook
 IP-CIDR,31.13.64.0/18,no-resolve
+# 目标: Facebook
 IP-CIDR,35.157.215.84/32,no-resolve
+# 目标: Facebook
 IP-CIDR,35.157.217.255/32,no-resolve
+# 目标: Facebook
 IP-CIDR,52.58.209.134/32,no-resolve
+# 目标: Facebook
 IP-CIDR,54.162.243.80/32,no-resolve
+# 目标: Facebook
 IP-CIDR,54.173.34.141/32,no-resolve
+# 目标: Facebook
 IP-CIDR,54.235.23.242/32,no-resolve
+# 目标: Facebook
 IP-CIDR,54.93.124.31/32,no-resolve

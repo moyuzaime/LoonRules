@@ -1,28 +1,54 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/KuangShi/KuangShi_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KuangShi/KuangShi_Resolve.list
+# 说明: 旷视
 # 规则数: 25
+# 目标: KuangShi
 DOMAIN-SUFFIX,brainplusplus.com.cn
+# 目标: KuangShi
 DOMAIN-SUFFIX,brainpp.cn
+# 目标: KuangShi
 DOMAIN-SUFFIX,datafun.vip
+# 目标: KuangShi
 DOMAIN-SUFFIX,face-plus-plus.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,faceid.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,faceplusplus.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,faceplusplus.com.cn
+# 目标: KuangShi
 DOMAIN-SUFFIX,imageplusplus.cn
+# 目标: KuangShi
 DOMAIN-SUFFIX,imageplusplus.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,imageplusplus.com.cn
+# 目标: KuangShi
 DOMAIN-SUFFIX,imageplusplus.net
+# 目标: KuangShi
 DOMAIN-SUFFIX,kaolacam.net
+# 目标: KuangShi
 DOMAIN-SUFFIX,koalacam.net
+# 目标: KuangShi
 DOMAIN-SUFFIX,kuangshitech.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,megcup.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,megvii-inc.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,megvii.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,visionhacker.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,xcyuntech.cn
+# 目标: KuangShi
 DOMAIN-SUFFIX,xiaodaijl.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,xlsdn.cn
+# 目标: KuangShi
 DOMAIN-SUFFIX,xlsdn.com
+# 目标: KuangShi
 DOMAIN-SUFFIX,yuesuoping.com
+# 目标: KuangShi
 IP-CIDR,114.98.177.194/31
+# 目标: KuangShi
 IP-CIDR,114.98.177.196/32

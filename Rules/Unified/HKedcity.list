@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: HKedcity
 # 合并来源: blackmatrix7/ios_rule_script HKedcity
 # 规则数: 3
+# 目标: HKedcity
 DOMAIN-SUFFIX,edcity.hk
+# 目标: HKedcity
 DOMAIN-SUFFIX,hkedcity.net
+# 目标: HKedcity
 DOMAIN-SUFFIX,hkreadingcity.net

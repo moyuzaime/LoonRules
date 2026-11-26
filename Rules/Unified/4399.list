@@ -1,16 +1,29 @@
 # 统一规则库 | 分类: 4399
 # 合并来源: blackmatrix7/ios_rule_script 4399
 # 规则数: 13
+# 目标: 4399
 DOMAIN-SUFFIX,4399.cn
+# 目标: 4399
 DOMAIN-SUFFIX,4399.com
+# 目标: 4399
 DOMAIN-SUFFIX,4399.net
+# 目标: 4399
 DOMAIN-SUFFIX,4399api.com
+# 目标: 4399
 DOMAIN-SUFFIX,4399dmw.com
+# 目标: 4399
 DOMAIN-SUFFIX,4399pk.com
+# 目标: 4399
 DOMAIN-SUFFIX,4399sj.com
+# 目标: 4399
 DOMAIN-SUFFIX,5054399.com
+# 目标: 4399
 DOMAIN-SUFFIX,edu4399.com
+# 目标: 4399
 DOMAIN-SUFFIX,funnycore.com
+# 目标: 4399
 DOMAIN-SUFFIX,img4399.com
+# 目标: 4399
 DOMAIN-SUFFIX,qq163.com
+# 目标: 4399
 DOMAIN-SUFFIX,qq163.net

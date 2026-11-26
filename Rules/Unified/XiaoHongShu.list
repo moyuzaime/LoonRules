@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: XiaoHongShu
 # 合并来源: blackmatrix7/ios_rule_script XiaoHongShu
+# 说明: 小红书
 # 规则数: 4
+# 目标: XiaoHongShu
 DOMAIN-SUFFIX,fengkongcloud.com
+# 目标: XiaoHongShu
 DOMAIN-SUFFIX,xhscdn.com
+# 目标: XiaoHongShu
 DOMAIN-SUFFIX,xhscdn.net
+# 目标: XiaoHongShu
 DOMAIN-SUFFIX,xiaohongshu.com

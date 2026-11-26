@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: HibyMusic
 # 合并来源: blackmatrix7/ios_rule_script HibyMusic
+# 说明: 海贝音乐
 # 规则数: 3
+# 目标: HibyMusic
 DOMAIN-SUFFIX,hiby.cd
+# 目标: HibyMusic
 DOMAIN-SUFFIX,hiby.com
+# 目标: HibyMusic
 DOMAIN-SUFFIX,hibymusic.com

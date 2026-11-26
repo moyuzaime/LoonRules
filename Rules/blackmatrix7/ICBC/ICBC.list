@@ -1,61 +1,120 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ICBC/ICBC.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ICBC/ICBC.list
+# 说明: 中国工商银行
 # 规则数: 58
+# 目标: ICBC
 DOMAIN-SUFFIX,95588.com
+# 目标: ICBC
 DOMAIN-SUFFIX,95588.com.cn
+# 目标: ICBC
 DOMAIN-SUFFIX,dccnet.com.cn
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc-at.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc-cz.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc-ltd.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc-uk.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc-us.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.ae
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.be
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.co.id
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.co.jp
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.co.kr
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.co.nl
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.au
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.cn
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.es
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.kh
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.kw
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.la
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.mm
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.mo
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.mx
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.pe
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.pk
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.qa
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.sg
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.com.vn
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.de
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.eu
+# 目标: ICBC
 DOMAIN-SUFFIX,icbc.lu
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcalmaty.kz
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcasia.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcbr.com.br
+# 目标: ICBC
 DOMAIN-SUFFIX,icbccs.com.cn
+# 目标: ICBC
 DOMAIN-SUFFIX,icbccstz.com.cn
+# 目标: ICBC
 DOMAIN-SUFFIX,icbci.com.hk
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcina.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcindia.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcit.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbclondon.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcmanila.com.cn
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcme.ae
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcmoscow.ru
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcmy.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcnz.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcpanama.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcparis.fr
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcpl.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcstandard.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcstandardbank.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcstandardresources.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcstandardsecurities.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcswiss.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbcthai.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbkfs.com
+# 目标: ICBC
 DOMAIN-SUFFIX,icbkus.com

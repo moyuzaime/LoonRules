@@ -1,9 +1,16 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/HuaShuTV/HuaShuTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/HuaShuTV/HuaShuTV.list
+# 说明: 华数TV
 # 规则数: 6
+# 目标: HuaShuTV
 DOMAIN-SUFFIX,hzcnc.com
+# 目标: HuaShuTV
 DOMAIN-SUFFIX,hzdtv.tv
+# 目标: HuaShuTV
 DOMAIN-SUFFIX,hzman.net
+# 目标: HuaShuTV
 DOMAIN-SUFFIX,wasu.cn
+# 目标: HuaShuTV
 DOMAIN-SUFFIX,wasu.tv
+# 目标: HuaShuTV
 DOMAIN-SUFFIX,wasumedia.cn

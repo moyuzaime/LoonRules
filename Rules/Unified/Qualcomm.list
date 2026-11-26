@@ -1,48 +1,93 @@
 # 统一规则库 | 分类: Qualcomm
 # 合并来源: blackmatrix7/ios_rule_script Qualcomm
 # 规则数: 45
+# 目标: Qualcomm
 DOMAIN-SUFFIX,airgonetworks.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,berkanawireless.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,brewmp.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,cdmatech.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,dragoniscoming.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,gobianywhere.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,gpsonextra.net
+# 目标: Qualcomm
 DOMAIN-SUFFIX,hellosmartbook.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,imod.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,ipleadership.org
+# 目标: Qualcomm
 DOMAIN-SUFFIX,iskoot.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,izatcloud.net
+# 目标: Qualcomm
 DOMAIN-SUFFIX,meetsmartbook.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,patenttruth.org
+# 目标: Qualcomm
 DOMAIN-SUFFIX,pixtronix.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qceventscenter.com.cn
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qctconnect.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qprize.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm-email.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.cn
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.co.id
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.co.in
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.co.jp
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.co.kr
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.co.uk
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.com.br
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.com.tw
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.de
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.fr
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcomm.sc.omtrdc.net
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcommhalo.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcommlabs.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcommmea.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcommretail.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcommventures.cn
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualcommventures.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,qualphone.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,quicinc.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,snapdragon.cn
+# 目标: Qualcomm
 DOMAIN-SUFFIX,snapdragonbooth.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,uplinq.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,wipower.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,wirelessreach.com
+# 目标: Qualcomm
 DOMAIN-SUFFIX,xtracloud.cn

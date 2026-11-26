@@ -1,19 +1,35 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/OneDrive/OneDrive.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OneDrive/OneDrive.list
 # 规则数: 16
+# 目标: OneDrive
 DOMAIN-SUFFIX,1drv.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,livefilestore.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,microsoftpersonalcontent.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,oneclient.sfx.ms
+# 目标: OneDrive
 DOMAIN-SUFFIX,onedrive.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,onedrive.live.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,photos.live.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,sharepoint.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,sharepointonline.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,skydrive.wns.windows.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+# 目标: OneDrive
 DOMAIN-SUFFIX,storage.live.com
+# 目标: OneDrive
 DOMAIN-SUFFIX,storage.msn.com
+# 目标: OneDrive
 DOMAIN-KEYWORD,1drv
+# 目标: OneDrive
 DOMAIN-KEYWORD,onedrive
+# 目标: OneDrive
 DOMAIN-KEYWORD,skydrive

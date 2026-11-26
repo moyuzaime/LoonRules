@@ -1,7 +1,11 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AOL/AOL.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AOL/AOL.list
 # 规则数: 4
+# 目标: AOL
 DOMAIN-SUFFIX,aol.ca
+# 目标: AOL
 DOMAIN-SUFFIX,aol.co.uk
+# 目标: AOL
 DOMAIN-SUFFIX,aol.com
+# 目标: AOL
 DOMAIN-SUFFIX,aolnews.com

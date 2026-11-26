@@ -1,16 +1,30 @@
 # 统一规则库 | 分类: Douyu
 # 合并来源: blackmatrix7/ios_rule_script Douyu
+# 说明: 斗鱼
 # 规则数: 13
+# 目标: Douyu
 DOMAIN-SUFFIX,bytefcdnrd.com
+# 目标: Douyu
 DOMAIN-SUFFIX,douyu.com
+# 目标: Douyu
 DOMAIN-SUFFIX,douyu.tv
+# 目标: Douyu
 DOMAIN-SUFFIX,douyuba.cn
+# 目标: Douyu
 DOMAIN-SUFFIX,douyucdn.cn
+# 目标: Douyu
 DOMAIN-SUFFIX,douyucdn2.cn
+# 目标: Douyu
 DOMAIN-SUFFIX,douyupcdn.cn
+# 目标: Douyu
 DOMAIN-SUFFIX,douyuscdn.com
+# 目标: Douyu
 DOMAIN-SUFFIX,douyutv.com
+# 目标: Douyu
 DOMAIN-SUFFIX,doyonoc.com
+# 目标: Douyu
 DOMAIN-SUFFIX,edgesrv.com
+# 目标: Douyu
 DOMAIN-SUFFIX,guguyuyin.com
+# 目标: Douyu
 DOMAIN-SUFFIX,oywtv.com

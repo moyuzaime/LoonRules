@@ -1,40 +1,77 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/CCTV/CCTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/CCTV/CCTV.list
 # 规则数: 37
+# 目标: CCTV
 DOMAIN-SUFFIX,cctv.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cctv.com
+# 目标: CCTV
 DOMAIN-SUFFIX,cctvlib.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cctvlib.com.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cctvlibrary.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cctvlibrary.com.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cctvpic.com
+# 目标: CCTV
 DOMAIN-SUFFIX,cctvpro.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cctvpro.com.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,chinaepg.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,chinalive.com
+# 目标: CCTV
 DOMAIN-SUFFIX,citv.net.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cnms.net.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cntv.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cntv.com.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,cntvwb.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,gjgbdszt.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,gjgbdszt.com.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,gjgbdszt.net.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,ipanda.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,ipanda.com
+# 目标: CCTV
 DOMAIN-SUFFIX,ipanda.com.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,ipanda.net
+# 目标: CCTV
 DOMAIN-SUFFIX,livechina.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,livechina.com
+# 目标: CCTV
 DOMAIN-SUFFIX,olympicchannelchina.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,tvcc.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,tvcc.com.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+# 目标: CCTV
 DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+# 目标: CCTV
 DOMAIN-SUFFIX,zggbdszt.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,zggbdszt.com.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,zggbdszt.net.cn
+# 目标: CCTV
 DOMAIN-SUFFIX,zygbdszt.net.cn

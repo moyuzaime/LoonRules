@@ -1,20 +1,38 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ZhiYinManKe/ZhiYinManKe.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhiYinManKe/ZhiYinManKe.list
+# 说明: 知音漫客
 # 规则数: 17
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,51kanmanhua.com
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,mkdata.top
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,mkpush.com
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,mkzcdn.com
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,mkzhan.cn
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,mkzhan.com
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,mkzhan.com.cn
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,mkzhan.net
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,xiaomingtaiji.cc
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,xiaomingtaiji.cn
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,xiaomingtaiji.com
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,xiaomingtaiji.com.cn
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,xiaomingtaiji.net
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,xiaoshuohui.com.cn
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,xiaoshuohui.net
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,zymk.cn
+# 目标: ZhiYinManKe
 DOMAIN-SUFFIX,zymkcdn.com

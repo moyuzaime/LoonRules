@@ -1,15 +1,27 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Heroku/Heroku.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Heroku/Heroku.list
 # 规则数: 12
+# 目标: Heroku
 DOMAIN-SUFFIX,codei.sh
+# 目标: Heroku
 DOMAIN-SUFFIX,codeish.co
+# 目标: Heroku
 DOMAIN-SUFFIX,codeish.io
+# 目标: Heroku
 DOMAIN-SUFFIX,heroku-app.com
+# 目标: Heroku
 DOMAIN-SUFFIX,heroku-charge.com
+# 目标: Heroku
 DOMAIN-SUFFIX,heroku.co
+# 目标: Heroku
 DOMAIN-SUFFIX,heroku.com
+# 目标: Heroku
 DOMAIN-SUFFIX,heroku.me
+# 目标: Heroku
 DOMAIN-SUFFIX,herokuapp.com
+# 目标: Heroku
 DOMAIN-SUFFIX,herokucdn.com
+# 目标: Heroku
 DOMAIN-SUFFIX,herokucharge.com
+# 目标: Heroku
 DOMAIN-SUFFIX,herokussl.com

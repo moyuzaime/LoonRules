@@ -1,43 +1,84 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ChunYou/ChunYou.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChunYou/ChunYou.list
+# 说明: 纯游
 # 规则数: 40
+# 目标: ChunYou
 DOMAIN-SUFFIX,3304399.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,3304399.net
+# 目标: ChunYou
 DOMAIN-SUFFIX,3839.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,3839app.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,3839app.net
+# 目标: ChunYou
 DOMAIN-SUFFIX,3839pay.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,3839vc.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,3839video.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399api.net
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399biule.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399er.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399hhh.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399inc.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399mail.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399sj.cn
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399swf.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399wanju.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399youpai.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399youxi.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,4399yyy.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,5054399.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,5054399.net
+# 目标: ChunYou
 DOMAIN-SUFFIX,71acg.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,71acg.net
+# 目标: ChunYou
 DOMAIN-SUFFIX,appeeres.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,bx1k.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,i3839.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,ihykb.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,img4399.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,mail4399.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,me4399.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,my4399.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,mysiteres.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,nzsiteres.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,tuer123.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,wanwan4399.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,we4399.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,webgame163.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,youba.com
+# 目标: ChunYou
 DOMAIN-SUFFIX,yxhhdl.com

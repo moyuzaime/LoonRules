@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: Maocloud
 # 合并来源: blackmatrix7/ios_rule_script Maocloud
+# 说明: 猫云
 # 规则数: 3
+# 目标: Maocloud
 DOMAIN-SUFFIX,maoyun.com
+# 目标: Maocloud
 DOMAIN-SUFFIX,maoyuncloud.cn
+# 目标: Maocloud
 DOMAIN-SUFFIX,maoyuncloud.com

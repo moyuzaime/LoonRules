@@ -1,11 +1,20 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ZhiYunZhong/ZhiYunZhong.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhiYunZhong/ZhiYunZhong.list
+# 说明: 智云众
 # 规则数: 8
+# 目标: ZhiYunZhong
 DOMAIN-SUFFIX,2taobao2jd.com
+# 目标: ZhiYunZhong
 DOMAIN-SUFFIX,appgrub.com
+# 目标: ZhiYunZhong
 DOMAIN-SUFFIX,cloudau.cn
+# 目标: ZhiYunZhong
 DOMAIN-SUFFIX,iappad.com
+# 目标: ZhiYunZhong
 DOMAIN-SUFFIX,iapprank.com
+# 目标: ZhiYunZhong
 DOMAIN-SUFFIX,igo52.com
+# 目标: ZhiYunZhong
 DOMAIN-SUFFIX,optaim.cn
+# 目标: ZhiYunZhong
 DOMAIN-SUFFIX,optaim.com

@@ -1,55 +1,107 @@
 # 统一规则库 | 分类: AppleMedia
 # 合并来源: blackmatrix7/ios_rule_script AppleMedia
 # 规则数: 52
+# 目标: AppleMedia
 DOMAIN-SUFFIX,aod.itunes.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,apple.comscoreresearch.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,apple.news
+# 目标: AppleMedia
 DOMAIN-SUFFIX,appleenews.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applemusic.berlin
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applemusic.co
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applemusic.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applemusic.com.au
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applemusic.hamburg
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applemusic.wang
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applemusicconnect.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applemusicfestival.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applenews.berlin
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applenews.hamburg
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applenews.tv
+# 目标: AppleMedia
 DOMAIN-SUFFIX,applenewsformat.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,appletv.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,appletv.fr
+# 目标: AppleMedia
 DOMAIN-SUFFIX,appletv.wang
+# 目标: AppleMedia
 DOMAIN-SUFFIX,appletv4.cn
+# 目标: AppleMedia
 DOMAIN-SUFFIX,appletv4.com.cn
+# 目标: AppleMedia
 DOMAIN-SUFFIX,appletvapp.apple
+# 目标: AppleMedia
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,audio.itunes.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,blobstore.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,hls.itunes.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,i-book.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,i-book.net
+# 目标: AppleMedia
 DOMAIN-SUFFIX,ibook.co.nz
+# 目标: AppleMedia
 DOMAIN-SUFFIX,ibook.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,ibook.eu
+# 目标: AppleMedia
 DOMAIN-SUFFIX,ibook.net
+# 目标: AppleMedia
 DOMAIN-SUFFIX,ibookpartner.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,ibooksauthor.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,imovie.eu
+# 目标: AppleMedia
 DOMAIN-SUFFIX,imoviegallery.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,imoviestage.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,iphoto.eu
+# 目标: AppleMedia
 DOMAIN-SUFFIX,iphoto.no
+# 目标: AppleMedia
 DOMAIN-SUFFIX,iphoto.se
+# 目标: AppleMedia
 DOMAIN-SUFFIX,iphoto.wang
+# 目标: AppleMedia
 DOMAIN-SUFFIX,musickit.net
+# 目标: AppleMedia
 DOMAIN-SUFFIX,mvod.itunes.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,news-assets.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,news-client.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,news-edge.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,news-events.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,play-edge.itunes.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,tv.apple.com
+# 目标: AppleMedia
 DOMAIN-SUFFIX,wwwapplemusic.com

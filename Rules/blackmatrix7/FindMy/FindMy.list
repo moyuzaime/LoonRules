@@ -1,6 +1,10 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/FindMy/FindMy.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/FindMy/FindMy.list
+# 说明: 查找
 # 规则数: 3
+# 目标: FindMy
 DOMAIN,fmfmobile.icloud.com
+# 目标: FindMy
 DOMAIN,fmipmobile.icloud.com
+# 目标: FindMy
 DOMAIN,statici.icloud.com

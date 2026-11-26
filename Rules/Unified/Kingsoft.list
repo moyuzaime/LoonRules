@@ -1,259 +1,516 @@
 # 统一规则库 | 分类: Kingsoft
 # 合并来源: blackmatrix7/ios_rule_script Kingsoft
+# 说明: 金山软件
 # 规则数: 256
+# 目标: Kingsoft
 DOMAIN-SUFFIX,35go.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,35go.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,3ny8.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,3r5y.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,4848360.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,4848360.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,51dzt.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,78h34.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,800wen.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,93trf.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,9724.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,9724.com.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ahjk34.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,baobianli.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,baobianli.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,baozengzhang.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,beike.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,bestcloudcdn.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,bestclouddns.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,bk3r.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cheetahgames.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cheetahgo.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cheetahmobile.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cleanmaster.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcloud.org
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcm.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcmadmin.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcmapp.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcmcdn.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcmcmai.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcmiot.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcmpc.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcmsecurity.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcmserv.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmcmtrans.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,cmdev.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,coh5.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,conew.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,conew.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,crasheye.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,d4z1onkegyrs5.cloudfront.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,d9j8.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,dfig0.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,dgk2n.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,di28nl.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,diffir.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,djkhgy2.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,djrhf0.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,dkhg23.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,docer.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,douhuameiquan.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,douhuameiquan.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,douhuameiquan.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,drivergenius.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,duba.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,duba.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,duojoy.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,dur9.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,erg3r.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,fatherai.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,firefallgame.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,g768r.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,gfh82.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,global-ks-cdn.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,h803w.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,hd8y.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,heytime.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,hid98ys.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,hkd82.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,iappsafe.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,iappsafe.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,iciba.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,iciba.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,id4r.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,id4r.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,idaasksyun.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ifireeye.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ifireeye.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ihuoyan.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ihuoyan.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ijinshan.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ileopard.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ingags.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ishengdian.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,iuhtg8.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,iweikan.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ixiede.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,j6n29.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,jkhds872.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,jksdhgu.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,jxfeng.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,jxphone.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,jxsj2sy.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kcdnvip.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kdocs.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,keniu.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kimg.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kingcloud.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kingcloudad.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kingmb.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kingmb.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kingmobi.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kingsoft-office-service.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kingsoft.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kisops.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kjsdh6.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kmail.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ks-cdn.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ks-cdn1.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ks-cdnv6.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ks-live.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksc-test.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kscbigdata.cloud
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kscloudapi.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksdhgy.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kshwtj.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksmobile.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksmobile.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksoapp.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksops.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksord.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksosoft.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksycdn.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyna.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyun.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyun.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyunacc.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyunad.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyuncdn-k1.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyuncdn-k2.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyuncdn.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyuncdnv6.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyuncs.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyungslb.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyungslb2.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyunv5.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyunv6.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyunv7.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ksyunwaf.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,kuaipandata.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,lbmobi.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,liebao.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,liebao.org.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,liebaoh5.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,liebaopay.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ljhks.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ljhks.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,marshotspot.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,myfiles.com.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,northgun.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,oversea-ks-cdn.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,papocket.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,pc120.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,prpracg.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,q-supreme.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,q-supreme.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,q78s5.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,qinglidashi.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,qwe1e.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,qwps.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,qwps.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,qwps.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,r9t1.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,rat3c.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ratingtoken.com.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,ratingtoken.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,rubylink.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,s-zone.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,s7y3.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,safeapk.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,safeapp.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,sdg53.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,sdhgu.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,seasungame.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,seasungames.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,shangyouxuan.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,shkdfua.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,shoujikong.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,showshell.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,skdj5.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,skidstorm.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,slja2.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,snap-buy.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,springen.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,supervisionus.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,t4x3.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,t79d6.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,t7rt5.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,tellbuy.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,testplus.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,typeeasy.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,typeeasy.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,v78q.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wakaligong.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,weikan.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,whwps.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wps-h5.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wps.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wps.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpscdn.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpscdn.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpseco.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpsep.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpsgo.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpsit.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpske.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpske.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpsmail.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpspay.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpspdf.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpsplus.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,wpsxiu.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,x3g1.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiaobaobianli.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiaobaobianli.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiaobaobianli.net
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xindexuexi.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xindexuexi.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xishanju.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang01.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang02.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang03.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang04.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang05.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang06.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang07.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang08.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang09.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang10.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang11.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang12.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang13.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang14.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang15.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang16.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang17.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang18.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang19.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutang20.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xiutangh5.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xoyo.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xoyobox.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xoyocdn.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xsjcs.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,xsjom.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,y78r.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,yingyongso.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,yk72e.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,yt98w.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,z211.top
+# 目标: Kingsoft
 DOMAIN-SUFFIX,z211.vip
+# 目标: Kingsoft
 DOMAIN-SUFFIX,zhishifanli.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,zhishifanli.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,zhishifanli.com.cn
+# 目标: Kingsoft
 DOMAIN-SUFFIX,zj8t5.com
+# 目标: Kingsoft
 DOMAIN-SUFFIX,znstartups.com

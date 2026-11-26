@@ -1,16 +1,29 @@
 # 统一规则库 | 分类: GlobalSign
 # 合并来源: blackmatrix7/ios_rule_script GlobalSign
 # 规则数: 13
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign-media.com
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.be
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.ch
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.co.uk
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.com
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.com.au
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.com.hk
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.com.sg
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.es
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.eu
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.fr
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.net
+# 目标: GlobalSign
 DOMAIN-SUFFIX,globalsign.nl

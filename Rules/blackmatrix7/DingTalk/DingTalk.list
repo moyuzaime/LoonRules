@@ -1,14 +1,26 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DingTalk/DingTalk.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DingTalk/DingTalk.list
+# 说明: 钉钉
 # 规则数: 11
+# 目标: DingTalk
 DOMAIN-SUFFIX,ddurl.to
+# 目标: DingTalk
 DOMAIN-SUFFIX,dg-work.cn
+# 目标: DingTalk
 DOMAIN-SUFFIX,dingding.xin
+# 目标: DingTalk
 DOMAIN-SUFFIX,dingtalk.cn
+# 目标: DingTalk
 DOMAIN-SUFFIX,dingtalk.com
+# 目标: DingTalk
 DOMAIN-SUFFIX,dingtalk.com.cn
+# 目标: DingTalk
 DOMAIN-SUFFIX,dingtalk.net
+# 目标: DingTalk
 DOMAIN-SUFFIX,dingtalkapps.com
+# 目标: DingTalk
 DOMAIN-SUFFIX,laiwang.com
+# 目标: DingTalk
 DOMAIN-SUFFIX,lwurl.to
+# 目标: DingTalk
 DOMAIN-SUFFIX,realapp.xin

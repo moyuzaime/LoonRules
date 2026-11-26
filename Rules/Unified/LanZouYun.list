@@ -1,39 +1,76 @@
 # 统一规则库 | 分类: LanZouYun
 # 合并来源: blackmatrix7/ios_rule_script LanZouYun
+# 说明: 蓝奏云
 # 规则数: 36
+# 目标: LanZouYun
 DOMAIN-SUFFIX,baidupan.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,bakstotre.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,ilanzou.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanosso.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanpv.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanpw.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanrar.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzn.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzou.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzoub.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouc.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzoue.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouf.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzoug.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouh.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzoui.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouj.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouk.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzoul.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzoum.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouo.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzoup.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouq.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzous.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzout.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouu.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouv.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouw.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzoux.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzouy.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzov.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,lanzv.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,ulanzou.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,webgetstore.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,woozooo.com
+# 目标: LanZouYun
 DOMAIN-SUFFIX,wwentua.com

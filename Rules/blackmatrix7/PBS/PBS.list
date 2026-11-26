@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/PBS/PBS.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/PBS/PBS.list
 # 规则数: 2
+# 目标: PBS
 DOMAIN-SUFFIX,pbs.org
+# 目标: PBS
 USER-AGENT,PBS*

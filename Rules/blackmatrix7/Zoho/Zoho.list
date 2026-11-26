@@ -1,16 +1,29 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Zoho/Zoho.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Zoho/Zoho.list
 # 规则数: 13
+# 目标: Zoho
 DOMAIN-SUFFIX,zoho.com
+# 目标: Zoho
 DOMAIN-SUFFIX,zoho.com.au
+# 目标: Zoho
 DOMAIN-SUFFIX,zoho.eu
+# 目标: Zoho
 DOMAIN-SUFFIX,zoho.in
+# 目标: Zoho
 DOMAIN-SUFFIX,zohocdn.com
+# 目标: Zoho
 DOMAIN-SUFFIX,zohomeetups.com
+# 目标: Zoho
 DOMAIN-SUFFIX,zohomerchandise.com
+# 目标: Zoho
 DOMAIN-SUFFIX,zohopublic.com
+# 目标: Zoho
 DOMAIN-SUFFIX,zohoschools.com
+# 目标: Zoho
 DOMAIN-SUFFIX,zohostatic.com
+# 目标: Zoho
 DOMAIN-SUFFIX,zohostatic.in
+# 目标: Zoho
 DOMAIN-SUFFIX,zohouniversity.com
+# 目标: Zoho
 DOMAIN-SUFFIX,zohowebstatic.com

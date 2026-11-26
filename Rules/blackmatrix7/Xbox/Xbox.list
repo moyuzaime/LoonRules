@@ -1,45 +1,87 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Xbox/Xbox.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Xbox/Xbox.list
 # 规则数: 42
+# 目标: Xbox
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
+# 目标: Xbox
 DOMAIN,login.live.com
+# 目标: Xbox
 DOMAIN,logincdn.msauth.net
+# 目标: Xbox
 DOMAIN,store-images.s-microsoft.com
+# 目标: Xbox
 DOMAIN-SUFFIX,beth.games
+# 目标: Xbox
 DOMAIN-SUFFIX,bethesda.net
+# 目标: Xbox
 DOMAIN-SUFFIX,bethesdagamestudios.com
+# 目标: Xbox
 DOMAIN-SUFFIX,bethsoft.com
+# 目标: Xbox
 DOMAIN-SUFFIX,callersbane.com
+# 目标: Xbox
 DOMAIN-SUFFIX,forzamotorsport.net
+# 目标: Xbox
 DOMAIN-SUFFIX,forzaracingchampionship.com
+# 目标: Xbox
 DOMAIN-SUFFIX,forzarc.com
+# 目标: Xbox
 DOMAIN-SUFFIX,gamepass.com
+# 目标: Xbox
 DOMAIN-SUFFIX,minecraft.net
+# 目标: Xbox
 DOMAIN-SUFFIX,minecraftshop.com
+# 目标: Xbox
 DOMAIN-SUFFIX,mojang.com
+# 目标: Xbox
 DOMAIN-SUFFIX,msgamestudios.com
+# 目标: Xbox
 DOMAIN-SUFFIX,orithegame.com
+# 目标: Xbox
 DOMAIN-SUFFIX,renovacionxboxlive.com
+# 目标: Xbox
 DOMAIN-SUFFIX,tellmewhygame.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xbox.co
+# 目标: Xbox
 DOMAIN-SUFFIX,xbox.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xbox.eu
+# 目标: Xbox
 DOMAIN-SUFFIX,xbox.org
+# 目标: Xbox
 DOMAIN-SUFFIX,xbox360.co
+# 目标: Xbox
 DOMAIN-SUFFIX,xbox360.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xbox360.eu
+# 目标: Xbox
 DOMAIN-SUFFIX,xbox360.org
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxab.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxab.net
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxgamepass.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxgamestudios.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxlive.cn
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxlive.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxone.co
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxone.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxone.eu
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxplayanywhere.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxservice.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxservices.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xboxstudios.com
+# 目标: Xbox
 DOMAIN-SUFFIX,xbx.lv

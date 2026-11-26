@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Afdian
 # 合并来源: blackmatrix7/ios_rule_script Afdian
 # 规则数: 2
+# 目标: Afdian
 DOMAIN-SUFFIX,afdian.net
+# 目标: Afdian
 DOMAIN-SUFFIX,afdiancdn.com

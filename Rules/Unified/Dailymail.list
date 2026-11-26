@@ -1,20 +1,37 @@
 # 统一规则库 | 分类: Dailymail
 # 合并来源: blackmatrix7/ios_rule_script Dailymail
 # 规则数: 17
+# 目标: Dailymail
 DOMAIN-SUFFIX,anm.co.uk
+# 目标: Dailymail
 DOMAIN-SUFFIX,dailym.ai
+# 目标: Dailymail
 DOMAIN-SUFFIX,dailymail.co.uk
+# 目标: Dailymail
 DOMAIN-SUFFIX,dailymail.com
+# 目标: Dailymail
 DOMAIN-SUFFIX,dailymail.com.au
+# 目标: Dailymail
 DOMAIN-SUFFIX,dailymail.dk
+# 目标: Dailymail
 DOMAIN-SUFFIX,dailymailonline.com
+# 目标: Dailymail
 DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+# 目标: Dailymail
 DOMAIN-SUFFIX,mailhealth.com
+# 目标: Dailymail
 DOMAIN-SUFFIX,mailonline.co.uk
+# 目标: Dailymail
 DOMAIN-SUFFIX,mailonline.com
+# 目标: Dailymail
 DOMAIN-SUFFIX,mailonsunday.co.uk
+# 目标: Dailymail
 DOMAIN-SUFFIX,mailonsunday.ie
+# 目标: Dailymail
 DOMAIN-SUFFIX,metro.co.uk
+# 目标: Dailymail
 DOMAIN-SUFFIX,mol.im
+# 目标: Dailymail
 DOMAIN-SUFFIX,thisismoney.co.uk
+# 目标: Dailymail
 DOMAIN-SUFFIX,thismon.ee

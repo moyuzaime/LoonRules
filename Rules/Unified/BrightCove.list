@@ -1,17 +1,31 @@
 # 统一规则库 | 分类: BrightCove
 # 合并来源: blackmatrix7/ios_rule_script BrightCove
 # 规则数: 14
+# 目标: BrightCove
 DOMAIN-SUFFIX,bcove.video
+# 目标: BrightCove
 DOMAIN-SUFFIX,bcovlive-a.akamaihd.net
+# 目标: BrightCove
 DOMAIN-SUFFIX,bcovlive.io
+# 目标: BrightCove
 DOMAIN-SUFFIX,bcsecure01-a.akamaihd.net
+# 目标: BrightCove
 DOMAIN-SUFFIX,bcvp0rtal.com
+# 目标: BrightCove
 DOMAIN-SUFFIX,boltdns.net
+# 目标: BrightCove
 DOMAIN-SUFFIX,brightcove.com
+# 目标: BrightCove
 DOMAIN-SUFFIX,brightcove.imgix.net
+# 目标: BrightCove
 DOMAIN-SUFFIX,brightcove.net
+# 目标: BrightCove
 DOMAIN-SUFFIX,brightcove.services
+# 目标: BrightCove
 DOMAIN-SUFFIX,brightcovecdn.com
+# 目标: BrightCove
 DOMAIN-SUFFIX,videojs.com
+# 目标: BrightCove
 DOMAIN-SUFFIX,zencdn.net
+# 目标: BrightCove
 DOMAIN-SUFFIX,zencoder.com

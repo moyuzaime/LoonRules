@@ -1,12 +1,22 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/SMZDM/SMZDM.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SMZDM/SMZDM.list
+# 说明: 什么值得买
 # 规则数: 9
+# 目标: SMZDM
 DOMAIN-SUFFIX,faxianpindao.com
+# 目标: SMZDM
 DOMAIN-SUFFIX,quaolai.com
+# 目标: SMZDM
 DOMAIN-SUFFIX,smzdm.com
+# 目标: SMZDM
 DOMAIN-SUFFIX,smzdmimg.com
+# 目标: SMZDM
 DOMAIN-SUFFIX,valueq-sea.com
+# 目标: SMZDM
 DOMAIN-SUFFIX,wanwuzhinan.com
+# 目标: SMZDM
 DOMAIN-SUFFIX,zdm.net
+# 目标: SMZDM
 DOMAIN-SUFFIX,zdmimg.com
+# 目标: SMZDM
 DOMAIN-SUFFIX,zhidemai.com

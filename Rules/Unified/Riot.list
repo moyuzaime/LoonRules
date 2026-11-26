@@ -1,58 +1,113 @@
 # 统一规则库 | 分类: Riot
 # 合并来源: blackmatrix7/ios_rule_script Riot
 # 规则数: 55
+# 目标: Riot
 DOMAIN-SUFFIX,championshipseriesleague.com
+# 目标: Riot
 DOMAIN-SUFFIX,convrgencegame.com
+# 目标: Riot
 DOMAIN-SUFFIX,historyofdota.com
+# 目标: Riot
 DOMAIN-SUFFIX,historyofdota.net
+# 目标: Riot
 DOMAIN-SUFFIX,historyofdota.org
+# 目标: Riot
 DOMAIN-SUFFIX,instituteofwar.org
+# 目标: Riot
 DOMAIN-SUFFIX,lcsmerch.com
+# 目标: Riot
 DOMAIN-SUFFIX,leaguehighschool.com
+# 目标: Riot
 DOMAIN-SUFFIX,leagueoflegends.ca
+# 目标: Riot
 DOMAIN-SUFFIX,leagueoflegends.cn
+# 目标: Riot
 DOMAIN-SUFFIX,leagueoflegends.co.kr
+# 目标: Riot
 DOMAIN-SUFFIX,leagueoflegends.com
+# 目标: Riot
 DOMAIN-SUFFIX,leagueoflegends.info
+# 目标: Riot
 DOMAIN-SUFFIX,leagueoflegends.kr
+# 目标: Riot
 DOMAIN-SUFFIX,leagueoflegends.net
+# 目标: Riot
 DOMAIN-SUFFIX,leagueoflegends.org
+# 目标: Riot
 DOMAIN-SUFFIX,leagueoflegendsscripts.com
+# 目标: Riot
 DOMAIN-SUFFIX,leaguesharp.info
+# 目标: Riot
 DOMAIN-SUFFIX,leaguoflegends.com
+# 目标: Riot
 DOMAIN-SUFFIX,learnwithleague.com
+# 目标: Riot
 DOMAIN-SUFFIX,lol-europe.com
+# 目标: Riot
 DOMAIN-SUFFIX,lolclub.org
+# 目标: Riot
 DOMAIN-SUFFIX,lolespor.com
+# 目标: Riot
 DOMAIN-SUFFIX,lolesports.com
+# 目标: Riot
 DOMAIN-SUFFIX,lolfanart.net
+# 目标: Riot
 DOMAIN-SUFFIX,lolpcs.com
+# 目标: Riot
 DOMAIN-SUFFIX,lolshop.co.kr
+# 目标: Riot
 DOMAIN-SUFFIX,lolstatic-a.akamaihd.net
+# 目标: Riot
 DOMAIN-SUFFIX,lolstatic.com
+# 目标: Riot
 DOMAIN-SUFFIX,lolusercontent.com
+# 目标: Riot
 DOMAIN-SUFFIX,lpl.com.cn
+# 目标: Riot
 DOMAIN-SUFFIX,molesports.com
+# 目标: Riot
 DOMAIN-SUFFIX,playvalorant.com
+# 目标: Riot
 DOMAIN-SUFFIX,pvp.net
+# 目标: Riot
 DOMAIN-SUFFIX,pvp.tv
+# 目标: Riot
 DOMAIN-SUFFIX,rgpub.io
+# 目标: Riot
 DOMAIN-SUFFIX,riot-games.com
+# 目标: Riot
 DOMAIN-SUFFIX,riot.com
+# 目标: Riot
 DOMAIN-SUFFIX,riot.net
+# 目标: Riot
 DOMAIN-SUFFIX,riotcdn.net
+# 目标: Riot
 DOMAIN-SUFFIX,riotforgegames.com
+# 目标: Riot
 DOMAIN-SUFFIX,riotgames.co.kr
+# 目标: Riot
 DOMAIN-SUFFIX,riotgames.com
+# 目标: Riot
 DOMAIN-SUFFIX,riotgames.info
+# 目标: Riot
 DOMAIN-SUFFIX,riotgames.jp
+# 目标: Riot
 DOMAIN-SUFFIX,riotgames.net
+# 目标: Riot
 DOMAIN-SUFFIX,riotgames.tv
+# 目标: Riot
 DOMAIN-SUFFIX,riotgames.zendesk.com
+# 目标: Riot
 DOMAIN-SUFFIX,riotpin.com
+# 目标: Riot
 DOMAIN-SUFFIX,riotpoints.com
+# 目标: Riot
 DOMAIN-SUFFIX,rstatic.net
+# 目标: Riot
 DOMAIN-SUFFIX,ruinedking.com
+# 目标: Riot
 DOMAIN-SUFFIX,supremacy.com
+# 目标: Riot
 DOMAIN-SUFFIX,supremacy.net
+# 目标: Riot
 DOMAIN-SUFFIX,ulol.com

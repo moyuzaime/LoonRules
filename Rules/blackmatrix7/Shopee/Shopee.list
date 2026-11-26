@@ -1,24 +1,45 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Shopee/Shopee.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Shopee/Shopee.list
 # 规则数: 21
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.cl
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.cn
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.co.id
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.co.th
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.com
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.com.br
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.com.co
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.com.mx
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.com.my
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.es
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.fr
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.id
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.in
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.io
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.ph
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.sg
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.tw
+# 目标: Shopee
 DOMAIN-SUFFIX,shopee.vn
+# 目标: Shopee
 DOMAIN-SUFFIX,shopeemobile.com
+# 目标: Shopee
 DOMAIN-SUFFIX,shopeesz.com
+# 目标: Shopee
 DOMAIN-SUFFIX,shp.ee

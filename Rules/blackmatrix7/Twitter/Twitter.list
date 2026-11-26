@@ -1,36 +1,69 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Twitter/Twitter.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Twitter/Twitter.list
 # 规则数: 33
+# 目标: Twitter
 DOMAIN-SUFFIX,ads-twitter.com
+# 目标: Twitter
 DOMAIN-SUFFIX,cms-twdigitalassets.com
+# 目标: Twitter
 DOMAIN-SUFFIX,grok.com
+# 目标: Twitter
 DOMAIN-SUFFIX,periscope.tv
+# 目标: Twitter
 DOMAIN-SUFFIX,pscp.tv
+# 目标: Twitter
 DOMAIN-SUFFIX,t.co
+# 目标: Twitter
 DOMAIN-SUFFIX,tellapart.com
+# 目标: Twitter
 DOMAIN-SUFFIX,tweetdeck.com
+# 目标: Twitter
 DOMAIN-SUFFIX,twimg.co
+# 目标: Twitter
 DOMAIN-SUFFIX,twimg.com
+# 目标: Twitter
 DOMAIN-SUFFIX,twimg.org
+# 目标: Twitter
 DOMAIN-SUFFIX,twitpic.com
+# 目标: Twitter
 DOMAIN-SUFFIX,twitter.biz
+# 目标: Twitter
 DOMAIN-SUFFIX,twitter.com
+# 目标: Twitter
 DOMAIN-SUFFIX,twitter.jp
+# 目标: Twitter
 DOMAIN-SUFFIX,twittercommunity.com
+# 目标: Twitter
 DOMAIN-SUFFIX,twitterflightschool.com
+# 目标: Twitter
 DOMAIN-SUFFIX,twitterinc.com
+# 目标: Twitter
 DOMAIN-SUFFIX,twitteroauth.com
+# 目标: Twitter
 DOMAIN-SUFFIX,twitterstat.us
+# 目标: Twitter
 DOMAIN-SUFFIX,twtrdns.net
+# 目标: Twitter
 DOMAIN-SUFFIX,twttr.com
+# 目标: Twitter
 DOMAIN-SUFFIX,twttr.net
+# 目标: Twitter
 DOMAIN-SUFFIX,twvid.com
+# 目标: Twitter
 DOMAIN-SUFFIX,vine.co
+# 目标: Twitter
 DOMAIN-SUFFIX,x.com
+# 目标: Twitter
 DOMAIN-KEYWORD,twitter
+# 目标: Twitter
 IP-CIDR,192.133.76.0/22,no-resolve
+# 目标: Twitter
 IP-CIDR,199.59.148.0/22,no-resolve
+# 目标: Twitter
 IP-CIDR,199.96.56.0/21,no-resolve
+# 目标: Twitter
 IP-CIDR,202.160.128.0/22,no-resolve
+# 目标: Twitter
 IP-CIDR,209.237.192.0/19,no-resolve
+# 目标: Twitter
 IP-CIDR,69.195.160.0/19,no-resolve

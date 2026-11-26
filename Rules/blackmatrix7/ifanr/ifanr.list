@@ -1,37 +1,72 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ifanr/ifanr.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ifanr/ifanr.list
+# 说明: 爱范儿
 # 规则数: 34
+# 目标: ifanr
 DOMAIN-SUFFIX,01hub.com
+# 目标: ifanr
 DOMAIN-SUFFIX,app.so
+# 目标: ifanr
 DOMAIN-SUFFIX,appsolution.cc
+# 目标: ifanr
 DOMAIN-SUFFIX,bitbe.at
+# 目标: ifanr
 DOMAIN-SUFFIX,coolbuy.com
+# 目标: ifanr
 DOMAIN-SUFFIX,dongchehui.net
+# 目标: ifanr
 DOMAIN-SUFFIX,fabu.io
+# 目标: ifanr
 DOMAIN-SUFFIX,haomaishe.com
+# 目标: ifanr
 DOMAIN-SUFFIX,ifanr.cn
+# 目标: ifanr
 DOMAIN-SUFFIX,ifanr.com
+# 目标: ifanr
 DOMAIN-SUFFIX,ifanr.in
+# 目标: ifanr
 DOMAIN-SUFFIX,ifanrcloud.com
+# 目标: ifanr
 DOMAIN-SUFFIX,ifanrprod.cn
+# 目标: ifanr
 DOMAIN-SUFFIX,ifanrprod.com
+# 目标: ifanr
 DOMAIN-SUFFIX,ifanrprod.net
+# 目标: ifanr
 DOMAIN-SUFFIX,ifanrusercontent.com
+# 目标: ifanr
 DOMAIN-SUFFIX,ifdesigninc.cn
+# 目标: ifanr
 DOMAIN-SUFFIX,ifdesignstudio.cn
+# 目标: ifanr
 DOMAIN-SUFFIX,jmp.gd
+# 目标: ifanr
 DOMAIN-SUFFIX,menhu.io
+# 目标: ifanr
 DOMAIN-SUFFIX,minapp.com
+# 目标: ifanr
 DOMAIN-SUFFIX,mindstore.io
+# 目标: ifanr
 DOMAIN-SUFFIX,minshop.com
+# 目标: ifanr
 DOMAIN-SUFFIX,socialbase.cn
+# 目标: ifanr
 DOMAIN-SUFFIX,socialbasecustomercontent.com
+# 目标: ifanr
 DOMAIN-SUFFIX,socialbaseusercontent.com
+# 目标: ifanr
 DOMAIN-SUFFIX,triorder.com
+# 目标: ifanr
 DOMAIN-SUFFIX,tyqian.com
+# 目标: ifanr
 DOMAIN-SUFFIX,wantwu.com
+# 目标: ifanr
 DOMAIN-SUFFIX,weimen.hu
+# 目标: ifanr
 DOMAIN-SUFFIX,wuzhii.com
+# 目标: ifanr
 DOMAIN-SUFFIX,xiaoapp.io
+# 目标: ifanr
 DOMAIN-SUFFIX,xiaoma.io
+# 目标: ifanr
 DOMAIN-SUFFIX,zhixiaochengxu.com

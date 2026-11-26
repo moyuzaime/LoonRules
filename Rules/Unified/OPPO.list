@@ -1,59 +1,115 @@
 # 统一规则库 | 分类: OPPO
 # 合并来源: blackmatrix7/ios_rule_script OPPO
 # 规则数: 56
+# 目标: OPPO
 DOMAIN-SUFFIX,aibreeno.com
+# 目标: OPPO
 DOMAIN-SUFFIX,allawnfs.com
+# 目标: OPPO
 DOMAIN-SUFFIX,allawno.com
+# 目标: OPPO
 DOMAIN-SUFFIX,allawntech.com
+# 目标: OPPO
 DOMAIN-SUFFIX,andes.tech
+# 目标: OPPO
 DOMAIN-SUFFIX,andesbrain.com
+# 目标: OPPO
 DOMAIN-SUFFIX,andesclouds.com.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,breenomeet.cc
+# 目标: OPPO
 DOMAIN-SUFFIX,coloros.com
+# 目标: OPPO
 DOMAIN-SUFFIX,coloros.net
+# 目标: OPPO
 DOMAIN-SUFFIX,familyincloud.com
+# 目标: OPPO
 DOMAIN-SUFFIX,fenzijr.com
+# 目标: OPPO
 DOMAIN-SUFFIX,finzfin.com
+# 目标: OPPO
 DOMAIN-SUFFIX,finzjr.com
+# 目标: OPPO
 DOMAIN-SUFFIX,heytap.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,heytap.com
+# 目标: OPPO
 DOMAIN-SUFFIX,heytapcloud.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,heytapcloud.com
+# 目标: OPPO
 DOMAIN-SUFFIX,heytapcs.com
+# 目标: OPPO
 DOMAIN-SUFFIX,heytapdownload.com
+# 目标: OPPO
 DOMAIN-SUFFIX,heytapimage.com
+# 目标: OPPO
 DOMAIN-SUFFIX,heytapmobi.com
+# 目标: OPPO
 DOMAIN-SUFFIX,heytapugc.com
+# 目标: OPPO
 DOMAIN-SUFFIX,ibreeno.com
+# 目标: OPPO
 DOMAIN-SUFFIX,keke.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,myoas.com
+# 目标: OPPO
 DOMAIN-SUFFIX,myoas.net
+# 目标: OPPO
 DOMAIN-SUFFIX,myoppo.com
+# 目标: OPPO
 DOMAIN-SUFFIX,nearme.com.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,omeet.cc
+# 目标: OPPO
 DOMAIN-SUFFIX,opdwz.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,oplustrust.com
+# 目标: OPPO
 DOMAIN-SUFFIX,oppo.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,oppo.com
+# 目标: OPPO
 DOMAIN-SUFFIX,oppo.mobi
+# 目标: OPPO
 DOMAIN-SUFFIX,oppodataintel.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,oppodigital.com
+# 目标: OPPO
 DOMAIN-SUFFIX,oppodigital.com.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,oppoer.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,oppoer.me
+# 目标: OPPO
 DOMAIN-SUFFIX,oppofind.com
+# 目标: OPPO
 DOMAIN-SUFFIX,oppomobile.com
+# 目标: OPPO
 DOMAIN-SUFFIX,oppopay.com
+# 目标: OPPO
 DOMAIN-SUFFIX,opposales.com
+# 目标: OPPO
 DOMAIN-SUFFIX,opposhop.cn
+# 目标: OPPO
 DOMAIN-SUFFIX,ortc.cc
+# 目标: OPPO
 DOMAIN-SUFFIX,realme.com
+# 目标: OPPO
 DOMAIN-SUFFIX,realme.net
+# 目标: OPPO
 DOMAIN-SUFFIX,realmebbs.com
+# 目标: OPPO
 DOMAIN-SUFFIX,realmemobile.com
+# 目标: OPPO
 DOMAIN-SUFFIX,realmeservice.com
+# 目标: OPPO
 DOMAIN-SUFFIX,sj6rgxtjg3tmb.com
+# 目标: OPPO
 DOMAIN-SUFFIX,vayol.com
+# 目标: OPPO
 DOMAIN-SUFFIX,wanyol.com
+# 目标: OPPO
 DOMAIN-SUFFIX,xiaobool.com
+# 目标: OPPO
 DOMAIN-SUFFIX,zeku.com

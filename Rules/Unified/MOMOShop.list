@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: MOMOShop
 # 合并来源: blackmatrix7/ios_rule_script MOMOShop
+# 说明: MOMO購物網
 # 规则数: 4
+# 目标: MOMOShop
 DOMAIN-SUFFIX,momo.dm
+# 目标: MOMOShop
 DOMAIN-SUFFIX,momo5188.com
+# 目标: MOMOShop
 DOMAIN-SUFFIX,momomall.com.tw
+# 目标: MOMOShop
 DOMAIN-SUFFIX,momoshop.com.tw

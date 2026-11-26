@@ -1,17 +1,32 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/YiXiaKeJi/YiXiaKeJi.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YiXiaKeJi/YiXiaKeJi.list
+# 说明: 一下科技
 # 规则数: 14
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,huangka.com
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,iyuezhang.net
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,miaokan.com
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,miaopai.com
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,vbbobo.com
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,vitamio.net
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,vitamio.org
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,vitamio.tv
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,vplayer.net
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,weishipin.com
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,xiaoka.tv
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,xiaokaxiu.com
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,yixia.com
+# 目标: YiXiaKeJi
 DOMAIN-SUFFIX,yixiatong.com

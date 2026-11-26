@@ -1,19 +1,36 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/XianYu/XianYu.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/XianYu/XianYu.list
+# 说明: 闲鱼
 # 规则数: 16
+# 目标: XianYu
 DOMAIN-SUFFIX,ewqcxz.com
+# 目标: XianYu
 DOMAIN-SUFFIX,hjkhjkl.com
+# 目标: XianYu
 DOMAIN-SUFFIX,iopiopl.com
+# 目标: XianYu
 DOMAIN-SUFFIX,lkjujm.com
+# 目标: XianYu
 DOMAIN-SUFFIX,mnbvdfg.com
+# 目标: XianYu
 DOMAIN-SUFFIX,nfmrtfv.com
+# 目标: XianYu
 DOMAIN-SUFFIX,poiuytw.com
+# 目标: XianYu
 DOMAIN-SUFFIX,qazasd.com
+# 目标: XianYu
 DOMAIN-SUFFIX,redfcv.com
+# 目标: XianYu
 DOMAIN-SUFFIX,svfrrg.com
+# 目标: XianYu
 DOMAIN-SUFFIX,tfgvb.com
+# 目标: XianYu
 DOMAIN-SUFFIX,uyhjnm.com
+# 目标: XianYu
 DOMAIN-SUFFIX,vbmnmy.com
+# 目标: XianYu
 DOMAIN-SUFFIX,wsxsdf.com
+# 目标: XianYu
 DOMAIN-SUFFIX,xcbbtf.com
+# 目标: XianYu
 DOMAIN-SUFFIX,xianyu.mobi

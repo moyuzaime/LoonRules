@@ -1,12 +1,21 @@
 # 统一规则库 | 分类: WIX
 # 合并来源: blackmatrix7/ios_rule_script WIX
 # 规则数: 9
+# 目标: WIX
 DOMAIN-SUFFIX,editorx.com
+# 目标: WIX
 DOMAIN-SUFFIX,parastorage.com
+# 目标: WIX
 DOMAIN-SUFFIX,wix-code.com
+# 目标: WIX
 DOMAIN-SUFFIX,wix.com
+# 目标: WIX
 DOMAIN-SUFFIX,wixanswers.com
+# 目标: WIX
 DOMAIN-SUFFIX,wixapps.net
+# 目标: WIX
 DOMAIN-SUFFIX,wixmp.com
+# 目标: WIX
 DOMAIN-SUFFIX,wixsite.com
+# 目标: WIX
 DOMAIN-SUFFIX,wixstatic.com

@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Afdian/Afdian.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Afdian/Afdian.list
 # 规则数: 2
+# 目标: Afdian
 DOMAIN-SUFFIX,afdian.net
+# 目标: Afdian
 DOMAIN-SUFFIX,afdiancdn.com

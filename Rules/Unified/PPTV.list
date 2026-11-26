@@ -1,22 +1,41 @@
 # 统一规则库 | 分类: PPTV
 # 合并来源: blackmatrix7/ios_rule_script PPTV
 # 规则数: 19
+# 目标: PPTV
 DOMAIN-SUFFIX,bkrent.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,g1d.net
+# 目标: PPTV
 DOMAIN-SUFFIX,iptv.com.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,jiwunote.com.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,kidkk.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,kidpp.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,kidsn.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,kidyy.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,pplive.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,pplive.com
+# 目标: PPTV
 DOMAIN-SUFFIX,pplive.com.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,pplive.net
+# 目标: PPTV
 DOMAIN-SUFFIX,pptv.com
+# 目标: PPTV
 DOMAIN-SUFFIX,pptvdata.com
+# 目标: PPTV
 DOMAIN-SUFFIX,pptvimg.com
+# 目标: PPTV
 DOMAIN-SUFFIX,pptvnet.com
+# 目标: PPTV
 DOMAIN-SUFFIX,pptvyun.com
+# 目标: PPTV
 DOMAIN-SUFFIX,snrent.cn
+# 目标: PPTV
 DOMAIN-SUFFIX,synacast.com

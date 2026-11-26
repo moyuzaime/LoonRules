@@ -1,46 +1,89 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Cryptocurrency/Cryptocurrency.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cryptocurrency/Cryptocurrency.list
 # 规则数: 43
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,aex.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,aicoin.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,aimoon.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bibox.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,binance.cc
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,binance.cloud
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,binance.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,binance.im
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,binance.me
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,binance.us
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bitcointalk.org
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bitfinex.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bithumb.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bitmex.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bitstamp.net
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bittrex.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bnappzh.co
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bnappzh.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bnbstatic.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bntrace.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,bybit.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,coinbase.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,coincheck.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,coingecko.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,coinmarketcap.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,coinone.co.kr
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,debank.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,etherscan.io
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,ftx.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,gate.io
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,gemini.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,huobi.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,korbit.co.kr
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,kraken.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,kucoin.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,liquid.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,okex.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,okx.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,pancakeswap.finance
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,poloniex.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,sushi.com
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,uniswap.org
+# 目标: Cryptocurrency
 DOMAIN-SUFFIX,zb.com

@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: Weibo
 # 合并来源: blackmatrix7/ios_rule_script Weibo
+# 说明: 微博
 # 规则数: 4
+# 目标: Weibo
 DOMAIN-SUFFIX,weibo.cn
+# 目标: Weibo
 DOMAIN-SUFFIX,weibo.com
+# 目标: Weibo
 DOMAIN-SUFFIX,weibocdn.com
+# 目标: Weibo
 DOMAIN-KEYWORD,weibo

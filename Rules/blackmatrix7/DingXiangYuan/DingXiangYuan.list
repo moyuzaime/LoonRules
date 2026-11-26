@@ -1,19 +1,36 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DingXiangYuan/DingXiangYuan.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DingXiangYuan/DingXiangYuan.list
+# 说明: 丁香园
 # 规则数: 16
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,0dxy.cn
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,biomart.cn
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,centerwatch.cn
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,crou.cn
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,dxy.cn
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,dxy.com
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,dxy.me
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,dxy.net
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,dxycdn.com
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,dxyer.cn
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,dxyer.com
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,guanlannet.com
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,jobmd.cn
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,linkmed.com.cn
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,mdnews.cn
+# 目标: DingXiangYuan
 DOMAIN-SUFFIX,pubmed.cn

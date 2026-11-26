@@ -1,54 +1,105 @@
 # 统一规则库 | 分类: Emby
 # 合并来源: blackmatrix7/ios_rule_script Emby
 # 规则数: 51
+# 目标: Emby
 DOMAIN,emby.enjoyit.eu.org
+# 目标: Emby
 DOMAIN,emby.lcloud.wiki
+# 目标: Emby
 DOMAIN,notnetflix.cos.cat
+# 目标: Emby
 DOMAIN-SUFFIX,123456.al
+# 目标: Emby
 DOMAIN-SUFFIX,285286.xyz
+# 目标: Emby
 DOMAIN-SUFFIX,agahk1.jmsooo.com
+# 目标: Emby
 DOMAIN-SUFFIX,agajp1.jmsooo.com
+# 目标: Emby
 DOMAIN-SUFFIX,agasg1.jmsooo.com
+# 目标: Emby
 DOMAIN-SUFFIX,aws.jmsooo.com
+# 目标: Emby
 DOMAIN-SUFFIX,cf1.jmsooo.com
+# 目标: Emby
 DOMAIN-SUFFIX,cristiamo.xyz
+# 目标: Emby
 DOMAIN-SUFFIX,emby.cjpc.cc
+# 目标: Emby
 DOMAIN-SUFFIX,emby.cjpc.tv
+# 目标: Emby
 DOMAIN-SUFFIX,emby.cjpc.xyz
+# 目标: Emby
 DOMAIN-SUFFIX,emby.cristiamo.top
+# 目标: Emby
 DOMAIN-SUFFIX,emby.flowercloud.yt
+# 目标: Emby
 DOMAIN-SUFFIX,emby.immtel.com
+# 目标: Emby
 DOMAIN-SUFFIX,emby.maying.club
+# 目标: Emby
 DOMAIN-SUFFIX,emby.mcwy.me
+# 目标: Emby
 DOMAIN-SUFFIX,emby.mdss.cloud
+# 目标: Emby
 DOMAIN-SUFFIX,emby.neko.edu.rs
+# 目标: Emby
 DOMAIN-SUFFIX,emby.nexitally.com
+# 目标: Emby
 DOMAIN-SUFFIX,emby.nyancat.net
+# 目标: Emby
 DOMAIN-SUFFIX,emby.ok.edu.hk
+# 目标: Emby
 DOMAIN-SUFFIX,emby.paoche.ooo
+# 目标: Emby
 DOMAIN-SUFFIX,emby.prprcloud.com
+# 目标: Emby
 DOMAIN-SUFFIX,emby.wtf
+# 目标: Emby
 DOMAIN-SUFFIX,emby.xeton.dev
+# 目标: Emby
 DOMAIN-SUFFIX,emby.ytoo.li
+# 目标: Emby
 DOMAIN-SUFFIX,embymv.tk
+# 目标: Emby
 DOMAIN-SUFFIX,embyplus.org
+# 目标: Emby
 DOMAIN-SUFFIX,embyserver.ga
+# 目标: Emby
 DOMAIN-SUFFIX,hinet.jmsooo.com
+# 目标: Emby
 DOMAIN-SUFFIX,imetyou.top
+# 目标: Emby
 DOMAIN-SUFFIX,jellyfin.asia
+# 目标: Emby
 DOMAIN-SUFFIX,jellyfin.xeton.dev
+# 目标: Emby
 DOMAIN-SUFFIX,line.emby.men
+# 目标: Emby
 DOMAIN-SUFFIX,mickeycloud.com
+# 目标: Emby
 DOMAIN-SUFFIX,movie.xeton.dev
+# 目标: Emby
 DOMAIN-SUFFIX,ntt1.jmsooo.com
+# 目标: Emby
 DOMAIN-SUFFIX,ohhhh.org
+# 目标: Emby
 DOMAIN-SUFFIX,peachmv.me
+# 目标: Emby
 DOMAIN-SUFFIX,pilipiliultra.com
+# 目标: Emby
 DOMAIN-SUFFIX,plusmedia.site
+# 目标: Emby
 DOMAIN-SUFFIX,poloemby.xyz
+# 目标: Emby
 DOMAIN-SUFFIX,pornemby.club
+# 目标: Emby
 DOMAIN-SUFFIX,servers.xeton.dev
+# 目标: Emby
 DOMAIN-SUFFIX,xmsl.org
+# 目标: Emby
 DOMAIN-KEYWORD,emby.wtf
+# 目标: Emby
 DOMAIN-KEYWORD,jmsooo
+# 目标: Emby
 DOMAIN-KEYWORD,odysseyplus

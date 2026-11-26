@@ -1,12 +1,21 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/KKBOX/KKBOX.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/KKBOX/KKBOX.list
 # 规则数: 9
+# 目标: KKBOX
 DOMAIN-SUFFIX,kfs.io
+# 目标: KKBOX
 DOMAIN-SUFFIX,kk.stream
+# 目标: KKBOX
 DOMAIN-SUFFIX,kkbox-prime.com
+# 目标: KKBOX
 DOMAIN-SUFFIX,kkbox.com
+# 目标: KKBOX
 DOMAIN-SUFFIX,kkbox.com.tw
+# 目标: KKBOX
 DOMAIN-SUFFIX,kktix.com
+# 目标: KKBOX
 DOMAIN-SUFFIX,kktv.com.tw
+# 目标: KKBOX
 DOMAIN-SUFFIX,kktv.me
+# 目标: KKBOX
 DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net

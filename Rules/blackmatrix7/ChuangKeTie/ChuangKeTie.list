@@ -1,8 +1,14 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ChuangKeTie/ChuangKeTie.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChuangKeTie/ChuangKeTie.list
+# 说明: 创客贴
 # 规则数: 5
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,byfan.cn
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,chuangkit.com
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,ckt.cn
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,huoziyin.cn
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,huoziyin.com

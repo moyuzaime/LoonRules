@@ -1,22 +1,41 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DAZN/DAZN.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DAZN/DAZN.list
 # 规则数: 19
+# 目标: DAZN
 DOMAIN-SUFFIX,control.kochava.com
+# 目标: DAZN
 DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
+# 目标: DAZN
 DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
+# 目标: DAZN
 DOMAIN-SUFFIX,dazn-api.com
+# 目标: DAZN
 DOMAIN-SUFFIX,dazn.com
+# 目标: DAZN
 DOMAIN-SUFFIX,dazndn.com
+# 目标: DAZN
 DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net
+# 目标: DAZN
 DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
+# 目标: DAZN
 DOMAIN-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net
+# 目标: DAZN
 DOMAIN-SUFFIX,dcalivedazn.akamaized.net
+# 目标: DAZN
 DOMAIN-SUFFIX,dcblivedazn.akamaized.net
+# 目标: DAZN
 DOMAIN-SUFFIX,indazn.com
+# 目标: DAZN
 DOMAIN-SUFFIX,indaznlab.com
+# 目标: DAZN
 DOMAIN-SUFFIX,intercom.io
+# 目标: DAZN
 DOMAIN-SUFFIX,logx.optimizely.com
+# 目标: DAZN
 DOMAIN-SUFFIX,s.yimg.jp
+# 目标: DAZN
 DOMAIN-SUFFIX,sentry.io
+# 目标: DAZN
 DOMAIN-KEYWORD,voddazn
+# 目标: DAZN
 USER-AGENT,DAZN*

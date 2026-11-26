@@ -1,385 +1,767 @@
 # 统一规则库 | 分类: STUN
 # 合并来源: blackmatrix7/ios_rule_script STUN
 # 规则数: 382
+# 目标: STUN
 DOMAIN,iphone-stun.strato-iphone.de
+# 目标: STUN
 DOMAIN,relay.webwormhole.io
+# 目标: STUN
 DOMAIN,stun.1-voip.com
+# 目标: STUN
 DOMAIN,stun.12voip.com
+# 目标: STUN
 DOMAIN,stun.1und1.de
+# 目标: STUN
 DOMAIN,stun.3deluxe.de
+# 目标: STUN
 DOMAIN,stun.3wayint.com
+# 目标: STUN
 DOMAIN,stun.5sn.com
+# 目标: STUN
 DOMAIN,stun.aa.net.uk
+# 目标: STUN
 DOMAIN,stun.aaisp.co.uk
+# 目标: STUN
 DOMAIN,stun.acquageraci.it
+# 目标: STUN
 DOMAIN,stun.acrobits.cz
+# 目标: STUN
 DOMAIN,stun.acronis.com
+# 目标: STUN
 DOMAIN,stun.actionvoip.com
+# 目标: STUN
 DOMAIN,stun.alberon.cz
+# 目标: STUN
 DOMAIN,stun.allflac.com
+# 目标: STUN
 DOMAIN,stun.alphacron.de
+# 目标: STUN
 DOMAIN,stun.alpirsbacher.de
+# 目标: STUN
 DOMAIN,stun.anlx.net
+# 目标: STUN
 DOMAIN,stun.annatel.net
+# 目标: STUN
 DOMAIN,stun.antisip.com
+# 目标: STUN
 DOMAIN,stun.arkh-edu.ru
+# 目标: STUN
 DOMAIN,stun.atagverwarming.nl
+# 目标: STUN
 DOMAIN,stun.autosystem.com
+# 目标: STUN
 DOMAIN,stun.avigora.fr
+# 目标: STUN
 DOMAIN,stun.axeos.nl
+# 目标: STUN
 DOMAIN,stun.babelforce.com
+# 目标: STUN
 DOMAIN,stun.baltmannsweiler.de
+# 目标: STUN
 DOMAIN,stun.bandyer.com
+# 目标: STUN
 DOMAIN,stun.bcs2005.net
+# 目标: STUN
 DOMAIN,stun.bearstech.com
+# 目标: STUN
 DOMAIN,stun.beebeetle.com
+# 目标: STUN
 DOMAIN,stun.bernardoprovenzano.net
+# 目标: STUN
 DOMAIN,stun.bethesda.net
+# 目标: STUN
 DOMAIN,stun.bitburger.de
+# 目标: STUN
 DOMAIN,stun.bluesip.net
+# 目标: STUN
 DOMAIN,stun.bridesbay.com
+# 目标: STUN
 DOMAIN,stun.cablenet-as.net
+# 目标: STUN
 DOMAIN,stun.callromania.ro
+# 目标: STUN
 DOMAIN,stun.callwithus.com
+# 目标: STUN
 DOMAIN,stun.carlovizzini.it
+# 目标: STUN
 DOMAIN,stun.cellmail.com
+# 目标: STUN
 DOMAIN,stun.cheapvoip.com
+# 目标: STUN
 DOMAIN,stun.cibercloud.com.br
+# 目标: STUN
 DOMAIN,stun.clickphone.ro
+# 目标: STUN
 DOMAIN,stun.coffee-sen.com
+# 目标: STUN
 DOMAIN,stun.comrex.com
+# 目标: STUN
 DOMAIN,stun.connecteddata.com
+# 目标: STUN
 DOMAIN,stun.cope.es
+# 目标: STUN
 DOMAIN,stun.counterpath.com
+# 目标: STUN
 DOMAIN,stun.counterpath.net
+# 目标: STUN
 DOMAIN,stun.crimeastar.net
+# 目标: STUN
 DOMAIN,stun.ctafauni.it
+# 目标: STUN
 DOMAIN,stun.dcalling.de
+# 目标: STUN
 DOMAIN,stun.deepfinesse.com
+# 目标: STUN
 DOMAIN,stun.demos.ru
+# 目标: STUN
 DOMAIN,stun.demos.su
+# 目标: STUN
 DOMAIN,stun.dls.net
+# 目标: STUN
 DOMAIN,stun.dunyatelekom.com
+# 目标: STUN
 DOMAIN,stun.dus.net
+# 目标: STUN
 DOMAIN,stun.easter-eggs.com
+# 目标: STUN
 DOMAIN,stun.easycall.pl
+# 目标: STUN
 DOMAIN,stun.easyvoip.com
+# 目标: STUN
 DOMAIN,stun.edwin-wiegele.at
+# 目标: STUN
 DOMAIN,stun.ekiga.net
+# 目标: STUN
 DOMAIN,stun.eleusi.com
+# 目标: STUN
 DOMAIN,stun.elitetele.com
+# 目标: STUN
 DOMAIN,stun.engineeredarts.co.uk
+# 目标: STUN
 DOMAIN,stun.eol.co.nz
+# 目标: STUN
 DOMAIN,stun.eoni.com
+# 目标: STUN
 DOMAIN,stun.epygi.com
+# 目标: STUN
 DOMAIN,stun.eurosys.be
+# 目标: STUN
 DOMAIN,stun.f.haeder.net
+# 目标: STUN
 DOMAIN,stun.fairytel.at
+# 目标: STUN
 DOMAIN,stun.fathomvoice.com
+# 目标: STUN
 DOMAIN,stun.fbsbx.com
+# 目标: STUN
 DOMAIN,stun.files.fm
+# 目标: STUN
 DOMAIN,stun.fitauto.ru
+# 目标: STUN
 DOMAIN,stun.fixup.net
+# 目标: STUN
 DOMAIN,stun.fmo.de
+# 目标: STUN
 DOMAIN,stun.foad.me.uk
+# 目标: STUN
 DOMAIN,stun.framasoft.org
+# 目标: STUN
 DOMAIN,stun.freecall.com
+# 目标: STUN
 DOMAIN,stun.freeswitch.org
+# 目标: STUN
 DOMAIN,stun.freevoipdeal.com
+# 目标: STUN
 DOMAIN,stun.frozenmountain.com
+# 目标: STUN
 DOMAIN,stun.funwithelectronics.com
+# 目标: STUN
 DOMAIN,stun.futurasp.es
+# 目标: STUN
 DOMAIN,stun.galeriemagnet.at
+# 目标: STUN
 DOMAIN,stun.geesthacht.de
+# 目标: STUN
 DOMAIN,stun.genymotion.com
+# 目标: STUN
 DOMAIN,stun.geonet.ro
+# 目标: STUN
 DOMAIN,stun.gigaset.net
+# 目标: STUN
 DOMAIN,stun.gmx.de
+# 目标: STUN
 DOMAIN,stun.gmx.net
+# 目标: STUN
 DOMAIN,stun.gntel.nl
+# 目标: STUN
 DOMAIN,stun.godatenow.com
+# 目标: STUN
 DOMAIN,stun.goldfish.ie
+# 目标: STUN
 DOMAIN,stun.graftlab.com
+# 目标: STUN
 DOMAIN,stun.gravitel.ru
+# 目标: STUN
 DOMAIN,stun.grazertrinkwasseringefahr.at
+# 目标: STUN
 DOMAIN,stun.groenewold-newmedia.de
+# 目标: STUN
 DOMAIN,stun.h4v.eu
+# 目标: STUN
 DOMAIN,stun.halonet.pl
+# 目标: STUN
 DOMAIN,stun.healthtap.com
+# 目标: STUN
 DOMAIN,stun.heeds.eu
+# 目标: STUN
 DOMAIN,stun.hicare.net
+# 目标: STUN
 DOMAIN,stun.hide.me
+# 目标: STUN
 DOMAIN,stun.hitv.com
+# 目标: STUN
 DOMAIN,stun.hoiio.com
+# 目标: STUN
 DOMAIN,stun.hosteurope.de
+# 目标: STUN
 DOMAIN,stun.hot-chilli.net
+# 目标: STUN
 DOMAIN,stun.imafex.sk
+# 目标: STUN
 DOMAIN,stun.imp.ch
+# 目标: STUN
 DOMAIN,stun.infra.net
+# 目标: STUN
 DOMAIN,stun.internetcalls.com
+# 目标: STUN
 DOMAIN,stun.intervoip.com
+# 目标: STUN
 DOMAIN,stun.ipfire.org
+# 目标: STUN
 DOMAIN,stun.ippi.com
+# 目标: STUN
 DOMAIN,stun.ippi.fr
+# 目标: STUN
 DOMAIN,stun.ipshka.com
+# 目标: STUN
 DOMAIN,stun.irishvoip.com
+# 目标: STUN
 DOMAIN,stun.isp.net.au
+# 目标: STUN
 DOMAIN,stun.istitutogramscisiciliano.it
+# 目标: STUN
 DOMAIN,stun.it1.hr
+# 目标: STUN
 DOMAIN,stun.ixc.ua
+# 目标: STUN
 DOMAIN,stun.jabber.dk
+# 目标: STUN
 DOMAIN,stun.jabbim.cz
+# 目标: STUN
 DOMAIN,stun.jay.net
+# 目标: STUN
 DOMAIN,stun.jowisoftware.de
+# 目标: STUN
 DOMAIN,stun.jumblo.com
+# 目标: STUN
 DOMAIN,stun.junet.se
+# 目标: STUN
 DOMAIN,stun.justvoip.com
+# 目标: STUN
 DOMAIN,stun.kanojo.de
+# 目标: STUN
 DOMAIN,stun.kaseya.com
+# 目标: STUN
 DOMAIN,stun.kedr.io
+# 目标: STUN
 DOMAIN,stun.kitamaebune.com
+# 目标: STUN
 DOMAIN,stun.komsa.de
+# 目标: STUN
 DOMAIN,stun.kotter.net
+# 目标: STUN
 DOMAIN,stun.l.google.com
+# 目标: STUN
 DOMAIN,stun.labs.net
+# 目标: STUN
 DOMAIN,stun.ladridiricette.it
+# 目标: STUN
 DOMAIN,stun.landvast.nl
+# 目标: STUN
 DOMAIN,stun.lebendigefluesse.at
+# 目标: STUN
 DOMAIN,stun.leonde.org
+# 目标: STUN
 DOMAIN,stun.leucotron.com.br
+# 目标: STUN
 DOMAIN,stun.levigo.de
+# 目标: STUN
 DOMAIN,stun.lineaencasa.com
+# 目标: STUN
 DOMAIN,stun.linphone.org
+# 目标: STUN
 DOMAIN,stun.linuxtrent.it
+# 目标: STUN
 DOMAIN,stun.liveo.fr
+# 目标: STUN
 DOMAIN,stun.lleida.net
+# 目标: STUN
 DOMAIN,stun.localphone.com
+# 目标: STUN
 DOMAIN,stun.logic.ky
+# 目标: STUN
 DOMAIN,stun.londonweb.net
+# 目标: STUN
 DOMAIN,stun.lovense.com
+# 目标: STUN
 DOMAIN,stun.lowratevoip.com
+# 目标: STUN
 DOMAIN,stun.lundimatin.fr
+# 目标: STUN
 DOMAIN,stun.m-online.net
+# 目标: STUN
 DOMAIN,stun.marcelproust.it
+# 目标: STUN
 DOMAIN,stun.medvc.eu
+# 目标: STUN
 DOMAIN,stun.meetwife.com
+# 目标: STUN
 DOMAIN,stun.megatel.si
+# 目标: STUN
 DOMAIN,stun.meowsbox.com
+# 目标: STUN
 DOMAIN,stun.mit.de
+# 目标: STUN
 DOMAIN,stun.miwifi.com
+# 目标: STUN
 DOMAIN,stun.mixvoip.com
+# 目标: STUN
 DOMAIN,stun.mobile-italia.com
+# 目标: STUN
 DOMAIN,stun.moonlight-stream.org
+# 目标: STUN
 DOMAIN,stun.muoversi.net
+# 目标: STUN
 DOMAIN,stun.myhowto.org
+# 目标: STUN
 DOMAIN,stun.myspeciality.com
+# 目标: STUN
 DOMAIN,stun.myvoipapp.com
+# 目标: STUN
 DOMAIN,stun.myvoiptraffic.com
+# 目标: STUN
 DOMAIN,stun.mywatson.it
+# 目标: STUN
 DOMAIN,stun.nanocosmos.de
+# 目标: STUN
 DOMAIN,stun.ncic.com
+# 目标: STUN
 DOMAIN,stun.neomedia.it
+# 目标: STUN
 DOMAIN,stun.netappel.com
+# 目标: STUN
 DOMAIN,stun.netgsm.com.tr
+# 目标: STUN
 DOMAIN,stun.newrocktech.com
+# 目标: STUN
 DOMAIN,stun.nexphone.ch
+# 目标: STUN
 DOMAIN,stun.next-gen.ro
+# 目标: STUN
 DOMAIN,stun.nextcloud.com
+# 目标: STUN
 DOMAIN,stun.nexxtmobile.de
+# 目标: STUN
 DOMAIN,stun.nfon.net
+# 目标: STUN
 DOMAIN,stun.nonoh.net
+# 目标: STUN
 DOMAIN,stun.odr.de
+# 目标: STUN
 DOMAIN,stun.officinabit.com
+# 目标: STUN
 DOMAIN,stun.olimontel.it
+# 目标: STUN
 DOMAIN,stun.oncloud7.ch
+# 目标: STUN
 DOMAIN,stun.openjobs.hu
+# 目标: STUN
 DOMAIN,stun.openvoip.it
+# 目标: STUN
 DOMAIN,stun.optdyn.com
+# 目标: STUN
 DOMAIN,stun.ortopediacoam.it
+# 目标: STUN
 DOMAIN,stun.otos.pl
+# 目标: STUN
 DOMAIN,stun.ozekiphone.com
+# 目标: STUN
 DOMAIN,stun.peeters.com
+# 目标: STUN
 DOMAIN,stun.peethultra.be
+# 目标: STUN
 DOMAIN,stun.piratenbrandenburg.de
+# 目标: STUN
 DOMAIN,stun.planetarium.com.br
+# 目标: STUN
 DOMAIN,stun.plexicomm.net
+# 目标: STUN
 DOMAIN,stun.poetamatusel.org
+# 目标: STUN
 DOMAIN,stun.poivy.com
+# 目标: STUN
 DOMAIN,stun.powervoip.com
+# 目标: STUN
 DOMAIN,stun.ppdi.com
+# 目标: STUN
 DOMAIN,stun.pure-ip.com
+# 目标: STUN
 DOMAIN,stun.qcol.net
+# 目标: STUN
 DOMAIN,stun.radiojar.com
+# 目标: STUN
 DOMAIN,stun.redworks.nl
+# 目标: STUN
 DOMAIN,stun.ringostat.com
+# 目标: STUN
 DOMAIN,stun.ringvoz.com
+# 目标: STUN
 DOMAIN,stun.rockenstein.de
+# 目标: STUN
 DOMAIN,stun.rolmail.net
+# 目标: STUN
 DOMAIN,stun.romaaeterna.nl
+# 目标: STUN
 DOMAIN,stun.romancecompass.com
+# 目标: STUN
 DOMAIN,stun.root-1.de
+# 目标: STUN
 DOMAIN,stun.ru-brides.com
+# 目标: STUN
 DOMAIN,stun.rynga.com
+# 目标: STUN
 DOMAIN,stun.schlund.de
+# 目标: STUN
 DOMAIN,stun.schoeffel.de
+# 目标: STUN
 DOMAIN,stun.schulinformatik.at
+# 目标: STUN
 DOMAIN,stun.selasky.org
+# 目标: STUN
 DOMAIN,stun.senstar.com
+# 目标: STUN
 DOMAIN,stun.sewan.fr
+# 目标: STUN
 DOMAIN,stun.shadrinsk.net
+# 目标: STUN
 DOMAIN,stun.siedle.com
+# 目标: STUN
 DOMAIN,stun.sigmavoip.com
+# 目标: STUN
 DOMAIN,stun.signalwire.com
+# 目标: STUN
 DOMAIN,stun.simlar.org
+# 目标: STUN
 DOMAIN,stun.sip.us
+# 目标: STUN
 DOMAIN,stun.sipdiscount.com
+# 目标: STUN
 DOMAIN,stun.sipgate.net
+# 目标: STUN
 DOMAIN,stun.sipglobalphone.com
+# 目标: STUN
 DOMAIN,stun.siplogin.de
+# 目标: STUN
 DOMAIN,stun.sippeer.dk
+# 目标: STUN
 DOMAIN,stun.sipthor.net
+# 目标: STUN
 DOMAIN,stun.siptraffic.com
+# 目标: STUN
 DOMAIN,stun.siptrunk.com
+# 目标: STUN
 DOMAIN,stun.sipy.cz
+# 目标: STUN
 DOMAIN,stun.sky.od.ua
+# 目标: STUN
 DOMAIN,stun.skydrone.aero
+# 目标: STUN
 DOMAIN,stun.sma.de
+# 目标: STUN
 DOMAIN,stun.smartvoip.com
+# 目标: STUN
 DOMAIN,stun.smsdiscount.com
+# 目标: STUN
 DOMAIN,stun.smslisto.com
+# 目标: STUN
 DOMAIN,stun.soho66.co.uk
+# 目标: STUN
 DOMAIN,stun.solcon.nl
+# 目标: STUN
 DOMAIN,stun.solnet.ch
+# 目标: STUN
 DOMAIN,stun.solomo.de
+# 目标: STUN
 DOMAIN,stun.sonetel.com
+# 目标: STUN
 DOMAIN,stun.sonetel.net
+# 目标: STUN
 DOMAIN,stun.sparvoip.de
+# 目标: STUN
 DOMAIN,stun.splicecom.com
+# 目标: STUN
 DOMAIN,stun.srce.hr
+# 目标: STUN
 DOMAIN,stun.stadtwerke-eutin.de
+# 目标: STUN
 DOMAIN,stun.stochastix.de
+# 目标: STUN
 DOMAIN,stun.streamnow.ch
+# 目标: STUN
 DOMAIN,stun.studio-link.de
+# 目标: STUN
 DOMAIN,stun.studio71.it
+# 目标: STUN
 DOMAIN,stun.swrag.de
+# 目标: STUN
 DOMAIN,stun.sylaps.com
+# 目标: STUN
 DOMAIN,stun.symonics.com
+# 目标: STUN
 DOMAIN,stun.syncthing.net
+# 目标: STUN
 DOMAIN,stun.synergiejobs.be
+# 目标: STUN
 DOMAIN,stun.syrex.co.za
+# 目标: STUN
 DOMAIN,stun.t-online.de
+# 目标: STUN
 DOMAIN,stun.talkho.com
+# 目标: STUN
 DOMAIN,stun.taxsee.com
+# 目标: STUN
 DOMAIN,stun.teamfon.de
+# 目标: STUN
 DOMAIN,stun.technosens.fr
+# 目标: STUN
 DOMAIN,stun.tel.lu
+# 目标: STUN
 DOMAIN,stun.tel2.co.uk
+# 目标: STUN
 DOMAIN,stun.telbo.com
+# 目标: STUN
 DOMAIN,stun.teliax.com
+# 目标: STUN
 DOMAIN,stun.telnyx.com
+# 目标: STUN
 DOMAIN,stun.telonline.com
+# 目标: STUN
 DOMAIN,stun.thebrassgroup.it
+# 目标: STUN
 DOMAIN,stun.thinkrosystem.com
+# 目标: STUN
 DOMAIN,stun.threema.ch
+# 目标: STUN
 DOMAIN,stun.tichiamo.it
+# 目标: STUN
 DOMAIN,stun.tng.de
+# 目标: STUN
 DOMAIN,stun.totalcom.info
+# 目标: STUN
 DOMAIN,stun.trivenet.it
+# 目标: STUN
 DOMAIN,stun.ttmath.org
+# 目标: STUN
 DOMAIN,stun.tula.nu
+# 目标: STUN
 DOMAIN,stun.twt.it
+# 目标: STUN
 DOMAIN,stun.uabrides.com
+# 目标: STUN
 DOMAIN,stun.uiltucssicilia.it
+# 目标: STUN
 DOMAIN,stun.ukh.de
+# 目标: STUN
 DOMAIN,stun.uls.co.za
+# 目标: STUN
 DOMAIN,stun.url.net.au
+# 目标: STUN
 DOMAIN,stun.usfamily.net
+# 目标: STUN
 DOMAIN,stun.vadacom.co.nz
+# 目标: STUN
 DOMAIN,stun.var6.cn
+# 目标: STUN
 DOMAIN,stun.vavadating.com
+# 目标: STUN
 DOMAIN,stun.verbo.be
+# 目标: STUN
 DOMAIN,stun.vincross.com
+# 目标: STUN
 DOMAIN,stun.vivox.com
+# 目标: STUN
 DOMAIN,stun.vo.lu
+# 目标: STUN
 DOMAIN,stun.voicetech.se
+# 目标: STUN
 DOMAIN,stun.voicetrading.com
+# 目标: STUN
 DOMAIN,stun.voip.aebc.com
+# 目标: STUN
 DOMAIN,stun.voip.blackberry.com
+# 目标: STUN
 DOMAIN,stun.voip.eutelia.it
+# 目标: STUN
 DOMAIN,stun.voipblast.com
+# 目标: STUN
 DOMAIN,stun.voipbuster.com
+# 目标: STUN
 DOMAIN,stun.voipbusterpro.com
+# 目标: STUN
 DOMAIN,stun.voipcheap.co.uk
+# 目标: STUN
 DOMAIN,stun.voipcheap.com
+# 目标: STUN
 DOMAIN,stun.voipconnect.com
+# 目标: STUN
 DOMAIN,stun.voipdiscount.com
+# 目标: STUN
 DOMAIN,stun.voipdomain
+# 目标: STUN
 DOMAIN,stun.voipfibre.com
+# 目标: STUN
 DOMAIN,stun.voipgain.com
+# 目标: STUN
 DOMAIN,stun.voipgate.com
+# 目标: STUN
 DOMAIN,stun.voipgrid.nl
+# 目标: STUN
 DOMAIN,stun.voipia.net
+# 目标: STUN
 DOMAIN,stun.voipinfocenter.com
+# 目标: STUN
 DOMAIN,stun.voipplanet.nl
+# 目标: STUN
 DOMAIN,stun.voippro.com
+# 目标: STUN
 DOMAIN,stun.voipraider.com
+# 目标: STUN
 DOMAIN,stun.voipvoice.it
+# 目标: STUN
 DOMAIN,stun.voipwise.com
+# 目标: STUN
 DOMAIN,stun.voipxs.nl
+# 目标: STUN
 DOMAIN,stun.voipzoom.com
+# 目标: STUN
 DOMAIN,stun.vomessen.de
+# 目标: STUN
 DOMAIN,stun.voys.nl
+# 目标: STUN
 DOMAIN,stun.vozelia.com
+# 目标: STUN
 DOMAIN,stun.voztele.com
+# 目标: STUN
 DOMAIN,stun.voztovoice.org
+# 目标: STUN
 DOMAIN,stun.waterpolopalermo.it
+# 目标: STUN
 DOMAIN,stun.wcoil.com
+# 目标: STUN
 DOMAIN,stun.webcalldirect.com
+# 目标: STUN
 DOMAIN,stun.webmatrix.com.br
+# 目标: STUN
 DOMAIN,stun.wemag.com
+# 目标: STUN
 DOMAIN,stun.westtel.ky
+# 目标: STUN
 DOMAIN,stun.wia.cz
+# 目标: STUN
 DOMAIN,stun.wifirst.net
+# 目标: STUN
 DOMAIN,stun.wtfismyip.com
+# 目标: STUN
 DOMAIN,stun.wxnz.net
+# 目标: STUN
 DOMAIN,stun.xten.com
+# 目标: STUN
 DOMAIN,stun.yesdates.com
+# 目标: STUN
 DOMAIN,stun.yollacalls.com
+# 目标: STUN
 DOMAIN,stun.zadarma.com
+# 目标: STUN
 DOMAIN,stun.zentauron.de
+# 目标: STUN
 DOMAIN,stun1.l.google.com
+# 目标: STUN
 DOMAIN,stun2.l.google.com
+# 目标: STUN
 DOMAIN,stun3.l.google.com
+# 目标: STUN
 DOMAIN,stun4.l.google.com
+# 目标: STUN
 IP-CIDR6,2001:4060:1:1005::10:32,no-resolve
+# 目标: STUN
 IP-CIDR6,2001:41d0:2:12b9::1,no-resolve
+# 目标: STUN
 IP-CIDR6,2001:678:b28::118,no-resolve
+# 目标: STUN
 IP-CIDR6,2404:6800:4003:c03::7f,no-resolve
+# 目标: STUN
 IP-CIDR6,2404:6800:4008:c04::7f,no-resolve
+# 目标: STUN
 IP-CIDR6,2404:6800:400a:1002::7f,no-resolve
+# 目标: STUN
 IP-CIDR6,2404:6800:400b:c005::7f,no-resolve
+# 目标: STUN
 IP-CIDR6,2a00:1450:4010:c06::7f,no-resolve
+# 目标: STUN
 IP-CIDR6,2a01:4f8:120:1497::148,no-resolve
+# 目标: STUN
 IP-CIDR6,2a01:4f8:13b:39ce::2,no-resolve
+# 目标: STUN
 IP-CIDR6,2a01:4f8:242:56ca::2,no-resolve
+# 目标: STUN
 IP-CIDR6,2a01:4f8:c17:8f74::1,no-resolve
+# 目标: STUN
 IP-CIDR6,2a01:4f9:4b:4c8f::2,no-resolve
+# 目标: STUN
 IP-CIDR6,2a02:f98:0:50:2ff:23ff:fe42:1b23,no-resolve
+# 目标: STUN
 IP-CIDR6,2a03:2880:f084:1:face:b00c:0:24d9,no-resolve
+# 目标: STUN
 IP-CIDR6,2a03:b0c0:0:1010::a2:a001,no-resolve
+# 目标: STUN
 IP-CIDR6,2001:4060:1:1005::10:32
+# 目标: STUN
 IP-CIDR6,2001:41d0:2:12b9::1
+# 目标: STUN
 IP-CIDR6,2001:678:b28::118
+# 目标: STUN
 IP-CIDR6,2404:6800:4003:c03::7f
+# 目标: STUN
 IP-CIDR6,2404:6800:4008:c04::7f
+# 目标: STUN
 IP-CIDR6,2404:6800:400a:1002::7f
+# 目标: STUN
 IP-CIDR6,2404:6800:400b:c005::7f
+# 目标: STUN
 IP-CIDR6,2a00:1450:4010:c06::7f
+# 目标: STUN
 IP-CIDR6,2a01:4f8:120:1497::148
+# 目标: STUN
 IP-CIDR6,2a01:4f8:13b:39ce::2
+# 目标: STUN
 IP-CIDR6,2a01:4f8:242:56ca::2
+# 目标: STUN
 IP-CIDR6,2a01:4f8:c17:8f74::1
+# 目标: STUN
 IP-CIDR6,2a01:4f9:4b:4c8f::2
+# 目标: STUN
 IP-CIDR6,2a02:f98:0:50:2ff:23ff:fe42:1b23
+# 目标: STUN
 IP-CIDR6,2a03:2880:f084:1:face:b00c:0:24d9
+# 目标: STUN
 IP-CIDR6,2a03:b0c0:0:1010::a2:a001

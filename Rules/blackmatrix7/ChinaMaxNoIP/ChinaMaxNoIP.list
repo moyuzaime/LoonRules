@@ -1,128 +1,254 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ChinaMaxNoIP/ChinaMaxNoIP.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMaxNoIP/ChinaMaxNoIP.list
+# 说明: 国内域名合集
 # 规则数: 125
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,cn
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,ms
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,alibaba
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,anquan
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,citic
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,icbc
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,shouji
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,sina
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,sohu
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,tmall
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,unicom
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,wang
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xihuan
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--1qqw23a
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--3bst00m
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--3ds443g
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--55qw42g
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--55qx5d
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--5tzm5g
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--6frz82g
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--6qq986b3xl
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--8y0a063a
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--9et52u
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--9krt00a
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--czr694b
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--czrs0t
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--czru2d
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--fiq228c5hs
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--fiq64b
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--fiqs8s
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--fiqz9s
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--fjq720a
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--g2xx48c
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--hxt814e
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--imr513n
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--io0a7i
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--kput3i
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--nyqy26a
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--otu796d
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--rhqv96g
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--ses554g
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--unup4y
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--vhquv
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--vuq861b
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--xhq521b
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,xn--zfr164b
+# 目标: ChinaMaxNoIP
 DOMAIN-SUFFIX,yun
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,.tmall.com
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,alicdn
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,alipay
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,aliyun
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,baidu
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,beplay
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,officecdn
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,taobao
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,bilibili
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,qiyi
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,hnagroup
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,stripe
+# 目标: ChinaMaxNoIP
 DOMAIN-KEYWORD,weibo
+# 目标: ChinaMaxNoIP
 USER-AGENT,AcFun*
+# 目标: ChinaMaxNoIP
 USER-AGENT,*bili*
+# 目标: ChinaMaxNoIP
 USER-AGENT,Bilibili*
+# 目标: ChinaMaxNoIP
 USER-AGENT,bili*
+# 目标: ChinaMaxNoIP
 USER-AGENT,bili-inter*
+# 目标: ChinaMaxNoIP
 USER-AGENT,TikTok*
+# 目标: ChinaMaxNoIP
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
+# 目标: ChinaMaxNoIP
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
+# 目标: ChinaMaxNoIP
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
+# 目标: ChinaMaxNoIP
 USER-AGENT,%E4%BC%98%E9%85%B7*
+# 目标: ChinaMaxNoIP
 USER-AGENT,%E5%8D%B3%E5%88%BB*
+# 目标: ChinaMaxNoIP
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+# 目标: ChinaMaxNoIP
 USER-AGENT,*Vainglory*
+# 目标: ChinaMaxNoIP
 USER-AGENT,AdBlock*
+# 目标: ChinaMaxNoIP
 USER-AGENT,Best%20Trace*
+# 目标: ChinaMaxNoIP
 USER-AGENT,MegaWerewolf*
+# 目标: ChinaMaxNoIP
 USER-AGENT,MicroMessenger%20Client
+# 目标: ChinaMaxNoIP
 USER-AGENT,MicroMessenger*
+# 目标: ChinaMaxNoIP
 USER-AGENT,MicroMessengerClient*
+# 目标: ChinaMaxNoIP
 USER-AGENT,Microsoft*
+# 目标: ChinaMaxNoIP
 USER-AGENT,Moke*
+# 目标: ChinaMaxNoIP
 USER-AGENT,NeteaseMusic*
+# 目标: ChinaMaxNoIP
 USER-AGENT,QQ*
+# 目标: ChinaMaxNoIP
 USER-AGENT,RemotePlay*
+# 目标: ChinaMaxNoIP
 USER-AGENT,TIM*
+# 目标: ChinaMaxNoIP
 USER-AGENT,TeamViewer*
+# 目标: ChinaMaxNoIP
 USER-AGENT,WeChat*
+# 目标: ChinaMaxNoIP
 USER-AGENT,WebTorrent*
+# 目标: ChinaMaxNoIP
 USER-AGENT,YYeTs*
+# 目标: ChinaMaxNoIP
 USER-AGENT,arrowio*
+# 目标: ChinaMaxNoIP
 USER-AGENT,balls*
+# 目标: ChinaMaxNoIP
 USER-AGENT,cmb*
+# 目标: ChinaMaxNoIP
 USER-AGENT,cmblife*
+# 目标: ChinaMaxNoIP
 USER-AGENT,eusoft_ting_en_iphone
+# 目标: ChinaMaxNoIP
 USER-AGENT,hearthstone*
+# 目标: ChinaMaxNoIP
 USER-AGENT,hide*
+# 目标: ChinaMaxNoIP
 USER-AGENT,ting_en
+# 目标: ChinaMaxNoIP
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+# 目标: ChinaMaxNoIP
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
+# 目标: ChinaMaxNoIP
 USER-AGENT,*QIYI*
+# 目标: ChinaMaxNoIP
 USER-AGENT,DomesticMedia*
+# 目标: ChinaMaxNoIP
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+# 目标: ChinaMaxNoIP
 USER-AGENT,MOO*
+# 目标: ChinaMaxNoIP
 USER-AGENT,PPStream*
+# 目标: ChinaMaxNoIP
 USER-AGENT,QIYI*
+# 目标: ChinaMaxNoIP
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+# 目标: ChinaMaxNoIP
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
+# 目标: ChinaMaxNoIP
 USER-AGENT,QQMusic*
+# 目标: ChinaMaxNoIP
 USER-AGENT,QYPlayer*
+# 目标: ChinaMaxNoIP
 USER-AGENT,TencentMidasConnect*
+# 目标: ChinaMaxNoIP
 USER-AGENT,bilibili*
+# 目标: ChinaMaxNoIP
 USER-AGENT,iQiYi*
+# 目标: ChinaMaxNoIP
 USER-AGENT,iQiyi*
+# 目标: ChinaMaxNoIP
 USER-AGENT,live4iphone*
+# 目标: ChinaMaxNoIP
 USER-AGENT,qqlive4iphone*
+# 目标: ChinaMaxNoIP
 USER-AGENT,walkman*
+# 目标: ChinaMaxNoIP
 USER-AGENT,xiami*
+# 目标: ChinaMaxNoIP
 USER-AGENT,youku*
+# 目标: ChinaMaxNoIP
 USER-AGENT,Himalaya*
+# 目标: ChinaMaxNoIP
 USER-AGENT,MGTV*
+# 目标: ChinaMaxNoIP
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+# 目标: ChinaMaxNoIP
 USER-AGENT,MiguVideo*
+# 目标: ChinaMaxNoIP
 USER-AGENT,baiduyinyue
+# 目标: ChinaMaxNoIP
 USER-AGENT,Youku*
+# 目标: ChinaMaxNoIP
 USER-AGENT,iQIYI*

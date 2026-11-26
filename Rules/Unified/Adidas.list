@@ -1,22 +1,41 @@
 # 统一规则库 | 分类: Adidas
 # 合并来源: blackmatrix7/ios_rule_script Adidas
 # 规则数: 19
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.at
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.be
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.ch
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.co.in
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.co.uk
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.com
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.com.cn
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.com.sa
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.com.tw
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.cz
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.de
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.dk
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.hu
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.ie
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.it
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.nl
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.pl
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.ru
+# 目标: Adidas
 DOMAIN-SUFFIX,adidas.se

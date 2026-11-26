@@ -1,6 +1,10 @@
 # 统一规则库 | 分类: U17
 # 合并来源: blackmatrix7/ios_rule_script U17
+# 说明: 有妖气
 # 规则数: 3
+# 目标: U17
 DOMAIN-SUFFIX,u17.com
+# 目标: U17
 DOMAIN-SUFFIX,u17i.com
+# 目标: U17
 DOMAIN-SUFFIX,u17t.com

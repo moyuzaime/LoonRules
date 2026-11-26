@@ -1,10 +1,17 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/TVer/TVer.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TVer/TVer.list
 # 规则数: 7
+# 目标: TVer
 DOMAIN-SUFFIX,dogatch.jp
+# 目标: TVer
 DOMAIN-SUFFIX,edge.api.brightcove.com
+# 目标: TVer
 DOMAIN-SUFFIX,gorin.jp
+# 目标: TVer
 DOMAIN-SUFFIX,screens-lab.jp
+# 目标: TVer
 DOMAIN-SUFFIX,tver.co.jp
+# 目标: TVer
 DOMAIN-SUFFIX,tver.jp
+# 目标: TVer
 USER-AGENT,TVer-Release*

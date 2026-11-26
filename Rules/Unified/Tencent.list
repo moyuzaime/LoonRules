@@ -1,2546 +1,5090 @@
 # 统一规则库 | 分类: Tencent
 # 合并来源: blackmatrix7/ios_rule_script Tencent
+# 说明: 腾讯
 # 规则数: 2543
+# 目标: Tencent
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+# 目标: Tencent
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+# 目标: Tencent
 USER-AGENT,TencentMidasConnect*
+# 目标: Tencent
 USER-AGENT,live4iphone*
+# 目标: Tencent
 USER-AGENT,qqlive4iphone*
+# 目标: Tencent
 IP-CIDR,101.32.104.4/32,no-resolve
+# 目标: Tencent
 IP-CIDR,101.32.104.41/32,no-resolve
+# 目标: Tencent
 IP-CIDR,101.32.104.56/32,no-resolve
+# 目标: Tencent
 IP-CIDR,101.32.118.25/32,no-resolve
+# 目标: Tencent
 IP-CIDR,101.32.133.16/32,no-resolve
+# 目标: Tencent
 IP-CIDR,101.32.133.209/32,no-resolve
+# 目标: Tencent
 IP-CIDR,101.32.133.53/32,no-resolve
+# 目标: Tencent
 IP-CIDR,103.238.16.0/23,no-resolve
+# 目标: Tencent
 IP-CIDR,103.7.28.0/22,no-resolve
+# 目标: Tencent
 IP-CIDR,119.147.8.78/32,no-resolve
+# 目标: Tencent
 IP-CIDR,120.41.44.0/32,no-resolve
+# 目标: Tencent
 IP-CIDR,122.5.0.129/32,no-resolve
+# 目标: Tencent
 IP-CIDR,129.226.107.244/32,no-resolve
+# 目标: Tencent
 IP-CIDR,129.226.3.47/32,no-resolve
+# 目标: Tencent
 IP-CIDR,140.249.239.0/32,no-resolve
+# 目标: Tencent
 IP-CIDR,140.249.28.0/32,no-resolve
+# 目标: Tencent
 IP-CIDR,150.138.137.0/32,no-resolve
+# 目标: Tencent
 IP-CIDR,150.139.143.0/32,no-resolve
+# 目标: Tencent
 IP-CIDR,27.159.95.0/32,no-resolve
+# 目标: Tencent
 IP-CIDR,58.58.81.129/32,no-resolve
+# 目标: Tencent
 DOMAIN-SUFFIX,001dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,002dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,003dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,004dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,005dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,006dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,007dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,007url.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,008dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,009dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,011dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,012dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,013dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,014dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,015dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,016dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,017dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,018dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,019dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,020dl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,1010gamer.com
+# 目标: Tencent
 DOMAIN-SUFFIX,1700.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,17look.com
+# 目标: Tencent
 DOMAIN-SUFFIX,17roco.com
+# 目标: Tencent
 DOMAIN-SUFFIX,1browser.net
+# 目标: Tencent
 DOMAIN-SUFFIX,2sos.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,31i9ti.com
+# 目标: Tencent
 DOMAIN-SUFFIX,4short.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,4surl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,51poweron.com
+# 目标: Tencent
 DOMAIN-SUFFIX,6tktrd.com
+# 目标: Tencent
 DOMAIN-SUFFIX,700chat.com
+# 目标: Tencent
 DOMAIN-SUFFIX,7888.com
+# 目标: Tencent
 DOMAIN-SUFFIX,7grandcross.com
+# 目标: Tencent
 DOMAIN-SUFFIX,91facts.com
+# 目标: Tencent
 DOMAIN-SUFFIX,9uma.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,abetterchoice.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibility-union.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibility-union.com
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibility-union.net
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibility-union.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibility-union.org
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibility-union.org.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibilityunion.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibilityunion.com
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibilityunion.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibilityunion.net
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibilityunion.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibilityunion.org
+# 目标: Tencent
 DOMAIN-SUFFIX,accessibilityunion.org.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,acclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,acclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,acctdns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,acctdns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,acimg.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,addpcn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,adshonor.net
+# 目标: Tencent
 DOMAIN-SUFFIX,agcloudcs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,agpolis.com
+# 目标: Tencent
 DOMAIN-SUFFIX,aigclsp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,aitangyou.com
+# 目标: Tencent
 DOMAIN-SUFFIX,aitransfy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,aizools.com
+# 目标: Tencent
 DOMAIN-SUFFIX,aka700.com
+# 目标: Tencent
 DOMAIN-SUFFIX,aka700.net
+# 目标: Tencent
 DOMAIN-SUFFIX,alloyteam.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ams-aigc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,animate.art
+# 目标: Tencent
 DOMAIN-SUFFIX,anticheatexpert.com
+# 目标: Tencent
 DOMAIN-SUFFIX,anxin.link
+# 目标: Tencent
 DOMAIN-SUFFIX,aoxingrelang.com
+# 目标: Tencent
 DOMAIN-SUFFIX,apaas-zone-test.com
+# 目标: Tencent
 DOMAIN-SUFFIX,apcdns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,apcdns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,apdcdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,apdcdn.net
+# 目标: Tencent
 DOMAIN-SUFFIX,api-vod-qcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,apigateway.info
+# 目标: Tencent
 DOMAIN-SUFFIX,apigwtencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,aqtwpc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,aqtwwxemail.com
+# 目标: Tencent
 DOMAIN-SUFFIX,aquaterra.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,aquaterra.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,aquaterramail.com
+# 目标: Tencent
 DOMAIN-SUFFIX,arenabreakoutcn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,armaf.org
+# 目标: Tencent
 DOMAIN-SUFFIX,arthubdam.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ating.info
+# 目标: Tencent
 DOMAIN-SUFFIX,autodnsv1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,autodnsv1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,autolabautobus.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,backupdesktopcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,battlecare.net
+# 目标: Tencent
 DOMAIN-SUFFIX,bcfmglobal.com
+# 目标: Tencent
 DOMAIN-SUFFIX,behaviac.com
+# 目标: Tencent
 DOMAIN-SUFFIX,bgrwgglz.com
+# 目标: Tencent
 DOMAIN-SUFFIX,binaryai.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,binaryai.net
+# 目标: Tencent
 DOMAIN-SUFFIX,binaryai.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,bitosscdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,bj-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,bj-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,bj-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,bj-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,bjjr-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,bjjr-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,bjjr-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,bjjr-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,bjxingzheng.com
+# 目标: Tencent
 DOMAIN-SUFFIX,bk-cdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,bkapigw.com
+# 目标: Tencent
 DOMAIN-SUFFIX,bkapps.com
+# 目标: Tencent
 DOMAIN-SUFFIX,bkcloud.cc
+# 目标: Tencent
 DOMAIN-SUFFIX,bkclouds.cc
+# 目标: Tencent
 DOMAIN-SUFFIX,bkcode.net
+# 目标: Tencent
 DOMAIN-SUFFIX,bktencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,boodo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,boombeach.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,box-anchor.com
+# 目标: Tencent
 DOMAIN-SUFFIX,bqqpx.com
+# 目标: Tencent
 DOMAIN-SUFFIX,brawlstars.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,build9s.io
+# 目标: Tencent
 DOMAIN-SUFFIX,building9s.io
+# 目标: Tencent
 DOMAIN-SUFFIX,businessinchina.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,byodonline.com
+# 目标: Tencent
 DOMAIN-SUFFIX,c1channel.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ca-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,ca-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ca-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,ca-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,calatopia.com
+# 目标: Tencent
 DOMAIN-SUFFIX,carbonxprogram.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cd-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,cd-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cd-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cd-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,cdn-go.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cdn2-go.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cdndoctor.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cdngot.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cdnoutcheck.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cdntip.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cdntipbak.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cdntips.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cdntips.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cdnv1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cdnv2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cdnv3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cdnv4-go.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cemodule.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cemsurveys.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cemsurveys.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cfmeutencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cfmna-tencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cfmseatencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cfogc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cfogc.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cgoec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,cgoec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cgoec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cgoec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,chinatechie.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,chinatechie.com
+# 目标: Tencent
 DOMAIN-SUFFIX,chinatechie.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,chinatechie.net
+# 目标: Tencent
 DOMAIN-SUFFIX,chinatechinsights.com
+# 目标: Tencent
 DOMAIN-SUFFIX,chuhai.group
+# 目标: Tencent
 DOMAIN-SUFFIX,clashminigame.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,clashofclans.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,clashroyale.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cloud-industry-delivery.site
+# 目标: Tencent
 DOMAIN-SUFFIX,cloud-rtc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cloud-rtc.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudacc1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudacc1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudbase.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudbase.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudbase.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudcdnv1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudidaas.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudmarket-apigw.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudpages.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudsec1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudsec1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudses.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudsesbk.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudsesbk.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudsite.vip
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudstudio-app.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudstudio.club
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudstudio.run
+# 目标: Tencent
 DOMAIN-SUFFIX,cloudstudio.work
+# 目标: Tencent
 DOMAIN-SUFFIX,clsshare.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,clsshare.com
+# 目标: Tencent
 DOMAIN-SUFFIX,clsshare.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cmfu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cmgdb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cmgdb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cmgdb.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cnb.cool
+# 目标: Tencent
 DOMAIN-SUFFIX,cnb.run
+# 目标: Tencent
 DOMAIN-SUFFIX,cnb.space
+# 目标: Tencent
 DOMAIN-SUFFIX,cncqcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cocdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,codebuddy.info
+# 目标: Tencent
 DOMAIN-SUFFIX,codebuddy.net
+# 目标: Tencent
 DOMAIN-SUFFIX,codebuddy.pro
+# 目标: Tencent
 DOMAIN-SUFFIX,codebuddy.work
+# 目标: Tencent
 DOMAIN-SUFFIX,codehub.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,codeweixin.com
+# 目标: Tencent
 DOMAIN-SUFFIX,coding-io.com
+# 目标: Tencent
 DOMAIN-SUFFIX,coding-newsletter.com
+# 目标: Tencent
 DOMAIN-SUFFIX,coding.love
+# 目标: Tencent
 DOMAIN-SUFFIX,coding.me
+# 目标: Tencent
 DOMAIN-SUFFIX,coding.net
+# 目标: Tencent
 DOMAIN-SUFFIX,codingcorp.net
+# 目标: Tencent
 DOMAIN-SUFFIX,codm.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cofile.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cofile.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cofile.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,computeinit.com
+# 目标: Tencent
 DOMAIN-SUFFIX,comsenz.com
+# 目标: Tencent
 DOMAIN-SUFFIX,coolsite.vip
+# 目标: Tencent
 DOMAIN-SUFFIX,cosdnsresolve-wxzf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cosdnsresolve.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cq-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,cq-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cq-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cq-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,crmpower.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cross-zone.com
+# 目标: Tencent
 DOMAIN-SUFFIX,crtrcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,crystalskeleton.com
+# 目标: Tencent
 DOMAIN-SUFFIX,csec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,csec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,csec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,csec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,ctgia.com
+# 目标: Tencent
 DOMAIN-SUFFIX,cunhao.net
+# 目标: Tencent
 DOMAIN-SUFFIX,cunistatic.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,cxyfjd.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dafenghk.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dafenghk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dafenghk.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dafenghk.hk.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dafenghk.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dashenw.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dashenw.com
+# 目标: Tencent
 DOMAIN-SUFFIX,daxuepc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dayucdntip.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dayugf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dayugslb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dayugslb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dayulego.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dayulegobak.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dbmeta.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dcloudlive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dcloudlive.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dcloudsp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dcloudsp.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dcloudstc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dcloudstc.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dcloudvod.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dcloudvod.net
+# 目标: Tencent
 DOMAIN-SUFFIX,de-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,de-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,de-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,de-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,deltaverse.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,deltaverse.net
+# 目标: Tencent
 DOMAIN-SUFFIX,devcopilot.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,developwechat.com
+# 目标: Tencent
 DOMAIN-SUFFIX,developweixin.com
+# 目标: Tencent
 DOMAIN-SUFFIX,devweixin.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dgs-td2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dh5a.com
+# 目标: Tencent
 DOMAIN-SUFFIX,discuz.chat
+# 目标: Tencent
 DOMAIN-SUFFIX,discuz.com
+# 目标: Tencent
 DOMAIN-SUFFIX,discuz.net
+# 目标: Tencent
 DOMAIN-SUFFIX,discuz.org
+# 目标: Tencent
 DOMAIN-SUFFIX,dllzff.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dns.pub
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsapi.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse0.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse2.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse3.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse4.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse5.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse5.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse6.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse7.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse7.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse8.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse8.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse9.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnse9.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsoe1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsoe2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsoe3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsoe4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsoe5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsoe6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnspod.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnspod.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnspod.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnspod.mobi
+# 目标: Tencent
 DOMAIN-SUFFIX,dnspod.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnspod.org
+# 目标: Tencent
 DOMAIN-SUFFIX,dnstest.vip
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv1.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv10.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv11.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv12.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv20.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv6.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv7.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv8.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsv9.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv2.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv3.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv4.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,dnsxv5.net
+# 目标: Tencent
 DOMAIN-SUFFIX,doh.pub
+# 目标: Tencent
 DOMAIN-SUFFIX,dothework.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,douyu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,douyu.tv
+# 目标: Tencent
 DOMAIN-SUFFIX,douyuba.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,douyucdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,douyucdn2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,douyupcdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,douyuscdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,douyutv.com
+# 目标: Tencent
 DOMAIN-SUFFIX,doyonoc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,drm-lic-dom.net
+# 目标: Tencent
 DOMAIN-SUFFIX,dyinglightcommunity.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,dyspcdntip.com
+# 目标: Tencent
 DOMAIN-SUFFIX,e-jitp-dom.com
+# 目标: Tencent
 DOMAIN-SUFFIX,e-jitp-dom.net
+# 目标: Tencent
 DOMAIN-SUFFIX,e-jitp-glo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,e-jitp-glo.net
+# 目标: Tencent
 DOMAIN-SUFFIX,easyfunfun.com
+# 目标: Tencent
 DOMAIN-SUFFIX,econtactsplus.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ectencent.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ectencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ectencent.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeone-ai-dev.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeone-ai.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeone-browser-rendering-dev.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeone-browser-rendering.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeone.cool
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeone.run
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeone.site
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonedl1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonedl1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonedy1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonedy1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonestic1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonestic1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonetcp1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonetcp1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev2.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev3.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev4.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonev5.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonevod1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edgeonevod1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgep.net
+# 目标: Tencent
 DOMAIN-SUFFIX,edgesrv.com
+# 目标: Tencent
 DOMAIN-SUFFIX,edulivevideo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eedzvv.com
+# 目标: Tencent
 DOMAIN-SUFFIX,embed-cloudstudio.net
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions7.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions8.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-edgefunctions9.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-preview.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-shieldspace.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-vod.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-vod1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-vod2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-vod3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-vod4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-vod5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eo-vpcgw.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eoacc2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eoacme-dev.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eoacme0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,eoacme0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eoacme1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eoacme2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eoacme3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eofreqctrl.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eofreqctrlbk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eogamewechat.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eovod.com
+# 目标: Tencent
 DOMAIN-SUFFIX,epeo.net
+# 目标: Tencent
 DOMAIN-SUFFIX,esports-console.com
+# 目标: Tencent
 DOMAIN-SUFFIX,esportsreg.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,esportsreg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,essurl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,essurl.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ettdns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ettdns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,ettdnsv.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ettdnsv.net
+# 目标: Tencent
 DOMAIN-SUFFIX,events.pub
+# 目标: Tencent
 DOMAIN-SUFFIX,exmailgz.com
+# 目标: Tencent
 DOMAIN-SUFFIX,extqq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,eyaodev.xyz
+# 目标: Tencent
 DOMAIN-SUFFIX,fatfreader.com
+# 目标: Tencent
 DOMAIN-SUFFIX,feie.work
+# 目标: Tencent
 DOMAIN-SUFFIX,ffbuddy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fhzggame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,financetcloud.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,financetcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fitgroup.com
+# 目标: Tencent
 DOMAIN-SUFFIX,flzhan.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,flzhan.com
+# 目标: Tencent
 DOMAIN-SUFFIX,forceclouds.com
+# 目标: Tencent
 DOMAIN-SUFFIX,foxmail.com
+# 目标: Tencent
 DOMAIN-SUFFIX,foxmail.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,fsight.ai
+# 目标: Tencent
 DOMAIN-SUFFIX,fsight.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,fsight.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,fsight.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,fsightai.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fsllq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fsllq.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,fsphere.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,fusure.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fusureum.com
+# 目标: Tencent
 DOMAIN-SUFFIX,futurenetlab.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyab.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fyak.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fyal.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fyan.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fyat.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fyau.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fyaw.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fyec.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds7.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds8.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fyeds9.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall7.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall8.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymall9.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa7.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa8.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fymallqa9.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fynb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fypage.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,fypage.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fypage.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,fypt.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fzec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,fzec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,fzec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,fzec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,g-proxy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,g0wx.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc001.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc002.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc003.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc004.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc005.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc006.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc007.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc008.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc009.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc010.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc011.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc012.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc013.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc014.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc015.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc016.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc017.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc018.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc019.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc020.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc021.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc022.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc023.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc024.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc025.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc026.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc027.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc028.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc029.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapacc030.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapdns.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapqcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapqcloud.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapqcloudbackup01.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapqcloudbackup02.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaapqcloudbackup03.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaaptest.com
+# 目标: Tencent
 DOMAIN-SUFFIX,galileo.work
+# 目标: Tencent
 DOMAIN-SUFFIX,galileosight.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,galiosight.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gamebonfire.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gamegocenter.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gamegocenter.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gamegocenter.net
+# 目标: Tencent
 DOMAIN-SUFFIX,gameitop.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gameloop.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gameloop.fun
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloud.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloud.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloud.net
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloud1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloud2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloudbackup.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloudbackup.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloudbackup.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gaqcloudbackup.net
+# 目标: Tencent
 DOMAIN-SUFFIX,gautomator.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gcloudcs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gcloudcstest.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gcloudcstestonly.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gclouddolphin.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gcloudgbs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gcloudsdk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gcloudsvcs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gdtadx.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gdtimg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,geekpwn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gitdrone.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,globaltenpay.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,globaltenpay.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gmedev.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gmertc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gongyi.net
+# 目标: Tencent
 DOMAIN-SUFFIX,goto-game.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,goto-game.com
+# 目标: Tencent
 DOMAIN-SUFFIX,goto-game.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,goto-game.mobi
+# 目标: Tencent
 DOMAIN-SUFFIX,goto-game.net
+# 目标: Tencent
 DOMAIN-SUFFIX,goto-game.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,goto-game.org
+# 目标: Tencent
 DOMAIN-SUFFIX,gotolink.net
+# 目标: Tencent
 DOMAIN-SUFFIX,govqcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,govtcloud.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gqqsm.com
+# 目标: Tencent
 DOMAIN-SUFFIX,grouppic.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gsadds.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gslbauto.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gtgres.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gtimg.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gtimg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gtimg.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,gtm.pub
+# 目标: Tencent
 DOMAIN-SUFFIX,guguyuyin.com
+# 目标: Tencent
 DOMAIN-SUFFIX,guichuideng.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gz-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,gz-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gz-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,gz-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,gzlwycft-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,gzlwycft-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gzlwycft-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,gzlwycft-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,gzopen-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,gzopen-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gzopen-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,gzopen-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,gzwxzf-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,gzwxzf-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,gzwxzf-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,gzwxzf-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,hacker5t2ohub.com
+# 目标: Tencent
 DOMAIN-SUFFIX,haihub.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,haihub.co
+# 目标: Tencent
 DOMAIN-SUFFIX,haina.com
+# 目标: Tencent
 DOMAIN-SUFFIX,haina.net
+# 目标: Tencent
 DOMAIN-SUFFIX,haiwaioo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hayday-game.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,haydaypop.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,helixapp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,helmicro.com
+# 目标: Tencent
 DOMAIN-SUFFIX,heyyo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hfeec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,hfeec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hfeec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,hfeec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,hgyrnk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,himoral.com
+# 目标: Tencent
 DOMAIN-SUFFIX,himoral.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,himorale.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hk-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,hk-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hk-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,hk-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,hkgcloudcs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hongxiu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hostacc.net
+# 目标: Tencent
 DOMAIN-SUFFIX,hostacc1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hostacc2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hr-welink.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hrcwelink.com
+# 目标: Tencent
 DOMAIN-SUFFIX,html5mark.com
+# 目标: Tencent
 DOMAIN-SUFFIX,huajiangai.com
+# 目标: Tencent
 DOMAIN-SUFFIX,huamengxiaoshuo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,huya.com
+# 目标: Tencent
 DOMAIN-SUFFIX,huyagame.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,huyaos.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hzec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,hzec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,hzec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,hzec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,iamvloger.com
+# 目标: Tencent
 DOMAIN-SUFFIX,iamvlogger.com
+# 目标: Tencent
 DOMAIN-SUFFIX,icpenguin.com
+# 目标: Tencent
 DOMAIN-SUFFIX,icpenguin.net
+# 目标: Tencent
 DOMAIN-SUFFIX,idcgcloudcs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,idqqimg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,iemiq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ifjqq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,igamecj.com
+# 目标: Tencent
 DOMAIN-SUFFIX,igcdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ign.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,igtm-meeting-tencent.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,igtm-meeting-tencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,igtm-yuanbao.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,igtm-yuanbao.com
+# 目标: Tencent
 DOMAIN-SUFFIX,igtm.pub
+# 目标: Tencent
 DOMAIN-SUFFIX,ihappystudio.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ihappystudio.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ihappystudio.net
+# 目标: Tencent
 DOMAIN-SUFFIX,ijkxt.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ilcweloc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,imagefuture101.com
+# 目标: Tencent
 DOMAIN-SUFFIX,imcq.net
+# 目标: Tencent
 DOMAIN-SUFFIX,imlianpu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,imok.net
+# 目标: Tencent
 DOMAIN-SUFFIX,imqq.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,imqq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,imqq.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,imqq.net
+# 目标: Tencent
 DOMAIN-SUFFIX,imqq.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,imqq.org.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,imweb.io
+# 目标: Tencent
 DOMAIN-SUFFIX,in-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,in-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,in-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,in-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,in.th
+# 目标: Tencent
 DOMAIN-SUFFIX,incentivepower.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,industryai.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,insightpower.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,intencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,intlgame.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ioasaas.com
+# 目标: Tencent
 DOMAIN-SUFFIX,iot-tencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,iqmie.com
+# 目标: Tencent
 DOMAIN-SUFFIX,isa0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,isd.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ispqcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,itddo2page.com
+# 目标: Tencent
 DOMAIN-SUFFIX,itopplay.com
+# 目标: Tencent
 DOMAIN-SUFFIX,itopsdk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ivweb.io
+# 目标: Tencent
 DOMAIN-SUFFIX,iwiki.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jerpx.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jiangzidushu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jiangzikanshu.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,jiangzikanshu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jiangziyuedu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jkt-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,jkt-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jkt-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,jkt-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,jnec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,jnec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jnec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,jnec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,joox.com
+# 目标: Tencent
 DOMAIN-SUFFIX,joyworkshop.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jp-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,jp-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jp-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,jp-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,jrzk.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,juluape.com
+# 目标: Tencent
 DOMAIN-SUFFIX,jxemailbk.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,jxemailbk.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,jxqy.city
+# 目标: Tencent
 DOMAIN-SUFFIX,kachabank.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,kefu01.com
+# 目标: Tencent
 DOMAIN-SUFFIX,kr-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,kr-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,kr-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,kr-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,kting.info
+# 目标: Tencent
 DOMAIN-SUFFIX,kuledushu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,kwsou.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,kxmz.org.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,l1xn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,labycore.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,lazyaudio.com
+# 目标: Tencent
 DOMAIN-SUFFIX,leshare.work
+# 目标: Tencent
 DOMAIN-SUFFIX,lexiang-app.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lexiang-asset.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lexiang-asset.net
+# 目标: Tencent
 DOMAIN-SUFFIX,lexiang-ops.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lexiangla.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lexiangla.net
+# 目标: Tencent
 DOMAIN-SUFFIX,lic-slf-dom.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lic-slf-dom.net
+# 目标: Tencent
 DOMAIN-SUFFIX,light-cos.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,light-cos.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lightalk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lightalk.me
+# 目标: Tencent
 DOMAIN-SUFFIX,lightbox.games
+# 目标: Tencent
 DOMAIN-SUFFIX,lightspeed-dc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lightspeed-lic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lightspeed-og.com
+# 目标: Tencent
 DOMAIN-SUFFIX,liuyunflow.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lldlf.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,lldlf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,localxcafe.com
+# 目标: Tencent
 DOMAIN-SUFFIX,lrts.me
+# 目标: Tencent
 DOMAIN-SUFFIX,lssdexternal.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ludosuperstar.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ludosuperstar.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ludoworld.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ludoworld.net
+# 目标: Tencent
 DOMAIN-SUFFIX,m1.run
+# 目标: Tencent
 DOMAIN-SUFFIX,m6.run
+# 目标: Tencent
 DOMAIN-SUFFIX,m9.run
+# 目标: Tencent
 DOMAIN-SUFFIX,ma.run
+# 目标: Tencent
 DOMAIN-SUFFIX,magicwatchface.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mahjongai.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,mahjongai.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mahjongai.net
+# 目标: Tencent
 DOMAIN-SUFFIX,mahjongcup.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,mahjongcup.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mahjongcup.net
+# 目标: Tencent
 DOMAIN-SUFFIX,mandnsv1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mandnsv1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,map-tencent.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,map-tencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,maplecheck.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,maxgamehub.com
+# 目标: Tencent
 DOMAIN-SUFFIX,me-tencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,meitusiyu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,metalrevolution.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mgobe-webattle.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mgse.info
+# 目标: Tencent
 DOMAIN-SUFFIX,mh2u.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,microaiav.com
+# 目标: Tencent
 DOMAIN-SUFFIX,miloli.info
+# 目标: Tencent
 DOMAIN-SUFFIX,mini-program-acc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,minishops.co
+# 目标: Tencent
 DOMAIN-SUFFIX,mjxpay.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mmatch.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,mmbizurl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,mmecimage.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,mmqidian.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mobilemgr-global.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mobilemgr-global.net
+# 目标: Tencent
 DOMAIN-SUFFIX,moco-game.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,molo.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,moneydata.hk
+# 目标: Tencent
 DOMAIN-SUFFIX,morefunstudio.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mps.live
+# 目标: Tencent
 DOMAIN-SUFFIX,mqqurl.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mqzoneapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mrrvendor.com
+# 目标: Tencent
 DOMAIN-SUFFIX,msdkpass.com
+# 目标: Tencent
 DOMAIN-SUFFIX,msstatic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mszdld.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,mszdld.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mszdld.net
+# 目标: Tencent
 DOMAIN-SUFFIX,mting.info
+# 目标: Tencent
 DOMAIN-SUFFIX,multimodalmatch.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mxflutter.com
+# 目标: Tencent
 DOMAIN-SUFFIX,my-cpaas.com
+# 目标: Tencent
 DOMAIN-SUFFIX,my-imcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,my-qcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,my-tcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,myapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,myappdl1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,myappdl1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,myappdl2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,myappdl2.net
+# 目标: Tencent
 DOMAIN-SUFFIX,myelasticsearch.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mylightsite.com
+# 目标: Tencent
 DOMAIN-SUFFIX,myoed.com
+# 目标: Tencent
 DOMAIN-SUFFIX,myqcloud.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,myqcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,myqcloud.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,myqcloud.net
+# 目标: Tencent
 DOMAIN-SUFFIX,myrtx.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mytencentes.com
+# 目标: Tencent
 DOMAIN-SUFFIX,mytt.com
+# 目标: Tencent
 DOMAIN-SUFFIX,nagcloudcs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,nazarstudios.com
+# 目标: Tencent
 DOMAIN-SUFFIX,nba.com
+# 目标: Tencent
 DOMAIN-SUFFIX,neuroxiv.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,neuroxiv.com
+# 目标: Tencent
 DOMAIN-SUFFIX,neuroxiv.net
+# 目标: Tencent
 DOMAIN-SUFFIX,next-bei.com
+# 目标: Tencent
 DOMAIN-SUFFIX,next-playground.com
+# 目标: Tencent
 DOMAIN-SUFFIX,nextplayground.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,nextplayground.com
+# 目标: Tencent
 DOMAIN-SUFFIX,nextplayground.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,nextstudios.com
+# 目标: Tencent
 DOMAIN-SUFFIX,nextworkshop.net
+# 目标: Tencent
 DOMAIN-SUFFIX,nintendoswitch.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,nintendoswitch.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,nj-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,nj-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,nj-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,nj-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,njiabe.com
+# 目标: Tencent
 DOMAIN-SUFFIX,njmapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,njxfcft-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,njxfcft-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,njxfcft-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,njxfcft-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,nktzj.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,nohost.pro
+# 目标: Tencent
 DOMAIN-SUFFIX,nokialumia.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,nrzb0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,oedcdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,onebrowser.net
+# 目标: Tencent
 DOMAIN-SUFFIX,onexmail.com
+# 目标: Tencent
 DOMAIN-SUFFIX,onezapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,onlygamefans.com
+# 目标: Tencent
 DOMAIN-SUFFIX,onwork.com
+# 目标: Tencent
 DOMAIN-SUFFIX,openapp.run
+# 目标: Tencent
 DOMAIN-SUFFIX,opencloudos.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,opendatacenter.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,opengame0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,openhippy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,openmidas.com
+# 目标: Tencent
 DOMAIN-SUFFIX,oracle-on-qcloud.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,oracle-tencent.net
+# 目标: Tencent
 DOMAIN-SUFFIX,oracle-tencent.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,oracle-tencent.org
+# 目标: Tencent
 DOMAIN-SUFFIX,orange-ci.net
+# 目标: Tencent
 DOMAIN-SUFFIX,overseasops.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ovscdns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ovscdns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,oywtv.com
+# 目标: Tencent
 DOMAIN-SUFFIX,p-sig-dom.com
+# 目标: Tencent
 DOMAIN-SUFFIX,p-sig-dom.net
+# 目标: Tencent
 DOMAIN-SUFFIX,pag.art
+# 目标: Tencent
 DOMAIN-SUFFIX,pagedoo.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,pagedoo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,palmda.com
+# 目标: Tencent
 DOMAIN-SUFFIX,pcmgr-global.com
+# 目标: Tencent
 DOMAIN-SUFFIX,pcmgr-global.net
+# 目标: Tencent
 DOMAIN-SUFFIX,pdm.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,peiwanlu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,pengyou.com
+# 目标: Tencent
 DOMAIN-SUFFIX,pengyou.net
+# 目标: Tencent
 DOMAIN-SUFFIX,pfif.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,pfif.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,pfif.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,pgosglobal.com
+# 目标: Tencent
 DOMAIN-SUFFIX,playbattleaces.com
+# 目标: Tencent
 DOMAIN-SUFFIX,plusrtc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,pn1waq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,pokercup.net
+# 目标: Tencent
 DOMAIN-SUFFIX,polarismesh.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,potops.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,potops.com
+# 目标: Tencent
 DOMAIN-SUFFIX,poweron.cc
+# 目标: Tencent
 DOMAIN-SUFFIX,prayaya.com
+# 目标: Tencent
 DOMAIN-SUFFIX,prayaya.net
+# 目标: Tencent
 DOMAIN-SUFFIX,prayaya.org
+# 目标: Tencent
 DOMAIN-SUFFIX,private-tech.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,prizesapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,projectserval.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,projectserval.com
+# 目标: Tencent
 DOMAIN-SUFFIX,proximabeta.com
+# 目标: Tencent
 DOMAIN-SUFFIX,pts-ai-texture.com
+# 目标: Tencent
 DOMAIN-SUFFIX,pts.games
+# 目标: Tencent
 DOMAIN-SUFFIX,pubghelper.com
+# 目标: Tencent
 DOMAIN-SUFFIX,pubgno1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,pubgtool.com
+# 目标: Tencent
 DOMAIN-SUFFIX,putdl.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qbanking.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qbview.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcdne.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcdne.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcdnlog.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcdntest.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcdntest.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcdntest.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcdntest.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qclivecdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qclivecdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloud-edumall.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloud.la
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudapps.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcdn.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcdnsrc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcdntest.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcjgj.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcjgj.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudclass.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcos.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcos.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcos.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudcos.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudecdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qclouder.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudestate.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudgme.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudimg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudipv6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudmail.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudmailbk.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudmailbk.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudmarket.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudocdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudoceanus.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudsmartiot.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudtcic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudteo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudtiw.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudtrip.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudtt.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudwaf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudwzgj.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudwzgj.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudzygj.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qcloudzygj.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qcly.xyz
+# 目标: Tencent
 DOMAIN-SUFFIX,qdcloudsolution.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qdd.gd
+# 目标: Tencent
 DOMAIN-SUFFIX,qdd.gg
+# 目标: Tencent
 DOMAIN-SUFFIX,qdd.la
+# 目标: Tencent
 DOMAIN-SUFFIX,qdkefu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qdmm.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qdstsy.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qdurl.cc
+# 目标: Tencent
 DOMAIN-SUFFIX,qdwebim.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qdwenxue.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qdwpa.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qeoacc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qeoacc.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qeodns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qeodns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qgodb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qgodb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qgodb.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qidian-cos-backup.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qidian-cos.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qidian.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qidian.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qidianmm.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qiejingsu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qieracing.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qingliaoapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qjia.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qlippie.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivecdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivecdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivecloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivertc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivertc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivertc2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivertc2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivewebrtc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivewebrtc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivewebrtc2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qlivewebrtc2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qlogo.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qmail.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qmrms.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qmtjgame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qpic.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qpimg.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qplus.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qplusstatic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qq.cn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qq.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qq.design
+# 目标: Tencent
 DOMAIN-SUFFIX,qq.travel
+# 目标: Tencent
 DOMAIN-SUFFIX,qq.wang
+# 目标: Tencent
 DOMAIN-SUFFIX,qq.xn--fiqs8s
+# 目标: Tencent
 DOMAIN-SUFFIX,qq.zone
+# 目标: Tencent
 DOMAIN-SUFFIX,qqbrowser.mobi
+# 目标: Tencent
 DOMAIN-SUFFIX,qqcfw.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qqclass.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqclock.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqdr.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqexpert.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qqexpert.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqfamily.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqgameapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqgamedesign.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqgamemall.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqgames.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqhangjia.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qqhangjia.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqhaoma.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqhaoma.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qqimage.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qqimage.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qqimage.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qqimage.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qqimg.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qqjapan.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqmail.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqmapyx.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqmra.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qqmra.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqmusic.store
+# 目标: Tencent
 DOMAIN-SUFFIX,qqnaozhong.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqopenapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqplusapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqservice.mobi
+# 目标: Tencent
 DOMAIN-SUFFIX,qqspark.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqumall.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqun.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqurl.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqwebapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqwiki.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qqwinner.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qrobot.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qstatic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qtslog.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qutecall.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qutechat.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qutemessenger.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qutetalk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qutevoice.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qwebapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qy-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,qy-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qy-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qy-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,qymdb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qymdb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qymdb.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,qyunapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qyuner.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qyxa-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,qyxa-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qyxa-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,qyxa-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,qzone.com
+# 目标: Tencent
 DOMAIN-SUFFIX,qzoneapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,randongada.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raycim.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raydata-asset.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raydata-mobile.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raydata-open.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raydata-web.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raydata.cc
+# 目标: Tencent
 DOMAIN-SUFFIX,raydata.info
+# 目标: Tencent
 DOMAIN-SUFFIX,raydata.pro
+# 目标: Tencent
 DOMAIN-SUFFIX,raydataasset.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raydatamobile.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raydataopen.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raydataweb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raykite.club
+# 目标: Tencent
 DOMAIN-SUFFIX,raykite.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,raykite.com
+# 目标: Tencent
 DOMAIN-SUFFIX,raykite.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,raykite.info
+# 目标: Tencent
 DOMAIN-SUFFIX,raykite.net
+# 目标: Tencent
 DOMAIN-SUFFIX,raykite.vip
+# 目标: Tencent
 DOMAIN-SUFFIX,raykite.xyz
+# 目标: Tencent
 DOMAIN-SUFFIX,raynext.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,raynext.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,raynext.info
+# 目标: Tencent
 DOMAIN-SUFFIX,rbxcdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,rdcv1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,rdcv1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,rdgz.org
+# 目标: Tencent
 DOMAIN-SUFFIX,reachentrophy.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,readnovel.com
+# 目标: Tencent
 DOMAIN-SUFFIX,realcybertron.com
+# 目标: Tencent
 DOMAIN-SUFFIX,realmofswords.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ricenter.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ringofelysium.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ringofelysiumonline.com
+# 目标: Tencent
 DOMAIN-SUFFIX,rmall-solution.com
+# 目标: Tencent
 DOMAIN-SUFFIX,rmwxgame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,roblox.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,romzj.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ronghe-edu.org.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,rongheedu.org.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,rootjl.com
+# 目标: Tencent
 DOMAIN-SUFFIX,rtx.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,rtxapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,rtxonline.com
+# 目标: Tencent
 DOMAIN-SUFFIX,rumt-zh.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ruyh.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,rxwsls.com
+# 目标: Tencent
 DOMAIN-SUFFIX,rxwsls.net
+# 目标: Tencent
 DOMAIN-SUFFIX,s-tech.com
+# 目标: Tencent
 DOMAIN-SUFFIX,s0ox.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,sa-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,sa-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sa-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,sa-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,safejmp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,safejmp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,safejmp.net
+# 目标: Tencent
 DOMAIN-SUFFIX,sagsaas.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sao-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,sao-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sao-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,sao-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,sccreator.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,scescdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,scid.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,scl0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,scratchmirror.com
+# 目标: Tencent
 DOMAIN-SUFFIX,scratchmirror.net
+# 目标: Tencent
 DOMAIN-SUFFIX,scsentry.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,sdaswq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,serverlesscloud.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,servicewechat.com
+# 目标: Tencent
 DOMAIN-SUFFIX,serviceweixin.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sfapower.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,sg-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,sg-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sg-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,sg-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,sgrastudio.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sgurl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,sh-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,sh-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sh-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,sh-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,shadc-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,shadc-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,shadc-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,shadc-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,sheec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,sheec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sheec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,sheec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,shhqcft-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,shhqcft-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,shhqcft-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,shhqcft-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,shhqcftfzhj-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,shhqcftfzhj-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,shhqcftfzhj-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,shhqcftfzhj-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,shhqcftfzhjtencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,shjr-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,shjr-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,shjr-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,shjr-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,shuame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,shurl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,shwxzf-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,shwxzf-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,shwxzf-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,shwxzf-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,shwxzfjpyzc-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,shwxzfjpyzc-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,shwxzfjpyzc-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,shwxzfjpyzc-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,silvertek.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,sixjoy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sjwec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,sjwec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sjwec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,sjwec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,smoba.net
+# 目标: Tencent
 DOMAIN-SUFFIX,smtcdns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,smtcdns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,snapplay.com
+# 目标: Tencent
 DOMAIN-SUFFIX,snoba.net
+# 目标: Tencent
 DOMAIN-SUFFIX,sogou-compress.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sogou-diskmgr.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sogou-inner.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sogou-kantu-pic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sogou-kantu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sogou-pdf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sogou-wallpaper.com
+# 目标: Tencent
 DOMAIN-SUFFIX,soso.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page7.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page8.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spark-page9.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spcdntip.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spcdntipbak.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spcloudhw.com
+# 目标: Tencent
 DOMAIN-SUFFIX,spcloudhw.net
+# 目标: Tencent
 DOMAIN-SUFFIX,squadbusters-game.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,squadbustersgame.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,srccdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,srccdn2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,srcge.com
+# 目标: Tencent
 DOMAIN-SUFFIX,srmkp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ssibility-union.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,starlakelab.com
+# 目标: Tencent
 DOMAIN-SUFFIX,stor-helper.com
+# 目标: Tencent
 DOMAIN-SUFFIX,sundaydragon.com
+# 目标: Tencent
 DOMAIN-SUFFIX,supercellcommunity.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,supercellsupport.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,superfix.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,superfix.com
+# 目标: Tencent
 DOMAIN-SUFFIX,superfix.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,surveyqq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,swd7.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,systemserviceable.com
+# 目标: Tencent
 DOMAIN-SUFFIX,syurl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,szjr-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,szjr-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,szjr-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,szjr-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,szjxcft-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,szjxcft-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,szjxcft-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,szjxcft-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,szsycft-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,szsycft-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,szsycft-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,szsycft-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,szx-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,szx-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,szx-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,szx-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,szyxlx.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,t-npm.com
+# 目标: Tencent
 DOMAIN-SUFFIX,t-tlearning.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tadsim.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tadsim.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tadsim.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tailuosi.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tairos.ac.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tairos.cc
+# 目标: Tencent
 DOMAIN-SUFFIX,tairos.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tairos.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,tamaegis.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tamlab.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tanlive.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tanlive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,taotao.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tapd-app.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tapd-devops.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tapd-private.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tapd.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tapd.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tav-global.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tav-global.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tbaas.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,tbizmail.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcbautomation.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcbe.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcbqcloud.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcbqcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcbqcloud.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdlive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdndl1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdndl2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdndl3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdndl4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdneo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdneo.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnhw.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnhw.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnkc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnkcbak.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnlive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnlivebak1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnlivebak2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnlp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnos.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnos.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnstc1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnstc2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnstc3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnstc4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdntip.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnvod.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnvod1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnvod2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnvod3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnvod4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnvodbak.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnvodnew.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnx1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnx2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcdnzb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tced-transsion.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcedshare.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcedshare.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcedshare.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcfmglobal.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tchy.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tcimage.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbase.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbase.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbaseapi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbaseapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbaseappbp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbaseappbp.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbasegateway.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbasestatic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbh.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudbi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tclouddrive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudedu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudhw.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudhw.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudlive.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudlive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudscdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcloudscdn.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tcmppcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tcsdk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,td2cn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdlcdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdlcdn.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdns127.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl1.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl2.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl3.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl4.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl5.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdl5.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdlovs1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdlovs2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdlovs3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdlovs4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdlovs5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp1.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp2.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp3.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp4.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp5.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdp5.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdpovs1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdpovs2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdpovs3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdpovs4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsdpovs5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive1.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive2.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive3.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive4.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive5.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnslive5.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsliveovs1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsliveovs2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsliveovs3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsliveovs4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsliveovs5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnspub.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnspub.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp1.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp2.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp3.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp4.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp5.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssp5.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsspovs1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsspovs2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsspovs3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsspovs4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsspovs5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic1.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic2.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic3.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic4.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic5.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsstic5.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssticovs1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssticovs2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssticovs3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssticovs4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnssticovs5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv10.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv10.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv11.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv11.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv12.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv12.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv13.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv13.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv14.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv14.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv15.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv15.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv2.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv3.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv4.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv5.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv6.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv7.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv7.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv8.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv8.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv9.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsv9.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod1.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod2.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod3.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod4.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod5.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvod5.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvodovs1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvodovs2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvodovs3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvodovs4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsvodovs5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tdnsx1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,techo.chat
+# 目标: Tencent
 DOMAIN-SUFFIX,techo.pub
+# 目标: Tencent
 DOMAIN-SUFFIX,techo.show
+# 目标: Tencent
 DOMAIN-SUFFIX,tefscloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tefscloud.net
+# 目标: Tencent
 DOMAIN-SUFFIX,ten.design
+# 目标: Tencent
 DOMAIN-SUFFIX,tenant-zone-dev.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencdns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencdns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent-blackboard.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent-cloud.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent-cloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent-cloud.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent-education.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent-gcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent-qejs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent.co.id
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent.com.hk
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent.design
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencent.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentads.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentads.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentads.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentadx.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentanxin.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentapigw.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentapigw.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentapigw.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentapis.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentapps.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentart.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentbh.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentbh.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentbh.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentbyod.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcdb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcdb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcdb.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcds.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcds.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcds.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcfs.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcfs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcfs.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentci.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentci.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentciam.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentciam.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentciam.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.cc
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.host
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.info
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.link
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.online
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.plus
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.pro
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.site
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.space
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.team
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.top
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.vip
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentclb.zone
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloud-aiot.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloud-demo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloud.io
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudapi.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudapi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudapi.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudapimarket.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudapp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudapp.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudbase.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudbase.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudbase.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudclub.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudcore.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudcore.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudcr.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga001.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga001.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga001.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga001.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga002.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga002.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga002.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga002.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga003.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga003.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga003.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga003.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga004.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga004.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga004.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga004.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga005.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga005.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga005.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga005.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga006.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga006.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga006.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga006.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga007.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga007.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga007.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga007.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga008.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga008.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga008.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga008.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga009.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga009.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga009.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga009.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga010.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga010.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga010.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga010.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga011.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga011.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga011.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga011.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga012.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga012.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga012.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga012.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga013.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga013.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga013.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga013.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga014.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga014.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga014.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga014.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga015.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga015.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga015.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga015.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga016.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga016.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga016.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga016.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga017.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga017.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga017.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga017.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga018.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga018.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga018.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga018.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga019.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga019.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga019.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga019.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga020.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga020.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga020.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga020.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga021.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga021.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga021.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga021.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga022.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga022.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga022.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga022.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga023.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga023.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga023.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga023.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga024.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga024.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga024.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga024.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga025.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga025.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga025.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga025.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga026.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga026.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga026.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga026.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga027.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga027.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga027.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga027.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga028.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga028.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga028.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga028.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga029.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga029.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga029.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga029.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga030.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga030.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga030.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudga030.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudipv6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudlab.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudlive.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudlive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudmarket.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudmq.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudmq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudsandbox.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudsec.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudses.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudsso.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcloudsso.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcls.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcls.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcmq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcode.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcode.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcomics.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentconsulting.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcos.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcos.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcos.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcos.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcos.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcs.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcs.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentcsms.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentdayu.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentdayu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentdb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentdb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentdb.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentddos.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentddos.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentdevices.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentdigitalassistant.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentdmp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentdms.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentedi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentehs.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenteiam.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentelasticsearch.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentelasticsearch.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentelasticsearch.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentemr.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentes.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentes.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentes.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentexpert.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentexpert.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentfanyi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentff.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentfilm.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentfoundation.org
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentga.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentgames.co
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentgames.us
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentgme.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentgoosefs.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentgse.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentgy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenthangjia.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenthangjia.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenthttpdns.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentiam.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenticp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenticp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenticp.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentid.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentidaas.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentidentity.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentidentity.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentidentity.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentimage.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentimage.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentimage.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentimage.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentimage.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentiotcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentiotmedia.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentipv6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentiss.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentiss.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentivc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentlab.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentlegalservices.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentlink.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentlkfz.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentlog.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmdb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmdb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmdb.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmeeting.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmfa.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmfa.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmfa.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmind.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmovie.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentmusic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentntp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentntp.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentoa.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentoceanus.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentpay.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentpic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentproxy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentrce.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentrce.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentrce.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentrcpcsdk.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentrcpcsdk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentrcpcsdk.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentresearch.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentrio.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentscf.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentscf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentscf.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsecsdk.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsecsdk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsecsdk.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentserverless.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentserverless.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentservicewatcher.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentses.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsite.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsmh.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsmh.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsmhcname.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsmhcname.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsmhcname.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsmhuc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsmhuc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsmhuc.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsource.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentstart.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsuite.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsurvey.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentsurvey.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttcr.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttcr.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttcr.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttdai.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttdmq.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttdmq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttdmq.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttds.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttid.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttione.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttree.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttrtc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttymaas.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttymaas.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencenttymaas.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentuc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentvpc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentvpc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentvpc.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentweiban.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentwemeet.club
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentwepark.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentwf.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentwf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentwf.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentwsd.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentwukong.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentxinge.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentyouth.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentyun.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencentzhzf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tencity.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tendbcluster.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tendbcluster.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tendbcluster.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tendis.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tendis.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tengjia.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tengmed.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tengmed.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tengyunqq.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tenovatech.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tenpay.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tenpayglobal.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tensure.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tenwukong.com
+# 目标: Tencent
 DOMAIN-SUFFIX,teo-rum.com
+# 目标: Tencent
 DOMAIN-SUFFIX,teoacc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,teoacc.net
+# 目标: Tencent
 DOMAIN-SUFFIX,teodns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,teodns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,territorypower.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,testinsight.net
+# 目标: Tencent
 DOMAIN-SUFFIX,testjrzk.net.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,testmeet.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,testmrrvendor.com
+# 目标: Tencent
 DOMAIN-SUFFIX,testsparkling.com
+# 目标: Tencent
 DOMAIN-SUFFIX,testwaf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,texasholdemcup.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,texasholdemcup.com
+# 目标: Tencent
 DOMAIN-SUFFIX,texasholdemcup.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tez-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,tez-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tez-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tfogc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tfogc.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tgametalent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tgovcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,th-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,th-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,th-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,th-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,thecss.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,thegreatwallpro.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,thepredictivemodel.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tiantiancaige.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tianxiawuzei.org
+# 目标: Tencent
 DOMAIN-SUFFIX,tianyutest.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tidaas.com
+# 目标: Tencent
 DOMAIN-SUFFIX,timatrix.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,timedl.com
+# 目标: Tencent
 DOMAIN-SUFFIX,timibase.com
+# 目标: Tencent
 DOMAIN-SUFFIX,timmerse.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tingbook.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tisi.org
+# 目标: Tencent
 DOMAIN-SUFFIX,titanm.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlbsbigdata.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlinkaccess.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlinkaccess.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlinkaccess2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlinkaccess2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveapi.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveapi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveapi2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveapi2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveapp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveauth.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveauth.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveauth2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveauth2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdn.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdnv1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdnv1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdnv2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdnv2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdnv3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdnv3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdnv4.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecdnv4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecontroller.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecontroller.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecontroller2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivecontroller2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedal.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedal.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedal2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedal2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedeliver.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedispatch.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedispatch.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedispatch2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedispatch2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedns.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedns2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivedns2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivednsv1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivednsv1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivegslb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivegslb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivehttpdns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivehttpdns2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveigtm.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveigtm.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveigtm2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveigtm2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveigtm3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveigtm3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivemcdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivemcdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivemcdnsched.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivemcdnsched.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveplay.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveplaydemo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveproxy.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveproxy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveproxy2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveproxy2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivepush.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivepush.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivepush.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivepush2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivertc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivertc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivertc2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivertc2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesdk.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesdk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesdk2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesdk2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesdkconfig.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesdkconfig.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesdkconfig2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesdkconfig2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesource.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrc2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrc2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcaccess.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcaccess.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcaccess2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcaccess2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcapp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcapp2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcapp2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcdemo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcschedule.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcschedule.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcschedule2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivesrcschedule2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivessl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivessl.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivessl2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivessl2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivestability.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivestability2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivestream.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivestream.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivestream2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivestream2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveupload.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveupload.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveupload2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveupload2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveweb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveweb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveweb2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tliveweb2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtc2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtc2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtcpush.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtcpush.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtcpush2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtcpush2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtcpushsch.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtcpushsch.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtcpushsch2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tlivewebrtcpushsch2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tmc-youqun.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tmcdl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tmcqd.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tmcyx.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tmecd.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tmfcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tmgdb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tmgdb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tmgdb.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tmigrate.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tnebula.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tnebula.net
+# 目标: Tencent
 DOMAIN-SUFFIX,todolist.chat
+# 目标: Tencent
 DOMAIN-SUFFIX,todolist.email
+# 目标: Tencent
 DOMAIN-SUFFIX,todolist.pub
+# 目标: Tencent
 DOMAIN-SUFFIX,tos.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,totope.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tourismshow.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tourismuser.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tpdmp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tpe-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,tpe-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tpe-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tpe-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,tpiccdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tpiccdn.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tqapp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tqapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tqapp.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tquic.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tri.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,trimg.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,trpc.center
+# 目标: Tencent
 DOMAIN-SUFFIX,trpc.group
+# 目标: Tencent
 DOMAIN-SUFFIX,trpc.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,trtccloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,trtccloud.net
+# 目标: Tencent
 DOMAIN-SUFFIX,trtcrecover.com
+# 目标: Tencent
 DOMAIN-SUFFIX,trtcube-license.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tsa-lp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsa-page.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsa-page0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsa-page1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsa-page2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsa-page3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsa-page4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsa-page5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsa-page6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsapage.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsasc.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tsd0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tsecdapi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsepcn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsm-license-test.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsm-license.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsm0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tsn-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,tsn-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tsn-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tsn-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,tsn0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tsparkling.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tswjs.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tswjs.org
+# 目标: Tencent
 DOMAIN-SUFFIX,tts0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ttsim.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ttsim.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ttsim.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tuicross.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tvodapi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tvodapibk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,twsapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tx-exhibition.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txacc1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txacc1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,txbanche.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txbyod.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txcdns.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txcdns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,txclivecdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,txclivecdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txcloudlive.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,txcloudlive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txcode.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txcxjd.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txdl1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txdl1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,txdl2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txdl2.net
+# 目标: Tencent
 DOMAIN-SUFFIX,txelive.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,txelive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txelvb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,txelvb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txeo.net
+# 目标: Tencent
 DOMAIN-SUFFIX,txhttpdns.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,txhttpdns.net
+# 目标: Tencent
 DOMAIN-SUFFIX,txidc.wang
+# 目标: Tencent
 DOMAIN-SUFFIX,txleshare.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txlivecdn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,txlivecdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txlivecdn2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txmdb.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,txmdb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txmdb.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,txresearch.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txscdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txtyxg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txvideo1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txvideo2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txyscdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,txyscdn.net
+# 目标: Tencent
 DOMAIN-SUFFIX,tym0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tyn0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tyu0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,tyxcdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,tyxcdn.net
+# 目标: Tencent
 DOMAIN-SUFFIX,u-con-dom.com
+# 目标: Tencent
 DOMAIN-SUFFIX,u-con-dom.net
+# 目标: Tencent
 DOMAIN-SUFFIX,uatmrrvendor.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ugc-up-dom.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ugc-up-dom.net
+# 目标: Tencent
 DOMAIN-SUFFIX,ugcimg.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ugdtimg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,uisa0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,um.run
+# 目标: Tencent
 DOMAIN-SUFFIX,uncnn.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,univod.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,upqzfile.com
+# 目标: Tencent
 DOMAIN-SUFFIX,upqzfilebk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,url.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,urldx.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,urlget.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,urlsecajog.com
+# 目标: Tencent
 DOMAIN-SUFFIX,urlshare.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,usao5.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,usao8.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,usao8.com
+# 目标: Tencent
 DOMAIN-SUFFIX,use-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,use-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,use-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,use-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,usw-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,usw-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,usw-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,usw-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,v-jitp-dom.com
+# 目标: Tencent
 DOMAIN-SUFFIX,v-jitp-dom.net
+# 目标: Tencent
 DOMAIN-SUFFIX,v-jitp-glo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,v-jitp-glo.net
+# 目标: Tencent
 DOMAIN-SUFFIX,v2xdatacenter.com
+# 目标: Tencent
 DOMAIN-SUFFIX,v2xdatasource.com
+# 目标: Tencent
 DOMAIN-SUFFIX,v2xengine.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vcloudlive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vcloudlive.net
+# 目标: Tencent
 DOMAIN-SUFFIX,vcloudsp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vcloudsp.net
+# 目标: Tencent
 DOMAIN-SUFFIX,vcloudstc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vcloudstc.net
+# 目标: Tencent
 DOMAIN-SUFFIX,vcloudvod.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vcloudvod.net
+# 目标: Tencent
 DOMAIN-SUFFIX,vendor-src-eo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,videohudong.com
+# 目标: Tencent
 DOMAIN-SUFFIX,videoxiaoyouxi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,videoyx.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vigtm-meeting-tencent.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,vigtm-meeting-tencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vip-lexiang.com
+# 目标: Tencent
 DOMAIN-SUFFIX,visvice.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,visvise.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,vitaloffice.life
+# 目标: Tencent
 DOMAIN-SUFFIX,vlinkapi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-backup.net
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-bk-qcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-content.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-content.net
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-eo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-eo1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-eo2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-eo3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-eo4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-eo5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-igtm.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-pro.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-qcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-test.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vod-upload.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodapis.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodapisbk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodeoapi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodeoapibk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodeointernal.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodinternal.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodinternalbk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodplayvideo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodplayvideo.net
+# 目标: Tencent
 DOMAIN-SUFFIX,vodpro-upload.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodpro-upload1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodpro-upload2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodpro-uploadbk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodtcbk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vodxl-qcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,voovlive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,voovlive.net
+# 目标: Tencent
 DOMAIN-SUFFIX,voovmeeting.com
+# 目标: Tencent
 DOMAIN-SUFFIX,voovnow.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vulrange.com
+# 目标: Tencent
 DOMAIN-SUFFIX,vurl.fun
+# 目标: Tencent
 DOMAIN-SUFFIX,vurl.link
+# 目标: Tencent
 DOMAIN-SUFFIX,vurl.pro
+# 目标: Tencent
 DOMAIN-SUFFIX,vurl.tech
+# 目标: Tencent
 DOMAIN-SUFFIX,vurl1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,vurl3.vip
+# 目标: Tencent
 DOMAIN-SUFFIX,vxo7tu.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wangzherongyao.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wanjiashow.com
+# 目标: Tencent
 DOMAIN-SUFFIX,warframeofficial.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wavecommittee.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wcbygame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,we-park.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,we-pass.com
+# 目标: Tencent
 DOMAIN-SUFFIX,webacc.net
+# 目标: Tencent
 DOMAIN-SUFFIX,websec1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,websec1.net
+# 目标: Tencent
 DOMAIN-SUFFIX,wechat.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wechat.design
+# 目标: Tencent
 DOMAIN-SUFFIX,wechat.me
+# 目标: Tencent
 DOMAIN-SUFFIX,wechat.org
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatapp.us
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatauthdemo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatdevelop.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatlegal.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatlegal.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatlegal.net
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatmessenger.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatmessenger.us
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatpay.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatpay.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatpay.com.hk
+# 目标: Tencent
 DOMAIN-SUFFIX,wechatpay.com.my
+# 目标: Tencent
 DOMAIN-SUFFIX,wecom.work
+# 目标: Tencent
 DOMAIN-SUFFIX,wedev.cool
+# 目标: Tencent
 DOMAIN-SUFFIX,wedeveloper.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wegame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wegame.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wegamedesign.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wegamedeveloper.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wegamemail.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wegameplus.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weiaixiaoshuo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weicunmall.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weishi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weisurvey.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weisurvey.net
+# 目标: Tencent
 DOMAIN-SUFFIX,weixin.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weixinbridge.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weixindevelop.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weixinsxy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weiyun.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weknow.io
+# 目标: Tencent
 DOMAIN-SUFFIX,weparks.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,werepository.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wesimiot.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wesing-game.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wesingapp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wesingapp.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wetest.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wetest.host
+# 目标: Tencent
 DOMAIN-SUFFIX,wetest.net
+# 目标: Tencent
 DOMAIN-SUFFIX,wetest.org
+# 目标: Tencent
 DOMAIN-SUFFIX,wetestlab.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wetestlab.net
+# 目标: Tencent
 DOMAIN-SUFFIX,wetv.vip
+# 目标: Tencent
 DOMAIN-SUFFIX,wetvinfo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,weui.io
+# 目标: Tencent
 DOMAIN-SUFFIX,wework-pro.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wework-studio.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wgimg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,whec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,whec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,whec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,whec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,whyrtc.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wisefx.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wisefx.com
+# 目标: Tencent
 DOMAIN-SUFFIX,withzz.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wizsci.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wkdimg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wkzstencent.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wltong.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wltong.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wnspic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wnspicbk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wnsqzone.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wnsqzonebk.com
+# 目标: Tencent
 DOMAIN-SUFFIX,woa.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wqsnx.org.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wqstatic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wsstplay.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wting.info
+# 目标: Tencent
 DOMAIN-SUFFIX,wujicode.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wujicode.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wujisite.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wujistatic.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxamedia.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxaurl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wxcloudrun.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxgamemini.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxgateway.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxgmkt.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxgongkaike.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxlagame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxlivecdn.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxmpurl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wxpayglobal.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wxpayui.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxscan.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,wxshops.co
+# 目标: Tencent
 DOMAIN-SUFFIX,wxutil.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxworklive.com
+# 目标: Tencent
 DOMAIN-SUFFIX,wxxd.co
+# 目标: Tencent
 DOMAIN-SUFFIX,wzrygcht.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xbec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,xbec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xbec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,xbec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,xdxiaoshuo.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xga0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xgamecenter.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xgz0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xgz1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xgz2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan0.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan1.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan2.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan3.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan4.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan5.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan6.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan7.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan8.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xijingjianzhan9.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xindongdinglv.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xinyueclub.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xiyec-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,xiyec-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xiyec-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,xiyec-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
+# 目标: Tencent
 DOMAIN-SUFFIX,xqa1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xqd1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xqg1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xqk1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xqymuy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xqz0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xs.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xs8.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xuz0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,xxsy.com
+# 目标: Tencent
 DOMAIN-SUFFIX,xxsy.net
+# 目标: Tencent
 DOMAIN-SUFFIX,yakgamer.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yayagushi.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,yayagushi.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yfsail.net
+# 目标: Tencent
 DOMAIN-SUFFIX,yidiancun.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,yirgalab.com
+# 目标: Tencent
 DOMAIN-SUFFIX,ym.link
+# 目标: Tencent
 DOMAIN-SUFFIX,ym.run
+# 目标: Tencent
 DOMAIN-SUFFIX,ymzxconf.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yqacg.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yuewen.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yufuid.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yufuid.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,yufuid.net
+# 目标: Tencent
 DOMAIN-SUFFIX,yunassess.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yunji.work
+# 目标: Tencent
 DOMAIN-SUFFIX,yunjitele.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yuntus.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,yuntus.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yuntus.com.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,yuntus.net
+# 目标: Tencent
 DOMAIN-SUFFIX,yux.team
+# 目标: Tencent
 DOMAIN-SUFFIX,ywurl.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ywurl.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yximg.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,yxsgame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,yxzggame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,zenvideo.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,zhiqi.info
+# 目标: Tencent
 DOMAIN-SUFFIX,zhixinliancos.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,zhixunfang.com
+# 目标: Tencent
 DOMAIN-SUFFIX,zhjmp.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,zhn0.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,zhuoyuegame.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,zhuoyuegame.com
+# 目标: Tencent
 DOMAIN-SUFFIX,zhuoyuegame.net
+# 目标: Tencent
 DOMAIN-SUFFIX,zjdwz.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,zjump.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,zndls.com
+# 目标: Tencent
 DOMAIN-SUFFIX,znzcompass.com
+# 目标: Tencent
 DOMAIN-SUFFIX,znzcompass.net
+# 目标: Tencent
 DOMAIN-SUFFIX,ztcv1.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ztcv2.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ztcv3.cn
+# 目标: Tencent
 DOMAIN-SUFFIX,ztnwork.com
+# 目标: Tencent
 DOMAIN-SUFFIX,zulllv.com
+# 目标: Tencent
 DOMAIN-SUFFIX,zw-tencentclb.cloud
+# 目标: Tencent
 DOMAIN-SUFFIX,zw-tencentclb.com
+# 目标: Tencent
 DOMAIN-SUFFIX,zw-tencentclb.net
+# 目标: Tencent
 DOMAIN-SUFFIX,zw-tencentclb.work
+# 目标: Tencent
 DOMAIN-SUFFIX,zxgcloud.com
+# 目标: Tencent
 DOMAIN-SUFFIX,zxgstock.com
+# 目标: Tencent
 IP-CIDR,101.32.104.4/32
+# 目标: Tencent
 IP-CIDR,101.32.104.41/32
+# 目标: Tencent
 IP-CIDR,101.32.104.56/32
+# 目标: Tencent
 IP-CIDR,101.32.118.25/32
+# 目标: Tencent
 IP-CIDR,101.32.133.16/32
+# 目标: Tencent
 IP-CIDR,101.32.133.209/32
+# 目标: Tencent
 IP-CIDR,101.32.133.53/32
+# 目标: Tencent
 IP-CIDR,103.238.16.0/23
+# 目标: Tencent
 IP-CIDR,103.7.28.0/22
+# 目标: Tencent
 IP-CIDR,119.147.8.78/32
+# 目标: Tencent
 IP-CIDR,120.41.44.0/32
+# 目标: Tencent
 IP-CIDR,122.5.0.129/32
+# 目标: Tencent
 IP-CIDR,129.226.107.244/32
+# 目标: Tencent
 IP-CIDR,129.226.3.47/32
+# 目标: Tencent
 IP-CIDR,140.249.239.0/32
+# 目标: Tencent
 IP-CIDR,140.249.28.0/32
+# 目标: Tencent
 IP-CIDR,150.138.137.0/32
+# 目标: Tencent
 IP-CIDR,150.139.143.0/32
+# 目标: Tencent
 IP-CIDR,27.159.95.0/32
+# 目标: Tencent
 IP-CIDR,58.58.81.129/32

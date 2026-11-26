@@ -1,20 +1,38 @@
 # 统一规则库 | 分类: XiaoGouKeJi
 # 合并来源: blackmatrix7/ios_rule_script XiaoGouKeJi
+# 说明: 小狗科技
 # 规则数: 17
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,8moom.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,moomv.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,puppy888.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xgdq.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xgdqsn.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogou111.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogou222.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogou333.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogou444.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogou555.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogou666.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogou777.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogou888.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogou999.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogouds.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,xiaogouzhineng.com
+# 目标: XiaoGouKeJi
 DOMAIN-SUFFIX,zhongyangweixiu.com

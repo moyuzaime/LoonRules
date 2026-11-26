@@ -1,8 +1,13 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Rockstar/Rockstar.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Rockstar/Rockstar.list
 # 规则数: 5
+# 目标: Rockstar
 DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+# 目标: Rockstar
 DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+# 目标: Rockstar
 DOMAIN-SUFFIX,rockstargames.com
+# 目标: Rockstar
 DOMAIN-SUFFIX,rsg.sc
+# 目标: Rockstar
 DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net

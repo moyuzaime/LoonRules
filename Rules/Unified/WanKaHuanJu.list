@@ -1,32 +1,62 @@
 # 统一规则库 | 分类: WanKaHuanJu
 # 合并来源: blackmatrix7/ios_rule_script WanKaHuanJu
+# 说明: 玩咖欢聚
 # 规则数: 29
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,daxianglingke.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,daxianglingke.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,daxianglingke.com.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,daxianglink.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,daxianglink.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,daxianglink.com.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,gdsa.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,gm825.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,gm825.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,gm825.com.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,gm825.net
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,hapjs.org
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,ita-alliance.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,itgsa.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,mhacn.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,mhacn.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,mhacn.com.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,mhacn.net
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,quickapp.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,quickingdata.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,quicklyopen.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,shenyinhudong.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,shenyinhudong.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,so-quick.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,wankacn.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,wankacn.com
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,wankacn.com.cn
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,wankacn.net
+# 目标: WanKaHuanJu
 DOMAIN-SUFFIX,wankamall.com

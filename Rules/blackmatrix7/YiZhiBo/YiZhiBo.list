@@ -1,8 +1,14 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/YiZhiBo/YiZhiBo.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YiZhiBo/YiZhiBo.list
+# 说明: 易直播
 # 规则数: 5
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,hifengli.com
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,liexiulive.com
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,sndks.com
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,yizhibo.com
+# 目标: YiZhiBo
 DOMAIN-SUFFIX,yzbo.tv

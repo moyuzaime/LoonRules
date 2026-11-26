@@ -1,12 +1,21 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Speedtest/Speedtest.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Speedtest/Speedtest.list
 # 规则数: 9
+# 目标: Speedtest
 DOMAIN-SUFFIX,fast.com
+# 目标: Speedtest
 DOMAIN-SUFFIX,ooklaserver.net
+# 目标: Speedtest
 DOMAIN-SUFFIX,speed.cloudflare.com
+# 目标: Speedtest
 DOMAIN-SUFFIX,speed.dler.io
+# 目标: Speedtest
 DOMAIN-SUFFIX,speedtest.co
+# 目标: Speedtest
 DOMAIN-SUFFIX,speedtest.net
+# 目标: Speedtest
 DOMAIN-SUFFIX,speedtestcustom.com
+# 目标: Speedtest
 DOMAIN-KEYWORD,speedtest
+# 目标: Speedtest
 USER-AGENT,SpeedTest*

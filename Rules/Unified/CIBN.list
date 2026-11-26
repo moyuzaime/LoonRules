@@ -1,74 +1,146 @@
 # 统一规则库 | 分类: CIBN
 # 合并来源: blackmatrix7/ios_rule_script CIBN
+# 说明: CIBN互联网电视
 # 规则数: 71
+# 目标: CIBN
 DOMAIN-SUFFIX,apecn.com
+# 目标: CIBN
 DOMAIN-SUFFIX,china-ceec-cooperation.com
+# 目标: CIBN
 DOMAIN-SUFFIX,china.com
+# 目标: CIBN
 DOMAIN-SUFFIX,chinabroadcast.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,chinamwh.com
+# 目标: CIBN
 DOMAIN-SUFFIX,chinaradio.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,chinesecity.com.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,chinesefilms.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,chineseradio.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,chineseradio.com.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,cibn-intl.com
+# 目标: CIBN
 DOMAIN-SUFFIX,cibn.cc
+# 目标: CIBN
 DOMAIN-SUFFIX,cibnlive.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,cibnlive.com
+# 目标: CIBN
 DOMAIN-SUFFIX,cibnott.net
+# 目标: CIBN
 DOMAIN-SUFFIX,cibntv.net
+# 目标: CIBN
 DOMAIN-SUFFIX,cri-grandera.com
+# 目标: CIBN
 DOMAIN-SUFFIX,cri-on.com
+# 目标: CIBN
 DOMAIN-SUFFIX,cri.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,cri.com.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,criankara.com
+# 目标: CIBN
 DOMAIN-SUFFIX,criarabic.com
+# 目标: CIBN
 DOMAIN-SUFFIX,criberlin.com
+# 目标: CIBN
 DOMAIN-SUFFIX,cribsas.com
+# 目标: CIBN
 DOMAIN-SUFFIX,crichinese.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,cricr.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,cricz.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,crieasyfm.com
+# 目标: CIBN
 DOMAIN-SUFFIX,crienglish.com
+# 目标: CIBN
 DOMAIN-SUFFIX,criezfm.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,criezfm.com
+# 目标: CIBN
 DOMAIN-SUFFIX,crilondon.com
+# 目标: CIBN
 DOMAIN-SUFFIX,crimoscow.com
+# 目标: CIBN
 DOMAIN-SUFFIX,crinewsradio.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,crinihaochina.com
+# 目标: CIBN
 DOMAIN-SUFFIX,crionline.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,cririo.com
+# 目标: CIBN
 DOMAIN-SUFFIX,criseoul.com
+# 目标: CIBN
 DOMAIN-SUFFIX,crisydney.com
+# 目标: CIBN
 DOMAIN-SUFFIX,critokyo.com
+# 目标: CIBN
 DOMAIN-SUFFIX,criwashington.com
+# 目标: CIBN
 DOMAIN-SUFFIX,discoverplusradio.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,discoverplusradio.com.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,globalfm.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,guotv.com
+# 目标: CIBN
 DOMAIN-SUFFIX,guotv.com.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,gvmedia.com.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,hitfm.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,huawangzhixun.com
+# 目标: CIBN
 DOMAIN-SUFFIX,imgcdc.com
+# 目标: CIBN
 DOMAIN-SUFFIX,inetradio.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,itaiwannews.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,musicplusradio.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,newsplusradio.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,nihaotv.net
+# 目标: CIBN
 DOMAIN-SUFFIX,novotrail.com
+# 目标: CIBN
 DOMAIN-SUFFIX,novotrails.com
+# 目标: CIBN
 DOMAIN-SUFFIX,primeplusradio.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,readingchinese.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,silkroddream.com
+# 目标: CIBN
 DOMAIN-SUFFIX,silktrek.com
+# 目标: CIBN
 DOMAIN-SUFFIX,sinorusfocus.com
+# 目标: CIBN
 DOMAIN-SUFFIX,sinorussian21st.org
+# 目标: CIBN
 DOMAIN-SUFFIX,starschina.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,starschina.com
+# 目标: CIBN
 DOMAIN-SUFFIX,starschina.com.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,starschinalive.com
+# 目标: CIBN
 DOMAIN-SUFFIX,temyee.com
+# 目标: CIBN
 DOMAIN-SUFFIX,vdnplus.cn
+# 目标: CIBN
 DOMAIN-SUFFIX,vdnplus.com
+# 目标: CIBN
 DOMAIN-SUFFIX,vdnplus.net

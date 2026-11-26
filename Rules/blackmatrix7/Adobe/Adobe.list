@@ -1,140 +1,277 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Adobe/Adobe.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Adobe/Adobe.list
 # 规则数: 137
+# 目标: Adobe
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
+# 目标: Adobe
 DOMAIN-SUFFIX,10xfotolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,2o7.net
+# 目标: Adobe
 DOMAIN-SUFFIX,acrobat.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adbecrsl.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobe-aemassets-value.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobe-audience-finder.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobe-video-partner-finder.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobe.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobe.io
+# 目标: Adobe
 DOMAIN-SUFFIX,adobe.ly
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeaemcloud.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeaemcloud.net
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeawards.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobecc.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobecce.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeccstatic.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobecontent.io
+# 目标: Adobe
 DOMAIN-SUFFIX,adobecreativityawards.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobedc.cn
+# 目标: Adobe
 DOMAIN-SUFFIX,adobedc.net
+# 目标: Adobe
 DOMAIN-SUFFIX,adobedemo.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobedtm.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeexchange.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeexperienceawards.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobegov.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobehiddentreasures.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobejanus.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeku.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobelanding.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobelogin.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeoobe.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeplatinumclub.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobeprojectm.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobesc.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobesign.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobesigncdn.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobespark.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobess.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobestock.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobetag.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobetarget.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobetcstrialdvd.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobetechcomm.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobetechcommcallback.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobetechcommdemo.com
+# 目标: Adobe
 DOMAIN-SUFFIX,adobexdplatform.com
+# 目标: Adobe
 DOMAIN-SUFFIX,assetsadobe.com
+# 目标: Adobe
 DOMAIN-SUFFIX,authorxml.com
+# 目标: Adobe
 DOMAIN-SUFFIX,bam.nr-data.net
+# 目标: Adobe
 DOMAIN-SUFFIX,behance.net
+# 目标: Adobe
 DOMAIN-SUFFIX,bluefootcms.com
+# 目标: Adobe
 DOMAIN-SUFFIX,businesscatalyst.com
+# 目标: Adobe
 DOMAIN-SUFFIX,ccnsite.com
+# 目标: Adobe
 DOMAIN-SUFFIX,ccpsx.com
+# 目标: Adobe
 DOMAIN-SUFFIX,compresspdf.new
+# 目标: Adobe
 DOMAIN-SUFFIX,cotolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,creativecloud.com
+# 目标: Adobe
 DOMAIN-SUFFIX,creativesdk.com
+# 目标: Adobe
 DOMAIN-SUFFIX,demandbase.com
+# 目标: Adobe
 DOMAIN-SUFFIX,demdex.net
+# 目标: Adobe
 DOMAIN-SUFFIX,developria.com
+# 目标: Adobe
 DOMAIN-SUFFIX,dollarfotoclub.com
+# 目标: Adobe
 DOMAIN-SUFFIX,dollarphotoclub.com
+# 目标: Adobe
 DOMAIN-SUFFIX,dollarphotosclub.com
+# 目标: Adobe
 DOMAIN-SUFFIX,douwriteright.com
+# 目标: Adobe
 DOMAIN-SUFFIX,echocdn.com
+# 目标: Adobe
 DOMAIN-SUFFIX,echosign.com
+# 目标: Adobe
 DOMAIN-SUFFIX,edgefonts.net
+# 目标: Adobe
 DOMAIN-SUFFIX,enablementadobe.com
+# 目标: Adobe
 DOMAIN-SUFFIX,ffotolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,fiotolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,foftolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,fonolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,fotiolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,fotoiia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,fotolia-noticias.com
+# 目标: Adobe
 DOMAIN-SUFFIX,fotolia.cc
+# 目标: Adobe
 DOMAIN-SUFFIX,fotolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,fotolia.tv
+# 目标: Adobe
 DOMAIN-SUFFIX,fotolja.com
+# 目标: Adobe
 DOMAIN-SUFFIX,fptolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,ftcdn.net
+# 目标: Adobe
 DOMAIN-SUFFIX,geotrust.com
+# 目标: Adobe
 DOMAIN-SUFFIX,gfotolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,globalsign.com
+# 目标: Adobe
 DOMAIN-SUFFIX,godaddy.com
+# 目标: Adobe
 DOMAIN-SUFFIX,gostorego.com
+# 目标: Adobe
 DOMAIN-SUFFIX,imagineecommerce.com
+# 目标: Adobe
 DOMAIN-SUFFIX,macromedia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,mageconf.com
+# 目标: Adobe
 DOMAIN-SUFFIX,mageconf.com.ua
+# 目标: Adobe
 DOMAIN-SUFFIX,magento.com
+# 目标: Adobe
 DOMAIN-SUFFIX,magento.net
+# 目标: Adobe
 DOMAIN-SUFFIX,magentocommerce.com
+# 目标: Adobe
 DOMAIN-SUFFIX,magentoliveconference.com
+# 目标: Adobe
 DOMAIN-SUFFIX,magentomobile.com
+# 目标: Adobe
 DOMAIN-SUFFIX,marketing-cloud.com
+# 目标: Adobe
 DOMAIN-SUFFIX,marketing-nirvana.com
+# 目标: Adobe
 DOMAIN-SUFFIX,marketo.co.uk
+# 目标: Adobe
 DOMAIN-SUFFIX,marketo.com
+# 目标: Adobe
 DOMAIN-SUFFIX,marketo.net
+# 目标: Adobe
 DOMAIN-SUFFIX,marketo.tv
+# 目标: Adobe
 DOMAIN-SUFFIX,marketodesigner.com
+# 目标: Adobe
 DOMAIN-SUFFIX,marketolive.com
+# 目标: Adobe
 DOMAIN-SUFFIX,mktdns.com
+# 目标: Adobe
 DOMAIN-SUFFIX,mkto-c0100.com
+# 目标: Adobe
 DOMAIN-SUFFIX,mktorest.com
+# 目标: Adobe
 DOMAIN-SUFFIX,mktroute.com
+# 目标: Adobe
 DOMAIN-SUFFIX,mobilemarketo.com
+# 目标: Adobe
 DOMAIN-SUFFIX,motolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,newrelic.com
+# 目标: Adobe
 DOMAIN-SUFFIX,omniroot.com
+# 目标: Adobe
 DOMAIN-SUFFIX,omniture.com
+# 目标: Adobe
 DOMAIN-SUFFIX,omtrdc.net
+# 目标: Adobe
 DOMAIN-SUFFIX,pdf.new
+# 目标: Adobe
 DOMAIN-SUFFIX,photolia.net
+# 目标: Adobe
 DOMAIN-SUFFIX,photoshop.com
+# 目标: Adobe
 DOMAIN-SUFFIX,placesdocs.com
+# 目标: Adobe
 DOMAIN-SUFFIX,revenue-performance-management.com
+# 目标: Adobe
 DOMAIN-SUFFIX,s2stagehance.com
+# 目标: Adobe
 DOMAIN-SUFFIX,scene7.com
+# 目标: Adobe
 DOMAIN-SUFFIX,sign.new
+# 目标: Adobe
 DOMAIN-SUFFIX,sundanceignite2016.com
+# 目标: Adobe
 DOMAIN-SUFFIX,symantec.com
+# 目标: Adobe
 DOMAIN-SUFFIX,symcb.com
+# 目标: Adobe
 DOMAIN-SUFFIX,symcd.com
+# 目标: Adobe
 DOMAIN-SUFFIX,tenbyfotolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,thawte.com
+# 目标: Adobe
 DOMAIN-SUFFIX,toutapp.com
+# 目标: Adobe
 DOMAIN-SUFFIX,typekit.com
+# 目标: Adobe
 DOMAIN-SUFFIX,typekit.net
+# 目标: Adobe
 DOMAIN-SUFFIX,verisign.com
+# 目标: Adobe
 DOMAIN-SUFFIX,votolia.com
+# 目标: Adobe
 DOMAIN-SUFFIX,worldsecureemail.com
+# 目标: Adobe
 DOMAIN-SUFFIX,worldsecuresystems.com
+# 目标: Adobe
 DOMAIN-KEYWORD,adobe

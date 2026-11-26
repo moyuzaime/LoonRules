@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/LiTV/LiTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/LiTV/LiTV.list
 # 规则数: 2
+# 目标: LiTV
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+# 目标: LiTV
 DOMAIN-SUFFIX,litv.tv

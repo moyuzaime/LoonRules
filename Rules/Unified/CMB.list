@@ -1,41 +1,80 @@
 # 统一规则库 | 分类: CMB
 # 合并来源: blackmatrix7/ios_rule_script CMB
+# 说明: 招商银行
 # 规则数: 38
+# 目标: CMB
 DOMAIN-SUFFIX,8008205555.cn
+# 目标: CMB
 DOMAIN-SUFFIX,8008205555.com
+# 目标: CMB
 DOMAIN-SUFFIX,bbf.org.cn
+# 目标: CMB
 DOMAIN-SUFFIX,bjsbnet.com
+# 目标: CMB
 DOMAIN-SUFFIX,chndoi.cn
+# 目标: CMB
 DOMAIN-SUFFIX,chndoi.com
+# 目标: CMB
 DOMAIN-SUFFIX,chndoi.com.cn
+# 目标: CMB
 DOMAIN-SUFFIX,chndoi.net
+# 目标: CMB
 DOMAIN-SUFFIX,chndoi.org
+# 目标: CMB
 DOMAIN-SUFFIX,cignacmb-ipmi.com
+# 目标: CMB
 DOMAIN-SUFFIX,cignacmb.com
+# 目标: CMB
 DOMAIN-SUFFIX,cignacmbamc.com
+# 目标: CMB
 DOMAIN-SUFFIX,cmb-leasing.com
+# 目标: CMB
 DOMAIN-SUFFIX,cmbchina.biz
+# 目标: CMB
 DOMAIN-SUFFIX,cmbchina.cn
+# 目标: CMB
 DOMAIN-SUFFIX,cmbchina.com
+# 目标: CMB
 DOMAIN-SUFFIX,cmbi.com.hk
+# 目标: CMB
 DOMAIN-SUFFIX,cmbimg.cn
+# 目标: CMB
 DOMAIN-SUFFIX,cmbimg.com
+# 目标: CMB
 DOMAIN-SUFFIX,cmbt.cn
+# 目标: CMB
 DOMAIN-SUFFIX,cmbuat.com
+# 目标: CMB
 DOMAIN-SUFFIX,cmburl.cn
+# 目标: CMB
 DOMAIN-SUFFIX,cmbwinglungbank.com
+# 目标: CMB
 DOMAIN-SUFFIX,cmf.biz
+# 目标: CMB
 DOMAIN-SUFFIX,cmf.ltd
+# 目标: CMB
 DOMAIN-SUFFIX,cmfchina.com
+# 目标: CMB
 DOMAIN-SUFFIX,cmfunds.cn
+# 目标: CMB
 DOMAIN-SUFFIX,cnki.net
+# 目标: CMB
 DOMAIN-SUFFIX,cnkidoi.cn
+# 目标: CMB
 DOMAIN-SUFFIX,cnkidoi.com
+# 目标: CMB
 DOMAIN-SUFFIX,cnkidoi.net
+# 目标: CMB
 DOMAIN-SUFFIX,cnkidoi.org
+# 目标: CMB
 DOMAIN-SUFFIX,test-cignacmb.com
+# 目标: CMB
 DOMAIN-SUFFIX,wuxizazhi.cn
+# 目标: CMB
 DOMAIN-SUFFIX,wuxizazhi.com
+# 目标: CMB
 DOMAIN-SUFFIX,wuxizazhi.com.cn
+# 目标: CMB
 DOMAIN-SUFFIX,wuxizazhi.net
+# 目标: CMB
 DOMAIN-SUFFIX,wuxizazhi.net.cn

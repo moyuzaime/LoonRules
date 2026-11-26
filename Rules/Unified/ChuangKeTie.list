@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: ChuangKeTie
 # 合并来源: blackmatrix7/ios_rule_script ChuangKeTie
+# 说明: 创客贴
 # 规则数: 5
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,byfan.cn
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,chuangkit.com
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,ckt.cn
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,huoziyin.cn
+# 目标: ChuangKeTie
 DOMAIN-SUFFIX,huoziyin.com

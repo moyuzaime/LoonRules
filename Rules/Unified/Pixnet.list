@@ -1,12 +1,21 @@
 # 统一规则库 | 分类: Pixnet
 # 合并来源: blackmatrix7/ios_rule_script Pixnet
 # 规则数: 9
+# 目标: Pixnet
 DOMAIN-SUFFIX,pimg.tw
+# 目标: Pixnet
 DOMAIN-SUFFIX,pixanalytics.com
+# 目标: Pixnet
 DOMAIN-SUFFIX,pixfs.net
+# 目标: Pixnet
 DOMAIN-SUFFIX,pixinsight.com.tw
+# 目标: Pixnet
 DOMAIN-SUFFIX,pixnet.cc
+# 目标: Pixnet
 DOMAIN-SUFFIX,pixnet.net
+# 目标: Pixnet
 DOMAIN-SUFFIX,pixnet.pro
+# 目标: Pixnet
 DOMAIN-SUFFIX,pixnet.tw
+# 目标: Pixnet
 DOMAIN-SUFFIX,pixplug.in

@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Dood
 # 合并来源: blackmatrix7/ios_rule_script Dood
 # 规则数: 3
+# 目标: Dood
 DOMAIN-SUFFIX,dood.so
+# 目标: Dood
 DOMAIN-SUFFIX,dood.video
+# 目标: Dood
 DOMAIN-SUFFIX,doodcdn.com

@@ -1,168 +1,334 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AdvertisingMiTV/AdvertisingMiTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingMiTV/AdvertisingMiTV.list
+# 说明: 小米电视去广告
 # 规则数: 165
+# 目标: AdvertisingMiTV
 DOMAIN,519332da.rtc.youme.im
+# 目标: AdvertisingMiTV
 DOMAIN,86file.megajoy.com
+# 目标: AdvertisingMiTV
 DOMAIN,86get.joy.cn
+# 目标: AdvertisingMiTV
 DOMAIN,86log.joy.cn
+# 目标: AdvertisingMiTV
 DOMAIN,a.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,a.cctv.com
+# 目标: AdvertisingMiTV
 DOMAIN,a.cntv.cn
+# 目标: AdvertisingMiTV
 DOMAIN,ad.cctv.com
+# 目标: AdvertisingMiTV
 DOMAIN,ad.doubleclick.net
+# 目标: AdvertisingMiTV
 DOMAIN,ad.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,ad.mi.com
+# 目标: AdvertisingMiTV
 DOMAIN,ad.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,ad1.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,adc.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,adcdn.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,adeng.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,adguanggao.eee114.com
+# 目标: AdvertisingMiTV
 DOMAIN,admaster.com.cn
+# 目标: AdvertisingMiTV
 DOMAIN,adv.sec.miui.com
+# 目标: AdvertisingMiTV
 DOMAIN,afp.qiyi.com
+# 目标: AdvertisingMiTV
 DOMAIN,alert.kuyun.com
+# 目标: AdvertisingMiTV
 DOMAIN,alog.umeng.com
+# 目标: AdvertisingMiTV
 DOMAIN,android.bugly.qq.com
+# 目标: AdvertisingMiTV
 DOMAIN,api.ad.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,api.cupid.ptqy.gitv.tv
+# 目标: AdvertisingMiTV
 DOMAIN,api.hpplay.com.cn
+# 目标: AdvertisingMiTV
 DOMAIN,appstore.cdn.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,appstore.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,assistant.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,atm.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,auth.api.gitv.tv
+# 目标: AdvertisingMiTV
 DOMAIN,b.netcheck.gallery.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,baidutv.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,bar.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,broker.mqtt.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,bss.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,c.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,cctv.adsunion.com
+# 目标: AdvertisingMiTV
 DOMAIN,cdn.ad.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,cdn.hpplay.com.cn
+# 目标: AdvertisingMiTV
 DOMAIN,cdn1.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,cjhq.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,cloud.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,conf.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,config.kuyun.com
+# 目标: AdvertisingMiTV
 DOMAIN,cpro.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,d.cntv.cn
+# 目标: AdvertisingMiTV
 DOMAIN,d1.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,data.mistat.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,de.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,devicemgr.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,drmcmm.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,dvb.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,e.ad.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,e.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,eiv.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,f1.market.mi-img.com
+# 目标: AdvertisingMiTV
 DOMAIN,f1.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,f2.market.mi-img.com
+# 目标: AdvertisingMiTV
 DOMAIN,f2.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,f3.market.mi-img.com
+# 目标: AdvertisingMiTV
 DOMAIN,f3.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,f4.market.mi-img.com
+# 目标: AdvertisingMiTV
 DOMAIN,f4.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,f5.market.mi-img.com
+# 目标: AdvertisingMiTV
 DOMAIN,f5.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,file.xmpush.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,fix.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,focusbaiduafp.allyes.com
+# 目标: AdvertisingMiTV
 DOMAIN,ftp.hpplay.com.cn
+# 目标: AdvertisingMiTV
 DOMAIN,fvid.atm.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,g.dtv.cn.miaozhan.com
+# 目标: AdvertisingMiTV
 DOMAIN,g.dtv.cn.miaozhen.com
+# 目标: AdvertisingMiTV
 DOMAIN,gallery.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,gslb.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,gvod.aiseejapp.atianqi.com
+# 目标: AdvertisingMiTV
 DOMAIN,h5.hpplay.com.cn
+# 目标: AdvertisingMiTV
 DOMAIN,hc.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,hm.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,hotupgrade.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,hpplay.cdn.cibn.cc
+# 目标: AdvertisingMiTV
 DOMAIN,html.atm.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,hub5btmain.sandai.net
+# 目标: AdvertisingMiTV
 DOMAIN,hub5emu.sandai.net
+# 目标: AdvertisingMiTV
 DOMAIN,image.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,imdns.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,jellyfish.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,leboapi.hpplay.com.cn
+# 目标: AdvertisingMiTV
 DOMAIN,logonext.tv.kuyun.com
+# 目标: AdvertisingMiTV
 DOMAIN,lstat.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,ma.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,metok.sys.miui.com
+# 目标: AdvertisingMiTV
 DOMAIN,milink.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,misc.in.duokanbox.com
+# 目标: AdvertisingMiTV
 DOMAIN,misc.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,mishop.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,mitv.tracking.miui.com
+# 目标: AdvertisingMiTV
 DOMAIN,new.api.ad.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,nsclick.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,o2o.api.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,omgmta.play.aiseet.atianqi.com
+# 目标: AdvertisingMiTV
 DOMAIN,osfota.cdn.aliyun.com
+# 目标: AdvertisingMiTV
 DOMAIN,osupdateservice.yunos.com
+# 目标: AdvertisingMiTV
 DOMAIN,ota.cdn.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,package.box.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,package.cdn.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,pandora.mi.com
+# 目标: AdvertisingMiTV
 DOMAIN,pin.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,r.browser.miui.com
+# 目标: AdvertisingMiTV
 DOMAIN,redirect.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,register.xmpush.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,resolver.msg.xiaomi.net
+# 目标: AdvertisingMiTV
 DOMAIN,rp.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,rp.hpplay.com.cn
+# 目标: AdvertisingMiTV
 DOMAIN,rps.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,sdkauth.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,sdkconfig.ad.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,secure-chn.imrworldwide.com
+# 目标: AdvertisingMiTV
 DOMAIN,sl.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,spcode.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,speed.lstat.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,ssp.ad.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,staging.ai.api.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,starfish.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,stat.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,stat.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,static.lstat.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,t1.a.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,t2.a.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,t3.a.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,t4.a.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,t5.a.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,t7z.cupid.ptqy.gitv.tv
+# 目标: AdvertisingMiTV
 DOMAIN,tat.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,test.ad.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,test.new.api.ad.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,tk.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,tracking.miui.com
+# 目标: AdvertisingMiTV
 DOMAIN,tv.aiseet.atianqi.com
+# 目标: AdvertisingMiTV
 DOMAIN,tv.weixin.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,tvapi.kuyun.com
+# 目标: AdvertisingMiTV
 DOMAIN,tvapp.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,tvmanager.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,tvmgr.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,ucstat.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,union.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,upgrade.mishop.pandora.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,upgrade.xl9.xunlei.com
+# 目标: AdvertisingMiTV
 DOMAIN,urchin.lstat.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,userapi.hpplay.com.cn
+# 目标: AdvertisingMiTV
 DOMAIN,utility.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,utk.baidu.com
+# 目标: AdvertisingMiTV
 DOMAIN,v.admaster.com.cn
+# 目标: AdvertisingMiTV
 DOMAIN,valb.atm.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,valc.atm.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,valf.atm.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,valo.atm.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,valp.atm.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,vid.atm.youku.com
+# 目标: AdvertisingMiTV
 DOMAIN,video.market.xiaomi.com
+# 目标: AdvertisingMiTV
 DOMAIN,vipauth.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,vipsdkauth.hpplay.cn
+# 目标: AdvertisingMiTV
 DOMAIN,vv.play.aiseet.atianqi.com
+# 目标: AdvertisingMiTV
 DOMAIN,walp.atm.youku.com

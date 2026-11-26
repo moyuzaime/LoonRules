@@ -1,30 +1,58 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/DuoWan/DuoWan.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DuoWan/DuoWan.list
+# 说明: 多玩
 # 规则数: 27
+# 目标: DuoWan
 DOMAIN-SUFFIX,5253.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,bcshipgo.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,bigda.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,blogchina.org
+# 目标: DuoWan
 DOMAIN-SUFFIX,c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net
+# 目标: DuoWan
 DOMAIN-SUFFIX,chinaduo.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,duowan.cn
+# 目标: DuoWan
 DOMAIN-SUFFIX,duowan.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,duowan.com.cn
+# 目标: DuoWan
 DOMAIN-SUFFIX,dwstatic.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,hiido.cn
+# 目标: DuoWan
 DOMAIN-SUFFIX,hiido.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,hiido.net
+# 目标: DuoWan
 DOMAIN-SUFFIX,huanju.cn
+# 目标: DuoWan
 DOMAIN-SUFFIX,huanju.net
+# 目标: DuoWan
 DOMAIN-SUFFIX,huanjuyun.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,joyy.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,joyyinc.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,joyyued.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,pikoplay.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,vooedit.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,yy.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,yy.com.cn
+# 目标: DuoWan
 DOMAIN-SUFFIX,yyclouds.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,yygamedev.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,yystatic.com
+# 目标: DuoWan
 DOMAIN-SUFFIX,zhiniu8.com

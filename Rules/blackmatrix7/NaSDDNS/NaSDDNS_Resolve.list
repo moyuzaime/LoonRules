@@ -1,49 +1,95 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/NaSDDNS/NaSDDNS_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NaSDDNS/NaSDDNS_Resolve.list
 # 规则数: 46
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,3322.net
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,3322.org
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,account.synology.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,aliyuncs.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,api.ipify.org
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,api.nn.ci
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,changeip.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,checkip.synology.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,checkipv6.synology.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,checkport.synology.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,ddns.synology.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,ddnsfree.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,dns-dns.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,dnsapi.cn
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,duckdns.org
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,dyndns.org
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,elb.amazonaws.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,myddns.rocks
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,myqnapcloud.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,nat123.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,netdata.cloud
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,plex.direct
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,plex.tv
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,portcheck.transmissionbt.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,qnap.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,quickconnect.cn
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,quickconnect.to
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,suo.yt
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,synocommunity.com
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,synology.cn
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,tpddns.cn
+# 目标: NaSDDNS
 DOMAIN-SUFFIX,whatismyip.akamai.com
+# 目标: NaSDDNS
 DOMAIN-KEYWORD,qcloud
+# 目标: NaSDDNS
 IP-CIDR,100.24.218.0/24
+# 目标: NaSDDNS
 IP-CIDR,18.214.42.0/24
+# 目标: NaSDDNS
 IP-CIDR,3.231.124.0/24
+# 目标: NaSDDNS
 IP-CIDR,34.199.209.0/24
+# 目标: NaSDDNS
 IP-CIDR,34.226.9.0/24
+# 目标: NaSDDNS
 IP-CIDR,34.234.183.0/24
+# 目标: NaSDDNS
 IP-CIDR,34.235.82.0/24
+# 目标: NaSDDNS
 IP-CIDR,44.209.213.0/24
+# 目标: NaSDDNS
 IP-CIDR,50.16.43.0/24
+# 目标: NaSDDNS
 IP-CIDR,52.200.32.0/24
+# 目标: NaSDDNS
 IP-CIDR,52.86.69.0/24
+# 目标: NaSDDNS
 IP-CIDR,54.159.2.0/24
+# 目标: NaSDDNS
 IP-CIDR,54.166.1.0/24

@@ -1,4 +1,6 @@
 # 统一规则库 | 分类: Ali213
 # 合并来源: blackmatrix7/ios_rule_script Ali213
+# 说明: 游侠网
 # 规则数: 1
+# 目标: Ali213
 DOMAIN-SUFFIX,ali213.net

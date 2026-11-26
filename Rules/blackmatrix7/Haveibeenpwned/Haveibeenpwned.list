@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Haveibeenpwned/Haveibeenpwned.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Haveibeenpwned/Haveibeenpwned.list
 # 规则数: 2
+# 目标: Haveibeenpwned
 DOMAIN-SUFFIX,haveibeenpwned.com
+# 目标: Haveibeenpwned
 DOMAIN-SUFFIX,pwnedpasswords.com

@@ -1,443 +1,883 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ChinaMedia/ChinaMedia_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMedia/ChinaMedia_Resolve.list
 # 规则数: 440
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrctt.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrctu.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjz8yzdnc31.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjz8yzdnc3t.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjzgazdrpba.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjzgazdrpbz.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr4uqmtt8y41hcjzgazdrpjt.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,0gr5dgmttgha1hcj38yzdncb3.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,112-81-125-43.dhost.00cdn.com
+# 目标: ChinaMedia
 DOMAIN,113-219-145-1.ksyungslb.com
+# 目标: ChinaMedia
 DOMAIN,114-236-92-129.ksyungslb.com
+# 目标: ChinaMedia
 DOMAIN,180-101-74-1.ksyungslb.com
+# 目标: ChinaMedia
 DOMAIN,1geadrmttge3nhcjwgazdope.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1geadrmttge3nhcjwgwzdqqe.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr3uomttgr31hcjo8yzdnco.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr3uomttgr31hcjo8yzdnpy.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr3uomttgr31hcjtgezdkcy.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr4uqmtt8y41hcjigazdqca.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr4uqmtt8y41hcjigazdqce.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr4uqmtt8y41hcjigazdqco.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr4uqmtt8y41hcjigazdqpo.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr4uqmtt8y41hcjzgwzdkqe.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj38yzdcca.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj38yzdcco.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj38yzdkca.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj38yzdkco.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj38yzdkpe.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj38yzdkpy.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj38yzdkqy.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj3gczdcpa.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj3gczdcpe.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj3gczdcpo.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcj3gczdcqy.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1gr5dgmttgha1hcttgrzdnpo.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,1graukmttga4nhcjtgozdgce.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,218-91-225-1.ksyungslb.com
+# 目标: ChinaMedia
 DOMAIN,219-155-150-1.ksyungslb.com
+# 目标: ChinaMedia
 DOMAIN,222-188-6-1.ksyungslb.com
+# 目标: ChinaMedia
 DOMAIN,36-104-134-1.ksyungslb.com
+# 目标: ChinaMedia
 DOMAIN,36-25-252-1.ksyungslb.com
+# 目标: ChinaMedia
 DOMAIN,3ge3drmttga5nhcbqge3ur.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,3geauymtsgrzdnqbofa5do.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,3geauymtsgrzdnqbofa5dy.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,3geauymtsgrzdrcbzfahue.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,3geauymtsgrzdrcbzfahuk.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,4go41hcjtgazdoctqge4o.ourdvsss.com
+# 目标: ChinaMedia
 DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
+# 目标: ChinaMedia
 DOMAIN,17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
+# 目标: ChinaMedia
 DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net
+# 目标: ChinaMedia
 DOMAIN,api.iplay.163.com
+# 目标: ChinaMedia
 DOMAIN,aqqmusic.tc.qq.com
+# 目标: ChinaMedia
 DOMAIN,dldir1.qq.com
+# 目标: ChinaMedia
 DOMAIN,iacc.qq.com
+# 目标: ChinaMedia
 DOMAIN,ins-eeww7kom.ias.tencent-cloud.net
+# 目标: ChinaMedia
 DOMAIN,ios.video.mpush.qq.com
+# 目标: ChinaMedia
 DOMAIN,mam.netease.com
+# 目标: ChinaMedia
 DOMAIN,moo.qq.com
+# 目标: ChinaMedia
 DOMAIN,rdelivery.qq.com
+# 目标: ChinaMedia
 DOMAIN,ts.qq.com
+# 目标: ChinaMedia
 DOMAIN,v.streaming.qq.com
+# 目标: ChinaMedia
 DOMAIN,video-public-1258344701.shiply-cdn.qq.com
+# 目标: ChinaMedia
 DOMAIN,video-search-1258344701.shiply-cdn.qq.com
+# 目标: ChinaMedia
 DOMAIN,video-vip-1258344701.shiply-cdn.qq.com
+# 目标: ChinaMedia
 DOMAIN,yoo.gtimg.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,acg.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,acgvideo.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,animetamashi.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,animetamashi.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,anitama.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,anitama.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,b23.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,baka.im
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bigfun.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bigfunapp.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bili22.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bili2233.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bili23.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bili33.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biliapi.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biliapi.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibili.cc
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibili.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibili.co
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibili.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibili.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibili.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibiligame.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibiligame.co
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibiligame.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibilipay.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilibilipay.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilicdn1.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilicdn2.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilicdn3.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilicdn4.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilicdn5.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilicomics.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biligame.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biligame.co
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biligame.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biligame.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biligo.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biliimg.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biliintl.co
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biliintl.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,biliplus.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilivideo.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilivideo.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,bilivideo.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,corari.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,dreamcast.hk
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,dyhgames.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,hdslb.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,hdslb.com.w.kunlunhuf.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,hdslb.com.w.kunlunpi.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,hdslb.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,hdslb.org
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,im9.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,maoercdn.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,mcbbs.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,mincdn.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,sharejoytech.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,smtcdns.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,yo9.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cctv.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cctv.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cctvlib.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cctvlib.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cctvlibrary.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cctvlibrary.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cctvpic.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cctvpro.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cctvpro.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,chinaepg.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,chinalive.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,citv.net.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cnms.net.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cntv.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cntv.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cntvwb.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,gjgbdszt.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,gjgbdszt.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,gjgbdszt.net.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ipanda.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ipanda.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ipanda.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ipanda.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,livechina.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,livechina.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,olympicchannelchina.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,tvcc.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,tvcc.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zggbdszt.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zggbdszt.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zggbdszt.net.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zygbdszt.net.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,0co3geye.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,1.letvlive.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,2.letvlive.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,2isbbess.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,33lwhaoinc.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,52mtkvideo.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,56.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,71.am
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,71.am.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,71edge.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,71edge.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,9xsecndns.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,acfun.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,acfun.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,acfun.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ads1.lfengmobile.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,afp.pplive.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ai.xiaomi.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,aianno.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,aianno.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,aiqiyicloud-mgmt.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,aiqiyicloud.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,aiqiyicloud.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,aixifan.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,androidgo.duapp.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,api.game.letvstore.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,b82yxres.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,baiying.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cdn.zampdsp.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cibntv.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cm.fancyapi.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,cmvideo.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,dmhmusic.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmedia.cc
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmedia.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmedia.co
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmedia.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmedia.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmedia.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmediagame.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmediagame.co
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmediagame.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmediapay.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,domesticmediapay.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,e8h2ty.tdum.alibaba.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,gamenow.club
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,gitv.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,gitv.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,hifuntv.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,hitv.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,hunaniptv.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,hunantv.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,i.qq.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ibkstore.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,imgo.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,iq.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,iqiyi.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,iqiyi.demo.uwp
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,iqiyiedge.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,iqiyiedge.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,iqiyipic.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,itc.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ixigua.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,jiangbing.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,jstucdn.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,koowo.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,kugou.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,kumiao.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,kumiao.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,kuwo.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,kuxiaomiao.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,kuxiaomiao.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,kuxiaomiao.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,kuxiaomiao.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,le.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,letv.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,mgtv.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,migu.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,miguvideo.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,mmstat.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,music.126.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,music.163.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,music.qq.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,music.tc.qq.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,music.xiaomi.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,noxagile.duapp.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ns6mitkxo.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,p.bstarstatic.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,pgdt.gtimg.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,pplive.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,pps.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ppsimg.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ppstream.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ppstream.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ppstream.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ppstream.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ppstream.net.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ppsurl.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,pptv.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,qianqian.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,qiyi.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,qiyi.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,qiyipic.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,qqmusic.qq.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,qqvideo.gtimg.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,qy.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,qy.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,s.zampdsp.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,sk2cdsnw.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,snssdk.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,sogoodtech1.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,sohu.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,sohu.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,soku.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,suike.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,taihe.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,tazai.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,tencentmusic.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,tudou.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ukoo.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,v-56.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,v.qq.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,v.smtcdns.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,v1d.szbdyd.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,video.qq.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,videojj.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,wenyupages.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,wingsmobiletek.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,wwc.alicdn.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,xiami.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,xiami.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,y.qq.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,ykimg.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,yodou.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,yoku.net.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,yoqoo.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,yoqoo.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,yoqoo.net.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,yoqoo.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,youku.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,youku.com.cn
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,youku.org
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,youqoo.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zamplus.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zimuzu.io
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zimuzu.tv
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zmz2019.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zmzapi.com
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zmzapi.net
+# 目标: ChinaMedia
 DOMAIN-SUFFIX,zmzfile.com
+# 目标: ChinaMedia
 DOMAIN-KEYWORD,bilibili
+# 目标: ChinaMedia
 DOMAIN-KEYWORD,qiyi
+# 目标: ChinaMedia
 USER-AGENT,*bili*
+# 目标: ChinaMedia
 USER-AGENT,Bilibili*
+# 目标: ChinaMedia
 USER-AGENT,bili*
+# 目标: ChinaMedia
 USER-AGENT,bili-inter*
+# 目标: ChinaMedia
 USER-AGENT,%E4%BC%98%E9%85%B7*
+# 目标: ChinaMedia
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+# 目标: ChinaMedia
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+# 目标: ChinaMedia
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+# 目标: ChinaMedia
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
+# 目标: ChinaMedia
 USER-AGENT,*QIYI*
+# 目标: ChinaMedia
 USER-AGENT,AcFun*
+# 目标: ChinaMedia
 USER-AGENT,DomesticMedia*
+# 目标: ChinaMedia
 USER-AGENT,MGTV*
+# 目标: ChinaMedia
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+# 目标: ChinaMedia
 USER-AGENT,MOO*
+# 目标: ChinaMedia
 USER-AGENT,MiguVideo*
+# 目标: ChinaMedia
 USER-AGENT,NeteaseMusic*
+# 目标: ChinaMedia
 USER-AGENT,PPStream*
+# 目标: ChinaMedia
 USER-AGENT,QIYI*
+# 目标: ChinaMedia
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+# 目标: ChinaMedia
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
+# 目标: ChinaMedia
 USER-AGENT,QQMusic*
+# 目标: ChinaMedia
 USER-AGENT,QYPlayer*
+# 目标: ChinaMedia
 USER-AGENT,TencentMidasConnect*
+# 目标: ChinaMedia
 USER-AGENT,YYeTs*
+# 目标: ChinaMedia
 USER-AGENT,Youku*
+# 目标: ChinaMedia
 USER-AGENT,baiduyinyue
+# 目标: ChinaMedia
 USER-AGENT,bilibili*
+# 目标: ChinaMedia
 USER-AGENT,iQiYi*
+# 目标: ChinaMedia
 USER-AGENT,iQiyi*
+# 目标: ChinaMedia
 USER-AGENT,live4iphone*
+# 目标: ChinaMedia
 USER-AGENT,qqlive4iphone*
+# 目标: ChinaMedia
 USER-AGENT,walkman*
+# 目标: ChinaMedia
 USER-AGENT,xiami*
+# 目标: ChinaMedia
 USER-AGENT,youku*
+# 目标: ChinaMedia
 IP-CIDR,101.224.0.0/13
+# 目标: ChinaMedia
 IP-CIDR,101.71.154.241/32
+# 目标: ChinaMedia
 IP-CIDR,103.126.92.132/31
+# 目标: ChinaMedia
 IP-CIDR,103.44.56.0/22
+# 目标: ChinaMedia
 IP-CIDR,103.5.34.153/32
+# 目标: ChinaMedia
 IP-CIDR,104.109.129.153/32
+# 目标: ChinaMedia
 IP-CIDR,106.11.0.0/16
+# 目标: ChinaMedia
 IP-CIDR,106.75.74.76/32
+# 目标: ChinaMedia
 IP-CIDR,110.238.107.47/32
+# 目标: ChinaMedia
 IP-CIDR,111.206.25.147/32
+# 目标: ChinaMedia
 IP-CIDR,112.13.119.17/32
+# 目标: ChinaMedia
 IP-CIDR,112.13.122.1/32
+# 目标: ChinaMedia
 IP-CIDR,115.236.118.33/32
+# 目标: ChinaMedia
 IP-CIDR,115.236.121.1/32
+# 目标: ChinaMedia
 IP-CIDR,118.24.63.156/32
+# 目标: ChinaMedia
 IP-CIDR,118.26.120.0/24
+# 目标: ChinaMedia
 IP-CIDR,118.26.32.0/23
+# 目标: ChinaMedia
 IP-CIDR,119.176.0.0/12
+# 目标: ChinaMedia
 IP-CIDR,119.29.29.29/32
+# 目标: ChinaMedia
 IP-CIDR,119.3.238.64/32
+# 目标: ChinaMedia
 IP-CIDR,120.92.108.182/32
+# 目标: ChinaMedia
 IP-CIDR,120.92.113.99/32
+# 目标: ChinaMedia
 IP-CIDR,120.92.153.217/32
+# 目标: ChinaMedia
 IP-CIDR,128.1.62.200/31
+# 目标: ChinaMedia
 IP-CIDR,134.175.207.130/32
+# 目标: ChinaMedia
 IP-CIDR,150.116.92.250/32
+# 目标: ChinaMedia
 IP-CIDR,164.52.76.18/32
+# 目标: ChinaMedia
 IP-CIDR,193.112.159.225/32
+# 目标: ChinaMedia
 IP-CIDR,203.107.1.0/24
+# 目标: ChinaMedia
 IP-CIDR,203.211.4.169/32
+# 目标: ChinaMedia
 IP-CIDR,203.211.4.193/32
+# 目标: ChinaMedia
 IP-CIDR,203.74.95.131/32
+# 目标: ChinaMedia
 IP-CIDR,203.74.95.139/32
+# 目标: ChinaMedia
 IP-CIDR,203.74.95.153/32
+# 目标: ChinaMedia
 IP-CIDR,210.201.32.11/32
+# 目标: ChinaMedia
 IP-CIDR,210.201.32.8/32
+# 目标: ChinaMedia
 IP-CIDR,210.71.227.200/32
+# 目标: ChinaMedia
 IP-CIDR,210.71.227.202/32
+# 目标: ChinaMedia
 IP-CIDR,223.252.199.66/31
+# 目标: ChinaMedia
 IP-CIDR,23.211.15.99/32
+# 目标: ChinaMedia
 IP-CIDR,23.40.241.251/32
+# 目标: ChinaMedia
 IP-CIDR,23.40.242.10/32
+# 目标: ChinaMedia
 IP-CIDR,23.53.32.88/32
+# 目标: ChinaMedia
 IP-CIDR,39.105.63.80/32
+# 目标: ChinaMedia
 IP-CIDR,45.254.48.1/32
+# 目标: ChinaMedia
 IP-CIDR,45.43.32.234/32
+# 目标: ChinaMedia
 IP-CIDR,47.100.127.239/32
+# 目标: ChinaMedia
 IP-CIDR,58.49.111.117/32
+# 目标: ChinaMedia
 IP-CIDR,58.49.111.79/32
+# 目标: ChinaMedia
 IP-CIDR,58.49.111.95/32
+# 目标: ChinaMedia
 IP-CIDR,59.111.160.195/32
+# 目标: ChinaMedia
 IP-CIDR,59.111.160.197/32
+# 目标: ChinaMedia
 IP-CIDR,59.111.181.35/32
+# 目标: ChinaMedia
 IP-CIDR,59.111.181.38/32
+# 目标: ChinaMedia
 IP-CIDR,59.111.181.60/32
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:113.248.172.245/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:114.235.96.186/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:115.236.128.112/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:115.236.128.120/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:115.236.128.24/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:115.236.128.80/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:117.64.75.196/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:117.68.200.210/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:117.87.144.24/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:121.56.126.255/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:124.73.198.81/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:124.73.200.142/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:175.6.84.30/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:175.6.84.96/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:183.161.144.133/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:183.161.144.230/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:183.161.149.105/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:198.18.5.138/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:198.18.6.81/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:198.18.6.83/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:223.240.191.238/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:27.157.209.46/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:58.217.232.117/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:58.217.232.68/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:58.217.232.79/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:58.58.0.90/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:60.171.183.161/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:60.171.183.186/128
+# 目标: ChinaMedia
 IP-CIDR6,::ffff:60.171.183.98/128

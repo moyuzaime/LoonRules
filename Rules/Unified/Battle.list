@@ -1,11 +1,19 @@
 # 统一规则库 | 分类: Battle
 # 合并来源: blackmatrix7/ios_rule_script Battle
 # 规则数: 8
+# 目标: Battle
 DOMAIN,blizzard.nefficient.co.kr
+# 目标: Battle
 DOMAIN,blzddist1-a.akamaihd.net
+# 目标: Battle
 DOMAIN,blzddistkr1-a.akamaihd.net
+# 目标: Battle
 DOMAIN,bnetproduct-a.akamaihd.net
+# 目标: Battle
 DOMAIN,cdn.blz-contentstack.com
+# 目标: Battle
 DOMAIN-SUFFIX,battle.net
+# 目标: Battle
 DOMAIN-SUFFIX,battlenet.com.cn
+# 目标: Battle
 DOMAIN-SUFFIX,blizzard.com

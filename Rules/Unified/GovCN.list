@@ -1,19 +1,36 @@
 # 统一规则库 | 分类: GovCN
 # 合并来源: blackmatrix7/ios_rule_script GovCN
+# 说明: GovernmentCN
 # 规则数: 16
+# 目标: GovCN
 DOMAIN-SUFFIX,91huayi.cn
+# 目标: GovCN
 DOMAIN-SUFFIX,91huayi.com
+# 目标: GovCN
 DOMAIN-SUFFIX,91huayi.net
+# 目标: GovCN
 DOMAIN-SUFFIX,gov.cn
+# 目标: GovCN
 DOMAIN-SUFFIX,heart301.cn
+# 目标: GovCN
 DOMAIN-SUFFIX,henancme.net
+# 目标: GovCN
 DOMAIN-SUFFIX,huayi.cn
+# 目标: GovCN
 DOMAIN-SUFFIX,huayiweibo.com
+# 目标: GovCN
 DOMAIN-SUFFIX,huayiyuan.com
+# 目标: GovCN
 DOMAIN-SUFFIX,robot301.net
+# 目标: GovCN
 DOMAIN-SUFFIX,roboticsurg301.net
+# 目标: GovCN
 DOMAIN-SUFFIX,scncrc.com
+# 目标: GovCN
 DOMAIN-SUFFIX,shiyanma.org.cn
+# 目标: GovCN
 DOMAIN-SUFFIX,sqpx.org
+# 目标: GovCN
 DOMAIN-SUFFIX,wsglw.com
+# 目标: GovCN
 DOMAIN-SUFFIX,wsglw.net

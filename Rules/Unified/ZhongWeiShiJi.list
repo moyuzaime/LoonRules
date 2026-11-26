@@ -1,20 +1,38 @@
 # 统一规则库 | 分类: ZhongWeiShiJi
 # 合并来源: blackmatrix7/ios_rule_script ZhongWeiShiJi
+# 说明: 中维世纪
 # 规则数: 17
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,afdvr.cc
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,aiwei365.com.cn
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,aiwei365.net.cn
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,cloudsee.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,cloudsee.net
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,cloudseetech.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,jovcloud.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,jovetech.cn
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,jovetech.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,jovision.cn
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,jovision.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,jovisionai.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,jovmall.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,nvsip.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,soovvi.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,sunywo.com
+# 目标: ZhongWeiShiJi
 DOMAIN-SUFFIX,xunvision.com

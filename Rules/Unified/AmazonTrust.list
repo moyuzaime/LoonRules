@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: AmazonTrust
 # 合并来源: blackmatrix7/ios_rule_script AmazonTrust
 # 规则数: 3
+# 目标: AmazonTrust
 DOMAIN-SUFFIX,amazontrust.com
+# 目标: AmazonTrust
 DOMAIN-SUFFIX,awstrust.com
+# 目标: AmazonTrust
 DOMAIN-SUFFIX,ss2.us

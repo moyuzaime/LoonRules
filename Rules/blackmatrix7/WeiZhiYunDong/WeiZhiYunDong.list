@@ -1,7 +1,12 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/WeiZhiYunDong/WeiZhiYunDong.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WeiZhiYunDong/WeiZhiYunDong.list
+# 说明: 微至云动
 # 规则数: 4
+# 目标: WeiZhiYunDong
 DOMAIN-SUFFIX,dicom365.com
+# 目标: WeiZhiYunDong
 DOMAIN-SUFFIX,dycom365.com
+# 目标: WeiZhiYunDong
 DOMAIN-SUFFIX,wedcm.com
+# 目标: WeiZhiYunDong
 DOMAIN-SUFFIX,weiyunyingxiang.com

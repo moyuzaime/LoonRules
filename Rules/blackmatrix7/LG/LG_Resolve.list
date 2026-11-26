@@ -1,36 +1,69 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/LG/LG_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/LG/LG_Resolve.list
 # 规则数: 33
+# 目标: LG
 DOMAIN-SUFFIX,dacom.co.kr
+# 目标: LG
 DOMAIN-SUFFIX,kidc.net
+# 目标: LG
 DOMAIN-SUFFIX,lg.com
+# 目标: LG
 DOMAIN-SUFFIX,uplus.co.kr
+# 目标: LG
 IP-CIDR,103.226.96.0/22
+# 目标: LG
 IP-CIDR,106.103.189.0/24
+# 目标: LG
 IP-CIDR,106.103.191.0/24
+# 目标: LG
 IP-CIDR,106.103.192.0/18
+# 目标: LG
 IP-CIDR,106.240.0.0/12
+# 目标: LG
 IP-CIDR,110.45.128.0/17
+# 目标: LG
 IP-CIDR,112.154.140.0/24
+# 目标: LG
 IP-CIDR,112.216.0.0/13
+# 目标: LG
 IP-CIDR,112.76.1.0/24
+# 目标: LG
 IP-CIDR,112.76.101.0/24
+# 目标: LG
 IP-CIDR,112.76.107.0/24
+# 目标: LG
 IP-CIDR,112.76.108.0/22
+# 目标: LG
 IP-CIDR,112.76.112.0/24
+# 目标: LG
 IP-CIDR,112.76.114.0/24
+# 目标: LG
 IP-CIDR,112.76.155.0/24
+# 目标: LG
 IP-CIDR,112.76.158.0/23
+# 目标: LG
 IP-CIDR,112.76.160.0/22
+# 目标: LG
 IP-CIDR,112.76.164.0/23
+# 目标: LG
 IP-CIDR,112.76.167.0/24
+# 目标: LG
 IP-CIDR,112.76.168.0/23
+# 目标: LG
 IP-CIDR,112.76.170.0/24
+# 目标: LG
 IP-CIDR,112.76.197.0/24
+# 目标: LG
 IP-CIDR,117.52.30.0/24
+# 目标: LG
 IP-CIDR,182.162.192.0/20
+# 目标: LG
 IP-CIDR,182.162.92.0/23
+# 目标: LG
 IP-CIDR6,2001:270::/36
+# 目标: LG
 IP-CIDR6,2001:4430:6000::/36
+# 目标: LG
 IP-CIDR6,2001:4430:f::/48
+# 目标: LG
 IP-CIDR6,2406:5900::/32

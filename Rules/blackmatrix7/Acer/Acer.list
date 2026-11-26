@@ -1,8 +1,13 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Acer/Acer.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Acer/Acer.list
 # 规则数: 5
+# 目标: Acer
 DOMAIN-SUFFIX,acer-group.com
+# 目标: Acer
 DOMAIN-SUFFIX,acer.com
+# 目标: Acer
 DOMAIN-SUFFIX,acer.com.cn
+# 目标: Acer
 DOMAIN-SUFFIX,founderpc.cn
+# 目标: Acer
 DOMAIN-SUFFIX,founderpc.com

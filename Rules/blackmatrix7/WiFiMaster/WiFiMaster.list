@@ -1,65 +1,128 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/WiFiMaster/WiFiMaster.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WiFiMaster/WiFiMaster.list
+# 说明: WiFi万能钥匙
 # 规则数: 62
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,51huitu.cn
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,51lstt.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,51newsapp.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,51y5.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,51y5.net
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,cekeis.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,createwf.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,gamewifi.net
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,glinksure.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,happykey6.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,ieeewifi.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,ilinksure.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,im-ch.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lianliantao.cn
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lianliantao.com.cn
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lianliantao.net
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lianliantaoshop.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lianwangtech.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lianwifi.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,llsttapp.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lneab.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsgenius.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lstt-app.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttapp.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttappmoney.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttapppro.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttappspace.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttappweb.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttappworks.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttmoney.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttnews.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttonline.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttpro.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttrich.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttweb.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,lsttworks.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,newsapp01.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,readdsp.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,swaqds.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,tdtbd.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,toutiaogood.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,ttnea.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,v.to
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifi.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifi188.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifi6667.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifiapi.net
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wificstia.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifidigyy.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifinew.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifinews.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifiniu.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifisdk.net
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wifivpn.net
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wkanx.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,wkopen.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,xiaoyiads.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,xinwengood.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,y5api.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,y5news.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,y5store.com
+# 目标: WiFiMaster
 DOMAIN-SUFFIX,zenmen.com

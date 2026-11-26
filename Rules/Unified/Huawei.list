@@ -1,163 +1,324 @@
 # 统一规则库 | 分类: Huawei
 # 合并来源: blackmatrix7/ios_rule_script Huawei
+# 说明: 华为
 # 规则数: 160
+# 目标: Huawei
 DOMAIN-SUFFIX,abhouses.com
+# 目标: Huawei
 DOMAIN-SUFFIX,agconnect.link
+# 目标: Huawei
 DOMAIN-SUFFIX,aicccloud.com
+# 目标: Huawei
 DOMAIN-SUFFIX,androidga.com
+# 目标: Huawei
 DOMAIN-SUFFIX,apifabric.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,apifabric.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,apifabric.net
+# 目标: Huawei
 DOMAIN-SUFFIX,attendees.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,attendees.link
+# 目标: Huawei
 DOMAIN-SUFFIX,bescloud.com
+# 目标: Huawei
 DOMAIN-SUFFIX,besclouds.com
+# 目标: Huawei
 DOMAIN-SUFFIX,bisheng.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,bishengcompiler.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc1.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc1.com
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc2.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc2.com
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc3.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc3.com
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc5.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc5.com
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc6.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc6.com
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc7.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwc7.com
+# 目标: Huawei
 DOMAIN-SUFFIX,cdnhwcibv122.com
+# 目标: Huawei
 DOMAIN-SUFFIX,cloudnet-ecloud.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,cloudnetb2b.com
+# 目标: Huawei
 DOMAIN-SUFFIX,dbank.com
+# 目标: Huawei
 DOMAIN-SUFFIX,dbankcdn.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,dbankcdn.com
+# 目标: Huawei
 DOMAIN-SUFFIX,dbankcloud.asia
+# 目标: Huawei
 DOMAIN-SUFFIX,dbankcloud.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,dbankcloud.com
+# 目标: Huawei
 DOMAIN-SUFFIX,dbankedge.asia
+# 目标: Huawei
 DOMAIN-SUFFIX,dbankedge.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,dbankedge.net
+# 目标: Huawei
 DOMAIN-SUFFIX,dcia.org.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,devui.design
+# 目标: Huawei
 DOMAIN-SUFFIX,ewindcloud.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,gneec.com
+# 目标: Huawei
 DOMAIN-SUFFIX,gneec.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,gneec3.com
+# 目标: Huawei
 DOMAIN-SUFFIX,gneec4.com
+# 目标: Huawei
 DOMAIN-SUFFIX,gneec5.com
+# 目标: Huawei
 DOMAIN-SUFFIX,gneec7.com
+# 目标: Huawei
 DOMAIN-SUFFIX,gneeccloud.com
+# 目标: Huawei
 DOMAIN-SUFFIX,goldenear.club
+# 目标: Huawei
 DOMAIN-SUFFIX,harmonyos.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hc-cdn.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hc-cdn.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hiascend.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hiascend.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hiascend.net
+# 目标: Huawei
 DOMAIN-SUFFIX,hiclc.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hicloud.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hihonor.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hikunpeng.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hisilicon.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hisilicon.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huawei.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huawei.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huawei.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweiacad.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweiapi.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloud-dns.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloud-dns.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloud-dns.net
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloud-dns.org
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloud.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloud.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloudapis.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloudapis.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloudlive.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloudsite.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloudsite.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloudwaf.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweicloudwaf.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweidevice.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweielab.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweiief.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweiief.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweiita.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweiita.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweils.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweimarine.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweirtc.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweirtc.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweisafedns.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweisafedns.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweisafehub.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweishop.net
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweisre.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweisre.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweistatic.com
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweiyun.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,huaweiyun.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwad.net
+# 目标: Huawei
 DOMAIN-SUFFIX,hwccpc.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwccpc.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwcloudlive.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds-dns.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds-dns.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds-dns.net
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds.mobi
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds.net
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds.net.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds.org
+# 目标: Huawei
 DOMAIN-SUFFIX,hwclouds.org.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwcloudsite.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwcloudsite.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwcloudtest.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwcloudvis.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwcloudvis.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwgis.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwgis.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwht.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwht.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwitsm.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwlchain.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwmap.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,hwocloud.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwpan.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwtelcloud.com
+# 目标: Huawei
 DOMAIN-SUFFIX,hwtrip.com
+# 目标: Huawei
 DOMAIN-SUFFIX,imc-oneaccess.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,imcapptest.com
+# 目标: Huawei
 DOMAIN-SUFFIX,italentclc.com
+# 目标: Huawei
 DOMAIN-SUFFIX,livehwc3.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,mindspore.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,msg5.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,myhuaweicloud.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,myhuaweicloud.com
+# 目标: Huawei
 DOMAIN-SUFFIX,myhwcdn.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,myhwcdn.com
+# 目标: Huawei
 DOMAIN-SUFFIX,myhwcloudlive.com
+# 目标: Huawei
 DOMAIN-SUFFIX,myhwclouds.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,myhwclouds.com
+# 目标: Huawei
 DOMAIN-SUFFIX,myhwclouds.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,myhwclouds.net
+# 目标: Huawei
 DOMAIN-SUFFIX,openarkcompiler.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,openharmonyproject.com
+# 目标: Huawei
 DOMAIN-SUFFIX,owsgo.com
+# 目标: Huawei
 DOMAIN-SUFFIX,pmallstore.com
+# 目标: Huawei
 DOMAIN-SUFFIX,powerapp.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,powerapp.com.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,powerapp.io
+# 目标: Huawei
 DOMAIN-SUFFIX,router-hwtest.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,router-test.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,saasops.tech
+# 目标: Huawei
 DOMAIN-SUFFIX,smartcom.cc
+# 目标: Huawei
 DOMAIN-SUFFIX,speedvr.cn
+# 目标: Huawei
 DOMAIN-SUFFIX,teleows.com
+# 目标: Huawei
 DOMAIN-SUFFIX,vmall-hw.com
+# 目标: Huawei
 DOMAIN-SUFFIX,vmall.com
+# 目标: Huawei
 DOMAIN-SUFFIX,vmallres.com
+# 目标: Huawei
 DOMAIN-SUFFIX,vrbt.mobi

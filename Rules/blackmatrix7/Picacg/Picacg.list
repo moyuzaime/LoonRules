@@ -1,13 +1,23 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Picacg/Picacg.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Picacg/Picacg.list
 # 规则数: 10
+# 目标: Picacg
 DOMAIN-SUFFIX,bikaa.xyz
+# 目标: Picacg
 DOMAIN-SUFFIX,bikac.xyz
+# 目标: Picacg
 DOMAIN-SUFFIX,bikaios.xyz
+# 目标: Picacg
 DOMAIN-SUFFIX,manhuabika.com
+# 目标: Picacg
 DOMAIN-SUFFIX,picacgp.com
+# 目标: Picacg
 DOMAIN-SUFFIX,picacgy.com
+# 目标: Picacg
 DOMAIN-SUFFIX,picacn.xyz
+# 目标: Picacg
 DOMAIN-SUFFIX,picacomic.com
+# 目标: Picacg
 DOMAIN-SUFFIX,picacomic.xyz
+# 目标: Picacg
 DOMAIN-SUFFIX,wikawika.xyz

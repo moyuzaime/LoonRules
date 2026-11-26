@@ -1,8 +1,14 @@
 # 统一规则库 | 分类: PChomeTW
 # 合并来源: blackmatrix7/ios_rule_script PChomeTW
+# 说明: PChome Online 網路家庭
 # 规则数: 5
+# 目标: PChomeTW
 DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net
+# 目标: PChomeTW
 DOMAIN-SUFFIX,ecimg.tw
+# 目标: PChomeTW
 DOMAIN-SUFFIX,pchome.com.tw
+# 目标: PChomeTW
 DOMAIN-SUFFIX,pchomepay.com.tw
+# 目标: PChomeTW
 DOMAIN-SUFFIX,pcloud.tw

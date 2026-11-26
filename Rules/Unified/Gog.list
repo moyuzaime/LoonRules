@@ -1,7 +1,11 @@
 # 统一规则库 | 分类: Gog
 # 合并来源: blackmatrix7/ios_rule_script Gog
 # 规则数: 4
+# 目标: Gog
 DOMAIN,gog.salesmanago.com
+# 目标: Gog
 DOMAIN-SUFFIX,gog-statics.com
+# 目标: Gog
 DOMAIN-SUFFIX,gog.com
+# 目标: Gog
 DOMAIN-SUFFIX,gog.qtlglb.com

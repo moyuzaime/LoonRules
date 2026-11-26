@@ -1,16 +1,29 @@
 # 统一规则库 | 分类: niconico
 # 合并来源: QuixoticHeart/rule-set niconico; blackmatrix7/ios_rule_script Niconico
 # 规则数: 13
+# 目标: niconico
 DOMAIN-SUFFIX,nico
+# 目标: niconico
 DOMAIN-SUFFIX,nico.ms
+# 目标: niconico
 DOMAIN-SUFFIX,nicochannel.jp
+# 目标: niconico
 DOMAIN-SUFFIX,nicodic.jp
+# 目标: niconico
 DOMAIN-SUFFIX,nicomanga.jp
+# 目标: niconico
 DOMAIN-SUFFIX,niconico.com
+# 目标: niconico
 DOMAIN-SUFFIX,nicoseiga.jp
+# 目标: niconico
 DOMAIN-SUFFIX,nicovideo.jp
+# 目标: niconico
 DOMAIN-SUFFIX,nimg.jp
+# 目标: niconico
 DOMAIN-SUFFIX,simg.jp
+# 目标: niconico
 DOMAIN-SUFFIX,socdm.com
+# 目标: niconico
 DOMAIN-SUFFIX,dmc.nico
+# 目标: niconico
 USER-AGENT,Niconico*

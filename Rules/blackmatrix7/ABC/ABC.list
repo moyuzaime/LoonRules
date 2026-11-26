@@ -1,9 +1,16 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ABC/ABC.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ABC/ABC.list
+# 说明: 农业银行
 # 规则数: 6
+# 目标: ABC
 DOMAIN-SUFFIX,95599.cn
+# 目标: ABC
 DOMAIN-SUFFIX,abchina.com
+# 目标: ABC
 DOMAIN-SUFFIX,bscabank.com
+# 目标: ABC
 DOMAIN-SUFFIX,openaboc.cn
+# 目标: ABC
 DOMAIN-SUFFIX,openaboc.com
+# 目标: ABC
 DOMAIN-SUFFIX,openaboc.com.cn

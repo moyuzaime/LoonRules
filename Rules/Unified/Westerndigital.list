@@ -1,26 +1,49 @@
 # 统一规则库 | 分类: Westerndigital
 # 合并来源: blackmatrix7/ios_rule_script Westerndigital
 # 规则数: 23
+# 目标: Westerndigital
 DOMAIN-SUFFIX,g-technology.com
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.ae
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.cn
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.co.jp
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.co.kr
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.co.uk
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.com
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.com.au
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.com.br
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.com.tr
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.com.tw
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.de
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.es
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.fr
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.hk
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.id
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.in
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.it
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.nl
+# 目标: Westerndigital
 DOMAIN-SUFFIX,sandisk.sg
+# 目标: Westerndigital
 DOMAIN-SUFFIX,wd.com
+# 目标: Westerndigital
 DOMAIN-SUFFIX,wdc.com
+# 目标: Westerndigital
 DOMAIN-SUFFIX,westerndigital.com

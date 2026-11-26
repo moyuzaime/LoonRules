@@ -1,380 +1,758 @@
 # 统一规则库 | 分类: Direct
 # 合并来源: blackmatrix7/ios_rule_script Direct
+# 说明: 直连
 # 规则数: 377
+# 目标: Direct
 DOMAIN,5471782.fls.doubleclick.net
+# 目标: Direct
 DOMAIN,79423.analytics.edgekey.net
+# 目标: Direct
 DOMAIN,a.adwolf.ru
+# 目标: Direct
 DOMAIN,a.sellpoint.net
+# 目标: Direct
 DOMAIN,ac.ebis.ne.jp
+# 目标: Direct
 DOMAIN,acs-m.daraz.com.bd
+# 目标: Direct
 DOMAIN,acs-m.daraz.pk
+# 目标: Direct
 DOMAIN,action.metaffiliation.com
+# 目标: Direct
 DOMAIN,ad.10010.com
+# 目标: Direct
 DOMAIN,ad.abchina.com
+# 目标: Direct
 DOMAIN,ad.kazakinfo.com
+# 目标: Direct
 DOMAIN,ad.ourgame.com
+# 目标: Direct
 DOMAIN,adcdn.pingan.com
+# 目标: Direct
 DOMAIN,admin.dable.io
+# 目标: Direct
 DOMAIN,ads.tdbank.com
+# 目标: Direct
 DOMAIN,advert.kf5.com
+# 目标: Direct
 DOMAIN,afi-b.com
+# 目标: Direct
 DOMAIN,analytics.amplitude.com
+# 目标: Direct
 DOMAIN,anwb.webpower.eu
+# 目标: Direct
 DOMAIN,ap01.records.in.treasuredata.com
+# 目标: Direct
 DOMAIN,api.ads.tvb.com
+# 目标: Direct
 DOMAIN,api.docodoco.jp
+# 目标: Direct
 DOMAIN,api.karte.io
+# 目标: Direct
 DOMAIN,app-advertise.zhihuishu.com
+# 目标: Direct
 DOMAIN,app.adjust.com
+# 目标: Direct
 DOMAIN,app.appsflyer.com
+# 目标: Direct
 DOMAIN,artifactory.appodeal.com
+# 目标: Direct
 DOMAIN,awin1.com
+# 目标: Direct
 DOMAIN,buyad.bi-xenon.cn
+# 目标: Direct
 DOMAIN,c.office.com
+# 目标: Direct
 DOMAIN,captcha.su.baidu.com
+# 目标: Direct
 DOMAIN,catchup.thisisdax.com
+# 目标: Direct
 DOMAIN,cdn.duurzaam.greenchoice.nl
+# 目标: Direct
 DOMAIN,cdn.rozetka.com.ua
+# 目标: Direct
 DOMAIN,cindyholbrook.lpages.co
+# 目标: Direct
 DOMAIN,citiintl.122.2o7.net
+# 目标: Direct
 DOMAIN,cj.dotomi.com
+# 目标: Direct
 DOMAIN,cl.link-ag.net
+# 目标: Direct
 DOMAIN,classliving.lpages.co
+# 目标: Direct
 DOMAIN,click.appcast.io
+# 目标: Direct
 DOMAIN,click.avs.io
+# 目标: Direct
 DOMAIN,click.cptrack.de
+# 目标: Direct
 DOMAIN,click.simba.taobao.com
+# 目标: Direct
 DOMAIN,click.trafficguard.ai
+# 目标: Direct
 DOMAIN,click.virt.exacttarget.com
+# 目标: Direct
 DOMAIN,clickattr.wayup.com
+# 目标: Direct
 DOMAIN,cloud.notification-naviextras.com
+# 目标: Direct
 DOMAIN,cm-beacon.nakanohito.jp
+# 目标: Direct
 DOMAIN,cm-widget.nakanohito.jp
+# 目标: Direct
 DOMAIN,cmp.inmobi.com
+# 目标: Direct
 DOMAIN,crm-cdn.peek-cloppenburg.com
+# 目标: Direct
 DOMAIN,cs.silverpop.com
+# 目标: Direct
 DOMAIN,cutcaptcha.com
+# 目标: Direct
 DOMAIN,daikoku.ebis.ne.jp
+# 目标: Direct
 DOMAIN,data.digital.costco.ca
+# 目标: Direct
 DOMAIN,data.digital.costco.com
+# 目标: Direct
 DOMAIN,e.customeriomail.com
+# 目标: Direct
 DOMAIN,email.awscloud.com
+# 目标: Direct
 DOMAIN,email.elitedangerous.com
+# 目标: Direct
 DOMAIN,email.procook.co.uk
+# 目标: Direct
 DOMAIN,envato.market
+# 目标: Direct
 DOMAIN,f-gear.ec-optimizer.com
+# 目标: Direct
 DOMAIN,feed.adrelayer.com
+# 目标: Direct
 DOMAIN,forum.notebookreview.com
+# 目标: Direct
 DOMAIN,gate.first-id.fr
+# 目标: Direct
 DOMAIN,get.neofinancial.com
+# 目标: Direct
 DOMAIN,go.adjust.com
+# 目标: Direct
 DOMAIN,go.scorptec.com.au
+# 目标: Direct
 DOMAIN,goto.target.com
+# 目标: Direct
 DOMAIN,goto.walmart.com
+# 目标: Direct
 DOMAIN,grp07.ias.rakuten.co.jp
+# 目标: Direct
 DOMAIN,gs.statcounter.com
+# 目标: Direct
 DOMAIN,guce.advertising.com
+# 目标: Direct
 DOMAIN,hb.afl.rakuten.co.jp
+# 目标: Direct
 DOMAIN,health.halodoc.com
+# 目标: Direct
 DOMAIN,hidive.com
+# 目标: Direct
 DOMAIN,home.focusatwill.com
+# 目标: Direct
 DOMAIN,href.li
+# 目标: Direct
 DOMAIN,ia.hit.interia.pl
+# 目标: Direct
 DOMAIN,id.i2i.jp
+# 目标: Direct
 DOMAIN,img.ads.tvb.com
+# 目标: Direct
 DOMAIN,infra-api.newrelic.com
+# 目标: Direct
 DOMAIN,intersport.peerius.com
+# 目标: Direct
 DOMAIN,js.monitor.azure.com
+# 目标: Direct
 DOMAIN,learn.khanacademy.org
+# 目标: Direct
 DOMAIN,leechers-paradise.org
+# 目标: Direct
 DOMAIN,link.morningbrew.com
+# 目标: Direct
 DOMAIN,link.sylikes.com
+# 目标: Direct
 DOMAIN,linka.page
+# 目标: Direct
 DOMAIN,links.e.theatlantic.com
+# 目标: Direct
 DOMAIN,links.getblueshift.com
+# 目标: Direct
 DOMAIN,log.mmstat.com
+# 目标: Direct
 DOMAIN,logentries.com
+# 目标: Direct
 DOMAIN,login.sendpulse.com
+# 目标: Direct
 DOMAIN,ma135-r.analytics.edgekey.net
+# 目标: Direct
 DOMAIN,marketing.net.idealo-partner.com
+# 目标: Direct
 DOMAIN,media-consumer365.desigual.com
+# 目标: Direct
 DOMAIN,my.tealiumiq.com
+# 目标: Direct
 DOMAIN,netatmo.commander1.com
+# 目标: Direct
 DOMAIN,nineto5mac-d.openx.net
+# 目标: Direct
 DOMAIN,oa.tr.line.me
+# 目标: Direct
 DOMAIN,obituaries.therecord.com
+# 目标: Direct
 DOMAIN,official.paymaya.com
+# 目标: Direct
 DOMAIN,omniture.walmart.com
+# 目标: Direct
 DOMAIN,omsc.kpn.com
+# 目标: Direct
 DOMAIN,oneline.nextday.media
+# 目标: Direct
 DOMAIN,pagead.l.doubleclick.net
+# 目标: Direct
 DOMAIN,partner.everydays.de
+# 目标: Direct
 DOMAIN,promo.gramedia.com
+# 目标: Direct
 DOMAIN,proto2ad.durasite.net
+# 目标: Direct
 DOMAIN,pt.afl.rakuten.co.jp
+# 目标: Direct
 DOMAIN,public-cis.exponea.com
+# 目标: Direct
 DOMAIN,px.a8.net
+# 目标: Direct
 DOMAIN,radiofrance.targetspot.com
+# 目标: Direct
 DOMAIN,rd.bizrate.com
+# 目标: Direct
 DOMAIN,recommender.scarabresearch.com
+# 目标: Direct
 DOMAIN,redir.ownpage.fr
+# 目标: Direct
 DOMAIN,redir.tradedoubler.com
+# 目标: Direct
 DOMAIN,redirect.appmetrica.yandex.com
+# 目标: Direct
 DOMAIN,refer.discover.com
+# 目标: Direct
 DOMAIN,remembering.ca
+# 目标: Direct
 DOMAIN,res.ads.nicovideo.jp
+# 目标: Direct
 DOMAIN,sax.sina.com.cn
+# 目标: Direct
 DOMAIN,sbs.demdex.net
+# 目标: Direct
 DOMAIN,secureimage.securedataimages.com
+# 目标: Direct
 DOMAIN,smtp.focusgroupresearch.com
+# 目标: Direct
 DOMAIN,sponsor.nitropay.com
+# 目标: Direct
 DOMAIN,stash.roistat.com
+# 目标: Direct
 DOMAIN,str.hit.gemius.pl
+# 目标: Direct
 DOMAIN,support-beacon.nakanohito.jp
+# 目标: Direct
 DOMAIN,support-widget.nakanohito.jp
+# 目标: Direct
 DOMAIN,surveymyopinion.researchnow.com
+# 目标: Direct
 DOMAIN,tags.crwdcntrl.net
+# 目标: Direct
 DOMAIN,taiga.maven.io
+# 目标: Direct
 DOMAIN,thumbnail.thench.net
+# 目标: Direct
 DOMAIN,tlaol.com
+# 目标: Direct
 DOMAIN,tlh.gedidigital.it
+# 目标: Direct
 DOMAIN,tms.capitalone.com
+# 目标: Direct
 DOMAIN,torimochi.line-apps.com
+# 目标: Direct
 DOMAIN,tr.rdrtr.com
+# 目标: Direct
 DOMAIN,track.rutarget.ru
+# 目标: Direct
 DOMAIN,track.webgains.com
+# 目标: Direct
 DOMAIN,validate.perfdrive.com
+# 目标: Direct
 DOMAIN,vcentry2.valuecommerce.ne.jp
+# 目标: Direct
 DOMAIN,vcentry3.valuecommerce.ne.jp
+# 目标: Direct
 DOMAIN,www.dogpile.com
+# 目标: Direct
 DOMAIN,www.googleadservices.com
+# 目标: Direct
 DOMAIN,www.jdoqocy.com
+# 目标: Direct
 DOMAIN,www.statcounter.com
+# 目标: Direct
 DOMAIN,ad.12306.cn
+# 目标: Direct
 DOMAIN,ain.bgm.tv
+# 目标: Direct
 DOMAIN,alt1-mtalk.google.com
+# 目标: Direct
 DOMAIN,alt2-mtalk.google.com
+# 目标: Direct
 DOMAIN,alt3-mtalk.google.com
+# 目标: Direct
 DOMAIN,alt4-mtalk.google.com
+# 目标: Direct
 DOMAIN,alt5-mtalk.google.com
+# 目标: Direct
 DOMAIN,alt6-mtalk.google.com
+# 目标: Direct
 DOMAIN,alt7-mtalk.google.com
+# 目标: Direct
 DOMAIN,alt8-mtalk.google.com
+# 目标: Direct
 DOMAIN,analytics.95516.com
+# 目标: Direct
 DOMAIN,analytics.strava.com
+# 目标: Direct
 DOMAIN,bdtj.tagtic.cn
+# 目标: Direct
 DOMAIN,cdn.jsdelivr.net
+# 目标: Direct
 DOMAIN,clientservices.googleapis.com
+# 目标: Direct
 DOMAIN,deo.shopeemobile.com
+# 目标: Direct
 DOMAIN,dl.google.com
+# 目标: Direct
 DOMAIN,dl.l.google.com
+# 目标: Direct
 DOMAIN,eco-push-api-client.meiqia.com
+# 目标: Direct
 DOMAIN,errlog.umeng.com
+# 目标: Direct
 DOMAIN,fairplay.l.qq.com
+# 目标: Direct
 DOMAIN,image.maimn.com
+# 目标: Direct
 DOMAIN,img.bfzypic.com
+# 目标: Direct
 DOMAIN,img.ffzypic.com
+# 目标: Direct
 DOMAIN,img.kuaikanzy.net
+# 目标: Direct
 DOMAIN,img.liangzipic.com
+# 目标: Direct
 DOMAIN,init.ess.apple.com
+# 目标: Direct
 DOMAIN,itunes.apple.com
+# 目标: Direct
 DOMAIN,lain.bgm.tv
+# 目标: Direct
 DOMAIN,livew.l.qq.com
+# 目标: Direct
 DOMAIN,m3u8.255tv.tk
+# 目标: Direct
 DOMAIN,m3u8.mstopq.com
+# 目标: Direct
 DOMAIN,msg.umeng.com
+# 目标: Direct
 DOMAIN,msg.umengcloud.com
+# 目标: Direct
 DOMAIN,mtalk.google.com
+# 目标: Direct
 DOMAIN,new-api.meiqia.com
+# 目标: Direct
 DOMAIN,ok.zuidapic.com
+# 目标: Direct
 DOMAIN,origin-a.akamaihd.net
+# 目标: Direct
 DOMAIN,rewards.hypixel.net
+# 目标: Direct
 DOMAIN,sdk.alibaba.com.ailbaba.me
+# 目标: Direct
 DOMAIN,smp-device-content.apple.com
+# 目标: Direct
 DOMAIN,static.jssp.tv
+# 目标: Direct
 DOMAIN,sycm.mmstat.com
+# 目标: Direct
 DOMAIN,tiao.cjkypo.com
+# 目标: Direct
 DOMAIN,time.apple.com
+# 目标: Direct
 DOMAIN,tracking.miui.com
+# 目标: Direct
 DOMAIN,ts.thefilehosting.com
+# 目标: Direct
 DOMAIN,update.googleapis.com
+# 目标: Direct
 DOMAIN,vd.l.qq.com
+# 目标: Direct
 DOMAIN,vi.l.qq.com
+# 目标: Direct
 DOMAIN,vip.ffzyread.com
+# 目标: Direct
 DOMAIN,vip.imgffzy.com
+# 目标: Direct
 DOMAIN-SUFFIX,52pt.site
+# 目标: Direct
 DOMAIN-SUFFIX,acg.rip
+# 目标: Direct
 DOMAIN-SUFFIX,acm.org
+# 目标: Direct
 DOMAIN-SUFFIX,aidoru-online.me
+# 目标: Direct
 DOMAIN-SUFFIX,alpharatio.cc
+# 目标: Direct
 DOMAIN-SUFFIX,animebytes.tv
+# 目标: Direct
 DOMAIN-SUFFIX,anthelion.me
+# 目标: Direct
 DOMAIN-SUFFIX,asiancinema.me
+# 目标: Direct
 DOMAIN-SUFFIX,avgv.cc
+# 目标: Direct
 DOMAIN-SUFFIX,avistaz.to
+# 目标: Direct
 DOMAIN-SUFFIX,awesome-hd.me
+# 目标: Direct
 DOMAIN-SUFFIX,baomitu.com
+# 目标: Direct
 DOMAIN-SUFFIX,beitai.pt
+# 目标: Direct
 DOMAIN-SUFFIX,beyond-hd.me
+# 目标: Direct
 DOMAIN-SUFFIX,bibliotik.me
+# 目标: Direct
 DOMAIN-SUFFIX,blackwell-synergy.com
+# 目标: Direct
 DOMAIN-SUFFIX,blog.google
+# 目标: Direct
 DOMAIN-SUFFIX,blutopia.xyz
+# 目标: Direct
 DOMAIN-SUFFIX,bootcss.com
+# 目标: Direct
 DOMAIN-SUFFIX,broadcasthe.net
+# 目标: Direct
 DOMAIN-SUFFIX,bt.byr.cn
+# 目标: Direct
 DOMAIN-SUFFIX,bt.neu6.edu.cn
+# 目标: Direct
 DOMAIN-SUFFIX,btschool.club
+# 目标: Direct
 DOMAIN-SUFFIX,cabdirect.org
+# 目标: Direct
 DOMAIN-SUFFIX,ccfbits.org
+# 目标: Direct
 DOMAIN-SUFFIX,cgpeers.com
+# 目标: Direct
 DOMAIN-SUFFIX,cinemageddon.net
+# 目标: Direct
 DOMAIN-SUFFIX,cinematik.net
+# 目标: Direct
 DOMAIN-SUFFIX,cinemaz.to
+# 目标: Direct
 DOMAIN-SUFFIX,classix-unlimited.co.uk
+# 目标: Direct
 DOMAIN-SUFFIX,comicat.org
+# 目标: Direct
 DOMAIN-SUFFIX,concertos.live
+# 目标: Direct
 DOMAIN-SUFFIX,dicmusic.club
+# 目标: Direct
 DOMAIN-SUFFIX,discfan.net
+# 目标: Direct
 DOMAIN-SUFFIX,diskstation.me
+# 目标: Direct
 DOMAIN-SUFFIX,dizhensubao.getui.com
+# 目标: Direct
 DOMAIN-SUFFIX,doi.org
+# 目标: Direct
 DOMAIN-SUFFIX,dscloud.biz
+# 目标: Direct
 DOMAIN-SUFFIX,dscloud.me
+# 目标: Direct
 DOMAIN-SUFFIX,dscloud.mobi
+# 目标: Direct
 DOMAIN-SUFFIX,dsmynas.com
+# 目标: Direct
 DOMAIN-SUFFIX,dsmynas.net
+# 目标: Direct
 DOMAIN-SUFFIX,dsmynas.org
+# 目标: Direct
 DOMAIN-SUFFIX,dxdhd.com
+# 目标: Direct
 DOMAIN-SUFFIX,eastgame.org
+# 目标: Direct
 DOMAIN-SUFFIX,empornium.me
+# 目标: Direct
 DOMAIN-SUFFIX,et8.org
+# 目标: Direct
 DOMAIN-SUFFIX,exoticaz.to
+# 目标: Direct
 DOMAIN-SUFFIX,f.video.weibocdn.com
+# 目标: Direct
 DOMAIN-SUFFIX,familyds.com
+# 目标: Direct
 DOMAIN-SUFFIX,familyds.net
+# 目标: Direct
 DOMAIN-SUFFIX,familyds.org
+# 目标: Direct
 DOMAIN-SUFFIX,filelist.io
+# 目标: Direct
 DOMAIN-SUFFIX,fus.cdn.krcom.cn
+# 目标: Direct
 DOMAIN-SUFFIX,gazellegames.net
+# 目标: Direct
 DOMAIN-SUFFIX,gfxpeers.net
+# 目标: Direct
 DOMAIN-SUFFIX,googletraveladservices.com
+# 目标: Direct
 DOMAIN-SUFFIX,hd-space.org
+# 目标: Direct
 DOMAIN-SUFFIX,hd4.xyz
+# 目标: Direct
 DOMAIN-SUFFIX,hd4fans.org
+# 目标: Direct
 DOMAIN-SUFFIX,hdarea.co
+# 目标: Direct
 DOMAIN-SUFFIX,hdatmos.club
+# 目标: Direct
 DOMAIN-SUFFIX,hdbd.us
+# 目标: Direct
 DOMAIN-SUFFIX,hdbits.org
+# 目标: Direct
 DOMAIN-SUFFIX,hdchina.org
+# 目标: Direct
 DOMAIN-SUFFIX,hdcity.city
+# 目标: Direct
 DOMAIN-SUFFIX,hddolby.com
+# 目标: Direct
 DOMAIN-SUFFIX,hdfans.org
+# 目标: Direct
 DOMAIN-SUFFIX,hdhome.org
+# 目标: Direct
 DOMAIN-SUFFIX,hdpost.top
+# 目标: Direct
 DOMAIN-SUFFIX,hdroute.org
+# 目标: Direct
 DOMAIN-SUFFIX,hdsky.me
+# 目标: Direct
 DOMAIN-SUFFIX,hdtime.org
+# 目标: Direct
 DOMAIN-SUFFIX,hdupt.com
+# 目标: Direct
 DOMAIN-SUFFIX,hdzone.me
+# 目标: Direct
 DOMAIN-SUFFIX,hitpt.com
+# 目标: Direct
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
+# 目标: Direct
 DOMAIN-SUFFIX,i234.me
+# 目标: Direct
 DOMAIN-SUFFIX,icetorrent.org
+# 目标: Direct
 DOMAIN-SUFFIX,ieee.org
+# 目标: Direct
 DOMAIN-SUFFIX,j99.info
+# 目标: Direct
 DOMAIN-SUFFIX,jiasule.com
+# 目标: Direct
 DOMAIN-SUFFIX,joyhd.net
+# 目标: Direct
 DOMAIN-SUFFIX,jpopsuki.eu
+# 目标: Direct
 DOMAIN-SUFFIX,jstor.org
+# 目标: Direct
 DOMAIN-SUFFIX,karagarga.in
+# 目标: Direct
 DOMAIN-SUFFIX,keepfrds.com
+# 目标: Direct
 DOMAIN-SUFFIX,koodomobile.ca
+# 目标: Direct
 DOMAIN-SUFFIX,koodomobile.com
+# 目标: Direct
 DOMAIN-SUFFIX,leaguehd.com
+# 目标: Direct
 DOMAIN-SUFFIX,lztr.me
+# 目标: Direct
 DOMAIN-SUFFIX,m-team.cc
+# 目标: Direct
 DOMAIN-SUFFIX,madsrevolution.net
+# 目标: Direct
 DOMAIN-SUFFIX,moecat.best
+# 目标: Direct
 DOMAIN-SUFFIX,msg.vg
+# 目标: Direct
 DOMAIN-SUFFIX,myanonamouse.net
+# 目标: Direct
 DOMAIN-SUFFIX,myds.me
+# 目标: Direct
 DOMAIN-SUFFIX,nanyangpt.com
+# 目标: Direct
 DOMAIN-SUFFIX,nature.com
+# 目标: Direct
 DOMAIN-SUFFIX,ncore.cc
+# 目标: Direct
 DOMAIN-SUFFIX,nebulance.io
+# 目标: Direct
 DOMAIN-SUFFIX,nicept.net
+# 目标: Direct
 DOMAIN-SUFFIX,npupt.com
+# 目标: Direct
 DOMAIN-SUFFIX,ol.epicgames.com
+# 目标: Direct
 DOMAIN-SUFFIX,open.cd
+# 目标: Direct
 DOMAIN-SUFFIX,oppaiti.me
+# 目标: Direct
 DOMAIN-SUFFIX,orpheus.network
+# 目标: Direct
 DOMAIN-SUFFIX,osapublishing.org
+# 目标: Direct
 DOMAIN-SUFFIX,oup.com
+# 目标: Direct
 DOMAIN-SUFFIX,ourbits.club
+# 目标: Direct
 DOMAIN-SUFFIX,passthepopcorn.me
+# 目标: Direct
 DOMAIN-SUFFIX,pornbits.net
+# 目标: Direct
 DOMAIN-SUFFIX,privatehd.to
+# 目标: Direct
 DOMAIN-SUFFIX,pterclub.com
+# 目标: Direct
 DOMAIN-SUFFIX,pthome.net
+# 目标: Direct
 DOMAIN-SUFFIX,ptsbao.club
+# 目标: Direct
 DOMAIN-SUFFIX,redacted.ch
+# 目标: Direct
 DOMAIN-SUFFIX,researchgate.net
+# 目标: Direct
 DOMAIN-SUFFIX,sciencemag.org
+# 目标: Direct
 DOMAIN-SUFFIX,scopus.com
+# 目标: Direct
 DOMAIN-SUFFIX,sdbits.org
+# 目标: Direct
 DOMAIN-SUFFIX,skyey2.com
+# 目标: Direct
 DOMAIN-SUFFIX,soulvoice.club
+# 目标: Direct
 DOMAIN-SUFFIX,springer.com
+# 目标: Direct
 DOMAIN-SUFFIX,springernature.com
+# 目标: Direct
 DOMAIN-SUFFIX,springsunday.net
+# 目标: Direct
 DOMAIN-SUFFIX,staticfile.org
+# 目标: Direct
 DOMAIN-SUFFIX,synology.me
+# 目标: Direct
 DOMAIN-SUFFIX,tjupt.org
+# 目标: Direct
 DOMAIN-SUFFIX,totheglory.im
+# 目标: Direct
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+# 目标: Direct
 DOMAIN-SUFFIX,trontv.com
+# 目标: Direct
 DOMAIN-SUFFIX,uhdbits.org
+# 目标: Direct
 DOMAIN-SUFFIX,upaiyun.com
+# 目标: Direct
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
+# 目标: Direct
 DOMAIN-SUFFIX,weather-data.apple.com
+# 目标: Direct
 DOMAIN-SUFFIX,weather-map.apple.com
+# 目标: Direct
 DOMAIN-SUFFIX,wiley.com
+# 目标: Direct
 DOMAIN-SUFFIX,xunlei.com
+# 目标: Direct
 DOMAIN-KEYWORD,amp-api.podcasts.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,anti-ad.net
+# 目标: Direct
 DOMAIN-KEYWORD,api-adservices.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,api.smoot.apple.cn
+# 目标: Direct
 DOMAIN-KEYWORD,api.smoot.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,aw-s.tripcdn.com
+# 目标: Direct
 DOMAIN-KEYWORD,ax1x.com
+# 目标: Direct
 DOMAIN-KEYWORD,bfzycdn.com
+# 目标: Direct
 DOMAIN-KEYWORD,buy.itunes.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,cnki.net
+# 目标: Direct
 DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
+# 目标: Direct
 DOMAIN-KEYWORD,deepdyve
+# 目标: Direct
 DOMAIN-KEYWORD,els-cdn
+# 目标: Direct
 DOMAIN-KEYWORD,elsevier
+# 目标: Direct
 DOMAIN-KEYWORD,ess.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,gsa.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,humb.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,icloud.com
+# 目标: Direct
 DOMAIN-KEYWORD,ls.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,o.lencr.org
+# 目标: Direct
 DOMAIN-KEYWORD,pkulaw
+# 目标: Direct
 DOMAIN-KEYWORD,push.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,readcube
+# 目标: Direct
 DOMAIN-KEYWORD,sciencedirect
+# 目标: Direct
 DOMAIN-KEYWORD,ssl.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,trip.com
+# 目标: Direct
 DOMAIN-KEYWORD,ttcdn-tos.kkimg.cc
+# 目标: Direct
 DOMAIN-KEYWORD,vip.ffzy-online
+# 目标: Direct
 DOMAIN-KEYWORD,vip.ffzy-play
+# 目标: Direct
 DOMAIN-KEYWORD,vip.kuaikan-cdn
+# 目标: Direct
 DOMAIN-KEYWORD,vip.lz-cdn
+# 目标: Direct
 DOMAIN-KEYWORD,wanfangdata
+# 目标: Direct
 DOMAIN-KEYWORD,wb_ad
+# 目标: Direct
 DOMAIN-KEYWORD,weather-adge.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,weather-edge.apple.com
+# 目标: Direct
 DOMAIN-KEYWORD,westlawchina
+# 目标: Direct
 USER-AGENT,%E8%BF%85%E9%9B%B7

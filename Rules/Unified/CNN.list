@@ -1,9 +1,15 @@
 # 统一规则库 | 分类: CNN
 # 合并来源: blackmatrix7/ios_rule_script CNN
 # 规则数: 6
+# 目标: CNN
 DOMAIN-SUFFIX,cnn.com
+# 目标: CNN
 DOMAIN-SUFFIX,cnn.io
+# 目标: CNN
 DOMAIN-SUFFIX,cnn.it
+# 目标: CNN
 DOMAIN-SUFFIX,cnnarabic.com
+# 目标: CNN
 DOMAIN-SUFFIX,cnnlabs.com
+# 目标: CNN
 DOMAIN-SUFFIX,cnnmoney.ch

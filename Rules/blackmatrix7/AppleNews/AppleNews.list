@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AppleNews/AppleNews.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleNews/AppleNews.list
 # 规则数: 2
+# 目标: AppleNews
 DOMAIN,gspe1-ssl.ls.apple.com
+# 目标: AppleNews
 DOMAIN,news-client-search.apple.com

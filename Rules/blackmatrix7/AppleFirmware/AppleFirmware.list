@@ -1,177 +1,351 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AppleFirmware/AppleFirmware.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AppleFirmware/AppleFirmware.list
 # 规则数: 174
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co.cr
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co.ni
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co.ve
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.com.co
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.com.hn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.com.ni
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.com.ve
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cr
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.gt
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.hn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,aaplimg.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,app-store.wang
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appe-store.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,apple-appstore.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,apple-icloud.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,apple-itunes.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,apple-pay.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,apple-pay.rs
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,apple-pay.wang
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleaccount.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleappstore.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleappstore.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleappstore.tv
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appledarwin.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appledarwin.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleicloud.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleid-applemx.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleid-applemx.us
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleid-iclou.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleid-uk.us
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleid.berlin
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleid.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleid.hamburg
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleid.hk
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applemx-icloud.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.audio
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.blog
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.chat
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.cloud
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.club
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.community
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.film
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.guide
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.host
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.space
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.tech
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appleone.website
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepay.berlin
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepay.co.rs
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepay.com.tw
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepay.hamburg
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepay.hk
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepay.info
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepay.jp
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepay.rs
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepay.tv
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaycash.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaycash.com.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaycash.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaycash.tv
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaymerchantsupplies.info
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaysupplies.berlin
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaysupplies.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaysupplies.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaysupplies.com.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaysupplies.info
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaysupplies.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applepaysupplies.tv
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applewallet.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,applewallet.tv
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appsto.re
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appstore.co.id
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appstore.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appstore.hk
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appstore.my
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appstore.ph
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,appstoreapple.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,asto.re
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,crashlytics.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,darwinsource.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,darwinsource.org
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,darwinsourcecode.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud-apple.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud-content.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud-isupport.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud-sandbox.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.ch
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.com.akadns.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.com.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.de
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.ee
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.fi
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.fr
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.hu
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.ie
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.is
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.jp
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.lv
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.net.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.om
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.org
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.pt
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.ro
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.se
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.si
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.sk
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloud.vn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudads.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudapple.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudbox.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudbrowser.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloude.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudhome.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudmail.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudmusic.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudnet.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudo.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudo.de
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudo.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudos.de
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudos.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudpay.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudsecure.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,icloudsetup.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,ids-apple.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,ios-icloud.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itun.es
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunbes.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,ituneas.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes-apple.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes-radio.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes.ca
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes.co
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes.co.th
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes.hk
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes.mx
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes.org
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes.rio
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes.us
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunes12days.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesapple.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesessentials.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesfestivals.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesiradio.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,ituneslatino.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,ituneslogin.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesmatch.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesparty.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesradio.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesradio.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesradio.com.cn
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesradio.rio
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesradio.tv
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesradio.tw
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesstore.co
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesu.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,itunesu.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,iutunes.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,me.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,myappleid.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,myicloud.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,mylcloud.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,tvappstore.net
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,wwwicloud.com
+# 目标: AppleFirmware
 DOMAIN-SUFFIX,wwwitunes.com

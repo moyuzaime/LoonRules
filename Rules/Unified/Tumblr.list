@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Tumblr
 # 合并来源: blackmatrix7/ios_rule_script Tumblr
 # 规则数: 3
+# 目标: Tumblr
 DOMAIN-SUFFIX,tmblr.co
+# 目标: Tumblr
 DOMAIN-SUFFIX,tumblr.co
+# 目标: Tumblr
 DOMAIN-SUFFIX,tumblr.com

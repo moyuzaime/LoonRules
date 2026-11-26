@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: Gitee
 # 合并来源: blackmatrix7/ios_rule_script Gitee
 # 规则数: 2
+# 目标: Gitee
 DOMAIN-SUFFIX,gitee.com
+# 目标: Gitee
 DOMAIN-SUFFIX,gitee.io

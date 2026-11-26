@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Scaleflex
 # 合并来源: blackmatrix7/ios_rule_script Scaleflex
 # 规则数: 3
+# 目标: Scaleflex
 DOMAIN-SUFFIX,cloudimage.io
+# 目标: Scaleflex
 DOMAIN-SUFFIX,cloudimg.io
+# 目标: Scaleflex
 DOMAIN-SUFFIX,scaleflex.com

@@ -1,17 +1,31 @@
 # 统一规则库 | 分类: Overwatch
 # 合并来源: blackmatrix7/ios_rule_script Overwatch
 # 规则数: 14
+# 目标: Overwatch
 IP-CIDR,185.60.112.157/32,no-resolve
+# 目标: Overwatch
 IP-CIDR,185.60.114.159/32,no-resolve
+# 目标: Overwatch
 IP-CIDR,203.66.81.98/32,no-resolve
+# 目标: Overwatch
 IP-CIDR,211.234.110.1/32,no-resolve
+# 目标: Overwatch
 IP-CIDR,24.105.30.129/32,no-resolve
+# 目标: Overwatch
 IP-CIDR,24.105.62.129/32,no-resolve
+# 目标: Overwatch
 IP-CIDR,54.207.107.12/32,no-resolve
+# 目标: Overwatch
 IP-CIDR,185.60.112.157/32
+# 目标: Overwatch
 IP-CIDR,185.60.114.159/32
+# 目标: Overwatch
 IP-CIDR,203.66.81.98/32
+# 目标: Overwatch
 IP-CIDR,211.234.110.1/32
+# 目标: Overwatch
 IP-CIDR,24.105.30.129/32
+# 目标: Overwatch
 IP-CIDR,24.105.62.129/32
+# 目标: Overwatch
 IP-CIDR,54.207.107.12/32

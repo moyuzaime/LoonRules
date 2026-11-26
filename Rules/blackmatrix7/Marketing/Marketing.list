@@ -1,59 +1,116 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Marketing/Marketing.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Marketing/Marketing.list
+# 说明: 思杰马克丁软件
 # 规则数: 56
+# 目标: Marketing
 DOMAIN-SUFFIX,4009997658.com
+# 目标: Marketing
 DOMAIN-SUFFIX,abbyychina.com
+# 目标: Marketing
 DOMAIN-SUFFIX,bartender.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,betterzip.net
+# 目标: Marketing
 DOMAIN-SUFFIX,betterzipcn.com
+# 目标: Marketing
 DOMAIN-SUFFIX,beyondcompare.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,bingdianhuanyuan.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,chemdraw.com.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,cjmakeding.com
+# 目标: Marketing
 DOMAIN-SUFFIX,cjmkt.com
+# 目标: Marketing
 DOMAIN-SUFFIX,codesoftchina.com
+# 目标: Marketing
 DOMAIN-SUFFIX,coreldrawchina.com
+# 目标: Marketing
 DOMAIN-SUFFIX,crossoverchina.com
+# 目标: Marketing
 DOMAIN-SUFFIX,dongmansoft.com
+# 目标: Marketing
 DOMAIN-SUFFIX,earmasterchina.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,easyrecoverychina.com
+# 目标: Marketing
 DOMAIN-SUFFIX,ediuschina.com
+# 目标: Marketing
 DOMAIN-SUFFIX,flstudiochina.com
+# 目标: Marketing
 DOMAIN-SUFFIX,formysql.com
+# 目标: Marketing
 DOMAIN-SUFFIX,guitarpro.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,huishenghuiying.com.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,hypersnap.net
+# 目标: Marketing
 DOMAIN-SUFFIX,iconworkshop.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,imindmap.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,jihehuaban.com.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,keyshot.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,kingdeecn.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,logoshejishi.com
+# 目标: Marketing
 DOMAIN-SUFFIX,luping.net.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,mairuan.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,mairuan.com
+# 目标: Marketing
 DOMAIN-SUFFIX,mairuan.com.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,mairuan.net
+# 目标: Marketing
 DOMAIN-SUFFIX,mairuanwang.com
+# 目标: Marketing
 DOMAIN-SUFFIX,makeding.com
+# 目标: Marketing
 DOMAIN-SUFFIX,mathtype.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,mindmanager.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,mindmanager.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,mindmapper.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,mycleanmymac.com
+# 目标: Marketing
 DOMAIN-SUFFIX,nicelabel.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,ntfsformac.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,ntfsformac.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,overturechina.com
+# 目标: Marketing
 DOMAIN-SUFFIX,passwordrecovery.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,pdfexpert.cc
+# 目标: Marketing
 DOMAIN-SUFFIX,photozoomchina.com
+# 目标: Marketing
 DOMAIN-SUFFIX,shankejingling.com
+# 目标: Marketing
 DOMAIN-SUFFIX,ultraiso.net
+# 目标: Marketing
 DOMAIN-SUFFIX,vegaschina.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,xmindchina.net
+# 目标: Marketing
 DOMAIN-SUFFIX,xshellcn.com
+# 目标: Marketing
 DOMAIN-SUFFIX,yihuifu.cn
+# 目标: Marketing
 DOMAIN-SUFFIX,yuanchengxiezuo.com
+# 目标: Marketing
 DOMAIN-SUFFIX,zbrushcn.com
+# 目标: Marketing
 DOMAIN-SUFFIX,zhzzx.com

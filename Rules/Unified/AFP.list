@@ -1,5 +1,7 @@
 # 统一规则库 | 分类: AFP
 # 合并来源: blackmatrix7/ios_rule_script AFP
 # 规则数: 2
+# 目标: AFP
 DOMAIN-SUFFIX,afp.com
+# 目标: AFP
 DOMAIN-SUFFIX,afpforum.com

@@ -1,5 +1,7 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/LondonReal/LondonReal.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/LondonReal/LondonReal.list
 # 规则数: 2
+# 目标: LondonReal
 DOMAIN-SUFFIX,freedomplatform.tv
+# 目标: LondonReal
 DOMAIN-SUFFIX,londonreal.tv

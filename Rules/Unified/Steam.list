@@ -1,84 +1,165 @@
 # 统一规则库 | 分类: Steam
 # 合并来源: blackmatrix7/ios_rule_script Steam
 # 规则数: 81
+# 目标: Steam
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+# 目标: Steam
 DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+# 目标: Steam
 DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+# 目标: Steam
 DOMAIN-SUFFIX,csgo.wmsj.cn
+# 目标: Steam
 DOMAIN-SUFFIX,dl.steam.clngaa.com
+# 目标: Steam
 DOMAIN-SUFFIX,dl.steam.ksyna.com
+# 目标: Steam
 DOMAIN-SUFFIX,dota2.com
+# 目标: Steam
 DOMAIN-SUFFIX,dota2.wmsj.cn
+# 目标: Steam
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+# 目标: Steam
 DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
+# 目标: Steam
 DOMAIN-SUFFIX,fanatical.com
+# 目标: Steam
 DOMAIN-SUFFIX,humblebundle.com
+# 目标: Steam
 DOMAIN-SUFFIX,playartifact.com
+# 目标: Steam
 DOMAIN-SUFFIX,s.team
+# 目标: Steam
 DOMAIN-SUFFIX,st.dl.bscstorage.net
+# 目标: Steam
 DOMAIN-SUFFIX,st.dl.eccdnx.com
+# 目标: Steam
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+# 目标: Steam
 DOMAIN-SUFFIX,steam-api.com
+# 目标: Steam
 DOMAIN-SUFFIX,steam-chat.com
+# 目标: Steam
 DOMAIN-SUFFIX,steam.apac.qtlglb.com
+# 目标: Steam
 DOMAIN-SUFFIX,steam.cdn.on.net
+# 目标: Steam
 DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
+# 目标: Steam
 DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
+# 目标: Steam
 DOMAIN-SUFFIX,steam.cdn.webra.ru
+# 目标: Steam
 DOMAIN-SUFFIX,steam.eca.qtlglb.com
+# 目标: Steam
 DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+# 目标: Steam
 DOMAIN-SUFFIX,steam.ru.qtlglb.com
+# 目标: Steam
 DOMAIN-SUFFIX,steam.tv
+# 目标: Steam
 DOMAIN-SUFFIX,steambroadcast.akamaized.net
+# 目标: Steam
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+# 目标: Steam
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+# 目标: Steam
 DOMAIN-SUFFIX,steamcommunity.com
+# 目标: Steam
 DOMAIN-SUFFIX,steamconnecttest.com
+# 目标: Steam
 DOMAIN-SUFFIX,steamcontent.tnkjmec.com
+# 目标: Steam
 DOMAIN-SUFFIX,steamdeck.com
+# 目标: Steam
 DOMAIN-SUFFIX,steamgames.com
+# 目标: Steam
 DOMAIN-SUFFIX,steammobile.akamaized.net
+# 目标: Steam
 DOMAIN-SUFFIX,steampipe-kr.akamaized.net
+# 目标: Steam
 DOMAIN-SUFFIX,steampipe-partner.akamaized.net
+# 目标: Steam
 DOMAIN-SUFFIX,steampipe.akamaized.net
+# 目标: Steam
 DOMAIN-SUFFIX,steampowered.com
+# 目标: Steam
 DOMAIN-SUFFIX,steampowered.com.8686c.com
+# 目标: Steam
 DOMAIN-SUFFIX,steamstat.us
+# 目标: Steam
 DOMAIN-SUFFIX,steamstatic.com
+# 目标: Steam
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
+# 目标: Steam
 DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+# 目标: Steam
 DOMAIN-SUFFIX,steamunlocked.net
+# 目标: Steam
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+# 目标: Steam
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+# 目标: Steam
 DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
+# 目标: Steam
 DOMAIN-SUFFIX,underlords.com
+# 目标: Steam
 DOMAIN-SUFFIX,valve.net
+# 目标: Steam
 DOMAIN-SUFFIX,valvesoftware.com
+# 目标: Steam
 DOMAIN-SUFFIX,wmsjsteam.com
+# 目标: Steam
 DOMAIN-KEYWORD,steambroadcast
+# 目标: Steam
 DOMAIN-KEYWORD,steamstore
+# 目标: Steam
 DOMAIN-KEYWORD,steamuserimages
+# 目标: Steam
 IP-CIDR,103.10.124.0/23,no-resolve
+# 目标: Steam
 IP-CIDR,103.28.54.0/24,no-resolve
+# 目标: Steam
 IP-CIDR,146.66.152.0/24,no-resolve
+# 目标: Steam
 IP-CIDR,146.66.155.0/24,no-resolve
+# 目标: Steam
 IP-CIDR,155.133.224.0/19,no-resolve
+# 目标: Steam
 IP-CIDR,162.254.192.0/21,no-resolve
+# 目标: Steam
 IP-CIDR,185.25.180.0/22,no-resolve
+# 目标: Steam
 IP-CIDR,192.69.96.0/22,no-resolve
+# 目标: Steam
 IP-CIDR,205.196.6.0/24,no-resolve
+# 目标: Steam
 IP-CIDR,208.64.200.0/22,no-resolve
+# 目标: Steam
 IP-CIDR,208.78.164.0/22,no-resolve
+# 目标: Steam
 IP-CIDR,45.121.184.0/24,no-resolve
+# 目标: Steam
 IP-CIDR,103.10.124.0/23
+# 目标: Steam
 IP-CIDR,103.28.54.0/24
+# 目标: Steam
 IP-CIDR,146.66.152.0/24
+# 目标: Steam
 IP-CIDR,146.66.155.0/24
+# 目标: Steam
 IP-CIDR,155.133.224.0/19
+# 目标: Steam
 IP-CIDR,162.254.192.0/21
+# 目标: Steam
 IP-CIDR,185.25.180.0/22
+# 目标: Steam
 IP-CIDR,192.69.96.0/22
+# 目标: Steam
 IP-CIDR,205.196.6.0/24
+# 目标: Steam
 IP-CIDR,208.64.200.0/22
+# 目标: Steam
 IP-CIDR,208.78.164.0/22
+# 目标: Steam
 IP-CIDR,45.121.184.0/24

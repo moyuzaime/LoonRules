@@ -1,14 +1,26 @@
 # 统一规则库 | 分类: XueQiu
 # 合并来源: blackmatrix7/ios_rule_script XueQiu
+# 说明: 雪球
 # 规则数: 11
+# 目标: XueQiu
 DOMAIN-SUFFIX,aiganggu.com
+# 目标: XueQiu
 DOMAIN-SUFFIX,danjuanapp.com
+# 目标: XueQiu
 DOMAIN-SUFFIX,danjuanfunds.com
+# 目标: XueQiu
 DOMAIN-SUFFIX,iganggu.com
+# 目标: XueQiu
 DOMAIN-SUFFIX,imedao.com
+# 目标: XueQiu
 DOMAIN-SUFFIX,imeigu.cn
+# 目标: XueQiu
 DOMAIN-SUFFIX,imeigu.com.cn
+# 目标: XueQiu
 DOMAIN-SUFFIX,ncfjj.com
+# 目标: XueQiu
 DOMAIN-SUFFIX,snowballfinance.com
+# 目标: XueQiu
 DOMAIN-SUFFIX,snowballsecurities.com
+# 目标: XueQiu
 DOMAIN-SUFFIX,xueqiu.com

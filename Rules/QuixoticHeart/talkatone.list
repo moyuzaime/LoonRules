@@ -1,20 +1,37 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/talkatone.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/talkatone.list
 # 规则数: 17
+# 目标: talkatone
 DOMAIN-SUFFIX,agkn.com
+# 目标: talkatone
 DOMAIN-SUFFIX,cohere.com
+# 目标: talkatone
 DOMAIN-SUFFIX,crashlytics.com
+# 目标: talkatone
 DOMAIN-SUFFIX,inmobi.com
+# 目标: talkatone
 DOMAIN-SUFFIX,inner-active.mobi
+# 目标: talkatone
 DOMAIN-SUFFIX,ip-api.com
+# 目标: talkatone
 DOMAIN-SUFFIX,kochava.com
+# 目标: talkatone
 DOMAIN-SUFFIX,mobilefuse.com
+# 目标: talkatone
 DOMAIN-SUFFIX,talkatone.com
+# 目标: talkatone
 DOMAIN-SUFFIX,tenor.com
+# 目标: talkatone
 DOMAIN-SUFFIX,tktn.at
+# 目标: talkatone
 DOMAIN-SUFFIX,tktn.be
+# 目标: talkatone
 IP-CIDR,205.164.56.0/24,no-resolve
+# 目标: talkatone
 IP-CIDR,216.172.154.0/24,no-resolve
+# 目标: talkatone
 IP-CIDR,50.117.27.0/24,no-resolve
+# 目标: talkatone
 IP-CIDR,63.251.124.0/24,no-resolve
+# 目标: talkatone
 IP-CIDR,69.46.75.0/24,no-resolve

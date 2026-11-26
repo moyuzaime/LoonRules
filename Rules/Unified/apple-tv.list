@@ -1,14 +1,25 @@
 # 统一规则库 | 分类: apple-tv
 # 合并来源: QuixoticHeart/rule-set apple-tv; blackmatrix7/ios_rule_script AppleTV
 # 规则数: 11
+# 目标: apple-tv
 DOMAIN,apple-tv-plus-press.apple.com
+# 目标: apple-tv
 DOMAIN,hls-amt.itunes.apple.com
+# 目标: apple-tv
 DOMAIN,hls.itunes.apple.com
+# 目标: apple-tv
 DOMAIN,np-edge.itunes.apple.com
+# 目标: apple-tv
 DOMAIN,play-edge.itunes.apple.com
+# 目标: apple-tv
 DOMAIN,tv.applemusic.com
+# 目标: apple-tv
 DOMAIN,uts-api.itunes.apple.com
+# 目标: apple-tv
 DOMAIN-SUFFIX,tv.apple.com
+# 目标: apple-tv
 PROCESS-NAME,TV
+# 目标: apple-tv
 USER-AGENT,AppleTV*
+# 目标: apple-tv
 USER-AGENT,com.apple.tv*

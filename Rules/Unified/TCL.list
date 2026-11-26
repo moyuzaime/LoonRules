@@ -1,10 +1,17 @@
 # 统一规则库 | 分类: TCL
 # 合并来源: blackmatrix7/ios_rule_script TCL
 # 规则数: 7
+# 目标: TCL
 DOMAIN-SUFFIX,alcatel-home.com
+# 目标: TCL
 DOMAIN-SUFFIX,alcatelmobile.com
+# 目标: TCL
 DOMAIN-SUFFIX,blackberry.com
+# 目标: TCL
 DOMAIN-SUFFIX,hmeng.cn
+# 目标: TCL
 DOMAIN-SUFFIX,hmeng.net.cn
+# 目标: TCL
 DOMAIN-SUFFIX,tcl.com
+# 目标: TCL
 DOMAIN-SUFFIX,tcl.com.cn

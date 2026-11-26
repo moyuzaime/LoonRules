@@ -1,187 +1,371 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/youtube.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/youtube.list
 # 规则数: 184
+# 目标: youtube
 DOMAIN,yt3.googleusercontent.com
+# 目标: youtube
 DOMAIN-SUFFIX,ggpht.cn
+# 目标: youtube
 DOMAIN-SUFFIX,ggpht.com
+# 目标: youtube
 DOMAIN-SUFFIX,googlevideo.com
+# 目标: youtube
 DOMAIN-SUFFIX,gvt1.com
+# 目标: youtube
 DOMAIN-SUFFIX,gvt2.com
+# 目标: youtube
 DOMAIN-SUFFIX,video.google.com
+# 目标: youtube
 DOMAIN-SUFFIX,wide-youtube.l.google.com
+# 目标: youtube
 DOMAIN-SUFFIX,withyoutube.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtu.be
+# 目标: youtube
 DOMAIN-SUFFIX,youtube
+# 目标: youtube
 DOMAIN-SUFFIX,youtube-nocookie.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtube-ui.l.google.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ae
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.al
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.am
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.at
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.az
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ba
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.be
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.bg
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.bh
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.bo
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.by
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ca
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.cat
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ch
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.cl
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.ae
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.at
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.cr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.hu
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.id
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.il
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.in
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.jp
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.ke
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.kr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.ma
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.nz
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.th
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.tz
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.ug
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.uk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.ve
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.za
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.co.zw
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ar
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.au
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.az
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.bd
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.bh
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.bo
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.br
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.by
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.co
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.do
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ec
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ee
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.eg
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.es
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.gh
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.gr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.gt
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.hk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.hn
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.hr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.jm
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.jo
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.kw
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.lb
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.lv
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ly
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.mk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.mt
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.mx
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.my
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ng
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ni
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.om
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.pa
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.pe
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ph
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.pk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.pt
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.py
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.qa
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ro
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.sa
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.sg
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.sv
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.tn
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.tr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.tw
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ua
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.uy
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.com.ve
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.cr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.cz
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.de
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.dk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ee
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.es
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.fi
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.fr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ge
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.googleapis.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.gr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.gt
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.hk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.hr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.hu
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ie
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.in
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.iq
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.is
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.it
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.jo
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.jp
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.kr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.kz
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.la
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.lk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.lt
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.lu
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.lv
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ly
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ma
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.md
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.me
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.mk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.mn
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.mx
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.my
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ng
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ni
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.nl
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.no
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.pa
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.pe
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ph
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.pk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.pl
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.pr
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.pt
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.qa
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ro
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.rs
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ru
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.sa
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.se
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.sg
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.si
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.sk
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.sn
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.soy
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.sv
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.tn
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.tv
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ua
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.ug
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.uy
+# 目标: youtube
 DOMAIN-SUFFIX,youtube.vn
+# 目标: youtube
 DOMAIN-SUFFIX,youtubeeducation.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtubefanfest.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtubegaming.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtubego.co.id
+# 目标: youtube
 DOMAIN-SUFFIX,youtubego.co.in
+# 目标: youtube
 DOMAIN-SUFFIX,youtubego.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtubego.com.br
+# 目标: youtube
 DOMAIN-SUFFIX,youtubego.id
+# 目标: youtube
 DOMAIN-SUFFIX,youtubego.in
+# 目标: youtube
 DOMAIN-SUFFIX,youtubei.googleapis.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtubekids.com
+# 目标: youtube
 DOMAIN-SUFFIX,youtubemobilesupport.com
+# 目标: youtube
 DOMAIN-SUFFIX,yt.be
+# 目标: youtube
 DOMAIN-SUFFIX,ytimg.com
+# 目标: youtube
 DOMAIN-KEYWORD,youtube
+# 目标: youtube
 IP-CIDR,172.110.32.0/21,no-resolve
+# 目标: youtube
 IP-CIDR,216.73.80.0/20,no-resolve
+# 目标: youtube
 IP-CIDR6,2620:120:e000::/40,no-resolve

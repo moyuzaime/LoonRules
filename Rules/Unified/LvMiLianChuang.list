@@ -1,9 +1,16 @@
 # 统一规则库 | 分类: LvMiLianChuang
 # 合并来源: blackmatrix7/ios_rule_script LvMiLianChuang
+# 说明: 绿米联创
 # 规则数: 6
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,aqara.cn
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,aqara.com
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,aqara.com.cn
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,lumiunited.cn
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,lumiunited.com
+# 目标: LvMiLianChuang
 DOMAIN-SUFFIX,lumiunited.com.cn

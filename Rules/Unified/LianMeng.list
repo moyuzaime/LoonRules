@@ -1,16 +1,30 @@
 # 统一规则库 | 分类: LianMeng
 # 合并来源: blackmatrix7/ios_rule_script LianMeng
+# 说明: 脸萌
 # 规则数: 13
+# 目标: LianMeng
 DOMAIN-SUFFIX,2333333333333.com
+# 目标: LianMeng
 DOMAIN-SUFFIX,bqtalk.com
+# 目标: LianMeng
 DOMAIN-SUFFIX,faceu.com
+# 目标: LianMeng
 DOMAIN-SUFFIX,faceu.com.cn
+# 目标: LianMeng
 DOMAIN-SUFFIX,faceu.mobi
+# 目标: LianMeng
 DOMAIN-SUFFIX,faceu.net
+# 目标: LianMeng
 DOMAIN-SUFFIX,heycan.com
+# 目标: LianMeng
 DOMAIN-SUFFIX,qmoji.mobi
+# 目标: LianMeng
 DOMAIN-SUFFIX,qmoji.net
+# 目标: LianMeng
 DOMAIN-SUFFIX,ulikecam.cn
+# 目标: LianMeng
 DOMAIN-SUFFIX,ulikecam.com
+# 目标: LianMeng
 DOMAIN-SUFFIX,ulikecam.mobi
+# 目标: LianMeng
 DOMAIN-SUFFIX,ulikecam.net

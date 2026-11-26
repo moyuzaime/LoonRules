@@ -1,7 +1,12 @@
 # 统一规则库 | 分类: CGB
 # 合并来源: blackmatrix7/ios_rule_script CGB
+# 说明: 广发银行
 # 规则数: 4
+# 目标: CGB
 DOMAIN-SUFFIX,95508.com
+# 目标: CGB
 DOMAIN-SUFFIX,cgbchina.cn
+# 目标: CGB
 DOMAIN-SUFFIX,cgbchina.com.cn
+# 目标: CGB
 DOMAIN-SUFFIX,gdb.com.cn

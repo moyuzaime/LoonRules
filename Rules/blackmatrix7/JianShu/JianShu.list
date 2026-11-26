@@ -1,8 +1,14 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/JianShu/JianShu.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JianShu/JianShu.list
+# 说明: 简书
 # 规则数: 5
+# 目标: JianShu
 DOMAIN-SUFFIX,baijii.com
+# 目标: JianShu
 DOMAIN-SUFFIX,jianshu.com
+# 目标: JianShu
 DOMAIN-SUFFIX,jianshu.io
+# 目标: JianShu
 DOMAIN-SUFFIX,jianshuapi.com
+# 目标: JianShu
 DOMAIN-SUFFIX,shengmingfa.com

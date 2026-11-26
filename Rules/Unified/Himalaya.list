@@ -1,21 +1,40 @@
 # 统一规则库 | 分类: Himalaya
 # 合并来源: blackmatrix7/ios_rule_script Himalaya
+# 说明: 喜马拉雅
 # 规则数: 18
+# 目标: Himalaya
 DOMAIN-SUFFIX,9nali.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,conchdate.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,himalaya.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,himalaya.cool
+# 目标: Himalaya
 DOMAIN-SUFFIX,qingxuetang.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,soundconch.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,tableauxmly.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,xima.tv
+# 目标: Himalaya
 DOMAIN-SUFFIX,ximalaya.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,ximalaya.fm
+# 目标: Himalaya
 DOMAIN-SUFFIX,ximalaya.tv
+# 目标: Himalaya
 DOMAIN-SUFFIX,ximalayadata.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,xmcdn.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,zhishif.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,zhishinn.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,zhishiu.com
+# 目标: Himalaya
 DOMAIN-SUFFIX,zhishiv.com
+# 目标: Himalaya
 USER-AGENT,Himalaya*

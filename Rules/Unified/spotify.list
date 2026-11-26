@@ -1,40 +1,77 @@
 # 统一规则库 | 分类: spotify
 # 合并来源: QuixoticHeart/rule-set spotify; blackmatrix7/ios_rule_script Spotify
 # 规则数: 37
+# 目标: spotify
 DOMAIN,audio4-ak-spotify-com.akamaized.net
+# 目标: spotify
 DOMAIN,cdn-spotify-experiments.conductrics.com
+# 目标: spotify
 DOMAIN,heads-ak-spotify-com.akamaized.net
+# 目标: spotify
 DOMAIN,spotify.map.fastly.net
+# 目标: spotify
 DOMAIN,spotify.map.fastlylb.net
+# 目标: spotify
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+# 目标: spotify
 DOMAIN-SUFFIX,byspotify.com
+# 目标: spotify
 DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+# 目标: spotify
 DOMAIN-SUFFIX,lifeatspotify.com
+# 目标: spotify
 DOMAIN-SUFFIX,pscdn.co
+# 目标: spotify
 DOMAIN-SUFFIX,scdn.co
+# 目标: spotify
 DOMAIN-SUFFIX,spoti.fi
+# 目标: spotify
 DOMAIN-SUFFIX,spotify-com.akamaized.net
+# 目标: spotify
 DOMAIN-SUFFIX,spotify-everywhere.com
+# 目标: spotify
 DOMAIN-SUFFIX,spotify.app.link
+# 目标: spotify
 DOMAIN-SUFFIX,spotify.com
+# 目标: spotify
 DOMAIN-SUFFIX,spotify.com.edgesuite.net
+# 目标: spotify
 DOMAIN-SUFFIX,spotify.design
+# 目标: spotify
 DOMAIN-SUFFIX,spotify.link
+# 目标: spotify
 DOMAIN-SUFFIX,spotifycdn.com
+# 目标: spotify
 DOMAIN-SUFFIX,spotifycdn.net
+# 目标: spotify
 DOMAIN-SUFFIX,spotifycharts.com
+# 目标: spotify
 DOMAIN-SUFFIX,spotifycodes.com
+# 目标: spotify
 DOMAIN-SUFFIX,spotifyforbrands.com
+# 目标: spotify
 DOMAIN-SUFFIX,spotifyforvendors.com
+# 目标: spotify
 DOMAIN-SUFFIX,spotifyjobs.com
+# 目标: spotify
 DOMAIN-SUFFIX,spotifynewsroom.jp
+# 目标: spotify
 DOMAIN-SUFFIX,spotilocal.com
+# 目标: spotify
 DOMAIN-SUFFIX,tospotify.com
+# 目标: spotify
 DOMAIN-KEYWORD,spotify
+# 目标: spotify
 IP-CIDR,104.154.127.126/32,no-resolve
+# 目标: spotify
 IP-CIDR,35.186.224.47/32,no-resolve
+# 目标: spotify
 PROCESS-NAME,com.spotify.music
+# 目标: spotify
 DOMAIN,spotify.com.edgesuite.net
+# 目标: spotify
 USER-AGENT,Spotify*
+# 目标: spotify
 IP-CIDR,104.154.127.126/32
+# 目标: spotify
 IP-CIDR,35.186.224.47/32

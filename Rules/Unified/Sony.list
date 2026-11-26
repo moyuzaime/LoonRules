@@ -1,119 +1,235 @@
 # 统一规则库 | 分类: Sony
 # 合并来源: blackmatrix7/ios_rule_script Sony
 # 规则数: 116
+# 目标: Sony
 DOMAIN,sonyliveevents-nonssai.akamaized.net
+# 目标: Sony
 DOMAIN-SUFFIX,cn-playnow.com.cn
+# 目标: Sony
 DOMAIN-SUFFIX,ginzasonypark.jp
+# 目标: Sony
 DOMAIN-SUFFIX,imageworks.com
+# 目标: Sony
 DOMAIN-SUFFIX,motionpictureser.com
+# 目标: Sony
 DOMAIN-SUFFIX,playshow.io
+# 目标: Sony
 DOMAIN-SUFFIX,playshowtv.com
+# 目标: Sony
 DOMAIN-SUFFIX,playstation.com
+# 目标: Sony
 DOMAIN-SUFFIX,playstation.net
+# 目标: Sony
 DOMAIN-SUFFIX,playstationnetwork.com
+# 目标: Sony
 DOMAIN-SUFFIX,sony-africa.com
+# 目标: Sony
 DOMAIN-SUFFIX,sony-asia.com
+# 目标: Sony
 DOMAIN-SUFFIX,sony-europe.com
+# 目标: Sony
 DOMAIN-SUFFIX,sony-hes.co.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sony-latin.com
+# 目标: Sony
 DOMAIN-SUFFIX,sony-mea.com
+# 目标: Sony
 DOMAIN-SUFFIX,sony-olympus-medical.com
+# 目标: Sony
 DOMAIN-SUFFIX,sony-promotion.eu
+# 目标: Sony
 DOMAIN-SUFFIX,sony-semicon.co.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sony.at
+# 目标: Sony
 DOMAIN-SUFFIX,sony.ba
+# 目标: Sony
 DOMAIN-SUFFIX,sony.be
+# 目标: Sony
 DOMAIN-SUFFIX,sony.bg
+# 目标: Sony
 DOMAIN-SUFFIX,sony.ca
+# 目标: Sony
 DOMAIN-SUFFIX,sony.ch
+# 目标: Sony
 DOMAIN-SUFFIX,sony.cl
+# 目标: Sony
 DOMAIN-SUFFIX,sony.cn
+# 目标: Sony
 DOMAIN-SUFFIX,sony.co.cr
+# 目标: Sony
 DOMAIN-SUFFIX,sony.co.id
+# 目标: Sony
 DOMAIN-SUFFIX,sony.co.in
+# 目标: Sony
 DOMAIN-SUFFIX,sony.co.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sony.co.kr
+# 目标: Sony
 DOMAIN-SUFFIX,sony.co.nz
+# 目标: Sony
 DOMAIN-SUFFIX,sony.co.th
+# 目标: Sony
 DOMAIN-SUFFIX,sony.co.uk
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.ar
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.au
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.bo
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.br
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.cn
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.co
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.do
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.ec
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.gt
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.hk
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.hn
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.mk
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.mx
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.my
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.ni
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.pa
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.pe
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.ph
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.sg
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.sv
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.tr
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.tw
+# 目标: Sony
 DOMAIN-SUFFIX,sony.com.vn
+# 目标: Sony
 DOMAIN-SUFFIX,sony.cz
+# 目标: Sony
 DOMAIN-SUFFIX,sony.de
+# 目标: Sony
 DOMAIN-SUFFIX,sony.dk
+# 目标: Sony
 DOMAIN-SUFFIX,sony.ee
+# 目标: Sony
 DOMAIN-SUFFIX,sony.es
+# 目标: Sony
 DOMAIN-SUFFIX,sony.eu
+# 目标: Sony
 DOMAIN-SUFFIX,sony.fi
+# 目标: Sony
 DOMAIN-SUFFIX,sony.fr
+# 目标: Sony
 DOMAIN-SUFFIX,sony.gr
+# 目标: Sony
 DOMAIN-SUFFIX,sony.hr
+# 目标: Sony
 DOMAIN-SUFFIX,sony.hu
+# 目标: Sony
 DOMAIN-SUFFIX,sony.ie
+# 目标: Sony
 DOMAIN-SUFFIX,sony.it
+# 目标: Sony
 DOMAIN-SUFFIX,sony.kz
+# 目标: Sony
 DOMAIN-SUFFIX,sony.lt
+# 目标: Sony
 DOMAIN-SUFFIX,sony.lu
+# 目标: Sony
 DOMAIN-SUFFIX,sony.lv
+# 目标: Sony
 DOMAIN-SUFFIX,sony.net
+# 目标: Sony
 DOMAIN-SUFFIX,sony.nl
+# 目标: Sony
 DOMAIN-SUFFIX,sony.no
+# 目标: Sony
 DOMAIN-SUFFIX,sony.pl
+# 目标: Sony
 DOMAIN-SUFFIX,sony.pt
+# 目标: Sony
 DOMAIN-SUFFIX,sony.ro
+# 目标: Sony
 DOMAIN-SUFFIX,sony.rs
+# 目标: Sony
 DOMAIN-SUFFIX,sony.ru
+# 目标: Sony
 DOMAIN-SUFFIX,sony.se
+# 目标: Sony
 DOMAIN-SUFFIX,sony.si
+# 目标: Sony
 DOMAIN-SUFFIX,sony.sk
+# 目标: Sony
 DOMAIN-SUFFIX,sony.ua
+# 目标: Sony
 DOMAIN-SUFFIX,sonybo.co.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sonybsc.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonybuilding.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sonyclassics.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonydesign.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonydna.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonyged.com.cn
+# 目标: Sony
 DOMAIN-SUFFIX,sonyglobalsolutions.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sonykigyo.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sonylatvija.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonypcl.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sonypictures.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonypicturesanimation.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonypicturesmuseum.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonypicturesstudios.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonypicturestelevision.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonypicturestelevisiongames.com
+# 目标: Sony
 DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sonyselect.cn
+# 目标: Sony
 DOMAIN-SUFFIX,sonyselect.com.cn
+# 目标: Sony
 DOMAIN-SUFFIX,sonystoragemedia.co.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sonystyle.com.cn
+# 目标: Sony
 DOMAIN-SUFFIX,sonytc.co.jp
+# 目标: Sony
 DOMAIN-SUFFIX,sovec.net
+# 目标: Sony
 DOMAIN-SUFFIX,wheelpop.com
+# 目标: Sony
 DOMAIN-SUFFIX,wwtbam.com
+# 目标: Sony
 DOMAIN-SUFFIX,yourfantasybeginsnow.com

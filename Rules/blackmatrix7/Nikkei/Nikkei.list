@@ -1,6 +1,9 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Nikkei/Nikkei.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Nikkei/Nikkei.list
 # 规则数: 3
+# 目标: Nikkei
 DOMAIN-SUFFIX,nikkei.co.jp
+# 目标: Nikkei
 DOMAIN-SUFFIX,nikkei.com
+# 目标: Nikkei
 DOMAIN-SUFFIX,nikkei.jp

@@ -1,64 +1,125 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/iCloud/iCloud.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/iCloud/iCloud.list
 # 规则数: 61
+# 目标: iCloud
 DOMAIN-SUFFIX,apple-cloudkit.com
+# 目标: iCloud
 DOMAIN-SUFFIX,apple-icloud.cn
+# 目标: iCloud
 DOMAIN-SUFFIX,apple-livephotoskit.com
+# 目标: iCloud
 DOMAIN-SUFFIX,appleicloud.cn
+# 目标: iCloud
 DOMAIN-SUFFIX,applemx-icloud.com
+# 目标: iCloud
 DOMAIN-SUFFIX,apzones.com
+# 目标: iCloud
 DOMAIN-SUFFIX,cdn-apple.com
+# 目标: iCloud
 DOMAIN-SUFFIX,gc.apple.com
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud-apple.cn
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud-content.com
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud-content.com.cn
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud-isupport.com
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud-sandbox.com
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.apple.com
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.ch
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.cn
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.com
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.com.cn
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.de
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.ee
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.fi
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.fr
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.hu
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.ie
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.is
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.jp
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.lv
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.net.cn
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.om
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.org
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.pt
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.ro
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.se
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.si
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.sk
+# 目标: iCloud
 DOMAIN-SUFFIX,icloud.vn
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudads.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudapple.cn
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudbox.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudbrowser.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloude.com
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudhome.com
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudmail.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudmusic.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudnet.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudo.com
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudo.de
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudo.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudos.de
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudos.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudpay.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudsecure.net
+# 目标: iCloud
 DOMAIN-SUFFIX,icloudsetup.com
+# 目标: iCloud
 DOMAIN-SUFFIX,ios-icloud.com
+# 目标: iCloud
 DOMAIN-SUFFIX,iwork.apple.com
+# 目标: iCloud
 DOMAIN-SUFFIX,me.com
+# 目标: iCloud
 DOMAIN-SUFFIX,myicloud.net
+# 目标: iCloud
 DOMAIN-SUFFIX,mylcloud.net
+# 目标: iCloud
 DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
+# 目标: iCloud
 DOMAIN-SUFFIX,wwwicloud.com
+# 目标: iCloud
 DOMAIN-KEYWORD,icloud.com.akadns.net

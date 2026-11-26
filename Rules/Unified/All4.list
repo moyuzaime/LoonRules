@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: All4
 # 合并来源: blackmatrix7/ios_rule_script All4
 # 规则数: 3
+# 目标: All4
 DOMAIN-SUFFIX,c4assets.com
+# 目标: All4
 DOMAIN-SUFFIX,channel4.com
+# 目标: All4
 USER-AGENT,All4*

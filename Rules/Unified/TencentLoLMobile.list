@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: TencentLoLMobile
 # 合并来源: blackmatrix7/ios_rule_script TencentLoLMobile
 # 规则数: 3
+# 目标: TencentLoLMobile
 DOMAIN-SUFFIX,riotcdn.net
+# 目标: TencentLoLMobile
 DOMAIN-SUFFIX,riotgames.com
+# 目标: TencentLoLMobile
 DOMAIN-SUFFIX,wr.pvp.net

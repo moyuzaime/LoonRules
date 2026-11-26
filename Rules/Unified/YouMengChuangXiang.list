@@ -1,24 +1,46 @@
 # 统一规则库 | 分类: YouMengChuangXiang
 # 合并来源: blackmatrix7/ios_rule_script YouMengChuangXiang
+# 说明: 游梦创想
 # 规则数: 21
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,97973.com
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,97973.com.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,carrydj.com
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,fldvz.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,hj-dog.com
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,jyjqdn.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,lccnxn.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,ljnvb.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,lzcmm9x.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,maozhuar.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,maozhuar.com
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,maozhuar.com.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,shsyfzq.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,smmdn.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,sylqmn.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,xcmy0.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,xuanyaodang.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,xuanyaodang.com
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,xuanyaodang.net
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,yblxyp.cn
+# 目标: YouMengChuangXiang
 DOMAIN-SUFFIX,youmengchuangxiang.com

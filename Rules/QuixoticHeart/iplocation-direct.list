@@ -1,28 +1,53 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/iplocation-direct.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/iplocation-direct.list
 # 规则数: 25
+# 目标: iplocation-direct
 DOMAIN,china-img.soulapp.cn
+# 目标: iplocation-direct
 DOMAIN,dotsocr.xiaohongshu.com
+# 目标: iplocation-direct
 DOMAIN,img.soulapp.cn
+# 目标: iplocation-direct
 DOMAIN,y.qq.com
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,akm-tct.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,bilivideo.com
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,danmuproxy.douyu.com
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,ecombdapi.com
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,hdslb.com
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,hls1a-akm.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,hls3-akm.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,hls3a-akm.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,hlsa-akm.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,img.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,lf127.net
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,rednotecdn.com
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,szbdyd.com
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,tc-tct1.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,tx2play1.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,vplay1a.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,vplay3a.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,ws-tct.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,ws3.douyucdn.cn
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,wsproxy.douyu.com
+# 目标: iplocation-direct
 DOMAIN-SUFFIX,zijieapi.com

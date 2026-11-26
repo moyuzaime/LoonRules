@@ -1,8 +1,13 @@
 # 统一规则库 | 分类: 8btc
 # 合并来源: blackmatrix7/ios_rule_script 8btc
 # 规则数: 5
+# 目标: 8btc
 DOMAIN-SUFFIX,8btc.com
+# 目标: 8btc
 DOMAIN-SUFFIX,bystack.com
+# 目标: 8btc
 DOMAIN-SUFFIX,chainnode.com
+# 目标: 8btc
 DOMAIN-SUFFIX,matpool.com
+# 目标: 8btc
 DOMAIN-SUFFIX,matpool.net

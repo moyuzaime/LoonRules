@@ -1,36 +1,69 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/UKMedia/UKMedia.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/UKMedia/UKMedia.list
 # 规则数: 33
+# 目标: UKMedia
 DOMAIN,itvpnp.live.ott.irdeto.com
+# 目标: UKMedia
 DOMAIN,itvpnp.stage.ott.irdeto.com
+# 目标: UKMedia
 DOMAIN,itvpnpmobile-a.akamaihd.net
+# 目标: UKMedia
 DOMAIN,vod-dash-ww-live.akamaized.net
+# 目标: UKMedia
 DOMAIN,vod-thumb-ww-live.akamaized.net
+# 目标: UKMedia
 DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
+# 目标: UKMedia
 DOMAIN-SUFFIX,bb-static.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbc
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbc-reporting-api.app
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbc.co
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbc.co.uk
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbc.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbc.in
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbc.net.uk
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbcchinese.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbci.co
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbci.co.uk
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbcmedia.co.uk
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbcpersian.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,bbcverticals.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,bidi.net.uk
+# 目标: UKMedia
 DOMAIN-SUFFIX,britbox.co.uk
+# 目标: UKMedia
 DOMAIN-SUFFIX,britbox.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,c4assets.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,channel4.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,itv.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,itvstatic.com
+# 目标: UKMedia
 DOMAIN-SUFFIX,massive-itv.com
+# 目标: UKMedia
 DOMAIN-KEYWORD,bbcfmt
+# 目标: UKMedia
 DOMAIN-KEYWORD,uk-live
+# 目标: UKMedia
 USER-AGENT,All4*
+# 目标: UKMedia
 USER-AGENT,BBCiPlayer*
+# 目标: UKMedia
 USER-AGENT,ITV_Player*

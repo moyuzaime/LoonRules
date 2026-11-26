@@ -1,6 +1,9 @@
 # 统一规则库 | 分类: Npmjs
 # 合并来源: blackmatrix7/ios_rule_script Npmjs
 # 规则数: 3
+# 目标: Npmjs
 DOMAIN-SUFFIX,npm.community
+# 目标: Npmjs
 DOMAIN-SUFFIX,npmjs.com
+# 目标: Npmjs
 DOMAIN-SUFFIX,npmjs.org

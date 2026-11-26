@@ -1,18 +1,33 @@
 # 统一规则库 | 分类: Epic
 # 合并来源: blackmatrix7/ios_rule_script Epic
 # 规则数: 15
+# 目标: Epic
 DOMAIN-SUFFIX,battlebreakers.com
+# 目标: Epic
 DOMAIN-SUFFIX,eac-cdn.com
+# 目标: Epic
 DOMAIN-SUFFIX,easy.ac
+# 目标: Epic
 DOMAIN-SUFFIX,easyanticheat.net
+# 目标: Epic
 DOMAIN-SUFFIX,epicgames.com
+# 目标: Epic
 DOMAIN-SUFFIX,epicgames.dev
+# 目标: Epic
 DOMAIN-SUFFIX,fortnite.com
+# 目标: Epic
 DOMAIN-SUFFIX,helpshift.com
+# 目标: Epic
 DOMAIN-SUFFIX,paragon.com
+# 目标: Epic
 DOMAIN-SUFFIX,playparagon.com
+# 目标: Epic
 DOMAIN-SUFFIX,roborecall.com
+# 目标: Epic
 DOMAIN-SUFFIX,shadowcomplex.com
+# 目标: Epic
 DOMAIN-SUFFIX,spyjinx.com
+# 目标: Epic
 DOMAIN-SUFFIX,unrealengine.com
+# 目标: Epic
 DOMAIN-SUFFIX,unrealtournament.com

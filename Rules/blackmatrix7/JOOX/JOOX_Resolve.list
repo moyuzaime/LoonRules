@@ -1,11 +1,19 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/JOOX/JOOX_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JOOX/JOOX_Resolve.list
 # 规则数: 8
+# 目标: JOOX
 DOMAIN-SUFFIX,i-joox.com
+# 目标: JOOX
 DOMAIN-SUFFIX,joox.com
+# 目标: JOOX
 DOMAIN-SUFFIX,sanook.com
+# 目标: JOOX
 DOMAIN-KEYWORD,jooxweb-api
+# 目标: JOOX
 USER-AGENT,JOOX*
+# 目标: JOOX
 USER-AGENT,WeMusic*
+# 目标: JOOX
 IP-CIDR,119.28.182.0/23
+# 目标: JOOX
 IP-CIDR,203.205.234.0/23

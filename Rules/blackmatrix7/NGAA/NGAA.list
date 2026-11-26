@@ -1,32 +1,62 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/NGAA/NGAA.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/NGAA/NGAA.list
+# 说明: 新流云
 # 规则数: 29
+# 目标: NGAA
 DOMAIN-SUFFIX,chinagslb.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,chinagslb.com
+# 目标: NGAA
 DOMAIN-SUFFIX,chinagslb.net
+# 目标: NGAA
 DOMAIN-SUFFIX,cngslb.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,cngslb.com
+# 目标: NGAA
 DOMAIN-SUFFIX,cngslb.net
+# 目标: NGAA
 DOMAIN-SUFFIX,ispcache.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,ispcache.net
+# 目标: NGAA
 DOMAIN-SUFFIX,kuaifan.shop
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaa.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaa.com.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaa.info
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaa.net.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaa.org.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaa.shop
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaa.top
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaacdn.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaacdn.com
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaacdn.net
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaagslb.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaagslb.com
+# 目标: NGAA
 DOMAIN-SUFFIX,ngaagslb.net
+# 目标: NGAA
 DOMAIN-SUFFIX,sinocache.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,sinocache.com.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,sinocache.net
+# 目标: NGAA
 DOMAIN-SUFFIX,sinogslb.cn
+# 目标: NGAA
 DOMAIN-SUFFIX,sinogslb.com
+# 目标: NGAA
 DOMAIN-SUFFIX,sinogslb.net
+# 目标: NGAA
 DOMAIN-SUFFIX,speedin.shop

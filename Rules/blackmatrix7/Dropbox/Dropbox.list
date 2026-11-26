@@ -1,20 +1,37 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Dropbox/Dropbox.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Dropbox/Dropbox.list
 # 规则数: 17
+# 目标: Dropbox
 DOMAIN-SUFFIX,db.tt
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropbox-dns.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropbox.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropbox.tech
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropbox.zendesk.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxapi.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxbusiness.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxcaptcha.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxforum.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxforums.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxinsiders.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxmail.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxpartners.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxstatic.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,dropboxusercontent.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,getdropbox.com
+# 目标: Dropbox
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com

@@ -1,14 +1,25 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Espn/Espn.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Espn/Espn.list
 # 规则数: 11
+# 目标: Espn
 DOMAIN,espn.api.edge.bamgrid.com
+# 目标: Espn
 DOMAIN,espn.hb.omtrdc.net
+# 目标: Espn
 DOMAIN,espndotcom.tt.omtrdc.net
+# 目标: Espn
 DOMAIN-SUFFIX,dtci.co
+# 目标: Espn
 DOMAIN-SUFFIX,dtci.technology
+# 目标: Espn
 DOMAIN-SUFFIX,espn.co.uk
+# 目标: Espn
 DOMAIN-SUFFIX,espn.com
+# 目标: Espn
 DOMAIN-SUFFIX,espn.net
+# 目标: Espn
 DOMAIN-SUFFIX,espncdn.com
+# 目标: Espn
 DOMAIN-SUFFIX,espnqa.com
+# 目标: Espn
 DOMAIN-SUFFIX,watchespn.com

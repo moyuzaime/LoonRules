@@ -1,98 +1,194 @@
 # 统一规则库 | 分类: IKEA
 # 合并来源: blackmatrix7/ios_rule_script IKEA
+# 说明: 宜家
 # 规则数: 95
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ae
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.at
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.au
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.be
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.bg
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.bh
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ca
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ch
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.cl
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.cn
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.at
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.ca
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.de
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.id
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.il
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.jp
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.kr
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.om
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.ph
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.pl
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.th
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.co.uk
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.au
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.cy
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.de
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.do
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.eg
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.gr
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.hk
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.in
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.kw
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.lv
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.mx
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.my
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.om
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.pl
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.pr
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.pt
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.ro
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.ru
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.sa
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.sg
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.tr
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.tw
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.com.ua
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.cz
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.de
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.dk
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.do
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ee
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.eg
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.es
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.fi
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.fr
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.gr
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.hk
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.hr
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.hu
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ie
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.in
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.is
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.it
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.jo
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.jp
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.kr
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.lt
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.lv
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ma
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.mx
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.my
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.net
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.nl
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.no
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.om
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ph
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.pl
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.pr
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.pt
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.qa
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ro
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.rs
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ru
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.sa
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.sg
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.si
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.sk
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.ua
+# 目标: IKEA
 DOMAIN-SUFFIX,ikea.us
+# 目标: IKEA
 DOMAIN-SUFFIX,ingka-dt.cn
+# 目标: IKEA
 DOMAIN-SUFFIX,ingka-internal.cn
+# 目标: IKEA
 DOMAIN-SUFFIX,ingka-system.cn
+# 目标: IKEA
 DOMAIN-SUFFIX,ingka.com
+# 目标: IKEA
 DOMAIN-SUFFIX,ingka.dev
+# 目标: IKEA
 DOMAIN-SUFFIX,ingkacentres.com

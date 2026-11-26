@@ -1,23 +1,44 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/ZhongXingTongXun/ZhongXingTongXun.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ZhongXingTongXun/ZhongXingTongXun.list
+# 说明: 中兴通讯
 # 规则数: 20
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,3gcare.cn
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,nubia.cc
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,nubia.cn
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,nubia.com
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,nubia.com.cn
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,nubia.mobi
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,nubia.net.cn
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,redmagic.com
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,shouhubao.com.cn
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,zte.com.cn
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,zte.net
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,ztedevice.com
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,ztedevice.com.cn
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,ztedevices.com
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,ztehotel.com
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,ztehotel.com.cn
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,ztehotel.net
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,ztemall.com
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,ztems.com
+# 目标: ZhongXingTongXun
 DOMAIN-SUFFIX,zxingyun.com

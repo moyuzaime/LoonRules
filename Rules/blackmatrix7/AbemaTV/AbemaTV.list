@@ -1,27 +1,51 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/AbemaTV/AbemaTV.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AbemaTV/AbemaTV.list
 # 规则数: 24
+# 目标: AbemaTV
 DOMAIN-SUFFIX,abema-tv.com
+# 目标: AbemaTV
 DOMAIN-SUFFIX,abema.io
+# 目标: AbemaTV
 DOMAIN-SUFFIX,abema.tv
+# 目标: AbemaTV
 DOMAIN-SUFFIX,abematv.akamaized.net
+# 目标: AbemaTV
 DOMAIN-SUFFIX,adx.promo
+# 目标: AbemaTV
 DOMAIN-SUFFIX,ameba.jp
+# 目标: AbemaTV
 DOMAIN-SUFFIX,amebame.com
+# 目标: AbemaTV
 DOMAIN-SUFFIX,amebaownd.com
+# 目标: AbemaTV
 DOMAIN-SUFFIX,amebaowndme.com
+# 目标: AbemaTV
 DOMAIN-SUFFIX,ameblo.jp
+# 目标: AbemaTV
 DOMAIN-SUFFIX,bucketeer.jp
+# 目标: AbemaTV
 DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net
+# 目标: AbemaTV
 DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net
+# 目标: AbemaTV
 DOMAIN-SUFFIX,dokusho-ojikan.jp
+# 目标: AbemaTV
 DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
+# 目标: AbemaTV
 DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
+# 目标: AbemaTV
 DOMAIN-SUFFIX,hayabusa.dev
+# 目标: AbemaTV
 DOMAIN-SUFFIX,hayabusa.io
+# 目标: AbemaTV
 DOMAIN-SUFFIX,hayabusa.media
+# 目标: AbemaTV
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
+# 目标: AbemaTV
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
+# 目标: AbemaTV
 DOMAIN-SUFFIX,winticket.jp
+# 目标: AbemaTV
 DOMAIN-KEYWORD,abematv.akamaized.net
+# 目标: AbemaTV
 USER-AGENT,AbemaTV*

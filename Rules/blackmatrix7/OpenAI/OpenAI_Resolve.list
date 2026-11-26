@@ -1,38 +1,73 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/OpenAI/OpenAI_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI_Resolve.list
 # 规则数: 35
+# 目标: OpenAI
 DOMAIN,browser-intake-datadoghq.com
+# 目标: OpenAI
 DOMAIN,chat.openai.com.cdn.cloudflare.net
+# 目标: OpenAI
 DOMAIN,openai-api.arkoselabs.com
+# 目标: OpenAI
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+# 目标: OpenAI
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
+# 目标: OpenAI
 DOMAIN,production-openaicom-storage.azureedge.net
+# 目标: OpenAI
 DOMAIN,static.cloudflareinsights.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,ai.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,algolia.net
+# 目标: OpenAI
 DOMAIN-SUFFIX,api.statsig.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,auth0.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,chatgpt.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
+# 目标: OpenAI
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,events.statsigapi.net
+# 目标: OpenAI
 DOMAIN-SUFFIX,featuregates.org
+# 目标: OpenAI
 DOMAIN-SUFFIX,host.livekit.cloud
+# 目标: OpenAI
 DOMAIN-SUFFIX,identrust.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,intercom.io
+# 目标: OpenAI
 DOMAIN-SUFFIX,intercomcdn.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,launchdarkly.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,oaistatic.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,oaiusercontent.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,observeit.net
+# 目标: OpenAI
 DOMAIN-SUFFIX,openai.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+# 目标: OpenAI
 DOMAIN-SUFFIX,openaicom.imgix.net
+# 目标: OpenAI
 DOMAIN-SUFFIX,segment.io
+# 目标: OpenAI
 DOMAIN-SUFFIX,sentry.io
+# 目标: OpenAI
 DOMAIN-SUFFIX,stripe.com
+# 目标: OpenAI
 DOMAIN-SUFFIX,turn.livekit.cloud
+# 目标: OpenAI
 DOMAIN-KEYWORD,openai
+# 目标: OpenAI
 IP-ASN,20473
+# 目标: OpenAI
 IP-CIDR,24.199.123.28/32
+# 目标: OpenAI
 IP-CIDR,64.23.132.171/32

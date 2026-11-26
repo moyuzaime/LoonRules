@@ -1,22 +1,41 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/iQIYIIntl/iQIYIIntl_Resolve.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/iQIYIIntl/iQIYIIntl_Resolve.list
 # 规则数: 19
+# 目标: iQIYIIntl
 DOMAIN,cache.video.iqiyi.com
+# 目标: iQIYIIntl
 DOMAIN-SUFFIX,inter.iqiyi.com
+# 目标: iQIYIIntl
 DOMAIN-SUFFIX,intl-rcd.iqiyi.com
+# 目标: iQIYIIntl
 DOMAIN-SUFFIX,intl-subscription.iqiyi.com
+# 目标: iQIYIIntl
 DOMAIN-SUFFIX,intl.iqiyi.com
+# 目标: iQIYIIntl
 DOMAIN-SUFFIX,iq.com
+# 目标: iQIYIIntl
 IP-CIDR,104.85.165.17/32
+# 目标: iQIYIIntl
 IP-CIDR,110.238.107.47/32
+# 目标: iQIYIIntl
 IP-CIDR,118.26.32.162/32
+# 目标: iQIYIIntl
 IP-CIDR,159.138.102.146/32
+# 目标: iQIYIIntl
 IP-CIDR,184.51.102.0/24
+# 目标: iQIYIIntl
 IP-CIDR,203.80.97.203/32
+# 目标: iQIYIIntl
 IP-CIDR,210.71.227.202/32
+# 目标: iQIYIIntl
 IP-CIDR,23.200.145.146/32
+# 目标: iQIYIIntl
 IP-CIDR,23.210.215.186/32
+# 目标: iQIYIIntl
 IP-CIDR,23.211.15.0/24
+# 目标: iQIYIIntl
 IP-CIDR,23.219.172.0/24
+# 目标: iQIYIIntl
 IP-CIDR,23.40.242.10/32
+# 目标: iQIYIIntl
 IP-CIDR,23.59.252.0/24

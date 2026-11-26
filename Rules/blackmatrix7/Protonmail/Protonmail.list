@@ -1,8 +1,13 @@
 # 来源: blackmatrix7/ios_rule_script rule/Loon/Protonmail/Protonmail.list
 # 上游: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Protonmail/Protonmail.list
 # 规则数: 5
+# 目标: Protonmail
 DOMAIN-SUFFIX,pm.me
+# 目标: Protonmail
 DOMAIN-SUFFIX,proton.me
+# 目标: Protonmail
 DOMAIN-SUFFIX,protonmail.ch
+# 目标: Protonmail
 DOMAIN-SUFFIX,protonmail.com
+# 目标: Protonmail
 DOMAIN-SUFFIX,protonstatus.com

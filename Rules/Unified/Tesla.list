@@ -1,15 +1,27 @@
 # 统一规则库 | 分类: Tesla
 # 合并来源: blackmatrix7/ios_rule_script Tesla
 # 规则数: 12
+# 目标: Tesla
 DOMAIN-SUFFIX,solarcity.com
+# 目标: Tesla
 DOMAIN-SUFFIX,tesla-cdn.thron.cn
+# 目标: Tesla
 DOMAIN-SUFFIX,tesla-cdn.thron.com
+# 目标: Tesla
 DOMAIN-SUFFIX,tesla.com
+# 目标: Tesla
 DOMAIN-SUFFIX,tesla.com.cn
+# 目标: Tesla
 DOMAIN-SUFFIX,tesla.services
+# 目标: Tesla
 DOMAIN-SUFFIX,teslaenergy.services
+# 目标: Tesla
 DOMAIN-SUFFIX,teslamotors.cn
+# 目标: Tesla
 DOMAIN-SUFFIX,teslamotors.com
+# 目标: Tesla
 DOMAIN-SUFFIX,teslamotors.com.cn
+# 目标: Tesla
 DOMAIN-SUFFIX,teslazta.net
+# 目标: Tesla
 DOMAIN-SUFFIX,ts.la
