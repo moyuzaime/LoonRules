@@ -1,7 +1,7 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/cdn.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/cdn.list
 # 说明: 常见静态资源 CDN 及软件更新、操作系统等大文件下载规则
-# 规则数: 6840
+# 规则数: 6839
 # 目标: cdn
 DOMAIN,0x0.st
 # 目标: cdn
@@ -10856,8 +10856,6 @@ DOMAIN-SUFFIX,foundationdns.net
 DOMAIN-SUFFIX,foundationdns.org
 # 目标: cdn
 DOMAIN-SUFFIX,fourhoi.com
-# 目标: cdn
-DOMAIN-SUFFIX,frame.claudeusercontent.com
 # 目标: cdn
 DOMAIN-SUFFIX,framercdn.com
 # 目标: cdn

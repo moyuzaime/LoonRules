@@ -1,7 +1,7 @@
 # 统一规则库 | 分类: dmca
 # 合并来源: QuixoticHeart/rule-set dmca
 # 说明: DMCA 敏感域名
-# 规则数: 1509
+# 规则数: 1510
 # 目标: dmca
 DOMAIN,0123456789nonexistent.com
 # 目标: dmca
@@ -160,8 +160,6 @@ DOMAIN,shahidrazi.online
 DOMAIN,share.hkg-fansub.info
 # 目标: dmca
 DOMAIN,shubt.net
-# 目标: dmca
-DOMAIN,su-data.com
 # 目标: dmca
 DOMAIN,t.btcland.xyz
 # 目标: dmca
@@ -959,6 +957,8 @@ DOMAIN-SUFFIX,hhanclub.net
 # 目标: dmca
 DOMAIN-SUFFIX,hhanclub.top
 # 目标: dmca
+DOMAIN-SUFFIX,hidden.torrentonline.cc
+# 目标: dmca
 DOMAIN-SUFFIX,highteahop.top
 # 目标: dmca
 DOMAIN-SUFFIX,hitpt.com
@@ -1052,8 +1052,6 @@ DOMAIN-SUFFIX,kufei.com
 DOMAIN-SUFFIX,kufei.org
 # 目标: dmca
 DOMAIN-SUFFIX,landof.tv
-# 目标: dmca
-DOMAIN-SUFFIX,lattice.peerrelay.workers.dev
 # 目标: dmca
 DOMAIN-SUFFIX,leaguehd.com
 # 目标: dmca
@@ -1250,6 +1248,8 @@ DOMAIN-SUFFIX,opentracker.lain.moscow
 DOMAIN-SUFFIX,opentracker.sktorrent.org
 # 目标: dmca
 DOMAIN-SUFFIX,opentracker.xyz
+# 目标: dmca
+DOMAIN-SUFFIX,opentracker2.lain.moscow
 # 目标: dmca
 DOMAIN-SUFFIX,opentrackr.org
 # 目标: dmca
@@ -1485,6 +1485,8 @@ DOMAIN-SUFFIX,stairs.lat
 # 目标: dmca
 DOMAIN-SUFFIX,storage.groupees.com
 # 目标: dmca
+DOMAIN-SUFFIX,su-data.com
+# 目标: dmca
 DOMAIN-SUFFIX,sub4all.org
 # 目标: dmca
 DOMAIN-SUFFIX,sugoi.pomf.se
@@ -1611,6 +1613,8 @@ DOMAIN-SUFFIX,tp.m-team.cc.php
 # 目标: dmca
 DOMAIN-SUFFIX,tr.abiir.top
 # 目标: dmca
+DOMAIN-SUFFIX,tr.abir.ga
+# 目标: dmca
 DOMAIN-SUFFIX,tr.back.re
 # 目标: dmca
 DOMAIN-SUFFIX,tr.bangumi.moe
@@ -1638,8 +1642,6 @@ DOMAIN-SUFFIX,tr.torland.ga
 DOMAIN-SUFFIX,tr.zhina.org
 # 目标: dmca
 DOMAIN-SUFFIX,tr2.ysagin.top
-# 目标: dmca
-DOMAIN-SUFFIX,tr3.ysagin.top
 # 目标: dmca
 DOMAIN-SUFFIX,tr4ck3r.duckdns.org
 # 目标: dmca

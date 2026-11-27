@@ -12,13 +12,13 @@
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/abema.list"
     },
     {
-      "bytes": 11437713,
+      "bytes": 11468714,
       "filename": "",
       "kind": "rules",
       "name": "adrules",
       "path": "Rules/QuixoticHeart/adrules.list",
-      "rules": 215774,
-      "sha256": "ed22d99d1918a17b5bf56e85e566f87ac685d682b2d6df5a1f2e3409ad9298b9",
+      "rules": 216393,
+      "sha256": "9f3048907f8205ccd55012fbe47ee3d0140a3a117cceb53de11eded98af985c1",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/adrules.list"
     },
@@ -111,13 +111,13 @@
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/bilibili.list"
     },
     {
-      "bytes": 293525,
+      "bytes": 293469,
       "filename": "",
       "kind": "rules",
       "name": "cdn",
       "path": "Rules/QuixoticHeart/cdn.list",
-      "rules": 6840,
-      "sha256": "e87b922f4b8e56b3876e7604b8cb6fca36c2a8cf30c462b07a96ad60556fa68b",
+      "rules": 6839,
+      "sha256": "d1cde68eea809b7fc761d63c141e2d46e6929d919a4b34e899aded465b2e1266",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/cdn.list"
     },
@@ -188,13 +188,13 @@
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/disney.list"
     },
     {
-      "bytes": 69293,
+      "bytes": 69344,
       "filename": "",
       "kind": "rules",
       "name": "dmca",
       "path": "Rules/QuixoticHeart/dmca.list",
-      "rules": 1509,
-      "sha256": "763944b8a4da15ddf1ed933f87e50c011469b8b28ddbbf7bd8480e8fd2525cae",
+      "rules": 1510,
+      "sha256": "2272c41b15234845ec7319e3d76c90c9772277981cb6acd3896841c9f603af29",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/dmca.list"
     },
@@ -375,13 +375,13 @@
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/microsoft-cn.list"
     },
     {
-      "bytes": 38866,
+      "bytes": 38931,
       "filename": "",
       "kind": "rules",
       "name": "microsoft",
       "path": "Rules/QuixoticHeart/microsoft.list",
-      "rules": 769,
-      "sha256": "0709594ecbe5efae42589fa9fb5e074c4c0390f68ea5bdd22210f5e629b4e5fa",
+      "rules": 770,
+      "sha256": "12e842109a875ab550eb194ff67d77be7057c017810ffc71d1d002094f06b15d",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/microsoft.list"
     },
@@ -496,13 +496,13 @@
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/socialmedia.list"
     },
     {
-      "bytes": 479318,
+      "bytes": 479379,
       "filename": "",
       "kind": "rules",
       "name": "speedtest",
       "path": "Rules/QuixoticHeart/speedtest.list",
-      "rules": 9642,
-      "sha256": "549849a6a37b4da4e6742b820f3bccbcdfed09d097489af5c75d835c7b803452",
+      "rules": 9643,
+      "sha256": "9f971323e420549ff929da5043bafb56da5b6f2cc0a75db0278a104231f488cf",
       "source": "quixoticheart",
       "upstream": "https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/speedtest.list"
     },
@@ -15414,8 +15414,8 @@
         "QuixoticHeart/rule-set adrules"
       ],
       "path": "Rules/Unified/adrules.list",
-      "rules": 215774,
-      "sha256": "6924fd80c0624674f08354a75a6db99ced392c1a84eb44b4cb1243ee01399753"
+      "rules": 216393,
+      "sha256": "6a6a269061a66f8b627b5cbcfd7f2f2f975fe3ff4268dd604b0f598278b52334"
     },
     {
       "name": "ai",
@@ -15509,8 +15509,8 @@
         "QuixoticHeart/rule-set cdn"
       ],
       "path": "Rules/Unified/cdn.list",
-      "rules": 6840,
-      "sha256": "ba673ce64df2a4d8b314dc32e325bbe0e456d4ca6dacf683297124f71e1e08a4"
+      "rules": 6839,
+      "sha256": "2827bb96e1099aaaff910e8b47103e4899dcf55f6da6988e410e1791fddacba9"
     },
     {
       "name": "cn",
@@ -15575,8 +15575,8 @@
         "QuixoticHeart/rule-set dmca"
       ],
       "path": "Rules/Unified/dmca.list",
-      "rules": 1509,
-      "sha256": "19e854a9b596a1701fa83ef2d2ce8f651e9eb52eb1615bd890340b75a0b168d8"
+      "rules": 1510,
+      "sha256": "86f5f1abb864bb91d5654327df370bc1fc861e0052c99c26af77d0b6754beeca"
     },
     {
       "name": "dmm",
@@ -15816,8 +15816,8 @@
         "blackmatrix7/ios_rule_script Microsoft"
       ],
       "path": "Rules/Unified/microsoft.list",
-      "rules": 772,
-      "sha256": "bd7b7e5a6db60bda13a014be6e0aeb5f95cb5f2d7acae1e9bb8cbe2a74873619"
+      "rules": 773,
+      "sha256": "af5ccff9d3d825b3787debe599ddb16b1e948825ccad82d3654c5306461997dd"
     },
     {
       "name": "mytvsuper",
@@ -15923,8 +15923,8 @@
         "blackmatrix7/ios_rule_script Speedtest"
       ],
       "path": "Rules/Unified/speedtest.list",
-      "rules": 9643,
-      "sha256": "1e8a19ec11831469b87cc78cbec36e097edfca5157b54570badd787691c21b7b"
+      "rules": 9644,
+      "sha256": "4182d138042228e1818dd65a9507ad4bbd6320a7a899215b518f5d813d52b5a0"
     },
     {
       "name": "spotify",

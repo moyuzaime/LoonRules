@@ -1,7 +1,9 @@
 # 统一规则库 | 分类: microsoft
 # 合并来源: QuixoticHeart/rule-set microsoft; blackmatrix7/ios_rule_script Microsoft
 # 说明: Microsoft 微软服务
-# 规则数: 772
+# 规则数: 773
+# 目标: microsoft
+DOMAIN,aurora-customization-usw2.lithium.com
 # 目标: microsoft
 DOMAIN,github-api.arkoselabs.com
 # 目标: microsoft

@@ -1,7 +1,7 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/speedtest.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/speedtest.list
 # 说明: 收集到的 Ookla SpeedTest 服务器
-# 规则数: 9642
+# 规则数: 9643
 # 目标: speedtest
 DOMAIN,07internet.ro
 # 目标: speedtest
@@ -4082,6 +4082,8 @@ DOMAIN,ookla-llw.skyband.mw
 DOMAIN,ookla-london.briantbroadband.com
 # 目标: speedtest
 DOMAIN,ookla-london01.tropicalgames.net
+# 目标: speedtest
+DOMAIN,ookla-london3.tropicalhosting.net
 # 目标: speedtest
 DOMAIN,ookla-lyo.services.proxad.net
 # 目标: speedtest
