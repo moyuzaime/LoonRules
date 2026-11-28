@@ -1,7 +1,7 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/proxy.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/proxy.list
 # 说明: 国外需要代理的域名
-# 规则数: 30119
+# 规则数: 30123
 # 目标: proxy
 DOMAIN,1password.drift.click
 # 目标: proxy
@@ -2590,6 +2590,8 @@ DOMAIN-SUFFIX,aiasahi.jp
 DOMAIN-SUFFIX,aibaobei.me
 # 目标: proxy
 DOMAIN-SUFFIX,aicoin.com
+# 目标: proxy
+DOMAIN-SUFFIX,aicu.cc
 # 目标: proxy
 DOMAIN-SUFFIX,aidc.com.tw
 # 目标: proxy
@@ -13937,6 +13939,8 @@ DOMAIN-SUFFIX,danilo.to
 # 目标: proxy
 DOMAIN-SUFFIX,danke4china.net
 # 目标: proxy
+DOMAIN-SUFFIX,danmakus.com
+# 目标: proxy
 DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
 # 目标: proxy
 DOMAIN-SUFFIX,danskpornofilm.com
@@ -19438,6 +19442,8 @@ DOMAIN-SUFFIX,fc2web.com
 DOMAIN-SUFFIX,fcacebook.com
 # 目标: proxy
 DOMAIN-SUFFIX,fcaebook.com
+# 目标: proxy
+DOMAIN-SUFFIX,fce.gg
 # 目标: proxy
 DOMAIN-SUFFIX,fcebook.com
 # 目标: proxy
@@ -47698,6 +47704,8 @@ DOMAIN-SUFFIX,soylentnews.org
 DOMAIN-SUFFIX,sp.cool
 # 目标: proxy
 DOMAIN-SUFFIX,spacebattles.com
+# 目标: proxy
+DOMAIN-SUFFIX,spacedesk.net
 # 目标: proxy
 DOMAIN-SUFFIX,spaceexplored.com
 # 目标: proxy

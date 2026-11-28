@@ -1,7 +1,7 @@
 # 统一规则库 | 分类: cdn
 # 合并来源: QuixoticHeart/rule-set cdn
 # 说明: 常见静态资源 CDN 及软件更新、操作系统等大文件下载规则
-# 规则数: 6839
+# 规则数: 6824
 # 目标: cdn
 DOMAIN,0x0.st
 # 目标: cdn
@@ -570,8 +570,6 @@ DOMAIN,assets.matters.news
 DOMAIN,assets.maxon.net
 # 目标: cdn
 DOMAIN,assets.mayoclinic.org
-# 目标: cdn
-DOMAIN,assets.mcp.corespeed.io
 # 目标: cdn
 DOMAIN,assets.media-platform.com
 # 目标: cdn
@@ -1204,6 +1202,8 @@ DOMAIN,cdn-public.sociabble.com
 DOMAIN,cdn-raw.modrinth.com
 # 目标: cdn
 DOMAIN,cdn-rdstaticassets.readdle.com
+# 目标: cdn
+DOMAIN,cdn-resize-prod-com.500px.cloud
 # 目标: cdn
 DOMAIN,cdn-seo.airdroid.com
 # 目标: cdn
@@ -1924,6 +1924,8 @@ DOMAIN,cdn.prod.www.spiegel.de
 DOMAIN,cdn.promo.capcomusa.com
 # 目标: cdn
 DOMAIN,cdn.promotekit.com
+# 目标: cdn
+DOMAIN,cdn.protect.clerk.com
 # 目标: cdn
 DOMAIN,cdn.prowritingaid.com
 # 目标: cdn
@@ -2755,8 +2757,6 @@ DOMAIN,cpan.lnx.sk
 # 目标: cdn
 DOMAIN,cpan.metacpan.org
 # 目标: cdn
-DOMAIN,cpan.mines-albi.fr
-# 目标: cdn
 DOMAIN,cpan.mmgdesigns.com.ar
 # 目标: cdn
 DOMAIN,cpan.pair.com
@@ -3377,8 +3377,6 @@ DOMAIN,drmirror.physi.uni-heidelberg.de
 # 目标: cdn
 DOMAIN,drop.ndtv.com
 # 目标: cdn
-DOMAIN,drscdn.500px.org
-# 目标: cdn
 DOMAIN,dw.uptodown.net
 # 目标: cdn
 DOMAIN,dynamic-assets.coinbase.com
@@ -3942,8 +3940,6 @@ DOMAIN,ftp.kddlabs.co.jp
 DOMAIN,ftp.klid.dk
 # 目标: cdn
 DOMAIN,ftp.kr.freebsd.org
-# 目标: cdn
-DOMAIN,ftp.ktug.org
 # 目标: cdn
 DOMAIN,ftp.lanet.kr
 # 目标: cdn
@@ -5549,8 +5545,6 @@ DOMAIN,media.graphassets.com
 # 目标: cdn
 DOMAIN,media.hachyderm.io
 # 目标: cdn
-DOMAIN,media.hentaifreak.org
-# 目标: cdn
 DOMAIN,media.identity.ui.com
 # 目标: cdn
 DOMAIN,media.infosec.exchange
@@ -6091,8 +6085,6 @@ DOMAIN,mirror.leitecastro.com
 # 目标: cdn
 DOMAIN,mirror.level66.network
 # 目标: cdn
-DOMAIN,mirror.library.ucy.ac.cy
-# 目标: cdn
 DOMAIN,mirror.limda.net
 # 目标: cdn
 DOMAIN,mirror.linkdata.com
@@ -6152,8 +6144,6 @@ DOMAIN,mirror.neftm.ru
 DOMAIN,mirror.neolabs.kz
 # 目标: cdn
 DOMAIN,mirror.netcologne.de
-# 目标: cdn
-DOMAIN,mirror.netcologne.de.org
 # 目标: cdn
 DOMAIN,mirror.netone.nl
 # 目标: cdn
@@ -6312,8 +6302,6 @@ DOMAIN,mirror.team-host.ru
 DOMAIN,mirror.techlabs.co.kr
 # 目标: cdn
 DOMAIN,mirror.telepoint.bg
-# 目标: cdn
-DOMAIN,mirror.thunderhosting.cloud
 # 目标: cdn
 DOMAIN,mirror.timeweb.ru
 # 目标: cdn
@@ -6923,8 +6911,6 @@ DOMAIN,p2.bahamut.com.tw
 # 目标: cdn
 DOMAIN,pa1.aninoapps.com
 # 目标: cdn
-DOMAIN,pacdn.500px.org
-# 目标: cdn
 DOMAIN,packagecloud.io
 # 目标: cdn
 DOMAIN,packages-cf.termux.dev
@@ -7260,10 +7246,6 @@ DOMAIN,r2.dejavu.moe
 DOMAIN,r2.gear4music.com
 # 目标: cdn
 DOMAIN,r2.leadsy.ai
-# 目标: cdn
-DOMAIN,r2cdn.c7d.dev
-# 目标: cdn
-DOMAIN,r2cdn.corespeed.io
 # 目标: cdn
 DOMAIN,r2cdn.myshopline.com
 # 目标: cdn
@@ -7661,8 +7643,6 @@ DOMAIN,scache1.vzw.com
 # 目标: cdn
 DOMAIN,scache2.vzw.com
 # 目标: cdn
-DOMAIN,scdn.clerk.com
-# 目标: cdn
 DOMAIN,scdn.line-apps.com
 # 目标: cdn
 DOMAIN,schema-cf.bc0a.com
@@ -7747,8 +7727,6 @@ DOMAIN,security.debian.org
 # 目标: cdn
 DOMAIN,security.ubuntu.com
 # 目标: cdn
-DOMAIN,segapi.clerk.com
-# 目标: cdn
 DOMAIN,segment.digitalocean.com
 # 目标: cdn
 DOMAIN,sellon.shiprocket.in
@@ -7796,8 +7774,6 @@ DOMAIN,shell.cdn.office.net
 DOMAIN,shields.rbtlog.dev
 # 目标: cdn
 DOMAIN,shots.codepen.io
-# 目标: cdn
-DOMAIN,showcase.abovemarket.com
 # 目标: cdn
 DOMAIN,sig.grumpybumpers.com
 # 目标: cdn
@@ -7874,8 +7850,6 @@ DOMAIN,sp.streamlabs.com
 DOMAIN,spcdn.incartupsell.com
 # 目标: cdn
 DOMAIN,speedmedia2.jfrog.com
-# 目标: cdn
-DOMAIN,spotlightimage.biggo.com
 # 目标: cdn
 DOMAIN,sprig.figma.com
 # 目标: cdn
@@ -8597,8 +8571,6 @@ DOMAIN,static.xns.one
 # 目标: cdn
 DOMAIN,static.xxxshake.com
 # 目标: cdn
-DOMAIN,static.yfsp.tv
-# 目标: cdn
 DOMAIN,static.zanmei.ai
 # 目标: cdn
 DOMAIN,static.zaobao.com
@@ -9198,8 +9170,6 @@ DOMAIN,ulises.hostalia.com
 DOMAIN,unavatar.io
 # 目标: cdn
 DOMAIN,unleash.codeium.com
-# 目标: cdn
-DOMAIN,unlimited-cdn.waifu2x.net
 # 目标: cdn
 DOMAIN,unsubscribe-imgs.leavemealone.com
 # 目标: cdn

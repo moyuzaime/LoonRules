@@ -1,7 +1,7 @@
 # 统一规则库 | 分类: gfw
 # 合并来源: QuixoticHeart/rule-set gfw
 # 说明: 被 GFW 屏蔽的域名列表
-# 规则数: 7528
+# 规则数: 7531
 # 目标: gfw
 DOMAIN,api.waqi.info
 # 目标: gfw
@@ -498,6 +498,8 @@ DOMAIN-SUFFIX,ai-wen.net
 DOMAIN-SUFFIX,ai.dev
 # 目标: gfw
 DOMAIN-SUFFIX,ai.studio
+# 目标: gfw
+DOMAIN-SUFFIX,aicu.cc
 # 目标: gfw
 DOMAIN-SUFFIX,aidc.com.tw
 # 目标: gfw
@@ -3010,6 +3012,8 @@ DOMAIN-SUFFIX,daliulian.org
 DOMAIN-SUFFIX,danilo.to
 # 目标: gfw
 DOMAIN-SUFFIX,danke4china.net
+# 目标: gfw
+DOMAIN-SUFFIX,danmakus.com
 # 目标: gfw
 DOMAIN-SUFFIX,danwei.org
 # 目标: gfw
@@ -11346,6 +11350,8 @@ DOMAIN-SUFFIX,sowers.org.hk
 DOMAIN-SUFFIX,soylent.com
 # 目标: gfw
 DOMAIN-SUFFIX,soylentnews.org
+# 目标: gfw
+DOMAIN-SUFFIX,spacedesk.net
 # 目标: gfw
 DOMAIN-SUFFIX,spaceforce.mil
 # 目标: gfw

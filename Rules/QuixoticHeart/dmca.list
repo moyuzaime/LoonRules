@@ -1613,8 +1613,6 @@ DOMAIN-SUFFIX,tp.m-team.cc.php
 # 目标: dmca
 DOMAIN-SUFFIX,tr.abiir.top
 # 目标: dmca
-DOMAIN-SUFFIX,tr.abir.ga
-# 目标: dmca
 DOMAIN-SUFFIX,tr.back.re
 # 目标: dmca
 DOMAIN-SUFFIX,tr.bangumi.moe
@@ -1642,6 +1640,8 @@ DOMAIN-SUFFIX,tr.torland.ga
 DOMAIN-SUFFIX,tr.zhina.org
 # 目标: dmca
 DOMAIN-SUFFIX,tr2.ysagin.top
+# 目标: dmca
+DOMAIN-SUFFIX,tr3.ysagin.top
 # 目标: dmca
 DOMAIN-SUFFIX,tr4ck3r.duckdns.org
 # 目标: dmca

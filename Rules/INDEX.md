@@ -6,9 +6,9 @@
 
 | 目录 | 规则集 | 规则条数 |
 | --- | ---: | ---: |
-| `Rules/QuixoticHeart` | 52 | 434664 |
+| `Rules/QuixoticHeart` | 52 | 435065 |
 | `Rules/blackmatrix7` | 689 个分类 / 815 个文件 | 282715 条 + 1330757 域名 |
-| `Rules/Unified` | 712 | 2027074 |
+| `Rules/Unified` | 712 | 2027475 |
 
 ## 统一规则库
 
@@ -55,7 +55,7 @@
 | 37 | `Adidas` | 19 | blackmatrix7/ios_rule_script Adidas | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FAdidas.list) |
 | 38 | `Adobe` | 137 | blackmatrix7/ios_rule_script Adobe | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FAdobe.list) |
 | 39 | `AdobeActivation` | 148 | blackmatrix7/ios_rule_script AdobeActivation | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FAdobeActivation.list) |
-| 40 | `adrules` | 216393 | QuixoticHeart/rule-set adrules | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fadrules.list) |
+| 40 | `adrules` | 216797 | QuixoticHeart/rule-set adrules | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fadrules.list) |
 | 41 | `Advertising` | 291662 | blackmatrix7/ios_rule_script Advertising | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FAdvertising.list) |
 | 42 | `AdvertisingLite` | 38255 | blackmatrix7/ios_rule_script AdvertisingLite | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FAdvertisingLite.list) |
 | 43 | `AdvertisingMiTV` | 165 | blackmatrix7/ios_rule_script AdvertisingMiTV | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FAdvertisingMiTV.list) |
@@ -162,7 +162,7 @@
 | 144 | `CBS` | 35 | blackmatrix7/ios_rule_script CBS | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FCBS.list) |
 | 145 | `CCB` | 18 | blackmatrix7/ios_rule_script CCB | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FCCB.list) |
 | 146 | `CCTV` | 37 | blackmatrix7/ios_rule_script CCTV | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FCCTV.list) |
-| 147 | `cdn` | 6839 | QuixoticHeart/rule-set cdn | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fcdn.list) |
+| 147 | `cdn` | 6824 | QuixoticHeart/rule-set cdn | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fcdn.list) |
 | 148 | `CEB` | 15 | blackmatrix7/ios_rule_script CEB | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FCEB.list) |
 | 149 | `CETV` | 3 | blackmatrix7/ios_rule_script CETV | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FCETV.list) |
 | 150 | `CGB` | 4 | blackmatrix7/ios_rule_script CGB | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FCGB.list) |
@@ -304,13 +304,13 @@
 | 286 | `GameDownload` | 39 | blackmatrix7/ios_rule_script GameDownload | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGameDownload.list) |
 | 287 | `GameDownloadCN` | 16 | blackmatrix7/ios_rule_script GameDownloadCN | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGameDownloadCN.list) |
 | 288 | `games-cn` | 99 | QuixoticHeart/rule-set games-cn | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fgames-cn.list) |
-| 289 | `games` | 1051 | QuixoticHeart/rule-set games | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fgames.list) |
+| 289 | `games` | 1052 | QuixoticHeart/rule-set games | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fgames.list) |
 | 290 | `GaoDe` | 9 | blackmatrix7/ios_rule_script GaoDe | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGaoDe.list) |
 | 291 | `Garena` | 15 | blackmatrix7/ios_rule_script Garena | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGarena.list) |
 | 292 | `Geely` | 50 | blackmatrix7/ios_rule_script Geely | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGeely.list) |
 | 293 | `Gemini` | 13 | blackmatrix7/ios_rule_script Gemini | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGemini.list) |
 | 294 | `Gettyimages` | 25 | blackmatrix7/ios_rule_script Gettyimages | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGettyimages.list) |
-| 295 | `gfw` | 7528 | QuixoticHeart/rule-set gfw | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fgfw.list) |
+| 295 | `gfw` | 7531 | QuixoticHeart/rule-set gfw | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fgfw.list) |
 | 296 | `Gigabyte` | 7 | blackmatrix7/ios_rule_script Gigabyte | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGigabyte.list) |
 | 297 | `GitBook` | 3 | blackmatrix7/ios_rule_script GitBook | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGitBook.list) |
 | 298 | `Gitee` | 2 | blackmatrix7/ios_rule_script Gitee | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FGitee.list) |
@@ -530,7 +530,7 @@
 | 512 | `private` | 162 | QuixoticHeart/rule-set private | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fprivate.list) |
 | 513 | `PrivateTracker` | 251 | blackmatrix7/ios_rule_script PrivateTracker | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FPrivateTracker.list) |
 | 514 | `Protonmail` | 5 | blackmatrix7/ios_rule_script Protonmail | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FProtonmail.list) |
-| 515 | `proxy` | 30456 | QuixoticHeart/rule-set proxy、blackmatrix7/ios_rule_script Proxy | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fproxy.list) |
+| 515 | `proxy` | 30460 | QuixoticHeart/rule-set proxy、blackmatrix7/ios_rule_script Proxy | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fproxy.list) |
 | 516 | `ProxyLite` | 1097 | blackmatrix7/ios_rule_script ProxyLite | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FProxyLite.list) |
 | 517 | `PSBC` | 3 | blackmatrix7/ios_rule_script PSBC | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FPSBC.list) |
 | 518 | `Pubmatic` | 1 | blackmatrix7/ios_rule_script Pubmatic | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FPubmatic.list) |
@@ -584,7 +584,7 @@
 | 566 | `SoundCloud` | 4 | blackmatrix7/ios_rule_script SoundCloud | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FSoundCloud.list) |
 | 567 | `SourceForge` | 4 | blackmatrix7/ios_rule_script SourceForge | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FSourceForge.list) |
 | 568 | `Spark` | 5 | blackmatrix7/ios_rule_script Spark | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FSpark.list) |
-| 569 | `speedtest` | 9644 | QuixoticHeart/rule-set speedtest、blackmatrix7/ios_rule_script Speedtest | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fspeedtest.list) |
+| 569 | `speedtest` | 9648 | QuixoticHeart/rule-set speedtest、blackmatrix7/ios_rule_script Speedtest | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fspeedtest.list) |
 | 570 | `spotify` | 37 | QuixoticHeart/rule-set spotify、blackmatrix7/ios_rule_script Spotify | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2Fspotify.list) |
 | 571 | `Stackexchange` | 20 | blackmatrix7/ios_rule_script Stackexchange | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FStackexchange.list) |
 | 572 | `Starbucks` | 32 | blackmatrix7/ios_rule_script Starbucks | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FUnified%2FStarbucks.list) |
@@ -734,7 +734,7 @@
 | # | 文件 | 规则数 | 一键导入 |
 | ---: | --- | ---: | --- |
 | 1 | [`abema.list`](QuixoticHeart/abema.list) | 21 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fabema.list) |
-| 2 | [`adrules.list`](QuixoticHeart/adrules.list) | 216393 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fadrules.list) |
+| 2 | [`adrules.list`](QuixoticHeart/adrules.list) | 216797 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fadrules.list) |
 | 3 | [`ai.list`](QuixoticHeart/ai.list) | 260 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fai.list) |
 | 4 | [`apns.list`](QuixoticHeart/apns.list) | 13 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fapns.list) |
 | 5 | [`apple-cn.list`](QuixoticHeart/apple-cn.list) | 170 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fapple-cn.list) |
@@ -743,7 +743,7 @@
 | 8 | [`apple.list`](QuixoticHeart/apple.list) | 1598 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fapple.list) |
 | 9 | [`bahamut.list`](QuixoticHeart/bahamut.list) | 7 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fbahamut.list) |
 | 10 | [`bilibili.list`](QuixoticHeart/bilibili.list) | 134 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fbilibili.list) |
-| 11 | [`cdn.list`](QuixoticHeart/cdn.list) | 6839 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fcdn.list) |
+| 11 | [`cdn.list`](QuixoticHeart/cdn.list) | 6824 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fcdn.list) |
 | 12 | [`cn.list`](QuixoticHeart/cn.list) | 107783 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fcn.list) |
 | 13 | [`cncidr-resolve.list`](QuixoticHeart/cncidr-resolve.list) | 17958 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fcncidr-resolve.list) |
 | 14 | [`cncidr.list`](QuixoticHeart/cncidr.list) | 17958 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fcncidr.list) |
@@ -756,8 +756,8 @@
 | 21 | [`ecommerce.list`](QuixoticHeart/ecommerce.list) | 1543 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fecommerce.list) |
 | 22 | [`forum.list`](QuixoticHeart/forum.list) | 115 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fforum.list) |
 | 23 | [`games-cn.list`](QuixoticHeart/games-cn.list) | 99 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fgames-cn.list) |
-| 24 | [`games.list`](QuixoticHeart/games.list) | 1051 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fgames.list) |
-| 25 | [`gfw.list`](QuixoticHeart/gfw.list) | 7528 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fgfw.list) |
+| 24 | [`games.list`](QuixoticHeart/games.list) | 1052 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fgames.list) |
+| 25 | [`gfw.list`](QuixoticHeart/gfw.list) | 7531 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fgfw.list) |
 | 26 | [`gits.list`](QuixoticHeart/gits.list) | 77 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fgits.list) |
 | 27 | [`google.list`](QuixoticHeart/google.list) | 7805 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fgoogle.list) |
 | 28 | [`googlefcm.list`](QuixoticHeart/googlefcm.list) | 41 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fgooglefcm.list) |
@@ -775,10 +775,10 @@
 | 40 | [`paypal.list`](QuixoticHeart/paypal.list) | 247 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fpaypal.list) |
 | 41 | [`primevideo.list`](QuixoticHeart/primevideo.list) | 31 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fprimevideo.list) |
 | 42 | [`private.list`](QuixoticHeart/private.list) | 162 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fprivate.list) |
-| 43 | [`proxy.list`](QuixoticHeart/proxy.list) | 30119 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fproxy.list) |
+| 43 | [`proxy.list`](QuixoticHeart/proxy.list) | 30123 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fproxy.list) |
 | 44 | [`socialmedia-cn.list`](QuixoticHeart/socialmedia-cn.list) | 60 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fsocialmedia-cn.list) |
 | 45 | [`socialmedia.list`](QuixoticHeart/socialmedia.list) | 851 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fsocialmedia.list) |
-| 46 | [`speedtest.list`](QuixoticHeart/speedtest.list) | 9643 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fspeedtest.list) |
+| 46 | [`speedtest.list`](QuixoticHeart/speedtest.list) | 9647 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fspeedtest.list) |
 | 47 | [`spotify.list`](QuixoticHeart/spotify.list) | 33 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Fspotify.list) |
 | 48 | [`talkatone.list`](QuixoticHeart/talkatone.list) | 17 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Ftalkatone.list) |
 | 49 | [`tiktok.list`](QuixoticHeart/tiktok.list) | 126 | [导入](https://www.nsloon.com/openloon/import?rules=https%3A%2F%2Fraw.githubusercontent.com%2Fmoyuzaime%2FLoonRules%2Fmain%2FRules%2FQuixoticHeart%2Ftiktok.list) |

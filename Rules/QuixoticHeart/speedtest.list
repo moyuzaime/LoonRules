@@ -1,7 +1,7 @@
 # 来源: QuixoticHeart/rule-set@ruleset/loon/speedtest.list
 # 上游: https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/loon/speedtest.list
 # 说明: 收集到的 Ookla SpeedTest 服务器
-# 规则数: 9643
+# 规则数: 9647
 # 目标: speedtest
 DOMAIN,07internet.ro
 # 目标: speedtest
@@ -302,6 +302,8 @@ DOMAIN,ams-speedtest.isp.htb.systems
 DOMAIN,ams.atunify.net
 # 目标: speedtest
 DOMAIN,ams.ixnium.com
+# 目标: speedtest
+DOMAIN,ams.speedtest.rustbanned.net
 # 目标: speedtest
 DOMAIN,amsspeed.sharktech.net
 # 目标: speedtest
@@ -4312,6 +4314,8 @@ DOMAIN,ookla.soc.atharva.co.id
 DOMAIN,ookla.speedking.in
 # 目标: speedtest
 DOMAIN,ookla.speedtest.cnix.cn
+# 目标: speedtest
+DOMAIN,ookla.speedtest.freethought-internet.co.uk
 # 目标: speedtest
 DOMAIN,ookla.surnet.com.tr
 # 目标: speedtest
@@ -10305,6 +10309,8 @@ DOMAIN,speedtest-sjdm.newworld.ph
 # 目标: speedtest
 DOMAIN,speedtest-sossano.wifiweb.it
 # 目标: speedtest
+DOMAIN,speedtest-spo.fibranort.com.br
+# 目标: speedtest
 DOMAIN,speedtest-srv-a.homeworks.org
 # 目标: speedtest
 DOMAIN,speedtest-srv01.tut.net
@@ -10410,6 +10416,8 @@ DOMAIN,speedtest-zl-1.zoominternet.net
 DOMAIN,speedtest.0dayhost.com
 # 目标: speedtest
 DOMAIN,speedtest.100g.macarne.com
+# 目标: speedtest
+DOMAIN,speedtest.10gtelecomindia.com
 # 目标: speedtest
 DOMAIN,speedtest.139play.com
 # 目标: speedtest
